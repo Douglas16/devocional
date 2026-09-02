@@ -1,0 +1,809 @@
+/* Lectio — Diário Devocional
+   Minimalista sereno · tipografia editorial · muito espaço branco */
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..500&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  /* Light mode — branco quente + terracota */
+  --bg: oklch(98.5% 0.005 85);
+  --bg-elev: oklch(99.5% 0.003 85);
+  --bg-sunk: oklch(96% 0.006 85);
+  --ink: oklch(22% 0.012 60);
+  --ink-2: oklch(38% 0.014 60);
+  --ink-3: oklch(58% 0.014 60);
+  --ink-4: oklch(75% 0.010 60);
+  --line: oklch(90% 0.008 70);
+  --line-strong: oklch(82% 0.010 70);
+  --accent: oklch(55% 0.095 45);
+  --accent-2: oklch(65% 0.075 45);
+  --accent-soft: oklch(93% 0.028 55);
+  --highlight: oklch(90% 0.055 75 / 0.55);
+  --shadow: 0 1px 2px oklch(20% 0.02 60 / 0.04), 0 8px 24px oklch(20% 0.02 60 / 0.05);
+}
+
+[data-theme="dark"] {
+  --bg: oklch(16% 0.008 60);
+  --bg-elev: oklch(20% 0.010 60);
+  --bg-sunk: oklch(13% 0.006 60);
+  --ink: oklch(93% 0.008 85);
+  --ink-2: oklch(78% 0.010 85);
+  --ink-3: oklch(58% 0.010 60);
+  --ink-4: oklch(42% 0.010 60);
+  --line: oklch(28% 0.012 60);
+  --line-strong: oklch(38% 0.014 60);
+  --accent: oklch(72% 0.100 50);
+  --accent-2: oklch(65% 0.085 50);
+  --accent-soft: oklch(26% 0.035 45);
+  --highlight: oklch(60% 0.10 75 / 0.35);
+  --shadow: 0 1px 2px oklch(0% 0 0 / 0.4), 0 8px 24px oklch(0% 0 0 / 0.35);
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  background: var(--bg);
+  color: var(--ink);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background 0.4s ease, color 0.4s ease;
+  min-height: 100vh;
+}
+
+body { overflow-x: hidden; }
+
+/* ============ TIPOGRAFIA UTIL ============ */
+.serif { font-family: 'Fraunces', 'Georgia', serif; font-optical-sizing: auto; }
+.mono  { font-family: 'JetBrains Mono', 'SF Mono', monospace; }
+.eyebrow {
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+/* ============ APP SHELL ============ */
+.app {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 32px 40px 120px;
+  min-height: 100vh;
+  position: relative;
+}
+
+/* ============ HEADER ============ */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 28px;
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 40px;
+}
+
+.brand { display: flex; align-items: baseline; gap: 14px; }
+.brand-mark {
+  font-family: 'Fraunces', serif;
+  font-size: 26px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  font-style: italic;
+  color: var(--ink);
+}
+.brand-mark::first-letter { font-weight: 500; }
+.brand-sub {
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+.header-actions { display: flex; align-items: center; gap: 8px; }
+
+.icon-btn {
+  width: 36px; height: 36px;
+  border-radius: 50%;
+  background: transparent;
+  border: 1px solid var(--line);
+  color: var(--ink-2);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+.icon-btn:hover { background: var(--bg-sunk); color: var(--ink); border-color: var(--line-strong); }
+.icon-btn svg { width: 16px; height: 16px; }
+
+/* ============ TABS ============ */
+.tabs {
+  display: flex;
+  gap: 2px;
+  margin-bottom: 48px;
+  border-bottom: 1px solid var(--line);
+}
+.tab {
+  background: none;
+  border: none;
+  padding: 12px 20px 14px;
+  font-family: inherit;
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  color: var(--ink-3);
+  cursor: pointer;
+  position: relative;
+  transition: color 0.2s ease;
+}
+.tab:hover { color: var(--ink-2); }
+.tab.active { color: var(--ink); }
+.tab.active::after {
+  content: "";
+  position: absolute;
+  left: 20px; right: 20px; bottom: -1px;
+  height: 1px;
+  background: var(--accent);
+}
+.tab-count {
+  display: inline-block;
+  margin-left: 8px;
+  padding: 2px 8px;
+  border-radius: 100px;
+  background: var(--bg-sunk);
+  font-size: 10px;
+  color: var(--ink-3);
+  font-family: 'JetBrains Mono', monospace;
+}
+
+/* ============ HOJE — LEITOR ============ */
+.reader {
+  max-width: 680px;
+  margin: 0 auto;
+}
+
+.reader-topline {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+.day-nav {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.day-nav-btn {
+  background: none;
+  border: 1px solid var(--line);
+  color: var(--ink-2);
+  width: 32px; height: 32px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+.day-nav-btn:hover:not(:disabled) { background: var(--bg-sunk); color: var(--ink); }
+.day-nav-btn:disabled { opacity: 0.3; cursor: not-allowed; }
+.day-nav-btn svg { width: 14px; height: 14px; }
+
+.day-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  color: var(--ink-3);
+  padding: 0 12px;
+  min-width: 80px;
+  text-align: center;
+}
+
+.read-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: var(--ink-3);
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 100px;
+  padding: 8px 16px 8px 12px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+.read-status:hover { border-color: var(--line-strong); color: var(--ink-2); }
+.read-status.is-read {
+  background: var(--accent-soft);
+  border-color: transparent;
+  color: var(--accent);
+}
+.read-status .dot {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  border: 1px solid var(--ink-3);
+  transition: all 0.2s;
+}
+.read-status.is-read .dot {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+/* Day header */
+.day-header {
+  text-align: center;
+  padding: 24px 0 56px;
+}
+.day-theme {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 20px;
+}
+.day-date {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  font-size: 15px;
+  color: var(--ink-3);
+  margin-top: 12px;
+}
+
+/* Anchor verse */
+.verse-anchor {
+  padding: 40px 0 56px;
+  text-align: center;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  margin-bottom: 56px;
+}
+.verse-anchor-text {
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 1.35;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+  max-width: 540px;
+  margin: 0 auto 20px;
+  text-wrap: balance;
+  font-variation-settings: "opsz" 96;
+}
+.verse-anchor-text::before,
+.verse-anchor-text::after {
+  content: "";
+  color: var(--accent);
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+}
+.verse-anchor-ref {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+/* Section blocks */
+.section {
+  margin-bottom: 56px;
+}
+.section-title {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.section-title::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--line);
+}
+
+/* Word — Hebrew/Greek */
+.word-card {
+  background: var(--bg-sunk);
+  border-radius: 4px;
+  padding: 32px 32px;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 28px;
+  align-items: start;
+}
+.word-original {
+  font-family: 'Fraunces', serif;
+  font-size: 42px;
+  line-height: 1;
+  color: var(--accent);
+  font-weight: 400;
+  padding-top: 4px;
+}
+.word-body { font-size: 14px; }
+.word-translit {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13px;
+  color: var(--ink);
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+.word-translit .lang-tag {
+  font-size: 10px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-left: 8px;
+  font-weight: 400;
+}
+.word-meaning {
+  color: var(--ink-2);
+  font-style: italic;
+  margin-bottom: 12px;
+  font-family: 'Fraunces', serif;
+  font-size: 15px;
+}
+.word-note {
+  color: var(--ink-3);
+  font-size: 13px;
+  line-height: 1.65;
+}
+
+/* Context */
+.context-text {
+  font-size: 15px;
+  color: var(--ink-2);
+  line-height: 1.75;
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-variation-settings: "opsz" 14;
+}
+
+/* Passage */
+.passage-ref {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  color: var(--ink-3);
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+.passage-verses {
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.8;
+  color: var(--ink);
+  padding-left: 24px;
+  border-left: 1px solid var(--line-strong);
+  font-variation-settings: "opsz" 14;
+}
+.passage-verses .verse {
+  display: block;
+  margin-bottom: 8px;
+  cursor: pointer;
+  padding: 2px 8px 2px 0;
+  transition: background 0.15s;
+  border-radius: 2px;
+  position: relative;
+  user-select: text;
+}
+.passage-verses .verse:hover .verse-highlight-hint {
+  opacity: 1;
+}
+.passage-verses .verse.highlighted {
+  background: var(--highlight);
+}
+.passage-verses .verse-num {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  color: var(--ink-3);
+  vertical-align: super;
+  margin-right: 6px;
+  font-weight: 500;
+}
+.verse-highlight-hint {
+  position: absolute;
+  right: 0; top: 4px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 9px;
+  color: var(--ink-4);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  opacity: 0;
+  transition: opacity 0.2s;
+  pointer-events: none;
+}
+
+/* Meditation */
+.meditation-text p {
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 1.75;
+  color: var(--ink-2);
+  margin-bottom: 20px;
+  text-wrap: pretty;
+  font-variation-settings: "opsz" 14;
+}
+.meditation-text p:first-child::first-letter {
+  font-family: 'Fraunces', serif;
+  font-size: 56px;
+  font-weight: 300;
+  float: left;
+  line-height: 0.9;
+  margin: 6px 10px -4px 0;
+  color: var(--accent);
+  font-style: italic;
+}
+
+/* Questions */
+.questions-list {
+  list-style: none;
+  counter-reset: q;
+}
+.questions-list li {
+  counter-increment: q;
+  padding: 20px 0 20px 48px;
+  border-bottom: 1px solid var(--line);
+  position: relative;
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--ink);
+  font-style: italic;
+  font-variation-settings: "opsz" 14;
+}
+.questions-list li:last-child { border-bottom: none; }
+.questions-list li::before {
+  content: counter(q, decimal-leading-zero);
+  position: absolute;
+  left: 0; top: 22px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  color: var(--accent);
+  font-style: normal;
+  letter-spacing: 0.1em;
+}
+
+/* Application */
+.application-box {
+  background: var(--accent-soft);
+  padding: 28px 32px;
+  border-radius: 4px;
+  font-family: 'Fraunces', serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--ink);
+  position: relative;
+  font-variation-settings: "opsz" 14;
+}
+.application-box::before {
+  content: "→";
+  position: absolute;
+  left: 12px; top: 26px;
+  color: var(--accent);
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 14px;
+}
+.application-box { padding-left: 40px; }
+
+/* Prayer */
+.prayer-text {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  font-weight: 300;
+  font-size: 19px;
+  line-height: 1.6;
+  color: var(--ink);
+  text-align: center;
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 32px 0;
+  font-variation-settings: "opsz" 24;
+}
+.prayer-text::before, .prayer-text::after {
+  display: block;
+  content: "";
+  width: 24px;
+  height: 1px;
+  background: var(--accent);
+  margin: 0 auto 20px;
+}
+.prayer-text::after { margin: 20px auto 0; }
+
+/* Notes */
+.notes-textarea {
+  width: 100%;
+  min-height: 180px;
+  background: var(--bg-elev);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 20px;
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--ink);
+  resize: vertical;
+  transition: border 0.2s;
+  font-variation-settings: "opsz" 14;
+}
+.notes-textarea:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+.notes-textarea::placeholder {
+  color: var(--ink-4);
+  font-style: italic;
+}
+.notes-meta {
+  margin-top: 10px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.1em;
+  color: var(--ink-4);
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+}
+
+/* End of day */
+.day-end {
+  text-align: center;
+  padding: 60px 0 20px;
+  border-top: 1px solid var(--line);
+  margin-top: 48px;
+}
+.day-end-mark {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  color: var(--accent);
+  font-size: 20px;
+  letter-spacing: 0.2em;
+}
+
+/* ============ JORNADA (grid) ============ */
+.journey-header {
+  max-width: 720px;
+  margin: 0 auto 56px;
+  text-align: center;
+}
+.journey-title {
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-size: 34px;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+  margin-bottom: 16px;
+}
+.journey-sub {
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  font-size: 15px;
+  color: var(--ink-3);
+}
+
+.progress-line {
+  max-width: 480px;
+  margin: 32px auto 0;
+  height: 1px;
+  background: var(--line);
+  position: relative;
+}
+.progress-fill {
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  background: var(--accent);
+  transition: width 0.5s ease;
+}
+.progress-label {
+  margin-top: 12px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  color: var(--ink-3);
+}
+
+.journey-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 16px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+.journey-card {
+  background: var(--bg-elev);
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  padding: 22px 22px 20px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  position: relative;
+  text-align: left;
+  font-family: inherit;
+  color: inherit;
+}
+.journey-card:hover {
+  border-color: var(--line-strong);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow);
+}
+.journey-card.current {
+  border-color: var(--accent);
+}
+.journey-card.read {
+  background: var(--bg-sunk);
+}
+.journey-card.read .journey-card-day { color: var(--accent); }
+
+/* Distinção sutil entre livros — filete lateral esquerdo */
+.journey-card.is-tiago {
+  border-left: 2px solid var(--accent);
+}
+.journey-card.is-proverbios {
+  border-left: 2px solid var(--ink-4);
+}
+.journey-card.is-tiago.read {
+  border-left-color: var(--accent);
+}
+.journey-card-day > span:first-child {
+  display: inline-block;
+}
+
+.journey-card-day {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  color: var(--ink-3);
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.journey-card-status {
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  border: 1px solid var(--ink-3);
+}
+.journey-card.read .journey-card-status {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+.journey-card-theme {
+  font-family: 'Fraunces', serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.2;
+  color: var(--ink);
+  margin-bottom: 10px;
+  letter-spacing: -0.01em;
+}
+.journey-card-ref {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--ink-3);
+  text-transform: uppercase;
+}
+
+/* ============ ANOTAÇÕES (compilado) ============ */
+.notes-list {
+  max-width: 720px;
+  margin: 0 auto;
+}
+.notes-entry {
+  padding: 32px 0;
+  border-bottom: 1px solid var(--line);
+}
+.notes-entry:first-child { padding-top: 0; }
+.notes-entry-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.notes-entry-day {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.14em;
+  color: var(--accent);
+}
+.notes-entry-theme {
+  font-family: 'Fraunces', serif;
+  font-weight: 400;
+  font-size: 22px;
+  color: var(--ink);
+  margin-top: 4px;
+}
+.notes-entry-open {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  cursor: pointer;
+  background: none;
+  border: none;
+  transition: color 0.2s;
+}
+.notes-entry-open:hover { color: var(--accent); }
+.notes-entry-text {
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 1.75;
+  color: var(--ink-2);
+  white-space: pre-wrap;
+  font-variation-settings: "opsz" 14;
+}
+.notes-highlights {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px dashed var(--line);
+}
+.notes-highlight-item {
+  font-family: 'Fraunces', serif;
+  font-weight: 300;
+  font-style: italic;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink-3);
+  padding: 6px 0;
+  border-left: 2px solid var(--highlight);
+  padding-left: 12px;
+  margin-bottom: 6px;
+  background: linear-gradient(90deg, var(--highlight) 0%, transparent 40%);
+}
+.notes-empty {
+  text-align: center;
+  padding: 80px 20px;
+  color: var(--ink-3);
+  font-family: 'Fraunces', serif;
+  font-style: italic;
+  font-size: 16px;
+}
+.notes-empty-title {
+  font-size: 22px;
+  color: var(--ink-2);
+  margin-bottom: 12px;
+  font-style: normal;
+  font-weight: 300;
+}
+
+/* ============ EMPTY / MISC ============ */
+::selection {
+  background: var(--accent-soft);
+  color: var(--ink);
+}
+
+/* Fade transitions */
+.fade-in {
+  animation: fadeIn 0.4s ease;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Responsive */
+@media (max-width: 720px) {
+  .app { padding: 20px 20px 100px; }
+  .header { flex-wrap: wrap; gap: 16px; }
+  .verse-anchor-text { font-size: 24px; }
+  .word-card { grid-template-columns: 1fr; gap: 16px; padding: 24px; }
+  .word-original { font-size: 36px; }
+  .journey-title { font-size: 28px; }
+  .passage-verses { font-size: 17px; padding-left: 16px; }
+  .meditation-text p { font-size: 16px; }
+  .meditation-text p:first-child::first-letter { font-size: 44px; }
+}
