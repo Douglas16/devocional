@@ -18,4 +18,31 @@
 <a class="journey-choice" href="salmos.html"><div class="journey-choice-title">Salmos</div><div class="journey-choice-meta">150 dias · NVI</div></a>
 <a class="journey-choice" href="sinoticos.html"><div class="journey-choice-title">Sinóticos (Mt · Mc · Lc)</div><div class="journey-choice-meta">35 dias · NVI</div></a>
 <a class="journey-choice" href="tito-filemom-judas.html"><div class="journey-choice-title">Tito + Filemom + Judas</div><div class="journey-choice-meta">6 dias · NVI</div></a>
-</div></main></body></html>
+</div></main><script>
+(() => {
+  const progress = {
+    'apocalipse.html': ['lectio-apocalipse-v1', 14], 'atos.html': ['lectio-atos-v1', 20],
+    'eclesiastes.html': ['lectio-eclesiastes-v1', 12], 'filipenses-colossenses.html': ['lectio-filipenses-colossenses-v1', 8],
+    'galatas-efesios.html': ['lectio-galatas-efesios-v1', 12], 'hebreus.html': ['lectio-hebreus-v1', 13],
+    'joao.html': ['lectio-joao-v1', 27], '1-corintios.html': ['lectio-1-corintios-v1', 14],
+    '2-corintios.html': ['lectio-2-corintios-v1', 13], 'pedro.html': ['lectio-pedro-v1', 13],
+    'tessalonicenses.html': ['lectio-tessalonicenses-v1', 13], 'timoteo.html': ['lectio-timoteo-v1', 11],
+    'index.html': ['lectio-v2', 41], 'romanos.html': ['lectio-romanos-v1', 18],
+    'salmos.html': ['lectio-salmos-v1', 150], 'sinoticos.html': ['lectio-sinoticos-v1', 35],
+    'tito-filemom-judas.html': ['lectio-tito-filemom-judas-v1', 6]
+  };
+  document.querySelectorAll('.journey-choice').forEach(card => {
+    const config = progress[card.getAttribute('href')];
+    if (!config) return;
+    let state = {};
+    try { state = JSON.parse(localStorage.getItem(config[0]) || '{}'); } catch {}
+    const read = Object.keys(state.read || {}).length;
+    const percent = Math.min(100, Math.round(read / config[1] * 100));
+    const value = document.createElement('div');
+    value.className = 'journey-choice-progress';
+    value.textContent = `${percent}% lido`;
+    card.appendChild(value);
+    if (percent === 100) card.classList.add('is-complete');
+  });
+})();
+</script></body></html>
