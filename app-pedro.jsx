@@ -420,6 +420,48 @@ function NotesView({ days, notes, highlights, onOpen }) {
   );
 }
 
+// ============ STUDY MENU ============
+// Mantém a navegação idêntica em todas as jornadas, inclusive as páginas
+// criadas depois da primeira versão do menu.
+function syncStudyMenu() {
+  const studies = [
+    ['index.html', 'Provérbios + Tiago', '41 dias · NVI'],
+    ['tessalonicenses.html', '1 e 2 Tessalonicenses', '13 dias · NVI'],
+    ['pedro.html', '1 e 2 Pedro', '13 dias · NVI'],
+    ['joao.html', 'João + 1, 2, 3 João', '27 dias · NVI'],
+    ['sinoticos.html', 'Sinóticos (Mt · Mc · Lc)', '35 dias · NVI'],
+    ['atos.html', 'Atos dos Apóstolos', '20 dias · NVI'],
+    ['romanos.html', 'Romanos', '18 dias · NVI'],
+    ['1-corintios.html', '1 Coríntios', '14 dias · NVI'],
+    ['2-corintios.html', '2 Coríntios', '13 dias · NVI'],
+    ['timoteo.html', '1 e 2 Timóteo', '11 dias · NVI'],
+    ['galatas-efesios.html', 'Gálatas + Efésios', '12 dias · NVI'],
+    ['hebreus.html', 'Hebreus', '13 dias · NVI'],
+    ['filipenses-colossenses.html', 'Filipenses + Colossenses', '8 dias · NVI'],
+    ['tito-filemom-judas.html', 'Tito + Filemom + Judas', '6 dias · NVI'],
+    ['apocalipse.html', 'Apocalipse', '14 dias · NVI']
+  ];
+  const current = window.location.pathname.split('/').pop() || 'index.html';
+  let menu = document.querySelector('.study-menu');
+  if (!menu) {
+    menu = document.createElement('div');
+    menu.className = 'study-menu';
+    document.body.appendChild(menu);
+  }
+  menu.innerHTML = `
+    <button class="study-menu-trigger" aria-label="Trocar de estudo">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+      <span>Estudos</span>
+    </button>
+    <div class="study-menu-panel">${studies.map(([href, label, meta]) => {
+      const active = href === current ? ' active' : '';
+      const activeMeta = href === current ? `${meta} · atual` : meta;
+      return `<a href="${href}" class="study-menu-item${active}"><div class="study-menu-label">${label}</div><div class="study-menu-meta">${activeMeta}</div></a>`;
+    }).join('')}</div>`;
+}
+
+syncStudyMenu();
+
 // ============ MOUNT ============
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<App />);
