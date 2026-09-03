@@ -435,6 +435,7 @@ function syncStudyMenu() {
     ['salmos.html', 'Salmos', '150 dias · NVI'],
     ['1-corintios.html', '1 Coríntios', '14 dias · NVI'],
     ['2-corintios.html', '2 Coríntios', '13 dias · NVI'],
+    ['eclesiastes.html', 'Eclesiastes', '12 dias · NVI'],
     ['timoteo.html', '1 e 2 Timóteo', '11 dias · NVI'],
     ['galatas-efesios.html', 'Gálatas + Efésios', '12 dias · NVI'],
     ['hebreus.html', 'Hebreus', '13 dias · NVI'],
