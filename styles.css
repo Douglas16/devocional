@@ -1,7 +1,7 @@
 /* Lectio — Diário Devocional
    Minimalista sereno · tipografia editorial · muito espaço branco */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
 
 :root {
   /* Light mode — branco quente + terracota */
@@ -55,7 +55,7 @@ html, body {
 body { overflow-x: hidden; }
 
 /* ============ TIPOGRAFIA UTIL ============ */
-.serif { font-family: 'Lora', Georgia, serif; }
+.serif { font-family: 'Caprasimo', Georgia, serif; }
 .mono  { font-family: 'JetBrains Mono', 'SF Mono', monospace; }
 .eyebrow {
   font-size: 11px;
@@ -86,7 +86,7 @@ body { overflow-x: hidden; }
 
 .brand { display: flex; align-items: baseline; gap: 14px; }
 .brand-mark {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Caprasimo', Georgia, serif;
   font-size: 26px;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -246,7 +246,7 @@ body { overflow-x: hidden; }
   margin-bottom: 20px;
 }
 .day-date {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Caprasimo', Georgia, serif;
   font-style: italic;
   font-size: 15px;
   color: var(--ink-3);
@@ -262,7 +262,7 @@ body { overflow-x: hidden; }
   margin-bottom: 56px;
 }
 .verse-anchor-text {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Caprasimo', Georgia, serif;
   font-weight: 300;
   font-size: 30px;
   line-height: 1.35;
@@ -277,7 +277,7 @@ body { overflow-x: hidden; }
 .verse-anchor-text::after {
   content: "";
   color: var(--accent);
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Caprasimo', Georgia, serif;
   font-style: italic;
 }
 .verse-anchor-ref {
@@ -321,7 +321,7 @@ body { overflow-x: hidden; }
   align-items: start;
 }
 .word-original {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Caprasimo', Georgia, serif;
   font-size: 42px;
   line-height: 1;
   color: var(--accent);
@@ -348,7 +348,7 @@ body { overflow-x: hidden; }
   color: var(--ink-2);
   font-style: italic;
   margin-bottom: 12px;
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Caprasimo', Georgia, serif;
   font-size: 15px;
 }
 .word-note {
@@ -362,7 +362,7 @@ body { overflow-x: hidden; }
   font-size: 15px;
   color: var(--ink-2);
   line-height: 1.75;
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Caprasimo', Georgia, serif;
   font-weight: 300;
   font-variation-settings: "opsz" 14;
 }
@@ -377,7 +377,7 @@ body { overflow-x: hidden; }
   margin-bottom: 16px;
 }
 .passage-verses {
-  font-family: 'Lora', Georgia, serif;
+  font-family: 'Caprasimo', Georgia, serif;
   font-weight: 300;
   font-size: 18px;
   line-height: 1.8;
@@ -804,6 +804,7 @@ body { overflow-x: hidden; }
 }
 .study-menu-trigger {
   display: inline-flex;
+  display: inline-flex;
   align-items: center;
   gap: 10px;
   padding: 10px 16px 10px 12px;
@@ -842,6 +843,7 @@ body { overflow-x: hidden; }
   transform: translateY(6px);
   transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
 }
+.study-menu-panel { display: none; }
 .study-menu:hover .study-menu-panel,
 .study-menu:focus-within .study-menu-panel {
   opacity: 1;
@@ -879,6 +881,17 @@ body { overflow-x: hidden; }
   text-transform: uppercase;
   color: var(--ink-3);
 }
+
+/* ============ JORNADAS ============ */
+.journeys-page { max-width: 900px; margin: 0 auto; padding: 64px 28px 100px; }
+.journeys-kicker { font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin-bottom: 16px; }
+.journeys-title { font-family: 'Caprasimo', Georgia, serif; font-size: clamp(32px, 6vw, 56px); font-weight: 400; line-height: 1.08; margin-bottom: 14px; }
+.journeys-intro { color: var(--ink-2); max-width: 620px; margin-bottom: 40px; }
+.journeys-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.journey-choice { display: block; text-decoration: none; color: var(--ink); padding: 22px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg-elev); transition: transform .15s, border-color .15s, box-shadow .15s; }
+.journey-choice:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: var(--shadow); }
+.journey-choice-title { font-family: 'Caprasimo', Georgia, serif; font-size: 18px; font-weight: 400; margin-bottom: 7px; }
+.journey-choice-meta { font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); }
 
 /* Responsive */
 @media (max-width: 720px) {

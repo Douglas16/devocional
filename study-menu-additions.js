@@ -2,6 +2,13 @@
 (function () {
   const panel = document.querySelector('.study-menu-panel');
   if (!panel) return;
+  const trigger = document.querySelector('.study-menu-trigger');
+  if (trigger) {
+    trigger.addEventListener('click', (event) => {
+      event.preventDefault();
+      window.location.href = 'jornadas.html';
+    });
+  }
   const additions = [
     ['hebreus.html', 'Hebreus', '13 dias · NVI'],
     ['filipenses-colossenses.html', 'Filipenses + Colossenses', '8 dias · NVI'],

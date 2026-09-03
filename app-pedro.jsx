@@ -449,15 +449,10 @@ function syncStudyMenu() {
     document.body.appendChild(menu);
   }
   menu.innerHTML = `
-    <button class="study-menu-trigger" aria-label="Trocar de estudo">
+    <a class="study-menu-trigger" href="jornadas.html" aria-label="Ver todas as jornadas">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
-      <span>Estudos</span>
-    </button>
-    <div class="study-menu-panel">${studies.map(([href, label, meta]) => {
-      const active = href === current ? ' active' : '';
-      const activeMeta = href === current ? `${meta} · atual` : meta;
-      return `<a href="${href}" class="study-menu-item${active}"><div class="study-menu-label">${label}</div><div class="study-menu-meta">${activeMeta}</div></a>`;
-    }).join('')}</div>`;
+      <span>Jornadas</span>
+    </a>`;
 }
 
 syncStudyMenu();
