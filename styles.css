@@ -1,7 +1,7 @@
 /* Lectio — Diário Devocional
    Minimalista sereno · tipografia editorial · muito espaço branco */
 
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..700;1,9..144,300..500&family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
 :root {
   /* Light mode — branco quente + terracota */
@@ -55,7 +55,7 @@ html, body {
 body { overflow-x: hidden; }
 
 /* ============ TIPOGRAFIA UTIL ============ */
-.serif { font-family: 'Fraunces', 'Georgia', serif; font-optical-sizing: auto; }
+.serif { font-family: 'Lora', Georgia, serif; }
 .mono  { font-family: 'JetBrains Mono', 'SF Mono', monospace; }
 .eyebrow {
   font-size: 11px;
@@ -86,7 +86,7 @@ body { overflow-x: hidden; }
 
 .brand { display: flex; align-items: baseline; gap: 14px; }
 .brand-mark {
-  font-family: 'Fraunces', serif;
+  font-family: 'Lora', Georgia, serif;
   font-size: 26px;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -246,7 +246,7 @@ body { overflow-x: hidden; }
   margin-bottom: 20px;
 }
 .day-date {
-  font-family: 'Fraunces', serif;
+  font-family: 'Lora', Georgia, serif;
   font-style: italic;
   font-size: 15px;
   color: var(--ink-3);
@@ -262,7 +262,7 @@ body { overflow-x: hidden; }
   margin-bottom: 56px;
 }
 .verse-anchor-text {
-  font-family: 'Fraunces', serif;
+  font-family: 'Lora', Georgia, serif;
   font-weight: 300;
   font-size: 30px;
   line-height: 1.35;
@@ -271,13 +271,13 @@ body { overflow-x: hidden; }
   max-width: 540px;
   margin: 0 auto 20px;
   text-wrap: balance;
-  font-variation-settings: "opsz" 96;
+  letter-spacing: 0;
 }
 .verse-anchor-text::before,
 .verse-anchor-text::after {
   content: "";
   color: var(--accent);
-  font-family: 'Fraunces', serif;
+  font-family: 'Lora', Georgia, serif;
   font-style: italic;
 }
 .verse-anchor-ref {
@@ -321,7 +321,7 @@ body { overflow-x: hidden; }
   align-items: start;
 }
 .word-original {
-  font-family: 'Fraunces', serif;
+  font-family: 'Lora', Georgia, serif;
   font-size: 42px;
   line-height: 1;
   color: var(--accent);
@@ -348,7 +348,7 @@ body { overflow-x: hidden; }
   color: var(--ink-2);
   font-style: italic;
   margin-bottom: 12px;
-  font-family: 'Fraunces', serif;
+  font-family: 'Lora', Georgia, serif;
   font-size: 15px;
 }
 .word-note {
@@ -362,7 +362,7 @@ body { overflow-x: hidden; }
   font-size: 15px;
   color: var(--ink-2);
   line-height: 1.75;
-  font-family: 'Fraunces', serif;
+  font-family: 'Lora', Georgia, serif;
   font-weight: 300;
   font-variation-settings: "opsz" 14;
 }
@@ -377,7 +377,7 @@ body { overflow-x: hidden; }
   margin-bottom: 16px;
 }
 .passage-verses {
-  font-family: 'Fraunces', serif;
+  font-family: 'Lora', Georgia, serif;
   font-weight: 300;
   font-size: 18px;
   line-height: 1.8;
