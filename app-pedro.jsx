@@ -432,6 +432,7 @@ function syncStudyMenu() {
     ['sinoticos.html', 'Sinóticos (Mt · Mc · Lc)', '35 dias · NVI'],
     ['atos.html', 'Atos dos Apóstolos', '20 dias · NVI'],
     ['romanos.html', 'Romanos', '18 dias · NVI'],
+    ['salmos.html', 'Salmos', '150 dias · NVI'],
     ['1-corintios.html', '1 Coríntios', '14 dias · NVI'],
     ['2-corintios.html', '2 Coríntios', '13 dias · NVI'],
     ['timoteo.html', '1 e 2 Timóteo', '11 dias · NVI'],
