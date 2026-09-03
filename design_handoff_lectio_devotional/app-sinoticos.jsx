@@ -1,7 +1,7 @@
 const { useState, useEffect, useMemo, useCallback, useRef } = React;
 
 // ============ STORAGE ============
-const STORAGE_KEY = 'lectio-v2';
+const STORAGE_KEY = 'lectio-sinoticos-v1';
 
 const loadState = () => {
   try {
@@ -14,6 +14,19 @@ const loadState = () => {
 const saveState = (state) => {
   try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch {}
 };
+
+// ============ HELPERS ============
+// Renderiza **bold** como <strong> (markdown mínimo)
+function renderBold(text) {
+  if (!text || typeof text !== 'string') return text;
+  const parts = text.split(/(\*\*[^*]+\*\*)/g);
+  return parts.map((part, i) => {
+    if (part.startsWith('**') && part.endsWith('**')) {
+      return <strong key={i}>{part.slice(2, -2)}</strong>;
+    }
+    return <React.Fragment key={i}>{part}</React.Fragment>;
+  });
+}
 
 // ============ ICONS ============
 const Icon = {
@@ -32,7 +45,7 @@ function App() {
     return s.currentDay || 1;
   });
 
-  const days = window.DEVOTIONAL;
+  const days = window.SINOTICOS;
   const total = days.length;
 
   // Persist state changes
@@ -145,7 +158,7 @@ function Header({ theme, onToggleTheme }) {
     <header className="header">
       <div className="brand">
         <span className="brand-mark">Lectio</span>
-        <span className="brand-sub">Provérbios · Tiago · 41 dias · NVI</span>
+        <span className="brand-sub">Sinóticos · 35 dias · NVI</span>
       </div>
       <div className="header-actions">
         <button className="icon-btn" onClick={onToggleTheme} title={theme === 'dark' ? 'Modo claro' : 'Modo escuro'}>
@@ -233,7 +246,7 @@ function Reader({ day, total, isRead, onToggleRead, note, onNoteChange, highligh
               <span className="lang-tag">{day.word.lang}</span>
             </div>
             <div className="word-meaning">{day.word.meaning}</div>
-            <div className="word-note">{day.word.note}</div>
+            <div className="word-note">{renderBold(day.word.note)}</div>
           </div>
         </div>
       </section>
@@ -241,7 +254,7 @@ function Reader({ day, total, isRead, onToggleRead, note, onNoteChange, highligh
       {/* Contexto */}
       <section className="section">
         <div className="section-title">Contexto histórico</div>
-        <p className="context-text">{day.context}</p>
+        <p className="context-text">{renderBold(day.context)}</p>
       </section>
 
       {/* Leitura */}
@@ -268,7 +281,7 @@ function Reader({ day, total, isRead, onToggleRead, note, onNoteChange, highligh
       <section className="section">
         <div className="section-title">Meditação</div>
         <div className="meditation-text">
-          {day.meditation.map((p, i) => <p key={i}>{p}</p>)}
+          {day.meditation.map((p, i) => <p key={i}>{renderBold(p)}</p>)}
         </div>
       </section>
 
@@ -322,8 +335,8 @@ function Journey({ days, currentDay, readMap, onSelect, readCount }) {
   return (
     <div className="fade-in">
       <div className="journey-header">
-        <h1 className="journey-title">Quarenta e um dias na Palavra</h1>
-        <p className="journey-sub">Um capítulo de Provérbios por dia, intercalado com blocos temáticos de Tiago — sabedoria antiga e fé prática lado a lado.</p>
+        <h1 className="journey-title">Trinta e cinco dias com os Sinóticos</h1>
+        <p className="journey-sub">Mateus, Marcos e Lucas lado a lado — 20 dias de passagens comuns em ordem cronológica, mais 15 dias de material exclusivo de cada evangelho. Tradução NVI.</p>
         <div className="progress-line">
           <div className="progress-fill" style={{ width: `${pct}%` }} />
         </div>
@@ -334,12 +347,18 @@ function Journey({ days, currentDay, readMap, onSelect, readCount }) {
         {days.map(d => {
           const read = !!readMap[d.day];
           const current = d.day === currentDay;
-          const isTiago = d.verse.ref.toLowerCase().includes('tiago');
-          const book = isTiago ? 'Tiago' : 'Provérbios';
+          const theme = d.theme || '';
+          const isExclusive = theme.startsWith('Só ');
+          let book;
+          if (theme.startsWith('Só Mateus')) book = 'Só Mateus';
+          else if (theme.startsWith('Só Marcos')) book = 'Só Marcos';
+          else if (theme.startsWith('Só Lucas')) book = 'Só Lucas';
+          else book = 'Comum';
+          const is2 = isExclusive;
           return (
             <button
               key={d.day}
-              className={`journey-card ${read ? 'read' : ''} ${current ? 'current' : ''} ${isTiago ? 'is-tiago' : 'is-proverbios'}`}
+              className={`journey-card ${read ? 'read' : ''} ${current ? 'current' : ''} ${is2 ? 'is-tiago' : 'is-proverbios'}`}
               onClick={() => onSelect(d.day)}
             >
               <div className="journey-card-day mono">

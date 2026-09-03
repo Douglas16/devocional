@@ -1,7 +1,7 @@
 const { useState, useEffect, useMemo, useCallback, useRef } = React;
 
 // ============ STORAGE ============
-const STORAGE_KEY = 'lectio-v2';
+const STORAGE_KEY = 'lectio-joao-v1';
 
 const loadState = () => {
   try {
@@ -32,7 +32,7 @@ function App() {
     return s.currentDay || 1;
   });
 
-  const days = window.DEVOTIONAL;
+  const days = window.JOAO;
   const total = days.length;
 
   // Persist state changes
@@ -145,7 +145,7 @@ function Header({ theme, onToggleTheme }) {
     <header className="header">
       <div className="brand">
         <span className="brand-mark">Lectio</span>
-        <span className="brand-sub">Provérbios · Tiago · 41 dias · NVI</span>
+        <span className="brand-sub">João · 27 dias · NVI</span>
       </div>
       <div className="header-actions">
         <button className="icon-btn" onClick={onToggleTheme} title={theme === 'dark' ? 'Modo claro' : 'Modo escuro'}>
@@ -322,8 +322,8 @@ function Journey({ days, currentDay, readMap, onSelect, readCount }) {
   return (
     <div className="fade-in">
       <div className="journey-header">
-        <h1 className="journey-title">Quarenta e um dias na Palavra</h1>
-        <p className="journey-sub">Um capítulo de Provérbios por dia, intercalado com blocos temáticos de Tiago — sabedoria antiga e fé prática lado a lado.</p>
+        <h1 className="journey-title">Vinte e sete dias com João</h1>
+        <p className="journey-sub">O Verbo que se fez carne, os sinais que apontam para a Vida, e as três cartas que ecoam no apóstolo idoso — luz, verdade, amor. Tradução NVI.</p>
         <div className="progress-line">
           <div className="progress-fill" style={{ width: `${pct}%` }} />
         </div>
@@ -334,12 +334,18 @@ function Journey({ days, currentDay, readMap, onSelect, readCount }) {
         {days.map(d => {
           const read = !!readMap[d.day];
           const current = d.day === currentDay;
-          const isTiago = d.verse.ref.toLowerCase().includes('tiago');
-          const book = isTiago ? 'Tiago' : 'Provérbios';
+          const refLower = d.verse.ref.toLowerCase();
+          const isCarta = refLower.startsWith('1 joão') || refLower.startsWith('2 joão') || refLower.startsWith('3 joão');
+          let book;
+          if (refLower.startsWith('3 joão')) book = '3 João';
+          else if (refLower.startsWith('2 joão')) book = '2 João';
+          else if (refLower.startsWith('1 joão')) book = '1 João';
+          else book = 'Evangelho';
+          const is2 = isCarta;
           return (
             <button
               key={d.day}
-              className={`journey-card ${read ? 'read' : ''} ${current ? 'current' : ''} ${isTiago ? 'is-tiago' : 'is-proverbios'}`}
+              className={`journey-card ${read ? 'read' : ''} ${current ? 'current' : ''} ${is2 ? 'is-tiago' : 'is-proverbios'}`}
               onClick={() => onSelect(d.day)}
             >
               <div className="journey-card-day mono">

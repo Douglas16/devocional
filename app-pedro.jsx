@@ -1,7 +1,16 @@
 const { useState, useEffect, useMemo, useCallback, useRef } = React;
 
 // ============ STORAGE ============
-const STORAGE_KEY = 'lectio-v2';
+const STUDY = window.LECTIO_STUDY || {
+  storageKey: 'lectio-pedro-v1',
+  days: () => window.PEDRO,
+  subtitle: '1 e 2 Pedro · 13 dias · NVI',
+  journeyTitle: 'Treze dias com Pedro',
+  journeySub: 'As cartas do pescador que virou apóstolo — esperança viva em meio ao fogo, identidade de peregrino, sabedoria para viver o resto do tempo. Tradução NVI.',
+  sectionFor: (d) => d.verse.ref.startsWith('2') ? '2 Pedro' : '1 Pedro',
+  accentFor: (d) => d.verse.ref.startsWith('2')
+};
+const STORAGE_KEY = STUDY.storageKey;
 
 const loadState = () => {
   try {
@@ -32,7 +41,7 @@ function App() {
     return s.currentDay || 1;
   });
 
-  const days = window.DEVOTIONAL;
+  const days = STUDY.days();
   const total = days.length;
 
   // Persist state changes
@@ -92,7 +101,7 @@ function App() {
 
   return (
     <div className="app">
-      <Header theme={state.theme || 'light'} onToggleTheme={toggleTheme} />
+      <Header theme={state.theme || 'light'} onToggleTheme={toggleTheme} study={STUDY} />
       <Tabs
         tab={tab}
         onTabChange={setTab}
@@ -124,6 +133,7 @@ function App() {
           readMap={state.read || {}}
           onSelect={goToDay}
           readCount={readCount}
+          study={STUDY}
         />
       )}
 
@@ -140,12 +150,12 @@ function App() {
 }
 
 // ============ HEADER ============
-function Header({ theme, onToggleTheme }) {
+function Header({ theme, onToggleTheme, study }) {
   return (
     <header className="header">
       <div className="brand">
         <span className="brand-mark">Lectio</span>
-        <span className="brand-sub">Provérbios · Tiago · 41 dias · NVI</span>
+        <span className="brand-sub">{study.subtitle}</span>
       </div>
       <div className="header-actions">
         <button className="icon-btn" onClick={onToggleTheme} title={theme === 'dark' ? 'Modo claro' : 'Modo escuro'}>
@@ -315,15 +325,15 @@ function Reader({ day, total, isRead, onToggleRead, note, onNoteChange, highligh
 }
 
 // ============ JORNADA ============
-function Journey({ days, currentDay, readMap, onSelect, readCount }) {
+function Journey({ days, currentDay, readMap, onSelect, readCount, study }) {
   const total = days.length;
   const pct = Math.round((readCount / total) * 100);
 
   return (
     <div className="fade-in">
       <div className="journey-header">
-        <h1 className="journey-title">Quarenta e um dias na Palavra</h1>
-        <p className="journey-sub">Um capítulo de Provérbios por dia, intercalado com blocos temáticos de Tiago — sabedoria antiga e fé prática lado a lado.</p>
+        <h1 className="journey-title">{study.journeyTitle}</h1>
+        <p className="journey-sub">{study.journeySub}</p>
         <div className="progress-line">
           <div className="progress-fill" style={{ width: `${pct}%` }} />
         </div>
@@ -334,12 +344,12 @@ function Journey({ days, currentDay, readMap, onSelect, readCount }) {
         {days.map(d => {
           const read = !!readMap[d.day];
           const current = d.day === currentDay;
-          const isTiago = d.verse.ref.toLowerCase().includes('tiago');
-          const book = isTiago ? 'Tiago' : 'Provérbios';
+          const is2 = study.accentFor(d);
+          const book = study.sectionFor(d);
           return (
             <button
               key={d.day}
-              className={`journey-card ${read ? 'read' : ''} ${current ? 'current' : ''} ${isTiago ? 'is-tiago' : 'is-proverbios'}`}
+              className={`journey-card ${read ? 'read' : ''} ${current ? 'current' : ''} ${is2 ? 'is-tiago' : 'is-proverbios'}`}
               onClick={() => onSelect(d.day)}
             >
               <div className="journey-card-day mono">

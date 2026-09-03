@@ -145,7 +145,7 @@ function Header({ theme, onToggleTheme }) {
     <header className="header">
       <div className="brand">
         <span className="brand-mark">Lectio</span>
-        <span className="brand-sub">Provérbios · Tiago · 41 dias</span>
+        <span className="brand-sub">Provérbios · Tiago · 41 dias · NVI</span>
       </div>
       <div className="header-actions">
         <button className="icon-btn" onClick={onToggleTheme} title={theme === 'dark' ? 'Modo claro' : 'Modo escuro'}>
