@@ -888,14 +888,14 @@ body { overflow-x: hidden; }
 .journeys-title { font-family: 'Caprasimo', Georgia, serif; font-size: clamp(32px, 6vw, 56px); font-weight: 400; line-height: 1.08; margin-bottom: 14px; }
 .journeys-intro { color: var(--ink-2); max-width: 620px; margin-bottom: 40px; }
 .journeys-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
-.journey-choice { display: block; text-decoration: none; color: var(--ink); padding: 22px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg-elev); transition: transform .15s, border-color .15s, box-shadow .15s, background .15s; }
+.journey-choice { --journey-progress: 0%; position: relative; display: block; text-decoration: none; color: var(--ink); padding: 22px; border: 1px solid var(--line); border-radius: 10px; background: linear-gradient(90deg, color-mix(in oklch, var(--accent) var(--journey-progress), var(--bg-elev)) 0 var(--journey-progress), var(--bg-elev) var(--journey-progress) 100%); overflow: hidden; transition: transform .15s, border-color .15s, box-shadow .15s, background .25s; }
 .journey-choice:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: var(--shadow); }
-.journey-choice-title { font-family: 'Caprasimo', Georgia, serif; font-size: 18px; font-weight: 400; margin-bottom: 7px; }
+.journey-choice-title { font-family: 'Lora', Georgia, serif; font-size: 18px; font-weight: 400; margin-bottom: 7px; padding-right: 64px; }
 .journey-choice-meta { font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); }
-.journey-choice-progress { margin-top: 14px; font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--accent); }
-.journey-choice.is-complete { background: var(--bg-sunk); border-color: var(--line-strong); }
+.journey-choice-progress { position: absolute; top: 14px; right: 16px; font-family: 'JetBrains Mono', monospace; font-size: 30px; line-height: 1; letter-spacing: -.06em; color: var(--ink); font-weight: 700; }
+.journey-choice.is-complete { --journey-progress: 100%; border-color: var(--line-strong); }
 .journey-choice.is-complete .journey-choice-title { color: var(--ink-2); }
-.journey-choice.is-complete .journey-choice-progress { color: var(--ink-2); font-weight: 600; }
+.journey-choice.is-complete .journey-choice-progress { color: var(--ink); font-weight: 800; }
 
 /* Responsive */
 @media (max-width: 720px) {

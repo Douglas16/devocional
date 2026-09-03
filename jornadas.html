@@ -3,6 +3,7 @@
 <main class="journeys-page"><div class="journeys-kicker">Lectio · NVI</div><h1 class="journeys-title">Escolha uma jornada</h1><p class="journeys-intro">Estudos devocionais em ordem alfabética. Seu progresso fica salvo separadamente em cada jornada.</p><div class="journeys-grid">
 <a class="journey-choice" href="apocalipse.html"><div class="journey-choice-title">Apocalipse</div><div class="journey-choice-meta">14 dias · NVI</div></a>
 <a class="journey-choice" href="atos.html"><div class="journey-choice-title">Atos dos Apóstolos</div><div class="journey-choice-meta">20 dias · NVI</div></a>
+<a class="journey-choice" href="daniel.html"><div class="journey-choice-title">Daniel</div><div class="journey-choice-meta">12 dias · NVI</div></a>
 <a class="journey-choice" href="eclesiastes.html"><div class="journey-choice-title">Eclesiastes</div><div class="journey-choice-meta">12 dias · NVI</div></a>
 <a class="journey-choice" href="filipenses-colossenses.html"><div class="journey-choice-title">Filipenses + Colossenses</div><div class="journey-choice-meta">8 dias · NVI</div></a>
 <a class="journey-choice" href="galatas-efesios.html"><div class="journey-choice-title">Gálatas + Efésios</div><div class="journey-choice-meta">12 dias · NVI</div></a>
@@ -22,6 +23,7 @@
 (() => {
   const progress = {
     'apocalipse.html': ['lectio-apocalipse-v1', 14], 'atos.html': ['lectio-atos-v1', 20],
+    'daniel.html': ['lectio-daniel-v1', 12],
     'eclesiastes.html': ['lectio-eclesiastes-v1', 12], 'filipenses-colossenses.html': ['lectio-filipenses-colossenses-v1', 8],
     'galatas-efesios.html': ['lectio-galatas-efesios-v1', 12], 'hebreus.html': ['lectio-hebreus-v1', 13],
     'joao.html': ['lectio-joao-v1', 27], '1-corintios.html': ['lectio-1-corintios-v1', 14],
@@ -40,7 +42,9 @@
     const percent = Math.min(100, Math.round(read / config[1] * 100));
     const value = document.createElement('div');
     value.className = 'journey-choice-progress';
-    value.textContent = `${percent}% lido`;
+    value.textContent = `${percent}%`;
+    value.setAttribute('aria-label', `${percent}% lido`);
+    card.style.setProperty('--journey-progress', `${percent}%`);
     card.appendChild(value);
     if (percent === 100) card.classList.add('is-complete');
   });
