@@ -886,8 +886,12 @@ body { overflow-x: hidden; }
 .journeys-actions { position: fixed; top: 20px; right: 24px; z-index: 10; display: flex; gap: 8px; }
 .journeys-page { max-width: 900px; margin: 0 auto; padding: 64px 28px 100px; }
 .journeys-kicker { font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin-bottom: 16px; }
-.journeys-title { font-family: 'Caprasimo', Georgia, serif; font-size: clamp(32px, 6vw, 56px); font-weight: 400; line-height: 1.08; margin-bottom: 14px; }
-.journeys-intro { color: var(--ink-2); max-width: 620px; margin-bottom: 40px; }
+.journeys-title { font-family: 'Lora', Georgia, serif; font-style: italic; font-size: clamp(32px, 6vw, 56px); font-weight: 400; letter-spacing: -0.01em; line-height: 1.08; margin-bottom: 14px; }
+.journeys-title::first-letter { font-weight: 500; }
+.journeys-intro { color: var(--ink-3); font-family: 'Lora', Georgia, serif; font-style: italic; font-size: 14px; max-width: 620px; margin-bottom: 10px; }
+.journeys-stats { font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: .01em; color: var(--ink-3); max-width: 620px; margin-bottom: 40px; min-height: 16px; }
+.journeys-stats strong { color: var(--accent); font-weight: 600; }
+.journeys-stats:empty { display: none; }
 .journeys-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
 .journey-choice { --journey-progress: 0%; position: relative; display: block; text-decoration: none; color: var(--ink); padding: 22px; border: 1px solid var(--line); border-radius: 10px; background: linear-gradient(90deg, color-mix(in oklch, var(--accent) var(--journey-progress), var(--bg-elev)) 0 var(--journey-progress), var(--bg-elev) var(--journey-progress) 100%); overflow: hidden; transition: transform .15s, border-color .15s, box-shadow .15s, background .25s; }
 .journey-choice:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: var(--shadow); }

@@ -18,6 +18,10 @@ const books = {
   ,'Mateus':'mt','Marcos':'mc','Lucas':'lc','1 João':'1jo','2 João':'2jo','3 João':'3jo'
   ,'1 Reis':'1rs','2 Reis':'2rs','1 Crônicas':'1cr','2 Crônicas':'2cr'
   ,'Esdras':'ed','Neemias':'ne','Jó':'jó'
+  ,'Rute':'rt','Ester':'et','Cânticos':'ct','Ezequiel':'ez','Oseias':'os'
+  ,'Joel':'jl','Amós':'am'
+  ,'Obadias':'ob','Jonas':'jn','Miquéias':'mq','Naum':'na','Habacuque':'hc','Sofonias':'sf','Ageu':'ag'
+  ,'Zacarias':'zc','Malaquias':'ml'
 };
 const bible = JSON.parse(fs.readFileSync('docs/nvi.json', 'utf8').replace(/^\uFEFF/, ''));
 const byAbbrev = new Map(bible.map(book => [book.abbrev, book.chapters]));
