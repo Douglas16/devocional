@@ -900,6 +900,7 @@ body { overflow-x: hidden; }
 
 /* ============ RESET MODAL ============ */
 .reset-modal-overlay { position: fixed; inset: 0; z-index: 100; display: flex; align-items: center; justify-content: center; padding: 24px; background: color-mix(in oklch, black 55%, transparent); }
+.reset-modal-overlay[hidden] { display: none; }
 .reset-modal { width: 100%; max-width: 460px; max-height: 84vh; overflow-y: auto; background: var(--bg-elev); border: 1px solid var(--line); border-radius: 14px; padding: 28px; box-shadow: var(--shadow); }
 .reset-modal-title { font-family: 'Lora', Georgia, serif; font-size: 22px; font-weight: 500; margin-bottom: 10px; }
 .reset-modal-sub { color: var(--ink-2); font-size: 14px; line-height: 1.55; margin-bottom: 16px; }
