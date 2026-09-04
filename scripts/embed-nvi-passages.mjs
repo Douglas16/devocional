@@ -11,8 +11,8 @@ import vm from 'node:vm';
 
 const books = {
   'Apocalipse':'ap','Atos':'atos','Colossenses':'cl','Daniel':'dn','Eclesiastes':'ec','Efésios':'ef',
-  'Filemom':'fm','Filipenses':'fp','Gálatas':'gl','Hebreus':'hb','Isaías':'is','Jeremias':'jr','Judas':'jd','João':'jo',
-  'Lamentações':'lm','Romanos':'rm','Salmo':'sl','Salmos':'sl','Tito':'tt','1 Coríntios':'1co','2 Coríntios':'2co',
+  'Filemom':'fm','Filipenses':'fp','Gálatas':'gl','Gênesis':'gn','Hebreus':'hb','Isaías':'is','Jeremias':'jr','Judas':'jd','João':'jo',
+  'Josué':'js','Juízes':'jz','Lamentações':'lm','Deuteronômio':'dt','Êxodo':'ex','Levítico':'lv','Números':'nm','Romanos':'rm','Salmo':'sl','Salmos':'sl','Tito':'tt','1 Coríntios':'1co','2 Coríntios':'2co',
   '1 Pedro':'1pe','2 Pedro':'2pe','1 Timóteo':'1tm','2 Timóteo':'2tm',
   '1 Tessalonicenses':'1ts','2 Tessalonicenses':'2ts','Provérbios':'pv','Tiago':'tg'
   ,'Mateus':'mt','Marcos':'mc','Lucas':'lc','1 João':'1jo','2 João':'2jo','3 João':'3jo'
