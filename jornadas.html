@@ -1,10 +1,21 @@
 <!doctype html>
-<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Lectio — Jornadas</title><link rel="stylesheet" href="styles.css"></head><body>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Lectio — Jornadas</title><script>(function(){try{var t=localStorage.getItem('lectio-theme-v1');if(!t){t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script><link rel="stylesheet" href="styles.css"></head><body>
+<div class="journeys-actions">
+  <a class="icon-btn" href="oracoes.html" title="Pedidos de oração" aria-label="Pedidos de oração"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.6l-1-1a5.5 5.5 0 0 0-7.8 7.8l1 1L12 21l7.8-7.6 1-1a5.5 5.5 0 0 0 0-7.8z"/></svg></a>
+  <button class="icon-btn" id="resetTrigger" type="button" title="Zerar leitura" aria-label="Zerar leitura"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7"/><path d="M3 4v5h5"/></svg></button>
+  <button class="icon-btn" id="themeToggle" type="button" title="Alternar tema" aria-label="Alternar tema"></button>
+</div>
+<div class="reset-modal-overlay" id="resetOverlay" hidden>
+  <div class="reset-modal" role="dialog" aria-modal="true" aria-labelledby="resetModalTitle">
+    <div id="resetModalBody"></div>
+  </div>
+</div>
 <main class="journeys-page"><div class="journeys-kicker">Lectio · NVI</div><h1 class="journeys-title">Escolha uma jornada</h1><p class="journeys-intro">Estudos devocionais em ordem alfabética. Seu progresso fica salvo separadamente em cada jornada.</p><div class="journeys-grid">
 <a class="journey-choice" href="apocalipse.html"><div class="journey-choice-title">Apocalipse</div><div class="journey-choice-meta">14 dias · NVI</div></a>
 <a class="journey-choice" href="atos.html"><div class="journey-choice-title">Atos dos Apóstolos</div><div class="journey-choice-meta">20 dias · NVI</div></a>
 <a class="journey-choice" href="daniel.html"><div class="journey-choice-title">Daniel</div><div class="journey-choice-meta">12 dias · NVI</div></a>
 <a class="journey-choice" href="eclesiastes.html"><div class="journey-choice-title">Eclesiastes</div><div class="journey-choice-meta">12 dias · NVI</div></a>
+<a class="journey-choice" href="esdras-neemias.html"><div class="journey-choice-title">Esdras + Neemias</div><div class="journey-choice-meta">23 dias · NVI</div></a>
 <a class="journey-choice" href="exodo-deuteronomio.html"><div class="journey-choice-title">Êxodo + Deuteronômio</div><div class="journey-choice-meta">74 dias · NVI</div></a>
 <a class="journey-choice" href="filipenses-colossenses.html"><div class="journey-choice-title">Filipenses + Colossenses</div><div class="journey-choice-meta">8 dias · NVI</div></a>
 <a class="journey-choice" href="galatas-efesios.html"><div class="journey-choice-title">Gálatas + Efésios</div><div class="journey-choice-meta">12 dias · NVI</div></a>
@@ -13,6 +24,7 @@
 <a class="journey-choice" href="isaias.html"><div class="journey-choice-title">Isaías</div><div class="journey-choice-meta">66 dias · NVI</div></a>
 <a class="journey-choice" href="jeremias-lamentacoes.html"><div class="journey-choice-title">Jeremias + Lamentações</div><div class="journey-choice-meta">57 dias · NVI</div></a>
 <a class="journey-choice" href="joao.html"><div class="journey-choice-title">João + 1, 2, 3 João</div><div class="journey-choice-meta">27 dias · NVI</div></a>
+<a class="journey-choice" href="jo.html"><div class="journey-choice-title">Jó</div><div class="journey-choice-meta">42 dias · NVI</div></a>
 <a class="journey-choice" href="josue.html"><div class="journey-choice-title">Josué</div><div class="journey-choice-meta">24 dias · NVI</div></a>
 <a class="journey-choice" href="juizes.html"><div class="journey-choice-title">Juízes</div><div class="journey-choice-meta">21 dias · NVI</div></a>
 <a class="journey-choice" href="levitico.html"><div class="journey-choice-title">Levítico</div><div class="journey-choice-meta">27 dias · NVI</div></a>
@@ -20,6 +32,10 @@
 <a class="journey-choice" href="1-corintios.html"><div class="journey-choice-title">1 Coríntios</div><div class="journey-choice-meta">14 dias · NVI</div></a>
 <a class="journey-choice" href="2-corintios.html"><div class="journey-choice-title">2 Coríntios</div><div class="journey-choice-meta">13 dias · NVI</div></a>
 <a class="journey-choice" href="pedro.html"><div class="journey-choice-title">1 e 2 Pedro</div><div class="journey-choice-meta">13 dias · NVI</div></a>
+<a class="journey-choice" href="1-reis.html"><div class="journey-choice-title">1 Reis</div><div class="journey-choice-meta">52 dias · NVI</div></a>
+<a class="journey-choice" href="2-reis.html"><div class="journey-choice-title">2 Reis</div><div class="journey-choice-meta">41 dias · NVI</div></a>
+<a class="journey-choice" href="1-samuel.html"><div class="journey-choice-title">1 Samuel</div><div class="journey-choice-meta">31 dias · NVI</div></a>
+<a class="journey-choice" href="2-samuel.html"><div class="journey-choice-title">2 Samuel</div><div class="journey-choice-meta">24 dias · NVI</div></a>
 <a class="journey-choice" href="tessalonicenses.html"><div class="journey-choice-title">1 e 2 Tessalonicenses</div><div class="journey-choice-meta">13 dias · NVI</div></a>
 <a class="journey-choice" href="timoteo.html"><div class="journey-choice-title">1 e 2 Timóteo</div><div class="journey-choice-meta">11 dias · NVI</div></a>
 <a class="journey-choice" href="index.html"><div class="journey-choice-title">Provérbios + Tiago</div><div class="journey-choice-meta">41 dias · NVI</div></a>
@@ -33,36 +49,171 @@
     'apocalipse.html': ['lectio-apocalipse-v1', 14], 'atos.html': ['lectio-atos-v1', 20],
     'daniel.html': ['lectio-daniel-v1', 12],
     'eclesiastes.html': ['lectio-eclesiastes-v1', 12],
+    'esdras-neemias.html': ['lectio-esdras-neemias-v1', 23],
     'exodo-deuteronomio.html': ['lectio-exodo-deuteronomio-v1', 74],
     'filipenses-colossenses.html': ['lectio-filipenses-colossenses-v1', 8],
     'galatas-efesios.html': ['lectio-galatas-efesios-v1', 12], 'genesis.html': ['lectio-genesis-v1', 50],
     'hebreus.html': ['lectio-hebreus-v1', 13],
     'isaias.html': ['lectio-isaias-v1', 66],
     'jeremias-lamentacoes.html': ['lectio-jeremias-lamentacoes-v1', 57],
-    'joao.html': ['lectio-joao-v1', 27],
+    'joao.html': ['lectio-joao-v1', 27], 'jo.html': ['lectio-jo-v1', 42],
     'josue.html': ['lectio-josue-v1', 24], 'juizes.html': ['lectio-juizes-v1', 21],
     'levitico.html': ['lectio-levitico-v1', 27], 'numeros.html': ['lectio-numeros-v1', 36],
     '1-corintios.html': ['lectio-1-corintios-v1', 14],
     '2-corintios.html': ['lectio-2-corintios-v1', 13], 'pedro.html': ['lectio-pedro-v1', 13],
+    '1-reis.html': ['lectio-1-reis-v1', 52], '2-reis.html': ['lectio-2-reis-v1', 41],
+    '1-samuel.html': ['lectio-1-samuel-v1', 31], '2-samuel.html': ['lectio-2-samuel-v1', 24],
     'tessalonicenses.html': ['lectio-tessalonicenses-v1', 13], 'timoteo.html': ['lectio-timoteo-v1', 11],
     'index.html': ['lectio-v2', 41], 'romanos.html': ['lectio-romanos-v1', 18],
     'salmos.html': ['lectio-salmos-v1', 150], 'sinoticos.html': ['lectio-sinoticos-v1', 35],
     'tito-filemom-judas.html': ['lectio-tito-filemom-judas-v1', 6]
   };
-  document.querySelectorAll('.journey-choice').forEach(card => {
-    const config = progress[card.getAttribute('href')];
-    if (!config) return;
+  window.__lectioProgress = progress;
+
+  const readPercent = (config) => {
     let state = {};
     try { state = JSON.parse(localStorage.getItem(config[0]) || '{}'); } catch {}
     const read = Object.keys(state.read || {}).length;
-    const percent = Math.min(100, Math.round(read / config[1] * 100));
-    const value = document.createElement('div');
-    value.className = 'journey-choice-progress';
-    value.textContent = `${percent}%`;
-    value.setAttribute('aria-label', `${percent}% lido`);
-    card.style.setProperty('--journey-progress', `${percent}%`);
-    card.appendChild(value);
-    if (percent === 100) card.classList.add('is-complete');
+    return Math.min(100, Math.round(read / config[1] * 100));
+  };
+
+  window.__lectioRenderProgress = () => {
+    document.querySelectorAll('.journey-choice').forEach(card => {
+      const config = progress[card.getAttribute('href')];
+      if (!config) return;
+      const percent = readPercent(config);
+      let value = card.querySelector('.journey-choice-progress');
+      if (!value) {
+        value = document.createElement('div');
+        value.className = 'journey-choice-progress';
+        card.appendChild(value);
+      }
+      value.textContent = `${percent}%`;
+      value.setAttribute('aria-label', `${percent}% lido`);
+      card.style.setProperty('--journey-progress', `${percent}%`);
+      card.classList.toggle('is-complete', percent === 100);
+    });
+  };
+  window.__lectioRenderProgress();
+})();
+</script>
+<script>
+(() => {
+  const SUN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>';
+  const MOON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+  const btn = document.getElementById('themeToggle');
+  const apply = (theme) => {
+    document.documentElement.setAttribute('data-theme', theme);
+    btn.innerHTML = theme === 'dark' ? SUN : MOON;
+    btn.title = theme === 'dark' ? 'Modo claro' : 'Modo escuro';
+  };
+  let current = document.documentElement.getAttribute('data-theme') || 'light';
+  apply(current);
+  btn.addEventListener('click', () => {
+    current = current === 'dark' ? 'light' : 'dark';
+    try { localStorage.setItem('lectio-theme-v1', current); } catch {}
+    apply(current);
   });
 })();
-</script></body></html>
+</script>
+<script>
+(() => {
+  const overlay = document.getElementById('resetOverlay');
+  const body = document.getElementById('resetModalBody');
+  const trigger = document.getElementById('resetTrigger');
+  const progress = window.__lectioProgress || {};
+  const selected = new Set();
+
+  const titleFor = (href) => {
+    const card = document.querySelector(`.journey-choice[href="${href}"]`);
+    return card ? card.querySelector('.journey-choice-title').textContent : href;
+  };
+
+  const readCountFor = (href) => {
+    const [key, total] = progress[href];
+    let state = {};
+    try { state = JSON.parse(localStorage.getItem(key) || '{}'); } catch {}
+    return { read: Object.keys(state.read || {}).length, total };
+  };
+
+  const close = () => { overlay.hidden = true; selected.clear(); };
+
+  const renderSelect = () => {
+    const entries = Object.keys(progress)
+      .map(href => ({ href, title: titleFor(href), ...readCountFor(href) }))
+      .sort((a, b) => a.title.localeCompare(b.title, 'pt-BR'));
+    const allChecked = entries.length > 0 && entries.every(e => selected.has(e.href));
+    body.innerHTML = `
+      <h2 class="reset-modal-title" id="resetModalTitle">Zerar leitura</h2>
+      <p class="reset-modal-sub">Volta o progresso de leitura (dias marcados como "lido") para 0% nas jornadas escolhidas. Suas marcações de texto e anotações continuam guardadas.</p>
+      <label class="reset-row reset-row-all">
+        <input type="checkbox" id="resetSelectAll" ${allChecked ? 'checked' : ''}>
+        <span>Selecionar todas</span>
+      </label>
+      <div class="reset-list">
+        ${entries.map(e => `
+          <label class="reset-row">
+            <input type="checkbox" data-href="${e.href}" ${selected.has(e.href) ? 'checked' : ''}>
+            <span class="reset-row-label">${e.title}</span>
+            <span class="reset-row-meta">${e.read}/${e.total}</span>
+          </label>
+        `).join('')}
+      </div>
+      <div class="reset-modal-actions">
+        <button type="button" class="reset-btn" id="resetCancel">Cancelar</button>
+        <button type="button" class="reset-btn reset-btn-danger" id="resetNext" ${selected.size === 0 ? 'disabled' : ''}>Zerar leitura (${selected.size})</button>
+      </div>
+    `;
+    body.querySelector('#resetSelectAll').addEventListener('change', (e) => {
+      entries.forEach(entry => e.target.checked ? selected.add(entry.href) : selected.delete(entry.href));
+      renderSelect();
+    });
+    body.querySelectorAll('input[data-href]').forEach(input => {
+      input.addEventListener('change', () => {
+        if (input.checked) selected.add(input.dataset.href); else selected.delete(input.dataset.href);
+        renderSelect();
+      });
+    });
+    body.querySelector('#resetCancel').addEventListener('click', close);
+    body.querySelector('#resetNext').addEventListener('click', () => { if (selected.size) renderConfirm(); });
+  };
+
+  const renderConfirm = () => {
+    const titles = [...selected].map(titleFor).sort((a, b) => a.localeCompare(b, 'pt-BR'));
+    body.innerHTML = `
+      <h2 class="reset-modal-title" id="resetModalTitle">Confirmar zeramento</h2>
+      <p class="reset-modal-sub">Tem certeza que deseja zerar a leitura de:</p>
+      <ul class="reset-confirm-list">${titles.map(t => `<li>${t}</li>`).join('')}</ul>
+      <p class="reset-modal-sub">Marcações de texto e anotações não serão apagadas.</p>
+      <div class="reset-modal-actions">
+        <button type="button" class="reset-btn" id="resetBack">Voltar</button>
+        <button type="button" class="reset-btn reset-btn-danger" id="resetConfirm">Sim, zerar leitura</button>
+      </div>
+    `;
+    body.querySelector('#resetBack').addEventListener('click', renderSelect);
+    body.querySelector('#resetConfirm').addEventListener('click', doReset);
+  };
+
+  const doReset = () => {
+    selected.forEach(href => {
+      const [key] = progress[href];
+      let state = {};
+      try { state = JSON.parse(localStorage.getItem(key) || '{}'); } catch {}
+      state.read = {};
+      state.currentDay = 1;
+      try { localStorage.setItem(key, JSON.stringify(state)); } catch {}
+    });
+    selected.clear();
+    close();
+    if (window.__lectioRenderProgress) window.__lectioRenderProgress();
+  };
+
+  trigger.addEventListener('click', () => {
+    overlay.hidden = false;
+    renderSelect();
+  });
+  overlay.addEventListener('click', (e) => { if (e.target === overlay) close(); });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !overlay.hidden) close(); });
+})();
+</script>
+</body></html>

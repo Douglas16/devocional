@@ -1,0 +1,236 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Lectio — Pedidos de Oração</title><script>(function(){try{var t=localStorage.getItem('lectio-theme-v1');if(!t){t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script><link rel="stylesheet" href="styles.css"></head><body>
+<div class="journeys-actions">
+  <a class="icon-btn" href="jornadas.html" title="Voltar às jornadas" aria-label="Voltar às jornadas"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M11 18l-6-6 6-6"/></svg></a>
+  <button class="icon-btn" id="themeToggle" type="button" title="Alternar tema" aria-label="Alternar tema"></button>
+</div>
+<main class="pedidos-page">
+  <div class="journeys-kicker">Lectio · Oração</div>
+  <h1 class="journeys-title">Pedidos de oração</h1>
+  <p class="journeys-intro">Registre seus pedidos por texto ou por voz, acompanhe há quanto tempo estão em aberto, e marque com um check quando Deus responder.</p>
+
+  <form class="pedido-form" id="pedidoForm">
+    <div class="pedido-form-row">
+      <textarea id="pedidoInput" class="pedido-input" rows="2" placeholder="Escreva seu pedido de oração..." maxlength="2000"></textarea>
+      <button type="button" class="icon-btn pedido-mic" id="micBtn" title="Ditar por voz" aria-label="Ditar por voz">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0"/><path d="M12 19v3"/><path d="M8 22h8"/></svg>
+      </button>
+    </div>
+    <div class="pedido-form-actions">
+      <span class="pedido-mic-status" id="micStatus"></span>
+      <button type="submit" class="reset-btn reset-btn-danger" id="addPedidoBtn">Adicionar pedido</button>
+    </div>
+  </form>
+
+  <section class="pedido-section">
+    <h2 class="pedido-section-title">Em aberto <span class="pedido-count" id="openCount">0</span></h2>
+    <div class="pedido-list" id="openList"></div>
+    <p class="pedido-empty" id="openEmpty" hidden>Nenhum pedido em aberto — tudo entregue.</p>
+  </section>
+
+  <section class="pedido-section">
+    <h2 class="pedido-section-title">Respondidas <span class="pedido-count" id="answeredCount">0</span></h2>
+    <div class="pedido-list" id="answeredList"></div>
+    <p class="pedido-empty" id="answeredEmpty" hidden>Ainda nenhum pedido respondido.</p>
+  </section>
+</main>
+
+<script>
+(() => {
+  const STORAGE_KEY = 'lectio-oracoes-v1';
+  const form = document.getElementById('pedidoForm');
+  const input = document.getElementById('pedidoInput');
+  const openList = document.getElementById('openList');
+  const answeredList = document.getElementById('answeredList');
+  const openCount = document.getElementById('openCount');
+  const answeredCount = document.getElementById('answeredCount');
+  const openEmpty = document.getElementById('openEmpty');
+  const answeredEmpty = document.getElementById('answeredEmpty');
+
+  const load = () => {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); } catch { return []; }
+  };
+  const save = (items) => {
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(items)); } catch {}
+  };
+
+  let items = load();
+
+  const escapeHtml = (s) => s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+  const formatDate = (iso) => {
+    const d = new Date(iso);
+    return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'long', year: 'numeric' });
+  };
+
+  const elapsed = (fromIso, toIso) => {
+    const from = new Date(fromIso).getTime();
+    const to = toIso ? new Date(toIso).getTime() : Date.now();
+    const diffMs = Math.max(0, to - from);
+    const hours = Math.floor(diffMs / 3600000);
+    if (hours < 1) return 'menos de 1 hora';
+    if (hours < 24) return hours === 1 ? '1 hora' : `${hours} horas`;
+    const days = Math.floor(hours / 24);
+    if (days === 1) return '1 dia';
+    if (days < 30) return `${days} dias`;
+    const months = Math.floor(days / 30);
+    if (months < 12) return months === 1 ? '1 mês' : `${months} meses`;
+    const years = Math.floor(days / 365);
+    return years === 1 ? '1 ano' : `${years} anos`;
+  };
+
+  const render = () => {
+    const open = items.filter(p => !p.answered).sort((a, b) => new Date(a.createdAt) - new Date(b.createdAt));
+    const answered = items.filter(p => p.answered).sort((a, b) => new Date(b.answeredAt) - new Date(a.answeredAt));
+
+    openCount.textContent = open.length;
+    answeredCount.textContent = answered.length;
+    openEmpty.hidden = open.length > 0;
+    answeredEmpty.hidden = answered.length > 0;
+
+    openList.innerHTML = open.map(p => `
+      <article class="pedido-card">
+        <div class="pedido-card-main">
+          <div class="pedido-card-date mono">${formatDate(p.createdAt)}</div>
+          <p class="pedido-card-text">${escapeHtml(p.text)}</p>
+          <div class="pedido-card-meta">
+            <span class="pedido-badge pedido-badge-open">Em aberto há ${elapsed(p.createdAt)}</span>
+          </div>
+        </div>
+        <div class="pedido-card-actions">
+          <button class="pedido-check" data-id="${p.id}" title="Marcar como respondida" aria-label="Marcar como respondida">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+          </button>
+          <button class="pedido-delete" data-id="${p.id}" title="Excluir pedido" aria-label="Excluir pedido">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/></svg>
+          </button>
+        </div>
+      </article>
+    `).join('');
+
+    answeredList.innerHTML = answered.map(p => `
+      <article class="pedido-card is-answered">
+        <div class="pedido-card-main">
+          <div class="pedido-card-date mono">${formatDate(p.createdAt)}</div>
+          <p class="pedido-card-text">${escapeHtml(p.text)}</p>
+          <div class="pedido-card-meta">
+            <span class="pedido-badge pedido-badge-answered">Respondida há ${elapsed(p.answeredAt)}</span>
+            <span class="pedido-duration">levou ${elapsed(p.createdAt, p.answeredAt)}</span>
+          </div>
+        </div>
+        <div class="pedido-card-actions">
+          <button class="pedido-check is-checked" data-id="${p.id}" title="Marcar como não respondida" aria-label="Marcar como não respondida">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>
+          </button>
+          <button class="pedido-delete" data-id="${p.id}" title="Excluir pedido" aria-label="Excluir pedido">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18"/><path d="M8 6V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/><path d="M19 6l-1 14a2 2 0 0 1-2 2H8a2 2 0 0 1-2-2L5 6"/></svg>
+          </button>
+        </div>
+      </article>
+    `).join('');
+  };
+
+  document.querySelectorAll('.pedido-list').forEach(list => {
+    list.addEventListener('click', (e) => {
+      const checkBtn = e.target.closest('.pedido-check');
+      const delBtn = e.target.closest('.pedido-delete');
+      if (checkBtn) {
+        const id = checkBtn.dataset.id;
+        const item = items.find(p => p.id === id);
+        if (!item) return;
+        item.answered = !item.answered;
+        item.answeredAt = item.answered ? new Date().toISOString() : null;
+        save(items);
+        render();
+      } else if (delBtn) {
+        const id = delBtn.dataset.id;
+        if (!confirm('Excluir este pedido de oração? Essa ação não pode ser desfeita.')) return;
+        items = items.filter(p => p.id !== id);
+        save(items);
+        render();
+      }
+    });
+  });
+
+  form.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const text = input.value.trim();
+    if (!text) return;
+    items.push({
+      id: Date.now().toString(36) + Math.random().toString(36).slice(2, 7),
+      text,
+      createdAt: new Date().toISOString(),
+      answered: false,
+      answeredAt: null
+    });
+    save(items);
+    input.value = '';
+    render();
+  });
+
+  render();
+
+  // ============ VOICE INPUT ============
+  const micBtn = document.getElementById('micBtn');
+  const micStatus = document.getElementById('micStatus');
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+  if (SpeechRecognition) {
+    const recognition = new SpeechRecognition();
+    recognition.lang = 'pt-BR';
+    recognition.interimResults = true;
+    recognition.continuous = true;
+    let recognizing = false;
+    let baseText = '';
+
+    const setRecording = (on) => {
+      recognizing = on;
+      micBtn.classList.toggle('is-recording', on);
+      micBtn.title = on ? 'Parar ditado' : 'Ditar por voz';
+      micStatus.textContent = on ? 'Ouvindo...' : '';
+    };
+
+    recognition.onresult = (e) => {
+      let transcript = '';
+      for (let i = 0; i < e.results.length; i++) transcript += e.results[i][0].transcript;
+      input.value = (baseText ? baseText + ' ' : '') + transcript;
+    };
+    recognition.onerror = (e) => {
+      setRecording(false);
+      if (e.error !== 'no-speech' && e.error !== 'aborted') {
+        micStatus.textContent = 'Não foi possível captar o áudio.';
+      }
+    };
+    recognition.onend = () => setRecording(false);
+
+    micBtn.addEventListener('click', () => {
+      if (recognizing) { recognition.stop(); return; }
+      baseText = input.value.trim();
+      try { recognition.start(); setRecording(true); } catch { setRecording(false); }
+    });
+  } else {
+    micBtn.disabled = true;
+    micBtn.title = 'Ditado por voz não é suportado neste navegador';
+  }
+})();
+</script>
+<script>
+(() => {
+  const SUN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>';
+  const MOON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+  const btn = document.getElementById('themeToggle');
+  const apply = (theme) => {
+    document.documentElement.setAttribute('data-theme', theme);
+    btn.innerHTML = theme === 'dark' ? SUN : MOON;
+    btn.title = theme === 'dark' ? 'Modo claro' : 'Modo escuro';
+  };
+  let current = document.documentElement.getAttribute('data-theme') || 'light';
+  apply(current);
+  btn.addEventListener('click', () => {
+    current = current === 'dark' ? 'light' : 'dark';
+    try { localStorage.setItem('lectio-theme-v1', current); } catch {}
+    apply(current);
+  });
+})();
+</script>
+</body></html>

@@ -13,9 +13,11 @@ const books = {
   'Apocalipse':'ap','Atos':'atos','Colossenses':'cl','Daniel':'dn','Eclesiastes':'ec','Efésios':'ef',
   'Filemom':'fm','Filipenses':'fp','Gálatas':'gl','Gênesis':'gn','Hebreus':'hb','Isaías':'is','Jeremias':'jr','Judas':'jd','João':'jo',
   'Josué':'js','Juízes':'jz','Lamentações':'lm','Deuteronômio':'dt','Êxodo':'ex','Levítico':'lv','Números':'nm','Romanos':'rm','Salmo':'sl','Salmos':'sl','Tito':'tt','1 Coríntios':'1co','2 Coríntios':'2co',
-  '1 Pedro':'1pe','2 Pedro':'2pe','1 Timóteo':'1tm','2 Timóteo':'2tm',
+  '1 Pedro':'1pe','2 Pedro':'2pe','1 Timóteo':'1tm','2 Timóteo':'2tm','1 Samuel':'1sm','2 Samuel':'2sm',
   '1 Tessalonicenses':'1ts','2 Tessalonicenses':'2ts','Provérbios':'pv','Tiago':'tg'
   ,'Mateus':'mt','Marcos':'mc','Lucas':'lc','1 João':'1jo','2 João':'2jo','3 João':'3jo'
+  ,'1 Reis':'1rs','2 Reis':'2rs','1 Crônicas':'1cr','2 Crônicas':'2cr'
+  ,'Esdras':'ed','Neemias':'ne','Jó':'jó'
 };
 const bible = JSON.parse(fs.readFileSync('docs/nvi.json', 'utf8').replace(/^\uFEFF/, ''));
 const byAbbrev = new Map(bible.map(book => [book.abbrev, book.chapters]));
