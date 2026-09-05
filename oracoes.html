@@ -2,7 +2,10 @@
 <html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Lectio — Pedidos de Oração</title><script>(function(){try{var t=localStorage.getItem('lectio-theme-v1');if(!t){t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.setAttribute('data-theme',t);}catch(e){}})();</script><link rel="stylesheet" href="styles.css"></head><body>
 <div class="journeys-actions">
   <a class="icon-btn" href="jornadas.html" title="Voltar às jornadas" aria-label="Voltar às jornadas"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M11 18l-6-6 6-6"/></svg></a>
-  <button class="icon-btn" id="themeToggle" type="button" title="Alternar tema" aria-label="Alternar tema"></button>
+  <div class="theme-menu" id="themeMenu">
+    <button class="icon-btn" id="themeToggle" type="button" title="Mudar aparência" aria-label="Mudar aparência"></button>
+    <div class="theme-menu-panel" id="themeMenuPanel" hidden></div>
+  </div>
 </div>
 <main class="pedidos-page">
   <div class="journeys-kicker">Lectio · Oração</div>
@@ -239,19 +242,50 @@
 (() => {
   const SUN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>';
   const MOON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>';
+  const PALETTE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a10 10 0 1 0 0 20c1.1 0 2-.9 2-2 0-.5-.2-1-.5-1.3-.3-.4-.5-.8-.5-1.3 0-1.1.9-2 2-2h2.3A4.2 4.2 0 0 0 22 11c0-5-4.5-9-10-9z"/><circle cx="7" cy="12" r="1.2" fill="currentColor" stroke="none"/><circle cx="9.5" cy="7.5" r="1.2" fill="currentColor" stroke="none"/><circle cx="15" cy="7.5" r="1.2" fill="currentColor" stroke="none"/><circle cx="17" cy="12" r="1.2" fill="currentColor" stroke="none"/></svg>';
+  const THEMES = [
+    { id: 'light', label: 'Claro', desc: 'Branco quente · minimalista', swatch: '#c1673f' },
+    { id: 'dark', label: 'Escuro', desc: 'Contraste suave para a noite', swatch: '#1a1a1a' },
+    { id: 'monastic', label: 'Monástica', desc: 'Pergaminho, iluminuras, serifas clássicas', swatch: '#7a2e2e' },
+    { id: 'vintage', label: 'Vintage', desc: 'Diário de viagem · papel envelhecido, manuscrito', swatch: '#a35a3a' },
+    { id: 'editorial', label: 'Editorial', desc: 'Revista contemporânea cristã', swatch: '#c81e3a' },
+    { id: 'nature', label: 'Natureza e Luz', desc: 'Tons terrosos e orgânicos', swatch: '#5c7a4e' },
+  ];
+  const menu = document.getElementById('themeMenu');
   const btn = document.getElementById('themeToggle');
-  const apply = (theme) => {
-    document.documentElement.setAttribute('data-theme', theme);
-    btn.innerHTML = theme === 'dark' ? SUN : MOON;
-    btn.title = theme === 'dark' ? 'Modo claro' : 'Modo escuro';
-  };
+  const panel = document.getElementById('themeMenuPanel');
   let current = document.documentElement.getAttribute('data-theme') || 'light';
-  apply(current);
-  btn.addEventListener('click', () => {
-    current = current === 'dark' ? 'light' : 'dark';
+
+  const renderPanel = () => {
+    panel.innerHTML = THEMES.map(t => `
+      <button type="button" class="theme-menu-item ${t.id === current ? 'active' : ''}" data-theme-id="${t.id}">
+        <span class="theme-swatch" style="background:${t.swatch}"></span>
+        <span class="theme-menu-item-text">
+          <span class="theme-menu-item-label">${t.label}</span>
+          <span class="theme-menu-item-desc">${t.desc}</span>
+        </span>
+      </button>
+    `).join('');
+    panel.querySelectorAll('[data-theme-id]').forEach(item => {
+      item.addEventListener('click', () => {
+        apply(item.dataset.themeId);
+        panel.hidden = true;
+      });
+    });
+  };
+
+  const apply = (theme) => {
+    current = theme;
+    document.documentElement.setAttribute('data-theme', theme);
+    btn.innerHTML = theme === 'dark' ? SUN : theme === 'light' ? MOON : PALETTE;
     try { localStorage.setItem('lectio-theme-v1', current); } catch {}
-    apply(current);
-  });
+    renderPanel();
+  };
+
+  apply(current);
+  btn.addEventListener('click', () => { panel.hidden = !panel.hidden; });
+  document.addEventListener('click', (e) => { if (!menu.contains(e.target)) panel.hidden = true; });
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') panel.hidden = true; });
 })();
 </script>
 </body></html>

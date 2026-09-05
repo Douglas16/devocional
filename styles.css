@@ -1,7 +1,7 @@
 /* Lectio — Diário Devocional
    Minimalista sereno · tipografia editorial · muito espaço branco */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&family=Lora:ital,wght@0,400..700;1,400..700&family=Fraunces:ital,wght@0,300..700;1,300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&family=Lora:ital,wght@0,400..700;1,400..700&family=Fraunces:ital,wght@0,300..700;1,300..700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Vollkorn:ital,wght@0,400;0,500;0,600;1,400&family=Special+Elite&family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Work+Sans:wght@300;400;500;600&family=Space+Mono:wght@400;700&family=Nunito+Sans:wght@300;400;500;600&family=Newsreader:ital,wght@0,300..700;1,300..700&display=swap');
 
 :root {
   /* Light mode — branco quente + terracota */
@@ -19,6 +19,18 @@
   --accent-soft: oklch(93% 0.028 55);
   --highlight: oklch(90% 0.055 75 / 0.55);
   --shadow: 0 1px 2px oklch(20% 0.02 60 / 0.04), 0 8px 24px oklch(20% 0.02 60 / 0.05);
+
+  /* Tipografia — trocada por tema */
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-serif: 'Lora', Georgia, serif;
+  --font-display: 'Fraunces', serif;
+  --font-mono: 'JetBrains Mono', 'SF Mono', monospace;
+
+  /* Textura de fundo — desligada por padrão */
+  --noise-svg: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  --texture-image: none;
+  --texture-opacity: 0;
+  --texture-blend: multiply;
 }
 
 [data-theme="dark"] {
@@ -38,12 +50,111 @@
   --shadow: 0 1px 2px oklch(0% 0 0 / 0.4), 0 8px 24px oklch(0% 0 0 / 0.35);
 }
 
+/* Monástica / Medieval — pergaminho, iluminuras, serifas clássicas */
+[data-theme="monastic"] {
+  --bg: oklch(93% 0.025 85);
+  --bg-elev: oklch(95.5% 0.022 88);
+  --bg-sunk: oklch(89% 0.030 82);
+  --ink: oklch(28% 0.030 50);
+  --ink-2: oklch(38% 0.035 45);
+  --ink-3: oklch(52% 0.040 45);
+  --ink-4: oklch(68% 0.030 55);
+  --line: oklch(78% 0.035 70);
+  --line-strong: oklch(68% 0.045 65);
+  --accent: oklch(38% 0.090 35);
+  --accent-2: oklch(58% 0.110 75);
+  --accent-soft: oklch(86% 0.050 70);
+  --highlight: oklch(80% 0.090 85 / 0.55);
+  --shadow: 0 1px 2px oklch(30% 0.03 50 / 0.15), 0 8px 24px oklch(30% 0.03 50 / 0.18);
+  --font-sans: 'EB Garamond', Georgia, serif;
+  --font-serif: 'EB Garamond', Georgia, serif;
+  --font-display: 'Cormorant Garamond', 'EB Garamond', serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --texture-image: var(--noise-svg);
+  --texture-opacity: 0.09;
+  --texture-blend: multiply;
+}
+
+/* Vintage — diário de viagem, papel envelhecido, manuscrito */
+[data-theme="vintage"] {
+  --bg: oklch(90% 0.028 80);
+  --bg-elev: oklch(93% 0.024 82);
+  --bg-sunk: oklch(86% 0.032 78);
+  --ink: oklch(30% 0.025 55);
+  --ink-2: oklch(40% 0.028 50);
+  --ink-3: oklch(54% 0.030 50);
+  --ink-4: oklch(68% 0.025 55);
+  --line: oklch(74% 0.030 70);
+  --line-strong: oklch(64% 0.035 65);
+  --accent: oklch(45% 0.110 35);
+  --accent-2: oklch(55% 0.090 55);
+  --accent-soft: oklch(83% 0.045 60);
+  --highlight: oklch(78% 0.080 80 / 0.5);
+  --shadow: 0 1px 2px oklch(25% 0.02 50 / 0.18), 0 10px 26px oklch(25% 0.02 50 / 0.2);
+  --font-sans: 'Special Elite', 'Courier Prime', monospace;
+  --font-serif: 'Vollkorn', Georgia, serif;
+  --font-display: 'Special Elite', 'Courier Prime', monospace;
+  --font-mono: 'Courier Prime', 'Special Elite', monospace;
+  --texture-image: var(--noise-svg);
+  --texture-opacity: 0.14;
+  --texture-blend: multiply;
+}
+
+/* Moderno Editorial — revista contemporânea cristã */
+[data-theme="editorial"] {
+  --bg: oklch(99% 0.002 90);
+  --bg-elev: oklch(100% 0 0);
+  --bg-sunk: oklch(95.5% 0.004 90);
+  --ink: oklch(15% 0.005 60);
+  --ink-2: oklch(30% 0.006 60);
+  --ink-3: oklch(48% 0.008 60);
+  --ink-4: oklch(68% 0.006 60);
+  --line: oklch(88% 0.004 60);
+  --line-strong: oklch(78% 0.006 60);
+  --accent: oklch(48% 0.190 25);
+  --accent-2: oklch(40% 0.020 60);
+  --accent-soft: oklch(93% 0.030 25);
+  --highlight: oklch(88% 0.050 95 / 0.6);
+  --shadow: 0 1px 2px oklch(20% 0 0 / 0.06), 0 10px 28px oklch(20% 0 0 / 0.08);
+  --font-sans: 'Work Sans', system-ui, sans-serif;
+  --font-serif: 'Playfair Display', Georgia, serif;
+  --font-display: 'Playfair Display', serif;
+  --font-mono: 'Space Mono', monospace;
+  --texture-image: none;
+  --texture-opacity: 0;
+}
+
+/* Natureza e Luz — tons terrosos, orgânico */
+[data-theme="nature"] {
+  --bg: oklch(95.5% 0.020 95);
+  --bg-elev: oklch(97.5% 0.015 95);
+  --bg-sunk: oklch(92% 0.025 95);
+  --ink: oklch(28% 0.025 140);
+  --ink-2: oklch(40% 0.030 135);
+  --ink-3: oklch(54% 0.035 125);
+  --ink-4: oklch(70% 0.025 115);
+  --line: oklch(85% 0.030 110);
+  --line-strong: oklch(76% 0.035 110);
+  --accent: oklch(48% 0.075 145);
+  --accent-2: oklch(58% 0.090 70);
+  --accent-soft: oklch(90% 0.040 130);
+  --highlight: oklch(88% 0.060 110 / 0.5);
+  --shadow: 0 1px 2px oklch(30% 0.02 120 / 0.08), 0 10px 26px oklch(30% 0.02 120 / 0.1);
+  --font-sans: 'Nunito Sans', system-ui, sans-serif;
+  --font-serif: 'Newsreader', Georgia, serif;
+  --font-display: 'Newsreader', serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --texture-image: var(--noise-svg);
+  --texture-opacity: 0.05;
+  --texture-blend: multiply;
+}
+
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 html, body {
   background: var(--bg);
   color: var(--ink);
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-family: var(--font-sans);
   font-size: 16px;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
@@ -52,11 +163,23 @@ html, body {
   min-height: 100vh;
 }
 
-body { overflow-x: hidden; }
+body { overflow-x: hidden; position: relative; }
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: var(--texture-image);
+  background-size: 200px 200px;
+  opacity: var(--texture-opacity);
+  mix-blend-mode: var(--texture-blend);
+  transition: opacity 0.4s ease;
+}
 
 /* ============ TIPOGRAFIA UTIL ============ */
-.serif { font-family: 'Lora', Georgia, serif; }
-.mono  { font-family: 'JetBrains Mono', 'SF Mono', monospace; }
+.serif { font-family: var(--font-serif); }
+.mono  { font-family: var(--font-mono); }
 .eyebrow {
   font-size: 11px;
   font-weight: 500;
@@ -72,6 +195,7 @@ body { overflow-x: hidden; }
   padding: 32px 40px 120px;
   min-height: 100vh;
   position: relative;
+  z-index: 1;
 }
 
 /* ============ HEADER ============ */
@@ -86,7 +210,7 @@ body { overflow-x: hidden; }
 
 .brand { display: flex; align-items: baseline; gap: 14px; }
 .brand-mark {
-  font-family: 'Lora', Georgia, serif;
+  font-family: var(--font-serif);
   font-size: 26px;
   font-weight: 400;
   letter-spacing: -0.01em;
@@ -154,7 +278,7 @@ body { overflow-x: hidden; }
   background: var(--bg-sunk);
   font-size: 10px;
   color: var(--ink-3);
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
 }
 
 /* ============ HOJE — LEITOR ============ */
@@ -192,7 +316,7 @@ body { overflow-x: hidden; }
 .day-nav-btn svg { width: 14px; height: 14px; }
 
 .day-label {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.12em;
   color: var(--ink-3);
@@ -238,7 +362,7 @@ body { overflow-x: hidden; }
   padding: 24px 0 56px;
 }
 .day-theme {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -246,7 +370,7 @@ body { overflow-x: hidden; }
   margin-bottom: 20px;
 }
 .day-date {
-  font-family: 'Lora', Georgia, serif;
+  font-family: var(--font-serif);
   font-style: italic;
   font-size: 15px;
   color: var(--ink-3);
@@ -262,7 +386,7 @@ body { overflow-x: hidden; }
   margin-bottom: 56px;
 }
 .verse-anchor-text {
-  font-family: 'Fraunces', Georgia, serif;
+  font-family: var(--font-display);
   font-weight: 300;
   font-size: 30px;
   line-height: 1.35;
@@ -277,11 +401,11 @@ body { overflow-x: hidden; }
 .verse-anchor-text::after {
   content: "";
   color: var(--accent);
-  font-family: 'Fraunces', Georgia, serif;
+  font-family: var(--font-display);
   font-style: italic;
 }
 .verse-anchor-ref {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.15em;
   text-transform: uppercase;
@@ -293,7 +417,7 @@ body { overflow-x: hidden; }
   margin-bottom: 56px;
 }
 .section-title {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 10px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
@@ -321,7 +445,7 @@ body { overflow-x: hidden; }
   align-items: start;
 }
 .word-original {
-  font-family: 'Lora', Georgia, serif;
+  font-family: var(--font-serif);
   font-size: 42px;
   line-height: 1;
   color: var(--accent);
@@ -330,7 +454,7 @@ body { overflow-x: hidden; }
 }
 .word-body { font-size: 14px; }
 .word-translit {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 13px;
   color: var(--ink);
   font-weight: 500;
@@ -348,7 +472,7 @@ body { overflow-x: hidden; }
   color: var(--ink-2);
   font-style: italic;
   margin-bottom: 12px;
-  font-family: 'Lora', Georgia, serif;
+  font-family: var(--font-serif);
   font-size: 15px;
 }
 .word-note {
@@ -362,14 +486,14 @@ body { overflow-x: hidden; }
   font-size: 15px;
   color: var(--ink-2);
   line-height: 1.75;
-  font-family: 'Lora', Georgia, serif;
+  font-family: var(--font-serif);
   font-weight: 300;
   font-variation-settings: "opsz" 14;
 }
 
 /* Passage */
 .passage-ref {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.14em;
   color: var(--ink-3);
@@ -377,7 +501,7 @@ body { overflow-x: hidden; }
   margin-bottom: 16px;
 }
 .passage-verses {
-  font-family: 'Lora', Georgia, serif;
+  font-family: var(--font-serif);
   font-weight: 300;
   font-size: 18px;
   line-height: 1.8;
@@ -403,7 +527,7 @@ body { overflow-x: hidden; }
   background: var(--highlight);
 }
 .passage-verses .verse-num {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 10px;
   color: var(--ink-3);
   vertical-align: super;
@@ -413,7 +537,7 @@ body { overflow-x: hidden; }
 .verse-highlight-hint {
   position: absolute;
   right: 0; top: 4px;
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 9px;
   color: var(--ink-4);
   letter-spacing: 0.1em;
@@ -425,7 +549,7 @@ body { overflow-x: hidden; }
 
 /* Meditation */
 .meditation-text p {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 300;
   font-size: 17px;
   line-height: 1.75;
@@ -435,7 +559,7 @@ body { overflow-x: hidden; }
   font-variation-settings: "opsz" 14;
 }
 .meditation-text p:first-child::first-letter {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-size: 56px;
   font-weight: 300;
   float: left;
@@ -455,7 +579,7 @@ body { overflow-x: hidden; }
   padding: 20px 0 20px 48px;
   border-bottom: 1px solid var(--line);
   position: relative;
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 300;
   font-size: 17px;
   line-height: 1.6;
@@ -468,7 +592,7 @@ body { overflow-x: hidden; }
   content: counter(q, decimal-leading-zero);
   position: absolute;
   left: 0; top: 22px;
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   color: var(--accent);
   font-style: normal;
@@ -480,7 +604,7 @@ body { overflow-x: hidden; }
   background: var(--accent-soft);
   padding: 28px 32px;
   border-radius: 4px;
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-size: 17px;
   line-height: 1.6;
   color: var(--ink);
@@ -492,14 +616,14 @@ body { overflow-x: hidden; }
   position: absolute;
   left: 12px; top: 26px;
   color: var(--accent);
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 14px;
 }
 .application-box { padding-left: 40px; }
 
 /* Prayer */
 .prayer-text {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-style: italic;
   font-weight: 300;
   font-size: 19px;
@@ -529,7 +653,7 @@ body { overflow-x: hidden; }
   border: 1px solid var(--line);
   border-radius: 4px;
   padding: 20px;
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 300;
   font-size: 16px;
   line-height: 1.7;
@@ -548,7 +672,7 @@ body { overflow-x: hidden; }
 }
 .notes-meta {
   margin-top: 10px;
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 10px;
   letter-spacing: 0.1em;
   color: var(--ink-4);
@@ -565,7 +689,7 @@ body { overflow-x: hidden; }
   margin-top: 48px;
 }
 .day-end-mark {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-style: italic;
   color: var(--accent);
   font-size: 20px;
@@ -579,7 +703,7 @@ body { overflow-x: hidden; }
   text-align: center;
 }
 .journey-title {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 300;
   font-size: 34px;
   color: var(--ink);
@@ -587,7 +711,7 @@ body { overflow-x: hidden; }
   margin-bottom: 16px;
 }
 .journey-sub {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-style: italic;
   font-size: 15px;
   color: var(--ink-3);
@@ -608,7 +732,7 @@ body { overflow-x: hidden; }
 }
 .progress-label {
   margin-top: 12px;
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.12em;
   color: var(--ink-3);
@@ -661,7 +785,7 @@ body { overflow-x: hidden; }
 }
 
 .journey-card-day {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 10px;
   letter-spacing: 0.18em;
   color: var(--ink-3);
@@ -680,7 +804,7 @@ body { overflow-x: hidden; }
   border-color: var(--accent);
 }
 .journey-card-theme {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 400;
   font-size: 20px;
   line-height: 1.2;
@@ -689,7 +813,7 @@ body { overflow-x: hidden; }
   letter-spacing: -0.01em;
 }
 .journey-card-ref {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 10px;
   letter-spacing: 0.08em;
   color: var(--ink-3);
@@ -713,20 +837,20 @@ body { overflow-x: hidden; }
   margin-bottom: 20px;
 }
 .notes-entry-day {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.14em;
   color: var(--accent);
 }
 .notes-entry-theme {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 400;
   font-size: 22px;
   color: var(--ink);
   margin-top: 4px;
 }
 .notes-entry-open {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 10px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
@@ -738,7 +862,7 @@ body { overflow-x: hidden; }
 }
 .notes-entry-open:hover { color: var(--accent); }
 .notes-entry-text {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 300;
   font-size: 16px;
   line-height: 1.75;
@@ -752,7 +876,7 @@ body { overflow-x: hidden; }
   border-top: 1px dashed var(--line);
 }
 .notes-highlight-item {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 300;
   font-style: italic;
   font-size: 14px;
@@ -768,7 +892,7 @@ body { overflow-x: hidden; }
   text-align: center;
   padding: 80px 20px;
   color: var(--ink-3);
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-style: italic;
   font-size: 16px;
 }
@@ -812,7 +936,7 @@ body { overflow-x: hidden; }
   border: 1px solid var(--line);
   border-radius: 100px;
   color: var(--ink-2);
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 11px;
   letter-spacing: 0.08em;
   box-shadow: var(--shadow);
@@ -868,36 +992,90 @@ body { overflow-x: hidden; }
   color: var(--accent);
 }
 .study-menu-label {
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 400;
   font-size: 15px;
   color: var(--ink);
   margin-bottom: 3px;
 }
 .study-menu-meta {
-  font-family: 'JetBrains Mono', monospace;
+  font-family: var(--font-mono);
   font-size: 10px;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--ink-3);
 }
 
+/* ============ Theme menu (seletor de aparência) ============ */
+.theme-menu {
+  position: relative;
+}
+.theme-menu-panel {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  min-width: 280px;
+  background: var(--bg-elev);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 6px;
+  box-shadow: var(--shadow);
+  z-index: 60;
+  animation: fadeIn 0.15s ease;
+}
+.theme-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 10px 12px;
+  border-radius: 6px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  text-align: left;
+  font-family: inherit;
+  color: var(--ink);
+  transition: background 0.15s ease;
+}
+.theme-menu-item:hover { background: var(--bg-sunk); }
+.theme-menu-item.active { background: var(--accent-soft); }
+.theme-menu-item.active .theme-menu-item-label { color: var(--accent); }
+.theme-swatch {
+  width: 20px; height: 20px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 1px solid var(--line-strong);
+}
+.theme-menu-item-text { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.theme-menu-item-label {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 14px;
+  color: var(--ink);
+}
+.theme-menu-item-desc {
+  font-size: 11px;
+  color: var(--ink-3);
+  line-height: 1.3;
+}
+
 /* ============ JORNADAS ============ */
 .journeys-actions { position: fixed; top: 20px; right: 24px; z-index: 10; display: flex; gap: 8px; }
 .journeys-page { max-width: 900px; margin: 0 auto; padding: 64px 28px 100px; }
-.journeys-kicker { font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin-bottom: 16px; }
-.journeys-title { font-family: 'Lora', Georgia, serif; font-style: italic; font-size: clamp(32px, 6vw, 56px); font-weight: 400; letter-spacing: -0.01em; line-height: 1.08; margin-bottom: 14px; }
+.journeys-kicker { font-family: var(--font-mono); font-size: 11px; letter-spacing: .14em; text-transform: uppercase; color: var(--accent); margin-bottom: 16px; }
+.journeys-title { font-family: var(--font-serif); font-style: italic; font-size: clamp(32px, 6vw, 56px); font-weight: 400; letter-spacing: -0.01em; line-height: 1.08; margin-bottom: 14px; }
 .journeys-title::first-letter { font-weight: 500; }
-.journeys-intro { color: var(--ink-3); font-family: 'Lora', Georgia, serif; font-style: italic; font-size: 14px; max-width: 620px; margin-bottom: 10px; }
-.journeys-stats { font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: .01em; color: var(--ink-3); max-width: 620px; margin-bottom: 40px; min-height: 16px; }
+.journeys-intro { color: var(--ink-3); font-family: var(--font-serif); font-style: italic; font-size: 14px; max-width: 620px; margin-bottom: 10px; }
+.journeys-stats { font-family: var(--font-mono); font-size: 12px; letter-spacing: .01em; color: var(--ink-3); max-width: 620px; margin-bottom: 40px; min-height: 16px; }
 .journeys-stats strong { color: var(--accent); font-weight: 600; }
 .journeys-stats:empty { display: none; }
 .journeys-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
 .journey-choice { --journey-progress: 0%; position: relative; display: block; text-decoration: none; color: var(--ink); padding: 22px; border: 1px solid var(--line); border-radius: 10px; background: linear-gradient(90deg, color-mix(in oklch, var(--accent) var(--journey-progress), var(--bg-elev)) 0 var(--journey-progress), var(--bg-elev) var(--journey-progress) 100%); overflow: hidden; transition: transform .15s, border-color .15s, box-shadow .15s, background .25s; }
 .journey-choice:hover { transform: translateY(-2px); border-color: var(--accent); box-shadow: var(--shadow); }
-.journey-choice-title { font-family: 'Lora', Georgia, serif; font-size: 18px; font-weight: 400; margin-bottom: 7px; padding-right: 64px; }
-.journey-choice-meta { font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); }
-.journey-choice-progress { position: absolute; top: 14px; right: 16px; font-family: 'Lora', Georgia, serif; font-size: 30px; line-height: 1; letter-spacing: -.02em; color: var(--accent); font-weight: 700; }
+.journey-choice-title { font-family: var(--font-serif); font-size: 18px; font-weight: 400; margin-bottom: 7px; padding-right: 64px; }
+.journey-choice-meta { font-family: var(--font-mono); font-size: 10px; letter-spacing: .1em; text-transform: uppercase; color: var(--ink-3); }
+.journey-choice-progress { position: absolute; top: 14px; right: 16px; font-family: var(--font-serif); font-size: 30px; line-height: 1; letter-spacing: -.02em; color: var(--accent); font-weight: 700; }
 .journey-choice.is-complete { --journey-progress: 100%; border-color: var(--line-strong); }
 .journey-choice.is-complete .journey-choice-title { color: var(--ink-2); }
 .journey-choice.is-complete .journey-choice-progress { color: var(--accent); font-weight: 800; }
@@ -906,14 +1084,14 @@ body { overflow-x: hidden; }
 .reset-modal-overlay { position: fixed; inset: 0; z-index: 100; display: flex; align-items: center; justify-content: center; padding: 24px; background: color-mix(in oklch, black 55%, transparent); }
 .reset-modal-overlay[hidden] { display: none; }
 .reset-modal { width: 100%; max-width: 460px; max-height: 84vh; overflow-y: auto; background: var(--bg-elev); border: 1px solid var(--line); border-radius: 14px; padding: 28px; box-shadow: var(--shadow); }
-.reset-modal-title { font-family: 'Lora', Georgia, serif; font-size: 22px; font-weight: 500; margin-bottom: 10px; }
+.reset-modal-title { font-family: var(--font-serif); font-size: 22px; font-weight: 500; margin-bottom: 10px; }
 .reset-modal-sub { color: var(--ink-2); font-size: 14px; line-height: 1.55; margin-bottom: 16px; }
 .reset-row { display: flex; align-items: center; gap: 10px; padding: 10px 4px; border-bottom: 1px solid var(--line); cursor: pointer; font-size: 14px; }
 .reset-row:last-child { border-bottom: none; }
 .reset-row input[type="checkbox"] { width: 16px; height: 16px; accent-color: var(--accent); flex-shrink: 0; cursor: pointer; }
 .reset-row-all { font-weight: 500; margin-bottom: 4px; }
 .reset-row-label { flex: 1; }
-.reset-row-meta { font-family: 'JetBrains Mono', monospace; font-size: 11px; color: var(--ink-3); }
+.reset-row-meta { font-family: var(--font-mono); font-size: 11px; color: var(--ink-3); }
 .reset-list { max-height: 320px; overflow-y: auto; margin-bottom: 20px; border-top: 1px solid var(--line); }
 .reset-confirm-list { list-style: none; margin: 0 0 16px; padding: 0; max-height: 220px; overflow-y: auto; }
 .reset-confirm-list li { padding: 8px 12px; background: var(--bg-sunk); border-radius: 8px; margin-bottom: 6px; font-size: 14px; }
@@ -935,7 +1113,7 @@ body { overflow-x: hidden; }
   background: transparent;
   border: none;
   resize: vertical;
-  font-family: 'Fraunces', serif;
+  font-family: var(--font-display);
   font-weight: 300;
   font-size: 16px;
   line-height: 1.6;
@@ -947,11 +1125,11 @@ body { overflow-x: hidden; }
 .pedido-mic.is-recording { background: var(--accent); border-color: var(--accent); color: var(--bg-elev); animation: pedido-pulse 1.4s ease-in-out infinite; }
 @keyframes pedido-pulse { 0%, 100% { box-shadow: 0 0 0 0 color-mix(in oklch, var(--accent) 45%, transparent); } 50% { box-shadow: 0 0 0 8px color-mix(in oklch, var(--accent) 0%, transparent); } }
 .pedido-form-actions { display: flex; align-items: center; justify-content: flex-end; gap: 14px; margin-top: 10px; }
-.pedido-mic-status { font-family: 'JetBrains Mono', monospace; font-size: 11px; letter-spacing: .06em; color: var(--accent); margin-right: auto; }
+.pedido-mic-status { font-family: var(--font-mono); font-size: 11px; letter-spacing: .06em; color: var(--accent); margin-right: auto; }
 
 .pedido-section { margin-bottom: 40px; }
-.pedido-section-title { font-family: 'Lora', Georgia, serif; font-size: 18px; font-weight: 500; display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
-.pedido-count { font-family: 'JetBrains Mono', monospace; font-size: 12px; color: var(--ink-3); background: var(--bg-sunk); border-radius: 100px; padding: 2px 10px; }
+.pedido-section-title { font-family: var(--font-serif); font-size: 18px; font-weight: 500; display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+.pedido-count { font-family: var(--font-mono); font-size: 12px; color: var(--ink-3); background: var(--bg-sunk); border-radius: 100px; padding: 2px 10px; }
 .pedido-empty { color: var(--ink-3); font-size: 14px; font-style: italic; padding: 8px 2px; }
 .pedido-list { display: flex; flex-direction: column; gap: 10px; }
 
@@ -960,13 +1138,13 @@ body { overflow-x: hidden; }
 .pedido-card.is-answered { background: var(--bg-sunk); }
 .pedido-card-main { flex: 1; min-width: 0; }
 .pedido-card-date { font-size: 10px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); margin-bottom: 6px; }
-.pedido-card-text { font-family: 'Fraunces', serif; font-weight: 300; font-size: 16px; line-height: 1.55; color: var(--ink); white-space: pre-wrap; overflow-wrap: break-word; margin-bottom: 10px; }
+.pedido-card-text { font-family: var(--font-display); font-weight: 300; font-size: 16px; line-height: 1.55; color: var(--ink); white-space: pre-wrap; overflow-wrap: break-word; margin-bottom: 10px; }
 .pedido-card.is-answered .pedido-card-text { color: var(--ink-2); }
 .pedido-card-meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
-.pedido-badge { font-family: 'JetBrains Mono', monospace; font-size: 10px; letter-spacing: .05em; padding: 4px 10px; border-radius: 100px; }
+.pedido-badge { font-family: var(--font-mono); font-size: 10px; letter-spacing: .05em; padding: 4px 10px; border-radius: 100px; }
 .pedido-badge-open { background: var(--accent-soft); color: var(--accent); }
 .pedido-badge-answered { background: color-mix(in oklch, var(--accent) 18%, var(--bg-sunk)); color: var(--ink-2); }
-.pedido-duration { font-family: 'JetBrains Mono', monospace; font-size: 10px; color: var(--ink-3); }
+.pedido-duration { font-family: var(--font-mono); font-size: 10px; color: var(--ink-3); }
 .pedido-card-actions { display: flex; flex-direction: column; gap: 8px; flex-shrink: 0; }
 .pedido-check { width: 34px; height: 34px; border-radius: 50%; border: 1px solid var(--line); background: transparent; color: var(--ink-4); cursor: pointer; display: inline-flex; align-items: center; justify-content: center; transition: all .15s; }
 .pedido-check svg { width: 16px; height: 16px; }
