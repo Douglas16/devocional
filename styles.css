@@ -1154,6 +1154,177 @@ body::before {
 .pedido-delete svg { width: 15px; height: 15px; }
 .pedido-delete:hover { border-color: var(--line-strong); color: var(--ink-2); }
 
+/* ============ FORMA POR TEMA — estrutura, não só cor ============ */
+
+/* --- Monástica / Medieval: moldura de manuscrito iluminado --- */
+[data-theme="monastic"] .app { position: relative; }
+[data-theme="monastic"] .app::before,
+[data-theme="monastic"] .app::after {
+  content: "";
+  position: absolute;
+  top: 14px;
+  width: 30px; height: 30px;
+  pointer-events: none;
+  opacity: .75;
+}
+[data-theme="monastic"] .app::before { left: 14px; border-top: 3px solid var(--accent-2); border-left: 3px solid var(--accent-2); }
+[data-theme="monastic"] .app::after { right: 14px; border-top: 3px solid var(--accent-2); border-right: 3px solid var(--accent-2); }
+[data-theme="monastic"] .header {
+  border-bottom: none;
+  position: relative;
+}
+[data-theme="monastic"] .header::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 5px;
+  background:
+    linear-gradient(var(--line-strong), var(--line-strong)) top / 100% 1px no-repeat,
+    linear-gradient(var(--line), var(--line)) bottom / 100% 1px no-repeat;
+}
+[data-theme="monastic"] .brand-mark::first-letter { font-size: 1.6em; color: var(--accent-2); font-weight: 600; }
+[data-theme="monastic"] .tabs { gap: 26px; }
+[data-theme="monastic"] .tab.active::after { height: 2px; background: var(--accent-2); }
+[data-theme="monastic"] .icon-btn,
+[data-theme="monastic"] .day-nav-btn,
+[data-theme="monastic"] .theme-menu-panel,
+[data-theme="monastic"] .study-menu-panel,
+[data-theme="monastic"] .word-card,
+[data-theme="monastic"] .journey-card,
+[data-theme="monastic"] .application-box,
+[data-theme="monastic"] .notes-textarea { border-radius: 2px; }
+[data-theme="monastic"] .section-title { letter-spacing: .28em; }
+[data-theme="monastic"] .section-title::before { content: "✦"; color: var(--accent-2); }
+[data-theme="monastic"] .word-card {
+  border: 1px solid var(--line-strong);
+  outline: 1px solid var(--line-strong);
+  outline-offset: 5px;
+}
+[data-theme="monastic"] .verse-anchor { border-top: none; border-bottom: none; padding: 24px 0 48px; }
+[data-theme="monastic"] .verse-anchor::before,
+[data-theme="monastic"] .verse-anchor::after {
+  content: "";
+  display: block;
+  max-width: 220px;
+  margin: 0 auto 28px;
+  height: 3px;
+  background:
+    linear-gradient(var(--accent-2), var(--accent-2)) top / 100% 1px no-repeat,
+    linear-gradient(var(--accent-2), var(--accent-2)) bottom / 100% 1px no-repeat;
+}
+[data-theme="monastic"] .verse-anchor::after { margin: 28px auto 0; }
+[data-theme="monastic"] .verse-anchor-text::first-letter { font-size: 2.3em; color: var(--accent-2); font-weight: 600; }
+[data-theme="monastic"] .journey-card { border: 1px solid var(--line-strong); }
+[data-theme="monastic"] .journey-card.is-tiago,
+[data-theme="monastic"] .journey-card.is-proverbios { border-left-width: 4px; }
+[data-theme="monastic"] .day-end-mark { font-size: 26px; letter-spacing: .35em; }
+
+/* --- Vintage: diário de viagem, recortes colados, carimbos --- */
+[data-theme="vintage"] .word-card,
+[data-theme="vintage"] .journey-card,
+[data-theme="vintage"] .application-box,
+[data-theme="vintage"] .notes-textarea,
+[data-theme="vintage"] .pedido-card,
+[data-theme="vintage"] .pedido-form,
+[data-theme="vintage"] .icon-btn,
+[data-theme="vintage"] .day-nav-btn,
+[data-theme="vintage"] .read-status { border-radius: 2px; }
+[data-theme="vintage"] .icon-btn,
+[data-theme="vintage"] .day-nav-btn,
+[data-theme="vintage"] .read-status { border-style: dashed; }
+[data-theme="vintage"] .word-card {
+  position: relative;
+  border: 1px solid var(--line-strong);
+  transform: rotate(-0.6deg);
+  box-shadow: var(--shadow), 0 0 0 6px var(--bg-elev);
+}
+[data-theme="vintage"] .word-card::before {
+  content: "";
+  position: absolute;
+  top: -11px; left: 50%;
+  width: 64px; height: 22px;
+  margin-left: -32px;
+  background: color-mix(in oklch, var(--accent-2) 35%, transparent);
+  border: 1px solid color-mix(in oklch, var(--accent-2) 55%, transparent);
+  transform: rotate(2deg);
+}
+[data-theme="vintage"] .verse-anchor { border-style: dashed; }
+[data-theme="vintage"] .verse-anchor-ref {
+  display: inline-block;
+  padding: 6px 16px;
+  border: 1px dashed var(--accent);
+  border-radius: 3px;
+  color: var(--accent);
+  transform: rotate(-2deg);
+}
+[data-theme="vintage"] .day-theme {
+  display: inline-block;
+  padding: 6px 14px;
+  border: 1px dashed var(--line-strong);
+  border-radius: 3px;
+}
+[data-theme="vintage"] .journey-card { border-style: dashed; transition: transform .2s ease, border-color .2s ease, box-shadow .2s ease; }
+[data-theme="vintage"] .journey-card:nth-child(odd) { transform: rotate(-0.5deg); }
+[data-theme="vintage"] .journey-card:nth-child(even) { transform: rotate(0.5deg); }
+[data-theme="vintage"] .journey-card:hover { transform: rotate(0deg) translateY(-2px); }
+[data-theme="vintage"] .prayer-text::before,
+[data-theme="vintage"] .prayer-text::after { background: none; border-top: 1px dashed var(--accent); height: 0; }
+[data-theme="vintage"] .day-end-mark { display: inline-block; transform: rotate(-3deg); }
+
+/* --- Moderno Editorial: grid de revista, blocos sólidos, sem curvas --- */
+[data-theme="editorial"] .icon-btn,
+[data-theme="editorial"] .day-nav-btn,
+[data-theme="editorial"] .word-card,
+[data-theme="editorial"] .journey-card,
+[data-theme="editorial"] .application-box,
+[data-theme="editorial"] .notes-textarea,
+[data-theme="editorial"] .theme-menu-panel,
+[data-theme="editorial"] .study-menu-panel,
+[data-theme="editorial"] .read-status { border-radius: 0; }
+[data-theme="editorial"] .icon-btn,
+[data-theme="editorial"] .day-nav-btn { border-width: 2px; border-color: var(--ink); }
+[data-theme="editorial"] .icon-btn:hover,
+[data-theme="editorial"] .day-nav-btn:hover:not(:disabled) { background: var(--ink); color: var(--bg); }
+[data-theme="editorial"] .tabs { border-bottom: 2px solid var(--ink); gap: 0; }
+[data-theme="editorial"] .tab { padding: 14px 22px; text-transform: uppercase; font-weight: 600; letter-spacing: .04em; font-size: 12px; }
+[data-theme="editorial"] .tab.active { background: var(--ink); color: var(--bg); }
+[data-theme="editorial"] .tab.active::after { display: none; }
+[data-theme="editorial"] .section-title { background: var(--ink); color: var(--bg); display: inline-flex; padding: 6px 12px; letter-spacing: .12em; }
+[data-theme="editorial"] .section-title::after { display: none; }
+[data-theme="editorial"] .section { border-bottom: 1px solid var(--line); padding-bottom: 40px; }
+[data-theme="editorial"] .verse-anchor { text-align: left; border-top: none; border-bottom: none; border-left: 4px solid var(--ink); padding: 8px 0 8px 24px; }
+[data-theme="editorial"] .verse-anchor-text { text-align: left; font-size: 34px; font-weight: 600; margin: 0 0 16px; }
+[data-theme="editorial"] .verse-anchor-text::before,
+[data-theme="editorial"] .verse-anchor-text::after { content: none; }
+[data-theme="editorial"] .verse-anchor-ref { text-align: left; }
+[data-theme="editorial"] .word-card { border: 2px solid var(--ink); }
+[data-theme="editorial"] .application-box { border-left: 6px solid var(--accent); padding-left: 34px; }
+[data-theme="editorial"] .journey-card { border: 1px solid var(--ink); }
+[data-theme="editorial"] .journey-card.current { border-width: 2px; }
+[data-theme="editorial"] .day-end { border-top: 4px double var(--ink); }
+
+/* --- Natureza e Luz: formas orgânicas, sem retas --- */
+[data-theme="nature"] .word-card { border-radius: 42px 12px 42px 12px; }
+[data-theme="nature"] .journey-card { border-radius: 28px 8px 28px 8px; transition: all .25s ease; }
+[data-theme="nature"] .journey-card:hover { border-radius: 8px 28px 8px 28px; }
+[data-theme="nature"] .application-box { border-radius: 30px 8px 30px 8px; }
+[data-theme="nature"] .notes-textarea { border-radius: 22px; }
+[data-theme="nature"] .icon-btn,
+[data-theme="nature"] .day-nav-btn { border-radius: 40% 60% 60% 40% / 40% 40% 60% 60%; }
+[data-theme="nature"] .read-status { border-radius: 100px; }
+[data-theme="nature"] .theme-menu-panel,
+[data-theme="nature"] .study-menu-panel { border-radius: 22px; }
+[data-theme="nature"] .verse-anchor { border-top: none; border-bottom: none; }
+[data-theme="nature"] .verse-anchor::before {
+  content: "";
+  display: block;
+  width: 40px; height: 40px;
+  margin: 0 auto 20px;
+  background: var(--accent-soft);
+  border-radius: 60% 40% 40% 60% / 60% 60% 40% 40%;
+}
+[data-theme="nature"] .day-theme { color: var(--accent); }
+
 /* Responsive */
 @media (max-width: 720px) {
   .app { padding: 20px 20px 100px; }
