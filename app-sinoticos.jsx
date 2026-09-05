@@ -34,18 +34,7 @@ const Icon = {
   moon: <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>,
   chevLeft: <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><polyline points="15 18 9 12 15 6"/></svg>,
   chevRight: <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round"><polyline points="9 18 15 12 9 6"/></svg>,
-  palette: <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2a10 10 0 1 0 0 20c1.1 0 2-.9 2-2 0-.5-.2-1-.5-1.3-.3-.4-.5-.8-.5-1.3 0-1.1.9-2 2-2h2.3A4.2 4.2 0 0 0 22 11c0-5-4.5-9-10-9z"/><circle cx="7" cy="12" r="1.2" fill="currentColor" stroke="none"/><circle cx="9.5" cy="7.5" r="1.2" fill="currentColor" stroke="none"/><circle cx="15" cy="7.5" r="1.2" fill="currentColor" stroke="none"/><circle cx="17" cy="12" r="1.2" fill="currentColor" stroke="none"/></svg>,
 };
-
-// ============ TEMAS ============
-const THEMES = [
-  { id: 'light', label: 'Claro', desc: 'Branco quente · minimalista', swatch: '#c1673f' },
-  { id: 'dark', label: 'Escuro', desc: 'Contraste suave para a noite', swatch: '#1a1a1a' },
-  { id: 'monastic', label: 'Monástica', desc: 'Pergaminho, iluminuras, serifas clássicas', swatch: '#7a2e2e' },
-  { id: 'vintage', label: 'Vintage', desc: 'Diário de viagem · papel envelhecido, manuscrito', swatch: '#a35a3a' },
-  { id: 'editorial', label: 'Editorial', desc: 'Revista contemporânea cristã', swatch: '#c81e3a' },
-  { id: 'nature', label: 'Natureza e Luz', desc: 'Tons terrosos e orgânicos', swatch: '#5c7a4e' },
-];
 
 // ============ APP ============
 function App() {
@@ -62,13 +51,12 @@ function App() {
   // Persist state changes
   useEffect(() => { saveState({ ...state, currentDay }); }, [state, currentDay]);
 
-  // Theme handling
-  useEffect(() => {
-    document.documentElement.setAttribute('data-theme', state.theme || 'light');
-  }, [state.theme]);
-
+  // Theme handling — global, compartilhado entre todos os livros (window.LectioTheme)
+  const [theme, setThemeState] = useState(() => window.LectioTheme.get());
+  useEffect(() => { window.LectioTheme.apply(theme); }, [theme]);
   const setTheme = (id) => {
-    setState(s => ({ ...s, theme: id }));
+    window.LectioTheme.set(id);
+    setThemeState(id);
   };
 
   // Read state helpers
@@ -116,7 +104,7 @@ function App() {
 
   return (
     <div className="app">
-      <Header theme={state.theme || 'light'} onSetTheme={setTheme} />
+      <Header theme={theme} onSetTheme={setTheme} />
       <Tabs
         tab={tab}
         onTabChange={setTab}
@@ -172,59 +160,9 @@ function Header({ theme, onSetTheme }) {
         <span className="brand-sub">Sinóticos · 35 dias · NVI</span>
       </div>
       <div className="header-actions">
-        <ThemeMenu theme={theme} onSetTheme={onSetTheme} />
+        <window.LectioThemeMenu theme={theme} onSetTheme={onSetTheme} />
       </div>
     </header>
-  );
-}
-
-// ============ MENU DE APARÊNCIA ============
-function ThemeMenu({ theme, onSetTheme }) {
-  const [open, setOpen] = useState(false);
-  const ref = useRef(null);
-
-  useEffect(() => {
-    if (!open) return;
-    const onDocClick = (e) => { if (ref.current && !ref.current.contains(e.target)) setOpen(false); };
-    const onEsc = (e) => { if (e.key === 'Escape') setOpen(false); };
-    document.addEventListener('mousedown', onDocClick);
-    document.addEventListener('keydown', onEsc);
-    return () => {
-      document.removeEventListener('mousedown', onDocClick);
-      document.removeEventListener('keydown', onEsc);
-    };
-  }, [open]);
-
-  const current = THEMES.find(t => t.id === theme) || THEMES[0];
-
-  return (
-    <div className="theme-menu" ref={ref}>
-      <button
-        className="icon-btn"
-        onClick={() => setOpen(o => !o)}
-        title="Mudar aparência"
-        aria-expanded={open}
-      >
-        {theme === 'dark' ? Icon.sun : theme === 'light' ? Icon.moon : Icon.palette}
-      </button>
-      {open && (
-        <div className="theme-menu-panel">
-          {THEMES.map(t => (
-            <button
-              key={t.id}
-              className={`theme-menu-item ${t.id === theme ? 'active' : ''}`}
-              onClick={() => { onSetTheme(t.id); setOpen(false); }}
-            >
-              <span className="theme-swatch" style={{ background: t.swatch }} />
-              <span className="theme-menu-item-text">
-                <span className="theme-menu-item-label">{t.label}</span>
-                <span className="theme-menu-item-desc">{t.desc}</span>
-              </span>
-            </button>
-          ))}
-        </div>
-      )}
-    </div>
   );
 }
 
