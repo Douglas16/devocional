@@ -1329,6 +1329,8 @@ body::before {
 @media (max-width: 720px) {
   .app { padding: 20px 20px 100px; }
   .header { flex-wrap: wrap; gap: 16px; }
+  .header-actions { width: 100%; justify-content: flex-end; }
+  .theme-menu-panel { min-width: 240px; max-width: calc(100vw - 40px); }
   .verse-anchor-text { font-size: 24px; }
   .word-card { grid-template-columns: 1fr; gap: 16px; padding: 24px; }
   .word-original { font-size: 36px; }
