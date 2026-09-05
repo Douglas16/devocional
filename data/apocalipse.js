@@ -1,4 +1,3 @@
-// Leitura integral NVI incorporada a partir de docs/nvi.json.
 window.APOCALIPSE = [
   {
     "day": 1,
@@ -13,7 +12,7 @@ window.APOCALIPSE = [
       "translit": "apokálypsis",
       "lang": "grego",
       "meaning": "revelação, desvelamento",
-      "note": "A imagem de apokálypsis ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "O título do livro inteiro é esta palavra: não uma mensagem enigmática reservada a especialistas, mas uma 'revelação' — Deus retirando o véu para mostrar a Jesus glorificado e o real estado das coisas a uma igreja perseguida."
     },
     "context": "Jesus revela a realidade do mundo a partir de seu reinado e permanece no meio de suas igrejas.",
     "passage": {
@@ -102,17 +101,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "Jesus revela a realidade do mundo a partir de seu reinado e permanece no meio de suas igrejas.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "João, exilado em Patmos por causa do evangelho, recebe a mesma visão que sustenta toda igreja perseguida: Jesus vivo, glorioso, caminhando entre os candelabros — presente mesmo onde parece ausente.",
+      "O título 'Alfa e Ômega', 'Primeiro e Último', recoloca toda a história, passada e futura, debaixo da autoridade de Cristo — nenhum império, sofrimento ou incerteza está fora do seu alcance.",
+      "A reação de João diante de Cristo glorificado é cair como morto; a primeira palavra que ouve é 'não tenha medo' — o mesmo Cristo que reina também consola."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Em que área da sua vida você tem vivido como se Jesus estivesse ausente, em vez de presente e reinando?",
+      "O que mudaria se você lesse as notícias, os problemas e os medos de hoje à luz de 'Eu sou o Primeiro e o Último'?",
+      "Você já experimentou o convite de Cristo, 'não tenha medo', em meio a uma situação que parecia maior que você?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Escreva num papel uma preocupação atual e, ao lado, escreva 'Ele é o Primeiro e o Último' — releia isso antes de dormir hoje.",
+    "prayer": "Senhor Jesus, tu caminhas entre tua igreja mesmo quando não te vejo. Acalma meu medo com a certeza de que reinas sobre o que me preocupa hoje. Amém."
   },
   {
     "day": 2,
@@ -127,7 +126,7 @@ window.APOCALIPSE = [
       "translit": "nikáō",
       "lang": "grego",
       "meaning": "vencer, permanecer fiel",
-      "note": "A imagem de nikáō ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Nikáō, 'vencer', é a palavra-chave que fecha cada uma das sete cartas ('ao vencedor...') — a promessa final do livro é sempre para quem persevera fiel até o fim, não para quem nunca enfrenta pressão."
     },
     "context": "As primeiras quatro cartas chamam igrejas reais a recuperar o amor, resistir ao medo e rejeitar compromissos com a idolatria.",
     "passage": {
@@ -252,17 +251,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "As primeiras quatro cartas chamam igrejas reais a recuperar o amor, resistir ao medo e rejeitar compromissos com a idolatria.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "Cada carta segue um padrão: Cristo se revela com um atributo específico, elogia o que há de fiel, aponta o que precisa mudar e promete algo 'a quem vencer' — ele conhece cada igreja em detalhe, não em generalidades.",
+      "Éfeso tinha doutrina correta mas abandonou o primeiro amor; Pérgamo e Tiatira toleravam compromissos com idolatria e imoralidade — fidelidade exige tanto verdade quanto amor vivo.",
+      "'Vencer' aqui não é lutar contra pessoas, mas permanecer fiel a Cristo sob pressão social, econômica ou religiosa para se conformar ao ambiente ao redor."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Se Cristo escrevesse uma carta para a sua vida hoje, o que ele elogiaria e o que pediria para você mudar?",
+      "Você tem mantido a doutrina certa mas perdido o primeiro amor, ou o contrário — tem amor sem compromisso com a verdade?",
+      "Que pequena tolerância ou compromisso você tem permitido que, aos poucos, tem te afastado de Cristo?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Releia hoje uma dessas cartas (Éfeso, Esmirna, Pérgamo, Tiatira ou Sardes) como se fosse endereçada a você e identifique um passo concreto de retorno ou fidelidade.",
+    "prayer": "Senhor, tu conheces minha igreja e minha vida em detalhe. Mostra-me onde perdi o amor ou onde tolerei o que não deveria, e me dá coragem para vencer. Amém."
   },
   {
     "day": 3,
@@ -277,7 +276,7 @@ window.APOCALIPSE = [
       "translit": "zēlos",
       "lang": "grego",
       "meaning": "zelo, ardor renovado",
-      "note": "A imagem de zēlos ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Cristo não pede a Laodicéia frieza nem apenas entusiasmo morno, mas zēlos: um ardor renovado que rompe com a autossuficiência confortável da igreja."
     },
     "context": "Filadélfia recebe uma porta aberta; Laodiceia é chamada a abandonar a autossuficiência e voltar a Cristo.",
     "passage": {
@@ -374,17 +373,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "Filadélfia recebe uma porta aberta; Laodiceia é chamada a abandonar a autossuficiência e voltar a Cristo.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "Filadélfia, uma igreja pequena e com pouca força, recebe a promessa de uma porta aberta que ninguém pode fechar — fidelidade não depende de tamanho ou recursos, mas da fidelidade de Cristo.",
+      "Laodicéia se via rica e sem necessidade de nada, mas Cristo a via nua, pobre e cega — a autopercepção espiritual pode estar completamente invertida em relação à realidade diante de Deus.",
+      "A imagem de Cristo batendo à porta não é dirigida a descrentes de fora, mas à própria igreja morna: ele pede para ser recebido de volta ao centro da vida que já deveria ser dele."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Em que área você tem se sentido pequeno ou sem forças, mas ainda assim pode confiar numa porta que Deus já abriu?",
+      "Onde você pode estar se enganando, achando-se espiritualmente bem quando na verdade está morno ou distante de Cristo?",
+      "Que porta da sua vida Cristo está batendo hoje, esperando para ser recebido de novo?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Identifique uma área da sua vida onde você tem se sentido 'autossuficiente' e abra espaço hoje para que Cristo entre nela através da oração.",
+    "prayer": "Senhor, tira de mim a ilusão de que estou bem sozinho. Abro a porta do meu coração para ti agora — entra e janta comigo. Amém."
   },
   {
     "day": 4,
@@ -399,7 +398,7 @@ window.APOCALIPSE = [
       "translit": "thronos",
       "lang": "grego",
       "meaning": "trono, governo",
-      "note": "A imagem de thronos ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Thronos aparece dezenas de vezes em Apocalipse — mais do que qualquer outra palavra-chave do livro, ela ancora toda a narrativa: por trás de qualquer crise, há sempre um trono ocupado."
     },
     "context": "Antes de mostrar o conflito, Apocalipse mostra o trono: Deus permanece no centro e recebe a adoração de toda a criação.",
     "passage": {
@@ -452,17 +451,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "Antes de mostrar o conflito, Apocalipse mostra o trono: Deus permanece no centro e recebe a adoração de toda a criação.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "Antes de qualquer selo ser aberto ou qualquer juízo cair, João é levado ao céu e vê, acima de tudo, um trono — a primeira realidade do universo não é o caos, mas o governo de Deus.",
+      "Os vinte e quatro anciãos e os quatro seres viventes lançam suas coroas diante do trono continuamente — toda autoridade humana só tem sentido quando devolvida à autoridade de Deus.",
+      "A adoração no céu é descrita antes de qualquer batalha na terra — isso ensina que a resposta correta à história não começa com estratégia, mas com adoração."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Que 'coroas' (conquistas, títulos, controle) você precisa lançar diante do trono de Deus hoje?",
+      "Sua rotina de fé começa com a adoração a Deus como Criador, ou você só se volta a ele quando há problemas?",
+      "Como a certeza de que Deus está no trono muda a forma como você encara o que parece fora de controle na sua vida?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Antes de checar notícias ou redes sociais hoje, separe cinco minutos para simplesmente adorar a Deus como Criador, sem pedir nada.",
+    "prayer": "Digno és tu, Senhor e Deus nosso, de receber a glória, a honra e o poder, porque tu criaste todas as coisas. Reina sobre o meu dia hoje. Amém."
   },
   {
     "day": 5,
@@ -477,7 +476,7 @@ window.APOCALIPSE = [
       "translit": "arnion",
       "lang": "grego",
       "meaning": "cordeiro",
-      "note": "A imagem de arnion ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Arnion, 'cordeirinho', é como Apocalipse chama Jesus mais de vinte vezes — em contraste deliberado com o 'leão' esperado (5.5), revelando que o poder de Cristo é do tipo sacrificial, não conquistador."
     },
     "context": "O único digno de abrir o livro é o Cordeiro morto e vivo. Sua vitória é sacrificial e inaugura um povo para Deus.",
     "passage": {
@@ -542,17 +541,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "O único digno de abrir o livro é o Cordeiro morto e vivo. Sua vitória é sacrificial e inaugura um povo para Deus.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "João chora porque ninguém é encontrado digno de abrir o livro — até que lhe dizem para olhar, e ele vê não um leão poderoso, mas um Cordeiro que parece ter sido morto: o poder de Deus se revela através do sacrifício, não apesar dele.",
+      "O Cordeiro é digno porque foi morto e com seu sangue comprou para Deus pessoas de toda tribo, língua, povo e nação — a vitória de Cristo sempre teve um propósito: formar um povo.",
+      "Toda a criação — anjos, anciãos, seres viventes e, por fim, 'toda criatura' — se une num só coro de louvor ao Cordeiro; não há lugar no universo onde ele não seja reconhecido como digno."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Você tem buscado poder e força ao estilo do 'leão', ou reconhece que a verdadeira vitória de Cristo veio através do sacrifício do Cordeiro?",
+      "Como a certeza de que pessoas de toda tribo, língua e nação pertencem ao Cordeiro deveria moldar seu amor por pessoas diferentes de você?",
+      "O que significaria, concretamente, unir sua voz hoje ao coro universal que declara Jesus digno?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Cante ou leia em voz alta uma canção de louvor ao Cordeiro hoje, unindo conscientemente sua voz ao coro de toda a criação.",
+    "prayer": "Cordeiro que foi morto, digno és de receber poder, riqueza, sabedoria, força, honra, glória e louvor. Recebe minha adoração hoje. Amém."
   },
   {
     "day": 6,
@@ -567,7 +566,7 @@ window.APOCALIPSE = [
       "translit": "sphragís",
       "lang": "grego",
       "meaning": "selo, marca de pertencimento",
-      "note": "A imagem de sphragís ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "O selo (sphragís) era usado para marcar propriedade e proteção — os 144 mil selados não são uma lista exclusiva, mas o sinal de que Deus reivindica e protege cada um que é seu, em meio ao caos."
     },
     "context": "Os selos revelam a realidade dolorosa de um mundo ferido; ao mesmo tempo, Deus conhece seu povo e promete que o Cordeiro o pastoreará.",
     "passage": {
@@ -644,17 +643,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "Os selos revelam a realidade dolorosa de um mundo ferido; ao mesmo tempo, Deus conhece seu povo e promete que o Cordeiro o pastoreará.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "Os quatro cavaleiros (conquista, guerra, fome, morte) descrevem realidades que já assolam a história humana — Apocalipse não inventa o sofrimento do mundo, ele o nomeia e o coloca sob o olhar de Deus.",
+      "Debaixo do altar, os mártires clamam 'até quando?' — o livro dá espaço legítimo para o lamento e a impaciência diante da injustiça que persiste.",
+      "Em meio ao caos dos selos, o capítulo 7 interrompe a cena para selar e proteger o povo de Deus — mesmo em meio ao juízo, ninguém que pertence a Deus é esquecido ou perdido de vista."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Que sofrimento no mundo, ou na sua vida, você tem dificuldade de trazer honestamente diante de Deus em lamento?",
+      "Você tem espaço, na sua espiritualidade, para perguntar a Deus 'até quando?', ou sente que precisa fingir que está tudo bem?",
+      "Como a certeza de que Deus conhece e sela cada um dos seus pode te dar segurança em meio à instabilidade do mundo?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Escreva uma oração de lamento sincero sobre algo doloroso no mundo ou na sua vida, terminando com a afirmação de que a salvação pertence a Deus.",
+    "prayer": "Senhor, vejo dor e injustiça ao meu redor e às vezes pergunto até quando. Lembra-me hoje que sou conhecido e guardado por ti. Amém."
   },
   {
     "day": 7,
@@ -669,7 +668,7 @@ window.APOCALIPSE = [
       "translit": "metanoéō",
       "lang": "grego",
       "meaning": "arrepender-se, mudar de caminho",
-      "note": "A imagem de metanoéō ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Metanoéō, 'mudar de mente e de direção', é o verbo que o livro repete como refrão nos julgamentos das trombetas — o objetivo declarado de cada advertência é sempre o arrependimento, nunca apenas a punição."
     },
     "context": "As trombetas funcionam como advertência: o mal traz ruína, e Deus chama pessoas a abandonar a idolatria antes que o coração se torne insensível.",
     "passage": {
@@ -730,17 +729,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "As trombetas funcionam como advertência: o mal traz ruína, e Deus chama pessoas a abandonar a idolatria antes que o coração se torne insensível.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "As trombetas seguem o padrão das pragas do Êxodo — Deus intervém na história para expor o vazio dos ídolos e chamar as pessoas de volta a ele, não apenas para punir.",
+      "O detalhe mais perturbador do capítulo 9 não são os gafanhotos ou o exército, mas o versículo final: mesmo depois de tanto sofrimento, as pessoas não se arrependeram — o coração humano pode se endurecer mesmo diante de evidências claras.",
+      "Advertência e graça andam juntas: Deus permite consequências visíveis exatamente para que o arrependimento ainda seja possível antes que seja tarde demais."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Existe algum aviso recente na sua vida — uma consequência, um problema, uma conversa difícil — que você tem ignorado em vez de deixar te levar ao arrependimento?",
+      "Seu coração tem se tornado mais sensível ou mais endurecido diante das correções que Deus tem permitido?",
+      "O que significaria hoje se arrepender de verdade — não apenas sentir culpa, mas mudar de direção?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Identifique um aviso recente que você tem ignorado e dê hoje um passo concreto de arrependimento em relação a ele.",
+    "prayer": "Senhor, não deixes meu coração se endurecer diante das tuas advertências. Dá-me um coração sensível, pronto para me arrepender e voltar a ti. Amém."
   },
   {
     "day": 8,
@@ -755,7 +754,7 @@ window.APOCALIPSE = [
       "translit": "martyría",
       "lang": "grego",
       "meaning": "testemunho",
-      "note": "A imagem de martyría ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Martyría deu origem à palavra 'mártir' em português, porque tantas testemunhas fiéis de Cristo pagaram com a vida por seu testemunho — mas o sentido primário é simplesmente 'dar testemunho', com ou sem esse custo extremo."
     },
     "context": "A igreja recebe uma mensagem doce e amarga e é chamada a testemunhar. O fim do capítulo anuncia que o Reino de Cristo vence todo poder rival.",
     "passage": {
@@ -808,17 +807,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "A igreja recebe uma mensagem doce e amarga e é chamada a testemunhar. O fim do capítulo anuncia que o Reino de Cristo vence todo poder rival.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "O livrinho que João come é doce na boca mas amargo no estômago — testemunhar a verdade de Deus é doce como promessa, mas muitas vezes amargo no custo pessoal de anunciá-la.",
+      "As duas testemunhas profetizam vestidas de saco, são mortas, expostas ao ridículo público e depois ressuscitadas diante de seus inimigos — o testemunho fiel pode passar pela aparência de derrota antes da vindicação de Deus.",
+      "No meio de tanta batalha e resistência, o capítulo termina com um anúncio definitivo: o reino do mundo já pertence a Cristo — a vitória final não está em dúvida, mesmo quando a jornada até lá é difícil."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Que verdade de Deus você sabe que precisa anunciar ou viver, mesmo sabendo que isso terá um custo pessoal — doce na promessa, amargo no preço?",
+      "Você já se sentiu como as duas testemunhas — fiel, mas aparentemente derrotado ou ridicularizado por isso? Como Deus pode estar te chamando a perseverar?",
+      "Como viver hoje já sabendo, com certeza, que o reino final pertence a Cristo?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Compartilhe hoje, mesmo que de forma simples, um testemunho concreto da fidelidade de Deus na sua vida com alguém.",
+    "prayer": "Senhor, dá-me coragem para testemunhar de ti mesmo quando isso custar caro. Lembra-me que o reino final já é teu. Amém."
   },
   {
     "day": 9,
@@ -833,7 +832,7 @@ window.APOCALIPSE = [
       "translit": "proskýnēsis",
       "lang": "grego",
       "meaning": "adoração",
-      "note": "A imagem de proskýnēsis ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Proskýnēsis, 'prostrar-se em adoração', é a palavra central do conflito dos capítulos 12 e 13: a pergunta decisiva não é quem tem mais poder, mas diante de quem você se prostra."
     },
     "context": "O conflito é espiritual e a pressão para adorar poderes falsos é real. Vencer significa fidelidade ao Cordeiro, não violência contra pessoas.",
     "passage": {
@@ -914,17 +913,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "O conflito é espiritual e a pressão para adorar poderes falsos é real. Vencer significa fidelidade ao Cordeiro, não violência contra pessoas.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "Por trás dos impérios e das feras visíveis está um conflito mais antigo e mais profundo: o dragão que já tentou destruir o povo de Deus desde o princípio e agora persegue a igreja.",
+      "A besta exige adoração através de poder econômico, político e até religioso — a pressão para se conformar raramente vem como uma escolha óbvia entre o bem e o mal, mas como conveniência disfarçada.",
+      "A vitória dos santos não vem por força própria, mas 'pelo sangue do Cordeiro e pela palavra do testemunho' — resistir à falsa adoração é, antes de tudo, um ato de fé e fidelidade, não de poder."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Que sistemas, poderes ou conveniências ao seu redor pedem, sutilmente, uma lealdade que só pertence a Deus?",
+      "Você tem resistido a pressões de conformidade através da sua própria força, ou apoiado no sangue do Cordeiro e no testemunho fiel?",
+      "O que significaria, na prática, recusar hoje um compromisso que o mundo ao seu redor considera normal?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Identifique uma área em que você tem cedido à pressão de se conformar ao invés de ser fiel a Cristo, e dê um passo concreto de resistência hoje.",
+    "prayer": "Senhor, tantas vozes pedem minha lealdade. Ajuda-me a vencer pelo sangue do Cordeiro e pela palavra do meu testemunho, não pela minha própria força. Amém."
   },
   {
     "day": 10,
@@ -939,7 +938,7 @@ window.APOCALIPSE = [
       "translit": "dikaiosýnē",
       "lang": "grego",
       "meaning": "justiça, retidão",
-      "note": "A imagem de dikaiosýnē ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Dikaiosýnē, 'justiça' ou 'retidão', aparece no cântico dos vencedores como a característica central de Deus que é celebrada — mesmo em meio a juízos severos, o povo de Deus canta sua justiça, não sua crueldade."
     },
     "context": "O Cordeiro permanece com seu povo. Os juízos afirmam que Deus não ignora o mal; os redimidos respondem com adoração à sua justiça.",
     "passage": {
@@ -1028,17 +1027,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "O Cordeiro permanece com seu povo. Os juízos afirmam que Deus não ignora o mal; os redimidos respondem com adoração à sua justiça.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "No meio do conflito com a besta, o capítulo 14 mostra o Cordeiro em pé no monte Sião com os seus — a fidelidade tem um lugar seguro, mesmo em meio à pressão.",
+      "Os anjos anunciam o evangelho eterno e advertem sobre o juízo lado a lado — a boa notícia de Deus inclui tanto graça quanto uma chamada séria à responsabilidade diante dele.",
+      "Os que venceram a besta cantam o cântico de Moisés e do Cordeiro — a mesma história de libertação do Egito se repete: Deus liberta seu povo, e é justamente por isso que ele é adorado."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Você tem experimentado a segurança de 'estar com o Cordeiro' mesmo quando o ambiente ao redor pressiona na direção contrária?",
+      "Como você mantém junto, na sua fé, tanto a boa notícia da graça quanto a seriedade do juízo de Deus?",
+      "Que 'cântico de libertação' você poderia cantar hoje, lembrando de uma vez em que Deus te livrou de algo?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Escreva ou cante hoje uma frase de gratidão específica por uma libertação que Deus já operou na sua vida.",
+    "prayer": "Grandes e maravilhosas são as tuas obras, Senhor Deus todo-poderoso. Justos e verdadeiros são os teus caminhos. Recebe hoje meu louvor. Amém."
   },
   {
     "day": 11,
@@ -1053,7 +1052,7 @@ window.APOCALIPSE = [
       "translit": "Babylṓn",
       "lang": "grego",
       "meaning": "Babilônia, poder sedutor",
-      "note": "A imagem de Babylṓn ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Babilônia é retratada tanto como cidade histórica quanto como símbolo atemporal de qualquer sistema humano que se exalta contra Deus através de luxo, comércio e violência — sua queda repete um padrão bíblico que remonta a Babel."
     },
     "context": "Babilônia representa sistemas de poder, luxo e violência que seduzem povos. Sua queda revela que nenhum império rivaliza com Deus para sempre.",
     "passage": {
@@ -1146,17 +1145,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "Babilônia representa sistemas de poder, luxo e violência que seduzem povos. Sua queda revela que nenhum império rivaliza com Deus para sempre.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "As taças de ira revelam que a paciência de Deus com a injustiça sistêmica tem um limite — o mal organizado em escala de impérios não escapa impune para sempre.",
+      "O lamento dos reis, mercadores e navegadores sobre a queda de Babilônia expõe o quanto suas vidas estavam entrelaçadas com um sistema de luxo construído sobre exploração — a riqueza de poucos muitas vezes custa a dor de muitos.",
+      "A ordem 'saiam dela, povo meu' (18.4) é um chamado presente, não apenas futuro: o povo de Deus é convidado a não se acomodar em sistemas que se alimentam de injustiça, mesmo enquanto ainda vive dentro deles."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Existem sistemas ou estilos de vida ao seu redor, construídos sobre luxo ou conveniência às custas de outros, dos quais Deus está te chamando a 'sair'?",
+      "Onde você tem investido segurança ou identidade em coisas que, como Babilônia, um dia cairão?",
+      "Como equilibrar viver no mundo sem deixar seu coração pertencer aos seus valores injustos?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Identifique uma compra, hábito de consumo ou investimento de tempo que sustenta algo injusto, e dê hoje um passo concreto para 'sair dele'.",
+    "prayer": "Senhor, não deixes meu coração se apegar a riquezas ou sistemas que um dia cairão. Ajuda-me a colocar minha segurança somente em ti. Amém."
   },
   {
     "day": 12,
@@ -1171,7 +1170,7 @@ window.APOCALIPSE = [
       "translit": "hallēlouïá",
       "lang": "grego",
       "meaning": "louvem ao Senhor",
-      "note": "A imagem de hallēlouïá ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Hallēlouïá ('louvem ao Senhor') aparece nesta passagem quase exclusivamente entre todos os livros do Novo Testamento — um clímax de louvor que celebra tanto o juízo sobre o mal quanto a alegria das bodas do Cordeiro."
     },
     "context": "A queda do mal abre espaço para a alegria das bodas do Cordeiro. O cavaleiro fiel vence em justiça, e sua vitória revela a fidelidade da Palavra de Deus.",
     "passage": {
@@ -1264,17 +1263,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "A queda do mal abre espaço para a alegria das bodas do Cordeiro. O cavaleiro fiel vence em justiça, e sua vitória revela a fidelidade da Palavra de Deus.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "Depois da queda de Babilônia, o céu explode em aleluias — a alegria de Deus diante da justiça restaurada é genuína e contagiante, não fria ou distante.",
+      "As bodas do Cordeiro descrevem a igreja vestida de linho fino, 'que são as ações justas dos santos' — a intimidade final com Cristo já está sendo tecida pelas escolhas fiéis de hoje.",
+      "O cavaleiro fiel e verdadeiro vence não com armas convencionais, mas com a espada que sai de sua boca — a palavra e a verdade de Cristo são, no fim, mais poderosas que qualquer exército."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Você tem permitido que a esperança das bodas do Cordeiro produza alegria genuína na sua vida hoje, ou vive só focado nas dificuldades do presente?",
+      "Que 'ações justas' você está tecendo hoje que, um dia, farão parte da veste que a igreja usará diante de Cristo?",
+      "Você confia mais na 'espada' da palavra de Cristo do que em suas próprias estratégias e forças?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Celebre hoje, com alguém, algo que Deus já fez de bom na sua vida — permita-se alegria genuína, não apenas seriedade religiosa.",
+    "prayer": "Aleluia! Salvação, glória e poder pertencem ao nosso Deus. Alegro-me hoje na esperança das bodas do Cordeiro. Amém."
   },
   {
     "day": 13,
@@ -1289,7 +1288,7 @@ window.APOCALIPSE = [
       "translit": "krísis",
       "lang": "grego",
       "meaning": "juízo, decisão justa",
-      "note": "A imagem de krísis ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Krísis é a raiz da palavra 'crise' em português — no grego bíblico, porém, ela significa um julgamento justo e decisivo, não caos: o 'grande trono branco' é o momento em que toda ambiguidade da história é finalmente resolvida com justiça."
     },
     "context": "O juízo final afirma que a história tem responsabilidade e que o mal não será eterno. Deus julga com justiça e prepara a esperança da vida.",
     "passage": {
@@ -1358,17 +1357,17 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "O juízo final afirma que a história tem responsabilidade e que o mal não será eterno. Deus julga com justiça e prepara a esperança da vida.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "O milênio, seja como for interpretado em detalhe, afirma que o mal, incluindo Satanás, tem um prazo determinado por Deus — nenhuma força do mal é eterna ou incontrolável.",
+      "Diante do grande trono branco, os livros são abertos e cada um é julgado 'segundo as suas obras' — a vida de cada pessoa importa e será, de fato, avaliada com justiça.",
+      "O detalhe mais decisivo não são as obras, mas 'o livro da vida': pertencer a Cristo é o que finalmente determina o destino eterno, não o próprio esforço."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Você vive como se suas escolhas diárias realmente importassem diante de Deus, ou como se não houvesse consequência alguma?",
+      "Sua esperança de salvação está baseada em pertencer a Cristo — estar no livro da vida — ou em tentar acumular obras suficientes?",
+      "Como a certeza de que o mal tem um fim determinado por Deus te dá esperança diante de situações que hoje parecem sem solução?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Confirme hoje, em oração, sua confiança de que seu nome está escrito no livro da vida por meio de Cristo, não por seu próprio esforço.",
+    "prayer": "Senhor, obrigado porque meu nome está escrito no livro da vida por causa de Cristo. Ajuda-me a viver hoje como alguém que será, de fato, avaliado por ti. Amém."
   },
   {
     "day": 14,
@@ -1383,7 +1382,7 @@ window.APOCALIPSE = [
       "translit": "kainós",
       "lang": "grego",
       "meaning": "novo, renovado em qualidade",
-      "note": "A imagem de kainós ajuda a ler este trecho como esperança fiel em Cristo."
+      "note": "Kainós descreve algo novo em qualidade e natureza, não apenas em tempo — a nova criação não é uma reforma do mundo antigo, mas algo genuinamente novo que Deus está fazendo."
     },
     "context": "A esperança final é Deus habitando com seu povo numa criação restaurada. A carta termina com cura, adoração e o convite para receber gratuitamente a água da vida.",
     "passage": {
@@ -1500,16 +1499,16 @@ window.APOCALIPSE = [
       ]
     },
     "meditation": [
-      "A esperança final é Deus habitando com seu povo numa criação restaurada. A carta termina com cura, adoração e o convite para receber gratuitamente a água da vida.",
-      "Apocalipse chama a igreja a enxergar o presente a partir do trono de Deus e do Cordeiro.",
-      "A resposta fiel é adoração, perseverança e testemunho concreto."
+      "A esperança final da Bíblia não é escapar da terra para um céu distante, mas Deus descendo para habitar com seu povo numa terra e num céu renovados — a nova criação, não a fuga dela, é o destino.",
+      "Não há mais mar, símbolo de caos, não há mais lágrimas, morte, luto ou dor — tudo o que quebra o coração humano hoje é explicitamente listado como algo que não terá lugar ali.",
+      "O livro termina com um convite aberto: 'quem tiver sede, venha; quem quiser, tome de graça a água da vida' — a última palavra de Apocalipse não é ameaça, mas convite gratuito."
     ],
     "questions": [
-      "O que este texto revela sobre Deus e o Cordeiro?",
-      "Onde você precisa perseverar com fidelidade?",
-      "Que forma de adoração ou obediência é possível hoje?"
+      "Como a esperança de uma criação totalmente renovada, sem lágrimas nem dor, muda a forma como você enfrenta o sofrimento de hoje?",
+      "Existe alguma 'sede' na sua vida agora que só a água da vida oferecida por Cristo pode realmente satisfazer?",
+      "Quem ao seu redor precisa ouvir, através de você, o convite gratuito de Apocalipse: 'venha, tome de graça'?"
     ],
-    "application": "Reserve alguns minutos para orar a partir desta visão e escolha um gesto concreto de fidelidade hoje.",
-    "prayer": "Senhor Jesus, firma-me em tua vitória. Dá-me esperança, discernimento e fidelidade para te seguir. Amém."
+    "application": "Compartilhe hoje o convite 'quem quiser, tome de graça a água da vida' com alguém que você sabe que está sedento espiritualmente.",
+    "prayer": "Senhor, obrigado pela esperança de que farás novas todas as coisas. Enquanto esse dia não chega, vem satisfazer minha sede hoje com tua presença. Amém."
   }
 ];
