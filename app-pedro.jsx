@@ -55,6 +55,13 @@ function App() {
     setThemeState(id);
   };
 
+  // Tipo de devocional — global, compartilhado entre todos os livros (window.LectioMode)
+  const [mode, setModeState] = useState(() => window.LectioMode.get());
+  const setMode = (id) => {
+    window.LectioMode.set(id);
+    setModeState(id);
+  };
+
   // Read state helpers
   const isRead = (day) => !!(state.read && state.read[day]);
   const toggleRead = (day) => {
@@ -100,7 +107,7 @@ function App() {
 
   return (
     <div className="app">
-      <Header theme={theme} onSetTheme={setTheme} study={STUDY} />
+      <Header theme={theme} onSetTheme={setTheme} mode={mode} onSetMode={setMode} study={STUDY} />
       <Tabs
         tab={tab}
         onTabChange={setTab}
@@ -149,7 +156,7 @@ function App() {
 }
 
 // ============ HEADER ============
-function Header({ theme, onSetTheme, study }) {
+function Header({ theme, onSetTheme, mode, onSetMode, study }) {
   return (
     <header className="header">
       <div className="brand">
@@ -157,6 +164,7 @@ function Header({ theme, onSetTheme, study }) {
         <span className="brand-sub">{study.subtitle}</span>
       </div>
       <div className="header-actions">
+        <window.LectioModeMenu mode={mode} onSetMode={onSetMode} available={!!study.hasCartaMode} />
         <window.LectioThemeMenu theme={theme} onSetTheme={onSetTheme} />
       </div>
     </header>

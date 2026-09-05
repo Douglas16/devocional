@@ -32,7 +32,15 @@ function App() {
     return s.currentDay || 1;
   });
 
-  const days = window.DEVOTIONAL;
+  // Tipo de devocional — global, compartilhado entre todos os livros (window.LectioMode)
+  const [mode, setModeState] = useState(() => window.LectioMode.get());
+  const setMode = (id) => {
+    window.LectioMode.set(id);
+    setModeState(id);
+  };
+  const hasCarta = !!(window.PROVERBIOS_1_10_CARTA || window.PROVERBIOS_11_20_CARTA || window.PROVERBIOS_21_31_CARTA);
+
+  const days = window.buildDevotional(mode);
   const total = days.length;
 
   // Persist state changes
@@ -91,7 +99,7 @@ function App() {
 
   return (
     <div className="app">
-      <Header theme={theme} onSetTheme={setTheme} />
+      <Header theme={theme} onSetTheme={setTheme} mode={mode} onSetMode={setMode} hasCarta={hasCarta} />
       <Tabs
         tab={tab}
         onTabChange={setTab}
@@ -139,7 +147,7 @@ function App() {
 }
 
 // ============ HEADER ============
-function Header({ theme, onSetTheme }) {
+function Header({ theme, onSetTheme, mode, onSetMode, hasCarta }) {
   return (
     <header className="header">
       <div className="brand">
@@ -147,6 +155,7 @@ function Header({ theme, onSetTheme }) {
         <span className="brand-sub">Provérbios · Tiago · 41 dias · NVI</span>
       </div>
       <div className="header-actions">
+        <window.LectioModeMenu mode={mode} onSetMode={onSetMode} available={hasCarta} />
         <window.LectioThemeMenu theme={theme} onSetTheme={onSetTheme} />
       </div>
     </header>
