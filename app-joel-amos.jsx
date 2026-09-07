@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-joel-amos-v1',
-  days: () => window.JOEL_AMOS,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.JOEL_AMOS, window.JOEL_AMOS_CARTA, window.LectioMode.get()),
   subtitle: 'Joel + Amós · 12 dias · NVI',
   journeyTitle: 'Doze dias com Joel e Amós: o Dia do Senhor e a justiça que corre como águas',
   journeySub: 'Da praga de gafanhotos que se torna sinal do Dia do Senhor e da promessa do Espírito derramado sobre todo o povo, ao pastor de Judá que confrontou a opulência e a injustiça de Israel — dois profetas curtos e urgentes, terminando com a esperança da tenda caída de Davi reconstruída. Tradução NVI.',

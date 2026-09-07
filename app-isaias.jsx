@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-isaias-v1',
-  days: () => window.ISAIAS,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.ISAIAS, window.ISAIAS_CARTA, window.LectioMode.get()),
   subtitle: 'Isaías · 66 dias · NVI',
   journeyTitle: 'Sessenta e seis dias com Isaías: juízo, consolo e o Servo Sofredor',
   journeySub: 'Do julgamento sobre a soberba humana ao consolo do Deus que carrega seu povo, até a promessa de novos céus e nova terra — uma travessia completa pelo maior dos profetas. Tradução NVI.',

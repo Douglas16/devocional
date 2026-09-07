@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-zacarias-malaquias-v1',
-  days: () => window.ZACARIAS_MALAQUIAS,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.ZACARIAS_MALAQUIAS, window.ZACARIAS_MALAQUIAS_CARTA, window.LectioMode.get()),
   subtitle: 'Zacarias + Malaquias · 18 dias · NVI',
   journeyTitle: 'Dezoito dias com Zacarias e Malaquias: as últimas palavras antes do silêncio',
   journeySub: 'Das oito visões noturnas e do rei que viria montado num jumento, pelo pastor traspassado e ferido, até as disputas finais de Malaquias sobre um povo que duvidava do amor de Deus — os dois últimos livros do Antigo Testamento, terminando com a promessa de Elias antes do grande Dia do Senhor. Tradução NVI.',

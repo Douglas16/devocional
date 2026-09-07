@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-jeremias-lamentacoes-v1',
-  days: () => window.JEREMIAS_LAMENTACOES,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.JEREMIAS_LAMENTACOES, window.JEREMIAS_LAMENTACOES_CARTA, window.LectioMode.get()),
   subtitle: 'Jeremias + Lamentações · 57 dias · NVI',
   journeyTitle: 'Cinquenta e sete dias com Jeremias: lágrimas, juízo e uma aliança nova',
   journeySub: 'Do chamado de um jovem profeta ao luto sobre as ruínas de Jerusalém — uma travessia completa pelo profeta que chorou, confrontou reis e anunciou uma aliança escrita no coração. Tradução NVI.',

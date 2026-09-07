@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-esdras-neemias-v1',
-  days: () => window.ESDRAS_NEEMIAS,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.ESDRAS_NEEMIAS, window.ESDRAS_NEEMIAS_CARTA, window.LectioMode.get()),
   subtitle: 'Esdras + Neemias · 23 dias · NVI',
   journeyTitle: 'Vinte e três dias com Esdras e Neemias: o retorno e a reconstrução',
   journeySub: 'Do decreto de Ciro e o alicerce do templo lançado em meio a lágrimas e alegria, pela reforma espiritual de Esdras, até os muros de Jerusalém reerguidos em 52 dias sob a liderança corajosa de Neemias — uma travessia completa pelo povo que voltou do exílio para reconstruir sua cidade e sua fidelidade. Tradução NVI.',

@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-2-reis-v1',
-  days: () => window.REIS_2,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.REIS_2, window.REIS_2_CARTA, window.LectioMode.get()),
   subtitle: '2 Reis · 41 dias · NVI',
   journeyTitle: 'Quarenta e um dias com 2 Reis: de Elias a Josias, até o fim do reino',
   journeySub: 'Do carro de fogo que arrebata Elias e dos milagres de Eliseu, pela queda de Samaria e o reino do norte, até as reformas de Ezequias e Josias e a queda final de Jerusalém — uma travessia por 2 Reis intercalada, capítulo a capítulo, com os relatos paralelos de 2 Crônicas. Tradução NVI.',

@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-levitico-v1',
-  days: () => window.LEVITICO,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.LEVITICO, window.LEVITICO_CARTA, window.LectioMode.get()),
   subtitle: 'Levítico · 27 dias · NVI',
   journeyTitle: 'Vinte e sete dias com Levítico: sejam santos, porque eu sou santo',
   journeySub: 'Dos sacrifícios que ensinam entrega total ao chamado de amar o próximo como a si mesmo — uma travessia pelo livro mais detalhado da lei, revelando um Deus que se importa com cada aspecto da vida do seu povo. Tradução NVI.',

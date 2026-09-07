@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-1-samuel-v1',
-  days: () => window.SAMUEL_1,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.SAMUEL_1, window.SAMUEL_1_CARTA, window.LectioMode.get()),
   subtitle: '1 Samuel · 31 dias · NVI',
   journeyTitle: 'Trinta e um dias com 1 Samuel: do juiz fiel ao rei rejeitado',
   journeySub: 'Da oração de Ana ao nascimento de Samuel, da ascensão e queda de Saul à amizade entre Davi e Jônatas em meio à perseguição — uma travessia completa pelo livro que prepara o trono para o rei segundo o coração de Deus. Tradução NVI.',

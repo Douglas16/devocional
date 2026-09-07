@@ -4,16 +4,20 @@
 // Total: 35 dias
 
 (function() {
-  const C1 = window.SINOTICOS_COMUNS_1 || [];
-  const C2 = window.SINOTICOS_COMUNS_2 || [];
-  const EX = window.SINOTICOS_EXCLUSIVOS || [];
+  function build(mode) {
+    const C1 = window.LectioMode.resolveDays(window.SINOTICOS_COMUNS_1 || [], window.SINOTICOS_COMUNS_1_CARTA, mode);
+    const C2 = window.LectioMode.resolveDays(window.SINOTICOS_COMUNS_2 || [], window.SINOTICOS_COMUNS_2_CARTA, mode);
+    const EX = window.LectioMode.resolveDays(window.SINOTICOS_EXCLUSIVOS || [], window.SINOTICOS_EXCLUSIVOS_CARTA, mode);
 
-  const sequence = [];
-  let dayNum = 1;
+    const sequence = [];
+    let dayNum = 1;
 
-  [...C1, ...C2, ...EX].forEach(entry => {
-    sequence.push({ ...entry, day: dayNum++ });
-  });
+    [...C1, ...C2, ...EX].forEach(entry => {
+      sequence.push({ ...entry, day: dayNum++ });
+    });
 
-  window.SINOTICOS = sequence;
+    return sequence;
+  }
+  window.buildSinoticos = build;
+  window.SINOTICOS = build('classico');
 })();

@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-1-reis-v1',
-  days: () => window.REIS_1,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.REIS_1, window.REIS_1_CARTA, window.LectioMode.get()),
   subtitle: '1 Reis · 52 dias · NVI',
   journeyTitle: 'Cinquenta e dois dias com 1 Reis: de Davi a Salomão, do templo ao reino dividido',
   journeySub: 'Da linhagem que atravessa gerações e da entrega do trono de Davi a Salomão, pela sabedoria e pelo templo erguido em Jerusalém, até a divisão do reino e o fogo que desce sobre o Carmelo — uma travessia por 1 Reis intercalada, capítulo a capítulo, com os relatos paralelos de 1 e 2 Crônicas. Tradução NVI.',

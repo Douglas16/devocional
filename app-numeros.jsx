@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-numeros-v1',
-  days: () => window.NUMEROS,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.NUMEROS, window.NUMEROS_CARTA, window.LectioMode.get()),
   subtitle: 'Números · 36 dias · NVI',
   journeyTitle: 'Trinta e seis dias com Números: a jornada pelo deserto',
   journeySub: 'Do recenseamento no Sinai à véspera da terra prometida — uma travessia completa pelos quarenta anos de deserto, marcados por queixas, rebeliões e a fidelidade constante de Deus a cada nova geração. Tradução NVI.',

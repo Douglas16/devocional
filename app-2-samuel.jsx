@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-2-samuel-v1',
-  days: () => window.SAMUEL_2,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.SAMUEL_2, window.SAMUEL_2_CARTA, window.LectioMode.get()),
   subtitle: '2 Samuel · 24 dias · NVI',
   journeyTitle: 'Vinte e quatro dias com 2 Samuel: um trono estabelecido para sempre',
   journeySub: 'Da ascensão de Davi como rei sobre todo Israel e a aliança que promete um trono eterno, passando pela queda com Bate-Seba e a rebelião de Absalão, até as últimas palavras do rei — uma travessia completa pela vida complexa e real do rei segundo o coração de Deus. Tradução NVI.',

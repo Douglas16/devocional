@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-profetas-menores-2-v1',
-  days: () => window.PROFETAS_MENORES_2,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.PROFETAS_MENORES_2, window.PROFETAS_MENORES_2_CARTA, window.LectioMode.get()),
   subtitle: 'Obadias + Jonas + Miquéias + Naum + Habacuque + Sofonias + Ageu · 23 dias · NVI',
   journeyTitle: 'Vinte e três dias com sete profetas: orgulho derrubado, misericórdia e um Deus que canta',
   journeySub: 'Do juízo sobre o orgulho de Edom e do profeta relutante enviado a Nínive, pela justiça e esperança messiânica de Miquéias, o Deus que sustenta a fé em meio à crise de Habacuque, até a alegria final de Sofonias e o chamado prático de Ageu a reordenar prioridades — sete livros curtos, cada um com sua própria voz. Tradução NVI.',

@@ -1,7 +1,7 @@
 // Configuração da jornada de 1 Coríntios; a interface está em app-pedro.jsx.
 window.LECTIO_STUDY = {
   storageKey: 'lectio-1-corintios-v1',
-  days: () => window.CORINTIOS,
+  hasCartaMode: true, days: () => window.buildCorintios1(window.LectioMode.get()),
   subtitle: '1 Coríntios · 14 dias · NVI',
   journeyTitle: 'Quatorze dias com uma igreja formada pela cruz',
   journeySub: 'De uma comunidade dividida à esperança da ressurreição: Paulo nos convida a viver liberdade, dons e coragem no caminho do amor. Tradução NVI.',

@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-oseias-v1',
-  days: () => window.OSEIAS,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.OSEIAS, window.OSEIAS_CARTA, window.LectioMode.get()),
   subtitle: 'Oseias · 14 dias · NVI',
   journeyTitle: 'Catorze dias com Oseias: o amor que não desiste',
   journeySub: 'Do casamento de Oseias com Gômer como sinal profético vivo, pelo processo judicial de Deus contra a infidelidade de Israel, até o coração de pai ferido do capítulo 11 e a promessa final de cura completa — uma travessia pelo profeta que viveu, em carne própria, o amor que persegue mesmo depois da traição. Tradução NVI.',

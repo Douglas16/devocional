@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-ezequiel-v1',
-  days: () => window.EZEQUIEL,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.EZEQUIEL, window.EZEQUIEL_CARTA, window.LectioMode.get()),
   subtitle: 'Ezequiel · 48 dias · NVI',
   journeyTitle: 'Quarenta e oito dias com Ezequiel: glória, juízo e o coração novo',
   journeySub: 'Das rodas cheias de olhos junto ao rio Quebar e dos sinais proféticos mais estranhos da Bíblia, pelo catálogo dos pecados de Jerusalém e os oráculos contra as nações, até o vale de ossos secos que ganham vida e a visão do templo onde a glória do Senhor retorna para sempre — uma travessia completa pelo profeta exilado que viu a santidade de Deus partir e prometeu que ela voltaria. Tradução NVI.',

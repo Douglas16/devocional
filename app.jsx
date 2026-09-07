@@ -40,6 +40,13 @@ function App() {
   };
   const hasCarta = !!(window.PROVERBIOS_1_10_CARTA || window.PROVERBIOS_11_20_CARTA || window.PROVERBIOS_21_31_CARTA);
 
+  // Tamanho da letra — global, compartilhado entre todos os livros (window.LectioFontSize)
+  const [fontSize, setFontSizeState] = useState(() => window.LectioFontSize.get());
+  const setFontSize = (id) => {
+    window.LectioFontSize.set(id);
+    setFontSizeState(id);
+  };
+
   const days = window.buildDevotional(mode);
   const total = days.length;
 
@@ -99,7 +106,7 @@ function App() {
 
   return (
     <div className="app">
-      <Header theme={theme} onSetTheme={setTheme} mode={mode} onSetMode={setMode} hasCarta={hasCarta} />
+      <Header theme={theme} onSetTheme={setTheme} mode={mode} onSetMode={setMode} hasCarta={hasCarta} fontSize={fontSize} onSetFontSize={setFontSize} />
       <Tabs
         tab={tab}
         onTabChange={setTab}
@@ -147,7 +154,7 @@ function App() {
 }
 
 // ============ HEADER ============
-function Header({ theme, onSetTheme, mode, onSetMode, hasCarta }) {
+function Header({ theme, onSetTheme, mode, onSetMode, hasCarta, fontSize, onSetFontSize }) {
   return (
     <header className="header">
       <div className="brand">
@@ -156,6 +163,7 @@ function Header({ theme, onSetTheme, mode, onSetMode, hasCarta }) {
       </div>
       <div className="header-actions">
         <window.LectioModeMenu mode={mode} onSetMode={onSetMode} available={hasCarta} />
+        <window.LectioFontSizeMenu size={fontSize} onSetSize={onSetFontSize} />
         <window.LectioThemeMenu theme={theme} onSetTheme={onSetTheme} />
       </div>
     </header>
@@ -224,6 +232,9 @@ function Reader({ day, total, isRead, onToggleRead, note, onNoteChange, highligh
       <div className="verse-anchor">
         <div className="verse-anchor-text serif">{day.verse.text}</div>
         <div className="verse-anchor-ref">{day.verse.ref}</div>
+        <div className="share-row center">
+          <window.LectioShareButton text={window.LectioShare.formatVerse(day)} label="Compartilhar versículo no WhatsApp" />
+        </div>
       </div>
 
       {/* Palavra */}
@@ -290,12 +301,18 @@ function Reader({ day, total, isRead, onToggleRead, note, onNoteChange, highligh
       <section className="section">
         <div className="section-title">Aplicação prática</div>
         <div className="application-box">{day.application}</div>
+        <div className="share-row">
+          <window.LectioShareButton text={window.LectioShare.formatApplication(day)} label="Compartilhar aplicação no WhatsApp" />
+        </div>
       </section>
 
       {/* Oração */}
       <section className="section">
         <div className="section-title">Oração</div>
         <div className="prayer-text">{day.prayer}</div>
+        <div className="share-row center">
+          <window.LectioShareButton text={window.LectioShare.formatPrayer(day)} label="Compartilhar oração no WhatsApp" />
+        </div>
       </section>
 
       {/* Anotações */}

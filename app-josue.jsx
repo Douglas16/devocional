@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-josue-v1',
-  days: () => window.JOSUE,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.JOSUE, window.JOSUE_CARTA, window.LectioMode.get()),
   subtitle: 'Josué · 24 dias · NVI',
   journeyTitle: 'Vinte e quatro dias com Josué: coragem, conquista e uma promessa cumprida',
   journeySub: 'Da travessia do Jordão à divisão da terra e à renovação final da aliança em Siquém — uma travessia completa pelo livro que celebra a fidelidade de Deus a cada promessa feita. Tradução NVI.',

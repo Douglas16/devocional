@@ -1,7 +1,7 @@
 // Configuração da jornada de Romanos; a interface compartilhada está em app-pedro.jsx.
 window.LECTIO_STUDY = {
   storageKey: 'lectio-romanos-v1',
-  days: () => window.ROMANOS,
+  hasCartaMode: true, days: () => window.buildRomanos(window.LectioMode.get()),
   subtitle: 'Romanos · 18 dias · NVI',
   journeyTitle: 'Dezoito dias com a graça que transforma',
   journeySub: 'Da justiça de Deus à vida compartilhada: uma jornada pela carta de Paulo aos Romanos, onde graça, esperança, misericórdia e missão formam um só caminho. Tradução NVI.',

@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-rute-ester-canticos-v1',
-  days: () => window.RUTE_ESTER_CANTICOS,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.RUTE_ESTER_CANTICOS, window.RUTE_ESTER_CANTICOS_CARTA, window.LectioMode.get()),
   subtitle: 'Rute + Ester + Cânticos · 22 dias · NVI',
   journeyTitle: 'Vinte e dois dias com Rute, Ester e Cânticos: lealdade, providência e amor',
   journeySub: 'Da lealdade silenciosa de Rute a Noemi e da redenção no portão de Belém, pela coragem de Ester diante do perigo e a providência escondida de Deus, até a poesia do amor conjugal em Cânticos — três pequenos livros, cada um mostrando de um jeito diferente como Deus tece fidelidade, propósito e beleza na vida comum. Tradução NVI.',

@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-genesis-v1',
-  days: () => window.GENESIS,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.GENESIS, window.GENESIS_CARTA, window.LectioMode.get()),
   subtitle: 'Gênesis · 50 dias · NVI',
   journeyTitle: 'Cinquenta dias com Gênesis: das origens à providência',
   journeySub: 'Da criação do mundo à promessa feita a Abraão, da disputa entre Jacó e Esaú à providência de Deus na vida de José — uma travessia completa pelo livro dos começos. Tradução NVI.',

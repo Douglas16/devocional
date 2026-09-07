@@ -15,7 +15,7 @@
       ...window.LectioMode.resolveDays(window.PROVERBIOS_11_20 || [], window.PROVERBIOS_11_20_CARTA, mode),
       ...window.LectioMode.resolveDays(window.PROVERBIOS_21_31 || [], window.PROVERBIOS_21_31_CARTA, mode)
     ];
-    const TG = window.TIAGO_BLOCOS || [];
+    const TG = window.LectioMode.resolveDays(window.TIAGO_BLOCOS || [], window.TIAGO_BLOCOS_CARTA, mode);
 
     // Sequência: PV1, PV2, TG1, PV3, PV4, TG2, PV5, PV6, TG3, ...
     // Padrão de 3 dias que se repete: PV, PV, TG

@@ -1,6 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-jo-v1',
-  days: () => window.JO,
+  hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.JO, window.JO_CARTA, window.LectioMode.get()),
   subtitle: 'Jó · 42 dias · NVI',
   journeyTitle: 'Quarenta e dois dias com Jó: fé em meio ao sofrimento inexplicado',
   journeySub: 'Da prosperidade perdida num só dia e do silêncio de sete dias dos amigos, pelos longos e dolorosos ciclos de discursos sobre por que os justos sofrem, até a voz de Deus no redemoinho e a restauração final — uma travessia honesta pelo livro mais antigo e mais cru da Bíblia sobre fé, dúvida e mistério. Tradução NVI.',
