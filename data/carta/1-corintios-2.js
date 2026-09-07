@@ -1,984 +1,1229 @@
-// 1 Coríntios — Parte 1 — Opção 2: Carta ao Coração
+// 1 Coríntios — Parte 2 — Opção 2: Carta ao Coração
 // Base bíblica, versículos, palavras gregas e passagens preservados do arquivo original.
 // Tom devocional: caloroso, íntimo e pastoral.
 
-window.CORINTIOS_1_CARTA = [
+window.CORINTIOS_2_CARTA = [
   {
-    "theme": "Antes dos seus problemas, Deus ainda chama você de seu",
-    "date": "1 Coríntios 1.1-17",
+    "theme": "Você não precisa ser igual a todo mundo para pertencer ao corpo de Cristo",
+    "date": "1 Coríntios 12",
     "verse": {
-      "text": "Deus é fiel, o qual os chamou à comunhão com seu Filho Jesus Cristo, nosso Senhor.",
-      "ref": "1 Coríntios 1.9"
+      "text": "Há diferentes tipos de dons, mas o Espírito é o mesmo.",
+      "ref": "1 Coríntios 12.4"
     },
     "word": {
-      "original": "κλητός",
-      "translit": "klētós",
+      "original": "χάρισμα",
+      "translit": "chárisma",
       "lang": "grego",
-      "meaning": "chamado, convidado",
-      "note": "Klētós significa chamado, convidado. Paulo olha para uma igreja cheia de falhas e, antes de corrigir qualquer coisa, lembra quem eles são em Cristo. A identidade vem antes da correção. Deus não começa dizendo apenas o que precisa mudar; começa lembrando a quem pertencemos."
+      "meaning": "dom da graça",
+      "note": "Chárisma é o dom que a graça coloca em você, não um troféu que você conquista. Talvez você compare o que recebeu com o que outra pessoa tem e sinta que o seu é pequeno demais. Mas o mesmo Espírito que agiu nela também agiu em você — de um jeito diferente, não menor."
     },
-    "context": "Corinto era uma cidade marcada por competição, status e divisões, e parte dessa lógica entrou na igreja. Paulo inicia a carta lembrando que a comunidade recebeu graça, dons e um chamado para viver em comunhão com Cristo. Só depois ele trata das divisões.",
+    "context": "Você já deve ter sentido que sua contribuição não é tão chamativa quanto a de outra pessoa. Em Corinto acontecia algo parecido: alguns dons pareciam mais espetaculares e ganhavam mais atenção. Paulo interrompe essa comparação lembrando que o Espírito distribui dons diferentes com o mesmo propósito — o bem de todos, não o brilho de alguns.",
     "passage": {
-      "ref": "1 Coríntios 1 · capítulo completo (NVI)",
+      "ref": "1 Coríntios 12 · capítulo completo (NVI)",
       "verses": [
         {
           "n": 1,
-          "text": "Paulo, chamado para ser apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Sóstenes,"
+          "text": "Irmãos, quanto aos dons espirituais, não quero que vocês sejam ignorantes."
         },
         {
           "n": 2,
-          "text": "à igreja de Deus que está em Corinto, aos santificados em Cristo Jesus e chamados para serem santos, juntamente com todos os que, em toda parte, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:"
+          "text": "Vocês sabem que, quando eram pagãos, de uma forma ou de outra eram fortemente atraídos e levados para os ídolos mudos."
         },
         {
           "n": 3,
-          "text": "A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo."
+          "text": "Por isso, eu lhes afirmo que ninguém que fala pelo Espírito de Deus diz: \"Jesus seja amaldiçoado\"; e ninguém pode dizer: \"Jesus é Senhor\", a não ser pelo Espírito Santo."
         },
         {
           "n": 4,
-          "text": "Sempre dou graças a meu Deus por vocês, por causa da graça que lhes foi dada por ele em Cristo Jesus."
+          "text": "Há diferentes tipos de dons, mas o Espírito é o mesmo."
         },
         {
           "n": 5,
-          "text": "Pois nele vocês foram enriquecidos em tudo, em toda palavra e em todo conhecimento,"
+          "text": "Há diferentes tipos de ministérios, mas o Senhor é o mesmo."
         },
         {
           "n": 6,
-          "text": "porque o testemunho de Cristo foi confirmado entre vocês,"
+          "text": "Há diferentes formas de atuação, mas é o mesmo Deus quem efetua tudo em todos."
         },
         {
           "n": 7,
-          "text": "de modo que não lhes falta nenhum dom espiritual, enquanto vocês aguardam que o nosso Senhor Jesus Cristo seja revelado."
+          "text": "A cada um, porém, é dada a manifestação do Espírito, visando ao bem comum."
         },
         {
           "n": 8,
-          "text": "Ele os manterá firmes até o fim, de modo que vocês serão irrepreensíveis no dia de nosso Senhor Jesus Cristo."
+          "text": "Pelo Espírito, a um é dada a palavra de sabedoria; a outro, a palavra de conhecimento, pelo mesmo Espírito;"
         },
         {
           "n": 9,
-          "text": "Fiel é Deus, o qual os chamou à comunhão com seu Filho Jesus Cristo, nosso Senhor."
+          "text": "a outro, fé, pelo mesmo Espírito; a outro, dons de cura, pelo único Espírito;"
         },
         {
           "n": 10,
-          "text": "Irmãos, em nome de nosso Senhor Jesus Cristo suplico a todos vocês que concordem uns com os outros no que falam, para que não haja divisões entre vocês, e, sim, que todos estejam unidos num só pensamento e num só parecer."
+          "text": "a outro, poder para operar milagres; a outro, profecia; a outro, discernimento de espíritos; a outro, variedade de línguas; e ainda a outro, interpretação de línguas."
         },
         {
           "n": 11,
-          "text": "Meus irmãos, fui informado por alguns da casa de Cloe de que há divisões entre vocês."
+          "text": "Todas essas coisas, porém, são realizadas pelo mesmo e único Espírito, e ele as distribui individualmente, a cada um, conforme quer."
         },
         {
           "n": 12,
-          "text": "Com isso quero dizer que cada um de vocês afirma: \"Eu sou de Paulo\"; \"eu de Apolo\"; \"eu de Pedro\"; e \"eu de Cristo\"."
+          "text": "Ora, assim como o corpo é uma unidade, embora tenha muitos membros, e todos os membros, mesmo sendo muitos, formam um só corpo, assim também com respeito a Cristo."
         },
         {
           "n": 13,
-          "text": "Acaso Cristo está dividido? Foi Paulo crucificado em favor de vocês? Foram vocês batizados em nome de Paulo?"
+          "text": "Pois em um só corpo todos nós fomos batizados em um único Espírito: quer judeus, quer gregos, quer escravos, quer livres. E a todos nós foi dado beber de um único Espírito."
         },
         {
           "n": 14,
-          "text": "Dou graças a Deus por não ter batizado nenhum de vocês, exceto Crispo e Gaio;"
+          "text": "O corpo não é composto de um só membro, mas de muitos."
         },
         {
           "n": 15,
-          "text": "de modo que ninguém pode dizer que foi batizado em meu nome."
+          "text": "Se o pé disser: \"Porque não sou mão, não pertenço ao corpo\", nem por isso deixa de fazer parte do corpo."
         },
         {
           "n": 16,
-          "text": "( Batizei também os da casa de Estéfanas; além destes, não me lembro se batizei alguém mais. )"
+          "text": "E se o ouvido disser: \"Porque não sou olho, não pertenço ao corpo\", nem por isso deixa de fazer parte do corpo."
         },
         {
           "n": 17,
-          "text": "Pois Cristo não me enviou para batizar, mas para pregar o evangelho, não com palavras de sabedoria humana, para que a cruz de Cristo não seja esvaziada. Cristo, Sabedoria e Poder de Deus"
+          "text": "Se todo o corpo fosse olho, onde estaria a audição? Se todo o corpo fosse ouvido, onde estaria o olfato?"
         },
         {
           "n": 18,
-          "text": "Pois a mensagem da cruz é loucura para os que estão perecendo, mas para nós, que estamos sendo salvos, é o poder de Deus."
+          "text": "De fato, Deus dispôs cada um dos membros no corpo, segundo a sua vontade."
         },
         {
           "n": 19,
-          "text": "Pois está escrito: \"Destruirei a sabedoria dos sábios e rejeitarei a inteligência dos inteligentes\"."
+          "text": "Se todos fossem um só membro, onde estaria o corpo?"
         },
         {
           "n": 20,
-          "text": "Onde está o sábio? Onde está o erudito? Onde está o questionador desta era? Acaso não tornou Deus louca a sabedoria deste mundo?"
+          "text": "Assim, há muitos membros, mas um só corpo."
         },
         {
           "n": 21,
-          "text": "Visto que, na sabedoria de Deus, o mundo não o conheceu por meio da sabedoria humana, agradou a Deus salvar aqueles que crêem por meio da loucura da pregação."
+          "text": "O olho não pode dizer à mão: \"Não preciso de você! \" Nem a cabeça pode dizer aos pés: \"Não preciso de vocês! \""
         },
         {
           "n": 22,
-          "text": "Os judeus pedem sinais miraculosos, e os gregos procuram sabedoria;"
+          "text": "Pelo contrário, os membros do corpo que parecem mais fracos são indispensáveis,"
         },
         {
           "n": 23,
-          "text": "nós, porém, pregamos a Cristo crucificado, o qual, de fato, é escândalo para os judeus e loucura para os gentios"
+          "text": "e os membros que pensamos serem menos honrosos, tratamos com especial honra. E os membros que em nós são indecorosos são tratados com decoro especial,"
         },
         {
           "n": 24,
-          "text": "mas para os que foram chamados, tanto judeus como gregos, Cristo é o poder de Deus e a sabedoria de Deus."
+          "text": "enquanto os que em nós são decorosos não precisam ser tratados de maneira especial. Mas Deus estruturou o corpo dando maior honra aos membros que dela tinham falta,"
         },
         {
           "n": 25,
-          "text": "Porque a loucura de Deus é mais sábia que a sabedoria humana, e a fraqueza de Deus é mais forte que a força do homem."
+          "text": "a fim de que não haja divisão no corpo, mas, sim, que todos os membros tenham igual cuidado uns pelos outros."
         },
         {
           "n": 26,
-          "text": "Irmãos, pensem no que vocês eram quando foram chamados. Poucos eram sábios segundo os padrões humanos; poucos eram poderosos; poucos eram de nobre nascimento."
+          "text": "Quando um membro sofre, todos os outros sofrem com ele; quando um membro é honrado, todos os outros se alegram com ele."
         },
         {
           "n": 27,
-          "text": "Mas Deus escolheu as coisas loucas do mundo para envergonhar os sábios, e escolheu as coisas fracas do mundo para envergonhar as fortes."
+          "text": "Ora, vocês são o corpo de Cristo, e cada um de vocês, individualmente, é membro desse corpo."
         },
         {
           "n": 28,
-          "text": "Ele escolheu as coisas insignificantes do mundo, as desprezadas e as que nada são, para reduzir a nada as que são,"
+          "text": "Assim, na igreja, Deus estabeleceu primeiramente apóstolos; em segundo lugar, profetas; em terceiro lugar, mestres; depois os que realizam milagres, os que têm dom de curar, os que têm dom de prestar ajuda, os que têm dons de administração e os que falam diversas línguas."
         },
         {
           "n": 29,
-          "text": "para que ninguém se vanglorie diante dele."
+          "text": "São todos apóstolos? São todos profetas? São todos mestres? Têm todos o dom de realizar milagres?"
         },
         {
           "n": 30,
-          "text": "É, porém, por iniciativa dele que vocês estão em Cristo Jesus, o qual se tornou sabedoria de Deus para nós, isto é, justiça, santidade e redenção,"
+          "text": "Têm todos dons de curar? Falam todos em línguas? Todos interpretam?"
         },
         {
           "n": 31,
-          "text": "para que, como está escrito: \"Quem se gloriar, glorie-se no Senhor\"."
+          "text": "Entretanto, busquem com dedicação os melhores dons. Passo agora a mostrar-lhes um caminho ainda mais excelente."
         }
       ]
     },
     "meditation": [
-      "Talvez você esteja enxergando mais facilmente aquilo que está errado em você do que aquilo que Deus já começou a fazer. Paulo não ignora os problemas da igreja, mas também não deixa que eles definam toda a história.",
-      "Ser chamado por Deus não significa já estar pronto. Significa que sua vida está sendo alcançada por uma graça que começa antes do seu desempenho e continua trabalhando enquanto você amadurece.",
-      "E a comunhão com Cristo também muda a maneira como vemos as pessoas. Nem toda diferença precisa virar divisão. Às vezes maturidade é lembrar que alguém pode ser muito diferente de você e ainda pertencer ao mesmo Senhor."
+      "Talvez você meça seu valor pelo quanto sua função aparece. Mas o dom que você recebeu não precisa ser visível para ser necessário.",
+      "Se você já se sentiu dispensável num grupo, ouça isto: o corpo de Cristo foi montado por Deus, e ele não erra ao colocar você exatamente onde está.",
+      "Quando alguém ao seu redor sofre, você também é convidado a sentir isso como seu. Pertencer é mais que estar presente — é se importar de verdade."
     ],
     "questions": [
-      "Você tem se definido mais pelos seus erros ou pelo chamado de Deus?",
-      "Que diferença de preferência tem se transformado em distância desnecessária?",
-      "Quem na sua comunidade você poderia enxergar com mais graça hoje?"
+      "Que dom seu você tem escondido por achar pequeno demais?",
+      "Existe alguém que você trata como dispensável no seu convívio?",
+      "Como você pode se aproximar hoje de quem está sofrendo perto de você?"
     ],
-    "application": "Escolha uma pessoa da sua comunidade com quem você tem pouca afinidade e agradeça a Deus por algo bom que existe nela.",
-    "prayer": "Deus fiel, lembra-me que fui chamado por ti antes de estar pronto. Cura em mim a necessidade de dividir, comparar e escolher lados. Faz-me viver a comunhão de Cristo com humildade. Amém.",
-    "day": 1
+    "application": "Ofereça hoje, sem se comparar, algo simples que você sabe fazer para ajudar alguém — e pergunte com sinceridade como essa pessoa está.",
+    "prayer": "Espírito Santo, obrigado pelo dom que colocaste em mim, mesmo quando não parece grande coisa. Tira de mim a comparação e ensina-me a pertencer de verdade ao corpo de Cristo. Amém."
   },
   {
-    "theme": "Você não precisa parecer forte para ser usado por Deus",
-    "date": "1 Coríntios 1.18–2.16",
+    "theme": "Sem amor, até seus dons mais impressionantes ficam vazios",
+    "date": "1 Coríntios 13",
     "verse": {
-      "text": "A mensagem da cruz é loucura para os que estão perecendo, mas para nós, que estamos sendo salvos, é o poder de Deus.",
-      "ref": "1 Coríntios 1.18"
+      "text": "Assim, permanecem agora estes três: a fé, a esperança e o amor. O maior deles, porém, é o amor.",
+      "ref": "1 Coríntios 13.13"
     },
     "word": {
-      "original": "σταυρός",
-      "translit": "staurós",
+      "original": "ἀγάπη",
+      "translit": "agápē",
       "lang": "grego",
-      "meaning": "cruz",
-      "note": "Staurós significa cruz. No mundo romano, a cruz era símbolo de vergonha e fraqueza. Paulo aponta justamente para ela como lugar em que Deus revela poder e sabedoria. O evangelho desmonta nossa necessidade de parecer impressionante."
+      "meaning": "amor que busca o bem do outro",
+      "note": "Agápē não é um sentimento que aparece sozinho; é uma escolha diária de buscar o bem de quem está diante de você. No meio de um capítulo sobre dons espalhafatosos, Paulo lembra que nenhuma capacidade tem valor sem esse amor concreto."
     },
-    "context": "A igreja de Corinto valorizava eloquência, prestígio e inteligência pública. Paulo não despreza conhecimento, mas mostra que a cruz redefine grandeza. Deus escolhe aquilo que parece fraco para que ninguém transforme fé em palco de superioridade.",
+    "context": "Você pode ter muita habilidade, muita informação, até uma fé que impressiona — e ainda assim machucar as pessoas ao seu redor. Foi isso que Paulo viu em Corinto: dons sendo usados para aparecer, não para amar. Por isso ele descreve o amor não como emoção, mas como comportamento visível: paciência, verdade, perseverança.",
     "passage": {
-      "ref": "1 Coríntios 1 · capítulo completo (NVI)",
+      "ref": "1 Coríntios 13 · capítulo completo (NVI)",
       "verses": [
         {
           "n": 1,
-          "text": "Paulo, chamado para ser apóstolo de Cristo Jesus pela vontade de Deus, e o irmão Sóstenes,"
+          "text": "Ainda que eu fale as línguas dos homens e dos anjos, se não tiver amor, serei como o sino que ressoa ou como o prato que retine."
         },
         {
           "n": 2,
-          "text": "à igreja de Deus que está em Corinto, aos santificados em Cristo Jesus e chamados para serem santos, juntamente com todos os que, em toda parte, invocam o nome de nosso Senhor Jesus Cristo, Senhor deles e nosso:"
+          "text": "Ainda que eu tenha o dom de profecia e saiba todos os mistérios e todo o conhecimento, e tenha uma fé capaz de mover montanhas, mas não tiver amor, nada serei."
         },
         {
           "n": 3,
-          "text": "A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo."
+          "text": "Ainda que eu dê aos pobres tudo o que possuo e entregue o meu corpo para ser queimado, mas não tiver amor, nada disso me valerá."
         },
         {
           "n": 4,
-          "text": "Sempre dou graças a meu Deus por vocês, por causa da graça que lhes foi dada por ele em Cristo Jesus."
+          "text": "O amor é paciente, o amor é bondoso. Não inveja, não se vangloria, não se orgulha."
         },
         {
           "n": 5,
-          "text": "Pois nele vocês foram enriquecidos em tudo, em toda palavra e em todo conhecimento,"
+          "text": "Não maltrata, não procura seus interesses, não se ira facilmente, não guarda rancor."
         },
         {
           "n": 6,
-          "text": "porque o testemunho de Cristo foi confirmado entre vocês,"
+          "text": "O amor não se alegra com a injustiça, mas se alegra com a verdade."
         },
         {
           "n": 7,
-          "text": "de modo que não lhes falta nenhum dom espiritual, enquanto vocês aguardam que o nosso Senhor Jesus Cristo seja revelado."
+          "text": "Tudo sofre, tudo crê, tudo espera, tudo suporta."
         },
         {
           "n": 8,
-          "text": "Ele os manterá firmes até o fim, de modo que vocês serão irrepreensíveis no dia de nosso Senhor Jesus Cristo."
+          "text": "O amor nunca perece; mas as profecias desaparecerão, as línguas cessarão, o conhecimento passará."
         },
         {
           "n": 9,
-          "text": "Fiel é Deus, o qual os chamou à comunhão com seu Filho Jesus Cristo, nosso Senhor."
+          "text": "Pois em parte conhecemos e em parte profetizamos;"
         },
         {
           "n": 10,
-          "text": "Irmãos, em nome de nosso Senhor Jesus Cristo suplico a todos vocês que concordem uns com os outros no que falam, para que não haja divisões entre vocês, e, sim, que todos estejam unidos num só pensamento e num só parecer."
+          "text": "quando, porém, vier o que é perfeito, o que é imperfeito desaparecerá."
         },
         {
           "n": 11,
-          "text": "Meus irmãos, fui informado por alguns da casa de Cloe de que há divisões entre vocês."
+          "text": "Quando eu era menino, falava como menino, pensava como menino e raciocinava como menino. Quando me tornei homem, deixei para trás as coisas de menino."
         },
         {
           "n": 12,
-          "text": "Com isso quero dizer que cada um de vocês afirma: \"Eu sou de Paulo\"; \"eu de Apolo\"; \"eu de Pedro\"; e \"eu de Cristo\"."
+          "text": "Agora, pois, vemos apenas um reflexo obscuro, como em espelho; mas, então, veremos face a face. Agora conheço em parte; então, conhecerei plenamente, da mesma forma como sou plenamente conhecido."
         },
         {
           "n": 13,
-          "text": "Acaso Cristo está dividido? Foi Paulo crucificado em favor de vocês? Foram vocês batizados em nome de Paulo?"
-        },
-        {
-          "n": 14,
-          "text": "Dou graças a Deus por não ter batizado nenhum de vocês, exceto Crispo e Gaio;"
-        },
-        {
-          "n": 15,
-          "text": "de modo que ninguém pode dizer que foi batizado em meu nome."
-        },
-        {
-          "n": 16,
-          "text": "( Batizei também os da casa de Estéfanas; além destes, não me lembro se batizei alguém mais. )"
-        },
-        {
-          "n": 17,
-          "text": "Pois Cristo não me enviou para batizar, mas para pregar o evangelho, não com palavras de sabedoria humana, para que a cruz de Cristo não seja esvaziada. Cristo, Sabedoria e Poder de Deus"
-        },
-        {
-          "n": 18,
-          "text": "Pois a mensagem da cruz é loucura para os que estão perecendo, mas para nós, que estamos sendo salvos, é o poder de Deus."
-        },
-        {
-          "n": 19,
-          "text": "Pois está escrito: \"Destruirei a sabedoria dos sábios e rejeitarei a inteligência dos inteligentes\"."
-        },
-        {
-          "n": 20,
-          "text": "Onde está o sábio? Onde está o erudito? Onde está o questionador desta era? Acaso não tornou Deus louca a sabedoria deste mundo?"
-        },
-        {
-          "n": 21,
-          "text": "Visto que, na sabedoria de Deus, o mundo não o conheceu por meio da sabedoria humana, agradou a Deus salvar aqueles que crêem por meio da loucura da pregação."
-        },
-        {
-          "n": 22,
-          "text": "Os judeus pedem sinais miraculosos, e os gregos procuram sabedoria;"
-        },
-        {
-          "n": 23,
-          "text": "nós, porém, pregamos a Cristo crucificado, o qual, de fato, é escândalo para os judeus e loucura para os gentios"
-        },
-        {
-          "n": 24,
-          "text": "mas para os que foram chamados, tanto judeus como gregos, Cristo é o poder de Deus e a sabedoria de Deus."
-        },
-        {
-          "n": 25,
-          "text": "Porque a loucura de Deus é mais sábia que a sabedoria humana, e a fraqueza de Deus é mais forte que a força do homem."
-        },
-        {
-          "n": 26,
-          "text": "Irmãos, pensem no que vocês eram quando foram chamados. Poucos eram sábios segundo os padrões humanos; poucos eram poderosos; poucos eram de nobre nascimento."
-        },
-        {
-          "n": 27,
-          "text": "Mas Deus escolheu as coisas loucas do mundo para envergonhar os sábios, e escolheu as coisas fracas do mundo para envergonhar as fortes."
-        },
-        {
-          "n": 28,
-          "text": "Ele escolheu as coisas insignificantes do mundo, as desprezadas e as que nada são, para reduzir a nada as que são,"
-        },
-        {
-          "n": 29,
-          "text": "para que ninguém se vanglorie diante dele."
-        },
-        {
-          "n": 30,
-          "text": "É, porém, por iniciativa dele que vocês estão em Cristo Jesus, o qual se tornou sabedoria de Deus para nós, isto é, justiça, santidade e redenção,"
-        },
-        {
-          "n": 31,
-          "text": "para que, como está escrito: \"Quem se gloriar, glorie-se no Senhor\"."
+          "text": "Assim, permanecem agora estes três: a fé, a esperança e o amor. O maior deles, porém, é o amor."
         }
       ]
     },
     "meditation": [
-      "Talvez você tenha aprendido a esconder suas fraquezas porque acredita que só pessoas fortes são respeitadas. A cruz conta outra história: Deus não tem vergonha de trabalhar justamente em lugares que o mundo considera pequenos.",
-      "Isso também muda nossa ideia de sucesso. Nem sempre fidelidade produz aparência de vitória. Às vezes obedecer parece perder, servir parece invisível e escolher humildade parece ficar para trás.",
-      "Mas a sabedoria de Deus não precisa da sua autopromoção. Você pode servir sem construir uma imagem. Pode obedecer sem precisar convencer todos de que está certo. A cruz liberta do peso de parecer grande."
+      "Você pode fazer coisas impressionantes e, ainda assim, deixar de amar quem está mais perto de você.",
+      "Amor paciente não é sinônimo de fraqueza. Ele também recusa a injustiça e comemora a verdade, mesmo quando isso custa algo.",
+      "Um dia você vai ver com clareza tudo o que hoje entende apenas em parte. Até lá, o amor é a prova mais segura de que você pertence a Cristo."
     ],
     "questions": [
-      "Em que área você sente mais necessidade de parecer forte ou competente?",
-      "Que definição de sucesso precisa ser confrontada pela cruz?",
-      "Onde você poderia escolher serviço silencioso em vez de visibilidade?"
+      "Que habilidade sua precisa passar pelo teste do amor antes de ser usada?",
+      "Onde você guarda rancor em vez de buscar o bem de alguém?",
+      "Como unir verdade e bondade numa relação que está difícil para você?"
     ],
-    "application": "Faça hoje uma tarefa boa que ninguém precise saber que foi você quem fez.",
-    "prayer": "Jesus crucificado, livra-me da necessidade de parecer maior do que sou. Ensina-me a reconhecer tua força na humildade, no serviço e na entrega. Amém.",
-    "day": 2
+    "application": "Escolha uma característica do amor descrita neste capítulo e pratique-a de um jeito que a outra pessoa consiga perceber, ainda hoje.",
+    "prayer": "Deus de amor, transforma meus dons e minhas palavras. Dá-me paciência, verdade e coragem para buscar o bem de quem está ao meu lado. Amém."
   },
   {
-    "theme": "Você pode plantar sem carregar o crescimento",
-    "date": "1 Coríntios 3–4",
+    "theme": "Suas palavras podem construir alguém, não só impressionar",
+    "date": "1 Coríntios 14",
     "verse": {
-      "text": "Eu plantei, Apolo regou, mas Deus é quem fazia crescer.",
-      "ref": "1 Coríntios 3.6"
+      "text": "Tudo seja feito para a edificação da igreja.",
+      "ref": "1 Coríntios 14.26"
     },
     "word": {
       "original": "οἰκοδομή",
       "translit": "oikodomḗ",
       "lang": "grego",
-      "meaning": "edificação, construção",
-      "note": "Oikodomḗ significa edificação, construção. Paulo mistura imagens de lavoura e edifício para lembrar que pessoas cooperam, mas Deus é o dono da obra. Nosso papel é servir com fidelidade; o crescimento não nasce do nosso controle."
+      "meaning": "edificação",
+      "note": "Oikodomḗ é o ato de construir uma casa habitável. Antes de se perguntar se algo é permitido ou impressionante, você pode se perguntar se aquilo edifica — se ajuda alguém a ficar de pé."
     },
-    "context": "As divisões em Corinto transformavam líderes em marcas de identidade. Paulo responde que ele e Apolo são apenas servos. Um planta, outro rega, mas Deus dá crescimento. O único fundamento que permanece é Cristo.",
+    "context": "Talvez você já tenha estado numa reunião, conversa ou postagem em que tudo parecia girar em torno de quem falava, não de quem ouvia. Paulo pede à igreja de Corinto o oposto: que cada palavra, dom ou participação sirva para fortalecer quem está ao redor, não para exibir quem fala.",
     "passage": {
-      "ref": "1 Coríntios 3 · capítulo completo (NVI)",
+      "ref": "1 Coríntios 14 · capítulo completo (NVI)",
       "verses": [
         {
           "n": 1,
-          "text": "Irmãos, não lhes pude falar como a espirituais, mas como a carnais, como a crianças em Cristo."
+          "text": "Sigam o caminho do amor e busquem com dedicação os dons espirituais, principalmente o dom de profecia."
         },
         {
           "n": 2,
-          "text": "Dei-lhes leite, e não alimento sólido, pois vocês não estavam em condições de recebê-lo. De fato, vocês ainda não estão em condições,"
+          "text": "Pois quem fala em língua não fala aos homens, mas a Deus. De fato, ninguém o entende; em espírito fala mistérios."
         },
         {
           "n": 3,
-          "text": "porque ainda são carnais. Porque, visto que há inveja e divisão entre vocês, não estão sendo carnais e agindo como mundanos?"
+          "text": "Mas quem profetiza o faz para a edificação, encorajamento e consolação dos homens."
         },
         {
           "n": 4,
-          "text": "Pois quando alguém diz: \"Eu sou de Paulo\", e outro: \"Eu sou de Apolo\", não estão sendo mundanos?"
+          "text": "Quem fala em língua a si mesmo se edifica, mas quem profetiza edifica a igreja."
         },
         {
           "n": 5,
-          "text": "Afinal de contas, quem é Apolo? Quem é Paulo? Apenas servos por meio dos quais vocês vieram a crer, conforme o ministério que o Senhor atribuiu a cada um."
+          "text": "Gostaria que todos vocês falassem em línguas, mas prefiro que profetizem. Quem profetiza é maior do que aquele que fala em línguas, a não ser que as interprete, para que a igreja seja edificada."
         },
         {
           "n": 6,
-          "text": "Eu plantei, Apolo regou, mas Deus é quem fazia crescer;"
+          "text": "Agora, irmãos, se eu for visitá-los e falar em línguas, em que lhes serei útil, a não ser que lhes leve alguma revelação, ou conhecimento, ou profecia, ou doutrina?"
         },
         {
           "n": 7,
-          "text": "de modo que nem o que planta nem o que rega são alguma coisa, mas unicamente Deus, que efetua o crescimento."
+          "text": "Até no caso de coisas inanimadas que produzem sons, tais como a flauta ou a cítara, como alguém reconhecerá o que está sendo tocado, se os sons não forem distintos?"
         },
         {
           "n": 8,
-          "text": "O que planta e o que rega têm um só propósito, e cada um será recompensado de acordo com o seu próprio trabalho."
+          "text": "Além disso, se a trombeta não emitir um som claro, quem se preparará para a batalha?"
         },
         {
           "n": 9,
-          "text": "Pois nós somos cooperadores de Deus; vocês são lavoura de Deus e edifício de Deus."
+          "text": "Assim acontece com vocês. Se não proferirem palavras compreensíveis com a língua, como alguém saberá o que está sendo dito? Vocês estarão simplesmente falando ao ar."
         },
         {
           "n": 10,
-          "text": "Conforme a graça de Deus que me foi concedida, eu, como sábio construtor, lancei o alicerce, e outro está construindo sobre ele. Contudo, veja cada um como constrói."
+          "text": "Sem dúvida, há diversos idiomas no mundo; todavia, nenhum deles é sem sentido."
         },
         {
           "n": 11,
-          "text": "Porque ninguém pode colocar outro alicerce além do que já está posto, que é Jesus Cristo."
+          "text": "Portanto, se eu não entender o significado do que alguém está falando, serei estrangeiro para quem fala, e ele, estrangeiro para mim."
         },
         {
           "n": 12,
-          "text": "Se alguém constrói sobre esse alicerce, usando ouro, prata, pedras preciosas, madeira, feno ou palha,"
+          "text": "Assim acontece com vocês. Visto que estão ansiosos por terem dons espirituais, procurem crescer naqueles que trazem a edificação para a igreja."
         },
         {
           "n": 13,
-          "text": "sua obra será mostrada, porque o Dia a trará à luz; pois será revelada pelo fogo, que provará a qualidade da obra de cada um."
+          "text": "Por isso, quem fala em língua, ore para que a possa interpretar."
         },
         {
           "n": 14,
-          "text": "Se o que alguém construiu permanecer, esse receberá recompensa."
+          "text": "Pois, se oro em língua, meu espírito ora, mas a minha mente fica infrutífera."
         },
         {
           "n": 15,
-          "text": "Se o que alguém construiu se queimar, esse sofrerá prejuízo; contudo, será salvo como alguém que escapa através do fogo."
+          "text": "Então, que farei? Orarei com o espírito, mas também orarei com o entendimento; cantarei com o espírito, mas também cantarei com o entendimento."
         },
         {
           "n": 16,
-          "text": "Vocês não sabem que são santuário de Deus e que o Espírito de Deus habita em vocês?"
+          "text": "Se você estiver louvando a Deus em espírito, como poderá aquele que está entre os não instruídos dizer o \"Amém\" à sua ação de graças, visto que não sabe o que você está dizendo?"
         },
         {
           "n": 17,
-          "text": "Se alguém destruir o santuário de Deus, Deus o destruirá; pois o santuário de Deus, que são vocês, é sagrado."
+          "text": "Pode ser que você esteja dando graças muito bem, mas o outro não é edificado."
         },
         {
           "n": 18,
-          "text": "Não se enganem. Se algum de vocês pensa que é sábio segundo os padrões desta era, deve tornar-se \"louco\" para que se torne sábio."
+          "text": "Dou graças a Deus por falar em línguas mais do que todos vocês."
         },
         {
           "n": 19,
-          "text": "Porque a sabedoria deste mundo é loucura aos olhos de Deus. Pois está escrito: \"Ele apanha os sábios na astúcia deles\";"
+          "text": "Todavia, na igreja prefiro falar cinco palavras compreensíveis para instruir os outros a falar dez mil palavras em língua."
         },
         {
           "n": 20,
-          "text": "e também: \"O Senhor conhece os pensamentos dos sábios e sabe como são fúteis\"."
+          "text": "Irmãos, deixem de pensar como crianças. Com respeito ao mal, sejam crianças; mas, quanto ao modo de pensar, sejam adultos."
         },
         {
           "n": 21,
-          "text": "Portanto, ninguém se glorie em homens; porque todas as coisas são de vocês,"
+          "text": "Pois está escrito na Lei: \"Por meio de homens de outras línguas e por meio de lábios de estrangeiros falarei a este povo, mas, mesmo assim, eles não me ouvirão\", diz o Senhor."
         },
         {
           "n": 22,
-          "text": "seja Paulo, seja Apolo, seja Pedro, seja o mundo, a vida, a morte, o presente ou o futuro; tudo é de vocês,"
+          "text": "Portanto, as línguas são um sinal para os descrentes, e não para os que crêem; a profecia, porém, é para os que crêem, e não para os descrentes."
         },
         {
           "n": 23,
-          "text": "e vocês são de Cristo, e Cristo, de Deus."
-        }
-      ]
-    },
-    "meditation": [
-      "Há um tipo de cansaço que nasce quando assumimos responsabilidade por resultados que nunca estiveram totalmente em nossas mãos. Queremos ver crescimento, mudança, reconhecimento ou fruto no tempo que imaginamos.",
-      "Paulo oferece uma imagem simples: plante e regue. Isso é bastante trabalho, mas ainda é diferente de fabricar crescimento. Há liberdade em aceitar o limite entre fidelidade e controle.",
-      "Você também não precisa comparar sua parte com a de outra pessoa. Talvez alguém plante melhor, outro regue melhor, outro chegue depois. A obra não pertence a nenhum deles. Pertence a Deus."
-    ],
-    "questions": [
-      "Que resultado você tem tentado controlar além do que realmente depende de você?",
-      "Com quem você tem se comparado no serviço ou no trabalho?",
-      "O que significaria ser fiel sem exigir ver imediatamente o crescimento?"
-    ],
-    "application": "Escolha uma área em que você tem se cobrado por resultados. Faça apenas a parte que cabe a você hoje e entregue o crescimento a Deus.",
-    "prayer": "Deus que dá crescimento, ensina-me a plantar e regar com fidelidade sem transformar resultado em ídolo. Livra-me da comparação e firma minha obra sobre Cristo. Amém.",
-    "day": 3
-  },
-  {
-    "theme": "Seu corpo também faz parte da sua vida com Deus",
-    "date": "1 Coríntios 5–6",
-    "verse": {
-      "text": "Vocês não pertencem a si mesmos; foram comprados por alto preço. Portanto, glorifiquem a Deus com o corpo de vocês.",
-      "ref": "1 Coríntios 6.19-20"
-    },
-    "word": {
-      "original": "ναός",
-      "translit": "naós",
-      "lang": "grego",
-      "meaning": "santuário, templo",
-      "note": "Naós significa santuário, lugar da presença de Deus. Paulo aplica essa imagem ao corpo e à comunidade. O corpo não é descartável nem irrelevante; ele participa da vida espiritual e merece ser tratado com honra."
-    },
-    "context": "1 Coríntios 5–6 enfrenta pecados, conflitos e uma ideia de liberdade sem limites. Paulo responde lembrando que pertencemos a Cristo. O corpo importa porque será ressuscitado e porque é chamado a expressar esse pertencimento.",
-    "passage": {
-      "ref": "1 Coríntios 5 · capítulo completo (NVI)",
-      "verses": [
-        {
-          "n": 1,
-          "text": "Por toda parte se ouve que há imoralidade entre vocês, imoralidade que não ocorre nem entre os pagãos, a ponto de alguém de vocês possuir a mulher de seu pai."
-        },
-        {
-          "n": 2,
-          "text": "E vocês estão orgulhosos! Não deviam, porém, estar cheios de tristeza e expulsar da comunhão aquele que fez isso?"
-        },
-        {
-          "n": 3,
-          "text": "Apesar de eu não estar presente fisicamente, estou com vocês em espírito. E já condenei aquele que fez isso, como se estivesse presente."
-        },
-        {
-          "n": 4,
-          "text": "Quando vocês estiverem reunidos em nome de nosso Senhor Jesus, estando eu com vocês em espírito, estando presente também o poder de nosso Senhor Jesus Cristo,"
-        },
-        {
-          "n": 5,
-          "text": "entreguem esse homem a Satanás, para que o corpo seja destruído, e seu espírito seja salvo no dia do Senhor."
-        },
-        {
-          "n": 6,
-          "text": "O orgulho de vocês não é bom. Vocês não sabem que um pouco de fermento faz toda a massa ficar fermentada?"
-        },
-        {
-          "n": 7,
-          "text": "Livrem-se do fermento velho, para que sejam massa nova e sem fermento, como realmente são. Pois Cristo, nosso Cordeiro pascal, foi sacrificado."
-        },
-        {
-          "n": 8,
-          "text": "Por isso, celebremos a festa, não com o fermento velho, nem com o fermento da maldade e da perversidade, mas com os pães sem fermento da sinceridade e da verdade."
-        },
-        {
-          "n": 9,
-          "text": "Já lhes disse por carta que vocês não devem associar-se com pessoas imorais."
-        },
-        {
-          "n": 10,
-          "text": "Com isso não me refiro aos imorais deste mundo, nem aos avarentos, aos ladrões ou aos idólatras. Se assim fosse, vocês precisariam sair deste mundo."
-        },
-        {
-          "n": 11,
-          "text": "Mas agora estou lhes escrevendo que não devem associar-se com qualquer que, dizendo-se irmão, seja imoral, avarento, idólatra, caluniador, alcoólatra ou ladrão. Com tais pessoas vocês nem devem comer."
-        },
-        {
-          "n": 12,
-          "text": "Pois, como haveria eu de julgar os de fora da igreja? Não devem vocês julgar os que estão dentro?"
-        },
-        {
-          "n": 13,
-          "text": "Deus julgará os de fora. \"Expulsem esse perverso do meio de vocês\"."
-        }
-      ]
-    },
-    "meditation": [
-      "Talvez você tenha aprendido a separar demais o espiritual do físico, como se Deus se importasse apenas com pensamentos, orações e intenções. Paulo não faz essa divisão.",
-      "Seu corpo também precisa de graça: descanso, limites, cuidado, respeito e escolhas que não o transformem em ferramenta de compulsão, exploração ou desprezo.",
-      "Pertencer a Cristo não é perder dignidade. É justamente deixar de ser propriedade de desejos, mercados, expectativas ou pessoas que querem definir o valor do seu corpo."
-    ],
-    "questions": [
-      "Que hábito tem tratado seu corpo mais como objeto do que como parte de você?",
-      "Que cuidado simples faria bem ao seu corpo hoje?",
-      "Que limite poderia devolver mais liberdade à sua vida?"
-    ],
-    "application": "Escolha um cuidado concreto com seu corpo: descansar melhor, reduzir uma compulsão digital, alimentar-se com mais atenção ou procurar uma conversa segura.",
-    "prayer": "Senhor Jesus, meu corpo também te pertence. Ensina-me a tratá-lo com honra, liberdade e sabedoria. Livra-me de tudo que tenta me usar ou me dominar. Amém.",
-    "day": 4
-  },
-  {
-    "theme": "Deus pode encontrar você exatamente na vida que tem hoje",
-    "date": "1 Coríntios 7",
-    "verse": {
-      "text": "Cada um deve continuar vivendo na condição que o Senhor lhe designou e de acordo com o chamado de Deus.",
-      "ref": "1 Coríntios 7.17"
-    },
-    "word": {
-      "original": "καλέω",
-      "translit": "kaléō",
-      "lang": "grego",
-      "meaning": "chamar, convidar",
-      "note": "Kaléō significa chamar. Paulo usa a ideia de chamado para lembrar que Deus não trabalha apenas depois que nossa situação ideal chegar. Casamento, solteirice, trabalho e circunstâncias podem ser lugares reais de fidelidade agora."
-    },
-    "context": "1 Coríntios 7 responde perguntas sobre casamento, solteirice e situações de vida. Paulo evita criar uma única forma de vida como superior. O foco é aprender a servir a Deus com responsabilidade e paz na condição presente.",
-    "passage": {
-      "ref": "1 Coríntios 7 · capítulo completo (NVI)",
-      "verses": [
-        {
-          "n": 1,
-          "text": "Quanto aos assuntos sobre os quais vocês escreveram, é bom que o homem não toque em mulher,"
-        },
-        {
-          "n": 2,
-          "text": "mas, por causa da imoralidade, cada um deve ter sua esposa, e cada mulher o seu próprio marido."
-        },
-        {
-          "n": 3,
-          "text": "O marido deve cumprir os seus deveres conjugais para com a sua mulher, e da mesma forma a mulher para com o seu marido."
-        },
-        {
-          "n": 4,
-          "text": "A mulher não tem autoridade sobre o seu próprio corpo, mas sim o marido. Da mesma forma, o marido não tem autoridade sobre o seu próprio corpo, mas sim a mulher."
-        },
-        {
-          "n": 5,
-          "text": "Não se recusem um ao outro, exceto por mútuo consentimento e durante certo tempo, para se dedicarem à oração. Depois, unam-se de novo, para que Satanás não os tente por não terem domínio próprio."
-        },
-        {
-          "n": 6,
-          "text": "Digo isso como concessão, e não como mandamento."
-        },
-        {
-          "n": 7,
-          "text": "Gostaria que todos os homens fossem como eu; mas cada um tem o seu próprio dom da parte de Deus; um de um modo, outro de outro."
-        },
-        {
-          "n": 8,
-          "text": "Digo, porém, aos solteiros e às viúvas: é bom que permaneçam como eu."
-        },
-        {
-          "n": 9,
-          "text": "Mas, se não conseguem controlar-se, devem casar-se, pois é melhor casar-se do que ficar ardendo de desejo."
-        },
-        {
-          "n": 10,
-          "text": "Aos casados dou este mandamento, não eu, mas o Senhor: que a esposa não se separe do seu marido."
-        },
-        {
-          "n": 11,
-          "text": "Mas, se o fizer, que permaneça sem se casar ou, então, reconcilie-se com o seu marido. E o marido não se divorcie da sua mulher."
-        },
-        {
-          "n": 12,
-          "text": "Aos outros eu mesmo digo isto, e não o Senhor: se um irmão tem mulher descrente, e ela se dispõe a viver com ele, não se divorcie dela."
-        },
-        {
-          "n": 13,
-          "text": "E, se uma mulher tem marido descrente, e ele se dispõe a viver com ela, não se divorcie dele."
-        },
-        {
-          "n": 14,
-          "text": "Pois o marido descrente é santificado por meio da mulher, e a mulher descrente é santificada por meio do marido. Se assim não fosse, seus filhos seriam impuros, mas agora são santos."
-        },
-        {
-          "n": 15,
-          "text": "Todavia, se o descrente separar-se, que se separe. Em tais casos, o irmão ou a irmã não fica debaixo de servidão; Deus nos chamou para vivermos em paz."
-        },
-        {
-          "n": 16,
-          "text": "Você, mulher, como sabe se salvará seu marido? Ou você, marido, como sabe se salvará sua mulher?"
-        },
-        {
-          "n": 17,
-          "text": "Entretanto, cada um continue vivendo na condição que o Senhor lhe designou e de acordo com o chamado de Deus. Esta é a minha ordem para todas as igrejas."
-        },
-        {
-          "n": 18,
-          "text": "Foi alguém chamado sendo já circunciso? Não desfaça a sua circuncisão. Foi alguém chamado sendo incircunciso? Não se circuncide."
-        },
-        {
-          "n": 19,
-          "text": "A circuncisão não significa nada, e a incircuncisão também nada é; o que importa é obedecer aos mandamentos de Deus."
-        },
-        {
-          "n": 20,
-          "text": "Cada um deve permanecer na condição em que foi chamado por Deus."
-        },
-        {
-          "n": 21,
-          "text": "Foi você chamado sendo escravo? Não se incomode com isso. Mas, se você puder conseguir a liberdade, consiga-a."
-        },
-        {
-          "n": 22,
-          "text": "Pois aquele que, sendo escravo, foi chamado pelo Senhor, é liberto e pertence ao Senhor; semelhantemente, aquele que era livre quando foi chamado, é escravo de Cristo."
-        },
-        {
-          "n": 23,
-          "text": "Vocês foram comprados por alto preço; não se tornem escravos de homens."
+          "text": "Assim, se toda a igreja se reunir e todos falarem em línguas, e entrarem alguns não instruídos ou descrentes não dirão que vocês estão loucos?"
         },
         {
           "n": 24,
-          "text": "Irmãos, cada um deve permanecer diante de Deus na condição em que foi chamado."
+          "text": "Mas se entrar algum descrente ou não instruído quando todos estiverem profetizando, ele por todos será convencido de que é pecador e por todos será julgado,"
         },
         {
           "n": 25,
-          "text": "Quanto às pessoas virgens, não tenho mandamento do Senhor, mas dou meu parecer como alguém que, pela misericórdia de Deus, é digno de confiança."
+          "text": "e os segredos do seu coração serão expostos. Assim, ele se prostrará, rosto em terra, e adorará a Deus, exclamando: \"Deus realmente está entre vocês! \""
         },
         {
           "n": 26,
-          "text": "Por causa dos problemas atuais, penso que é melhor o homem permanecer como está."
+          "text": "Portanto, que diremos, irmãos? Quando vocês se reúnem, cada um de vocês tem um salmo, ou uma palavra de instrução, uma revelação, uma palavra em língua ou uma interpretação. Tudo seja feito para a edificação da igreja."
         },
         {
           "n": 27,
-          "text": "Você está casado? Não procure separar-se. Está solteiro? Não procure esposa."
+          "text": "Se, porém, alguém falar em língua, devem falar dois, no máximo três, e alguém deve interpretar."
         },
         {
           "n": 28,
-          "text": "Mas, se vier a casar-se, não comete pecado; e, se uma virgem se casar, também não comete pecado. Mas aqueles que se casarem enfrentarão muitas dificuldades na vida, e eu gostaria de poupá-los disso."
+          "text": "Se não houver intérprete, fique calado na igreja, falando consigo mesmo e com Deus."
         },
         {
           "n": 29,
-          "text": "O que quero dizer é que o tempo é pouco. De agora em diante, aqueles que têm esposa, vivam como se não tivessem;"
+          "text": "Tratando-se de profetas, falem dois ou três, e os outros julguem cuidadosamente o que foi dito."
         },
         {
           "n": 30,
-          "text": "aqueles que choram, como se não chorassem; os que estão felizes, como se não estivessem; os que compram algo, como se nada possuíssem;"
+          "text": "Se vier uma revelação a alguém que está sentado, cale-se o primeiro."
         },
         {
           "n": 31,
-          "text": "os que usam as coisas do mundo, como se não as usassem; porque a forma presente deste mundo está passando."
+          "text": "Pois vocês todos podem profetizar, cada um por sua vez, de forma que todos sejam instruídos e encorajados."
         },
         {
           "n": 32,
-          "text": "Gostaria de vê-los livres de preocupações. O homem que não é casado preocupa-se com as coisas do Senhor, em como agradar ao Senhor."
+          "text": "Os espíritos dos profetas estão sujeitos aos profetas."
         },
         {
           "n": 33,
-          "text": "Mas o homem casado preocupa-se com as coisas deste mundo, em como agradar sua mulher,"
+          "text": "Pois Deus não é Deus de desordem, mas de paz. Como em todas as congregações dos santos,"
         },
         {
           "n": 34,
-          "text": "e está dividido. Tanto a mulher não casada como a virgem preocupam-se com as coisas do Senhor, para serem santas no corpo e no espírito. Mas a casada preocupa-se com as coisas deste mundo, em como agradar seu marido."
+          "text": "permaneçam as mulheres em silêncio nas igrejas, pois não lhes é permitido falar; antes permaneçam em submissão, como diz a lei."
         },
         {
           "n": 35,
-          "text": "Estou dizendo isso para o próprio bem de vocês; não para lhes impor restrições, mas para que vocês possam viver de maneira correta, em plena consagração ao Senhor."
+          "text": "Se quiserem aprender alguma coisa, que perguntem a seus maridos em casa; pois é vergonhoso uma mulher falar na igreja."
         },
         {
           "n": 36,
-          "text": "Se alguém acha que não está tratando sua filha como é devido e que ela está numa idade madura, pelo que ele se sente obrigado a casá-la, faça como achar melhor. Com isso não peca. Deve permitir que se case."
+          "text": "Acaso a palavra de Deus originou-se entre vocês? São vocês o único povo que ela alcançou?"
         },
         {
           "n": 37,
-          "text": "Contudo, o que se mantém firme no seu propósito e não é dominado por seus impulsos mas domina sua própria vontade, e resolveu manter solteira sua filha, este também faz bem."
+          "text": "Se alguém pensa que é profeta ou espiritual, reconheça que o que lhes estou escrevendo é mandamento do Senhor."
         },
         {
           "n": 38,
-          "text": "De modo que aquele que dá sua filha em casamento faz bem, mas o que não a dá em casamento faz melhor."
+          "text": "Se ignorar isso, ele mesmo será ignorado."
         },
         {
           "n": 39,
-          "text": "A mulher está ligada a seu marido enquanto ele viver. Mas, se o seu marido morrer, ela estará livre para se casar com quem quiser, contanto que ele pertença ao Senhor."
+          "text": "Portanto, meus irmãos, busquem com dedicação o profetizar e não proíbam o falar em línguas."
         },
         {
           "n": 40,
-          "text": "Em meu parecer, ela será mais feliz se permanecer como está; e penso que também tenho o Espírito de Deus."
+          "text": "Mas tudo deve ser feito com decência e ordem."
         }
       ]
     },
     "meditation": [
-      "É fácil pensar: 'quando isso mudar, então vou viver melhor'. Quando casar, quando mudar de trabalho, quando tiver mais tempo, quando sair desta fase. Paulo chama o coração de volta para o presente.",
-      "Isso não significa acomodação diante de injustiça ou falta de crescimento. Significa apenas não adiar toda fidelidade para uma vida que ainda não existe.",
-      "Você pode viver com Deus agora. Pode amar agora. Pode servir agora. Pode amadurecer agora. Nem tudo precisa estar resolvido para que sua vida tenha valor."
+      "Buscar dons e amar as pessoas não são caminhos opostos; você pode desejar crescer espiritualmente e, ao mesmo tempo, pensar em quem vai te ouvir.",
+      "Falar de um jeito que o outro entenda é um gesto de cuidado, não uma limitação da sua fé.",
+      "Ordem não é frieza. É o espaço que você cria para que todos, e não só você, possam participar e crescer."
     ],
     "questions": [
-      "Que mudança futura você tem tratado como condição para começar a viver melhor?",
-      "O que Deus já colocou diante de você hoje?",
-      "Que expectativa dos outros tem pesado mais do que deveria sobre suas decisões?"
+      "Suas palavras costumam deixar as pessoas mais claras ou mais confusas sobre Deus?",
+      "Como você pode encorajar alguém hoje de um jeito bem específico?",
+      "Que hábito seu em grupo precisa ser revisto pela pergunta: isso edifica?"
     ],
-    "application": "Escolha uma possibilidade de serviço que já existe na sua vida atual e pratique-a hoje sem esperar a condição ideal.",
-    "prayer": "Deus que chama, encontra-me exatamente onde estou. Livra-me da comparação e da espera pela vida perfeita. Ensina-me a ser fiel no presente. Amém.",
-    "day": 5
+    "application": "Envie uma mensagem de encorajamento simples e específica para alguém, usando palavras que essa pessoa realmente vai entender.",
+    "prayer": "Espírito de Deus, dá-me palavras que edificam. Ensina-me a participar da minha comunidade de um jeito que fortalece, acolhe e não confunde. Amém."
   },
   {
-    "theme": "Nem todo direito precisa ser usado",
-    "date": "1 Coríntios 8–10",
+    "theme": "Sua esperança não precisa dar conta de explicar tudo para ser real",
+    "date": "1 Coríntios 15.1-34",
     "verse": {
-      "text": "'O conhecimento envaidece, mas o amor edifica.'",
-      "ref": "1 Coríntios 8.1"
+      "text": "Cristo morreu pelos nossos pecados, segundo as Escrituras, foi sepultado e ressuscitou no terceiro dia.",
+      "ref": "1 Coríntios 15.3-4"
     },
     "word": {
-      "original": "ἐλευθερία",
-      "translit": "eleuthería",
+      "original": "ἀνάστασις",
+      "translit": "anástasis",
       "lang": "grego",
-      "meaning": "liberdade",
-      "note": "Eleuthería significa liberdade. Para Paulo, liberdade em Cristo não é apenas a capacidade de fazer algo permitido. É também a liberdade de abrir mão de um direito quando o amor pede cuidado."
+      "meaning": "ressurreição",
+      "note": "Anástasis significa levantar-se de novo. Quando a dor ou a dúvida parecem maiores que a sua fé, esta palavra lembra que a esperança cristã não depende da sua capacidade de explicar a morte, mas de um Cristo que já a venceu."
     },
-    "context": "1 Coríntios 8–10 trata da comida sacrificada a ídolos, da consciência e do uso da liberdade. Paulo mostra que conhecimento correto pode ser usado de maneira errada quando ignora o impacto sobre outra pessoa.",
+    "context": "Talvez você já tenha se perguntado, silenciosamente, se sua fé faz mesmo diferença diante da morte. Alguns em Corinto duvidavam da ressurreição, e Paulo responde não com um argumento abstrato, mas relembrando testemunhas reais: pessoas que viram Jesus vivo depois de morto.",
     "passage": {
-      "ref": "1 Coríntios 8 · capítulo completo (NVI)",
+      "ref": "1 Coríntios 15 · capítulo completo (NVI)",
       "verses": [
         {
           "n": 1,
-          "text": "Com respeito aos alimentos sacrificados aos ídolos, sabemos que todos temos conhecimento. O conhecimento traz orgulho, mas o amor edifica."
+          "text": "Irmãos, quero lembrar-lhes o evangelho que lhes preguei, o qual vocês receberam e no qual estão firmes."
         },
         {
           "n": 2,
-          "text": "Quem pensa conhecer alguma coisa, ainda não conhece como deveria."
+          "text": "Por meio deste evangelho vocês são salvos, desde que se apeguem firmemente à palavra que lhes preguei; caso contrário, vocês têm crido em vão."
         },
         {
           "n": 3,
-          "text": "Mas quem ama a Deus, este é conhecido por Deus."
+          "text": "Pois o que primeiramente lhes transmiti foi o que recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras,"
         },
         {
           "n": 4,
-          "text": "Portanto, em relação ao alimento sacrificado aos ídolos, sabemos que o ídolo não significa nada no mundo e que só existe um Deus."
+          "text": "foi sepultado e ressuscitou ao terceiro dia, segundo as Escrituras,"
         },
         {
           "n": 5,
-          "text": "Pois mesmo que haja os chamados deuses, quer no céu, quer na terra, ( como de fato há muitos \"deuses\" e muitos \"senhores\" ),"
+          "text": "e apareceu a Pedro e depois aos Doze."
         },
         {
           "n": 6,
-          "text": "para nós, porém, há um único Deus, o Pai, de quem vêm todas as coisas e para quem vivemos; e um só Senhor, Jesus Cristo, por meio de quem vieram todas as coisas e por meio de quem vivemos."
+          "text": "Depois disso apareceu a mais de quinhentos irmãos de uma só vez, a maioria dos quais ainda vive, embora alguns já tenham adormecido."
         },
         {
           "n": 7,
-          "text": "Contudo, nem todos têm esse conhecimento. Alguns, ainda habituados com os ídolos, comem esse alimento como se fosse um sacrifício idólatra; e como a consciência deles é fraca, esta fica contaminada."
+          "text": "Depois apareceu a Tiago e, então, a todos os apóstolos;"
         },
         {
           "n": 8,
-          "text": "A comida, porém, não nos torna aceitáveis diante de Deus; não seremos piores se não comermos, nem melhores se comermos."
+          "text": "depois destes apareceu também a mim, como a um que nasceu fora de tempo."
         },
         {
           "n": 9,
-          "text": "Contudo, tenham cuidado para que o exercício da liberdade de vocês não se torne uma pedra de tropeço para os fracos."
+          "text": "Pois sou o menor dos apóstolos e nem sequer mereço ser chamado apóstolo, porque persegui a igreja de Deus."
         },
         {
           "n": 10,
-          "text": "Pois, se alguém que tem a consciência fraca vir você que tem este conhecimento comer num templo de ídolos, não será induzido a comer do que foi sacrificado a ídolos?"
+          "text": "Mas, pela graça de Deus, sou o que sou, e sua graça para comigo não foi em vão; antes, trabalhei mais do que todos eles; contudo, não eu, mas a graça de Deus comigo."
         },
         {
           "n": 11,
-          "text": "Assim, esse irmão fraco, por quem Cristo morreu, é destruído por causa do conhecimento que você tem."
+          "text": "Portanto, quer tenha sido eu, quer tenham sido eles, é isto que pregamos, e é isto que vocês creram."
         },
         {
           "n": 12,
-          "text": "Quando você peca contra seus irmãos dessa maneira, ferindo a consciência fraca deles, peca contra Cristo."
+          "text": "Ora, se está sendo pregado que Cristo ressuscitou dentre os mortos, como alguns de vocês estão dizendo que não existe ressurreição dos mortos?"
         },
         {
           "n": 13,
-          "text": "Portanto, se aquilo que eu como leva o meu irmão a pecar, nunca mais comerei carne, para não fazer meu irmão tropeçar."
-        }
-      ]
-    },
-    "meditation": [
-      "Às vezes nossa pergunta é apenas: 'posso fazer isso?' Paulo acrescenta outra: 'isso ajuda alguém a crescer ou apenas prova que eu tenho razão?'",
-      "O amor não transforma toda convicção em imposição. Pode existir uma verdade real e, ainda assim, ser necessário escolher o modo e o momento de usá-la.",
-      "Liberdade madura não é viver preso à opinião dos outros, mas também não é viver indiferente a eles. É ser livre o bastante para não precisar exercer todos os direitos que possui."
-    ],
-    "questions": [
-      "Onde você tem usado conhecimento para vencer, e não para edificar?",
-      "Que direito você poderia voluntariamente limitar por amor a alguém?",
-      "Que coisa criada tem pedido lealdade demais do seu coração?"
-    ],
-    "application": "Em uma escolha desta semana, pergunte a alguém afetado por ela: 'isso ajuda você ou pesa sobre você?' Escute antes de se defender.",
-    "prayer": "Senhor, dá-me uma liberdade que ama. Livra-me da necessidade de usar todo direito que tenho e ensina-me a construir pessoas em vez de apenas provar pontos. Amém.",
-    "day": 6
-  },
-  {
-    "theme": "Na mesa de Jesus, ninguém deveria ser esquecido",
-    "date": "1 Coríntios 11",
-    "verse": {
-      "text": "Façam isto em memória de mim.",
-      "ref": "1 Coríntios 11.24"
-    },
-    "word": {
-      "original": "κοινωνία",
-      "translit": "koinōnía",
-      "lang": "grego",
-      "meaning": "participação, comunhão",
-      "note": "Koinōnía significa participação, comunhão. A Ceia não é apenas um ato individual de memória; é participação em Cristo e também reconhecimento de que pertencemos uns aos outros."
-    },
-    "context": "Em 1 Coríntios 11, as reuniões da igreja estavam reproduzindo desigualdades sociais. Alguns comiam muito enquanto outros ficavam sem nada. Paulo relembra a Ceia para mostrar que a morte de Cristo não combina com uma mesa que humilha irmãos.",
-    "passage": {
-      "ref": "1 Coríntios 11 · capítulo completo (NVI)",
-      "verses": [
-        {
-          "n": 1,
-          "text": "Tornem-se meus imitadores, como eu o sou de Cristo."
-        },
-        {
-          "n": 2,
-          "text": "Eu os elogio por se lembrarem de mim em tudo e por se apegarem às tradições, exatamente como eu as transmiti a vocês."
-        },
-        {
-          "n": 3,
-          "text": "Quero, porém, que entendam que o cabeça de todo homem é Cristo, e o cabeça da mulher é o homem, e o cabeça de Cristo é Deus."
-        },
-        {
-          "n": 4,
-          "text": "Todo homem que ora ou profetiza com a cabeça coberta desonra a sua cabeça;"
-        },
-        {
-          "n": 5,
-          "text": "e toda mulher que ora ou profetiza com a cabeça descoberta desonra a sua cabeça; pois é como se a tivesse rapada."
-        },
-        {
-          "n": 6,
-          "text": "Se a mulher não cobre a cabeça, deve também cortar o cabelo; se, porém, é vergonhoso para a mulher ter o cabelo cortado ou rapado, ela deve cobrir a cabeça."
-        },
-        {
-          "n": 7,
-          "text": "O homem não deve cobrir a cabeça, visto que ele é imagem e glória de Deus; mas a mulher é glória do homem."
-        },
-        {
-          "n": 8,
-          "text": "Pois o homem não se originou da mulher, mas a mulher do homem;"
-        },
-        {
-          "n": 9,
-          "text": "além disso, o homem não foi criado por causa da mulher, mas a mulher por causa do homem."
-        },
-        {
-          "n": 10,
-          "text": "Por essa razão e por causa dos anjos, a mulher deve ter sobre a cabeça um sinal de autoridade."
-        },
-        {
-          "n": 11,
-          "text": "No Senhor, todavia, a mulher não é independente do homem, nem o homem independente da mulher."
-        },
-        {
-          "n": 12,
-          "text": "Pois, assim como a mulher proveio do homem, também o homem nasce da mulher. Mas tudo provém de Deus."
-        },
-        {
-          "n": 13,
-          "text": "Julguem entre vocês mesmos: é apropriado a uma mulher orar a Deus com a cabeça descoberta?"
+          "text": "Se não há ressurreição dos mortos, então nem mesmo Cristo ressuscitou;"
         },
         {
           "n": 14,
-          "text": "A própria natureza das coisas não lhes ensina que é uma desonra para o homem ter cabelo comprido,"
+          "text": "e, se Cristo não ressuscitou, é inútil a nossa pregação, como também é inútil a fé que vocês têm."
         },
         {
           "n": 15,
-          "text": "e que o cabelo comprido é uma glória para a mulher? Pois o cabelo comprido foi lhe dado como manto."
+          "text": "Mais que isso, seremos considerados falsas testemunhas de Deus, pois contra ele testemunhamos que ressuscitou a Cristo dentre os mortos. Mas se de fato os mortos não ressuscitam, ele também não ressuscitou a Cristo."
         },
         {
           "n": 16,
-          "text": "Mas se alguém quiser fazer polêmica a esse respeito, nós não temos esse costume, nem as igrejas de Deus."
+          "text": "Pois, se os mortos não ressuscitam, nem mesmo Cristo ressuscitou."
         },
         {
           "n": 17,
-          "text": "Entretanto, nisto que lhes vou dizer não os elogio, pois as reuniões de vocês mais fazem mal do que bem."
+          "text": "E, se Cristo não ressuscitou, inútil é a fé que vocês têm, e ainda estão em seus pecados."
         },
         {
           "n": 18,
-          "text": "Em primeiro lugar, ouço que, quando vocês se reúnem como igreja, há divisões entre vocês, e até certo ponto eu o creio."
+          "text": "Neste caso, também os que dormiram em Cristo estão perdidos."
         },
         {
           "n": 19,
-          "text": "Pois é necessário que haja divergências entre vocês, para que sejam conhecidos quais dentre vocês são aprovados."
+          "text": "Se é somente para esta vida que temos esperança em Cristo, dentre todos os homens somos os mais dignos de compaixão."
         },
         {
           "n": 20,
-          "text": "Quando vocês se reúnem, não é para comer a ceia do Senhor,"
+          "text": "Mas de fato Cristo ressuscitou dentre os mortos, sendo as primícias dentre aqueles que dormiram."
         },
         {
           "n": 21,
-          "text": "porque cada um come sua própria ceia sem esperar pelos outros. Assim, enquanto um fica com fome, outro se embriaga."
+          "text": "Visto que a morte veio por meio de um só homem, também a ressurreição dos mortos veio por meio de um só homem."
         },
         {
           "n": 22,
-          "text": "Será que vocês não têm casa onde comer e beber? Ou desprezam a igreja de Deus e humilham os que nada têm? Que lhes direi? Eu os elogiarei por isso? Certamente que não!"
+          "text": "Pois da mesma forma como em Adão todos morrem, em Cristo todos serão vivificados."
         },
         {
           "n": 23,
-          "text": "Pois recebi do Senhor o que também lhes entreguei: que o Senhor Jesus, na noite em que foi traído, tomou o pão"
+          "text": "Mas cada um por sua vez: Cristo, o primeiro; depois, quando ele vier, os que lhe pertencem."
         },
         {
           "n": 24,
-          "text": "e, tendo dado graças, partiu-o e disse: \"Isto é o meu corpo, que é dado em favor de vocês; façam isto em memória de mim\"."
+          "text": "Então virá o fim, quando ele entregar o Reino a Deus, o Pai, depois de ter destruído todo domínio, autoridade e poder."
         },
         {
           "n": 25,
-          "text": "Da mesma forma, depois da ceia ele tomou o cálice e disse: \"Este cálice é a nova aliança no meu sangue; façam isto, sempre que o beberem, em memória de mim\"."
+          "text": "Pois é necessário que ele reine até que todos os seus inimigos sejam postos debaixo de seus pés."
         },
         {
           "n": 26,
-          "text": "Porque, sempre que comerem deste pão e beberem deste cálice, vocês anunciam a morte do Senhor até que ele venha."
+          "text": "O último inimigo a ser destruído é a morte."
         },
         {
           "n": 27,
-          "text": "Portanto, todo aquele que comer o pão ou beber o cálice do Senhor indignamente será culpado de pecar contra o corpo e o sangue do Senhor."
+          "text": "Porque ele \"tudo sujeitou debaixo de seus pés\". Ora, quando se diz que \"tudo\" lhe foi sujeito, fica claro que isso não inclui o próprio Deus, que tudo submeteu a Cristo."
         },
         {
           "n": 28,
-          "text": "Examine-se o homem a si mesmo, e então coma do pão e beba do cálice."
+          "text": "Quando, porém, tudo lhe estiver sujeito, então o próprio Filho se sujeitará àquele que todas as coisas lhe sujeitou, a fim de que Deus seja tudo em todos."
         },
         {
           "n": 29,
-          "text": "Pois quem come e bebe sem discernir o corpo do Senhor, come e bebe para sua própria condenação."
+          "text": "Se não há ressurreição, que farão aqueles que se batizam pelos mortos? Se absolutamente os mortos não ressuscitam, por que se batizam por eles?"
         },
         {
           "n": 30,
-          "text": "Por isso há entre vocês muitos fracos e doentes, e vários já dormiram."
+          "text": "Também nós, por que estamos nos expondo a perigos o tempo todo?"
         },
         {
           "n": 31,
-          "text": "Mas, se nós nos examinássemos a nós mesmos, não receberíamos juízo."
+          "text": "Todos os dias enfrento a morte, irmãos; isso digo pelo orgulho que tenho de vocês em Cristo Jesus, nosso Senhor."
         },
         {
           "n": 32,
-          "text": "Quando, porém, somos julgados pelo Senhor, estamos sendo disciplinados para que não sejamos condenados com o mundo."
+          "text": "Se foi por meras razões humanas que lutei com feras em Éfeso, que ganhei com isso? Se os mortos não ressuscitam, \"comamos e bebamos, porque amanhã morreremos\"."
         },
         {
           "n": 33,
-          "text": "Portanto, meus irmãos, quando vocês se reunirem para comer, esperem uns pelos outros."
+          "text": "Não se deixem enganar: \"as más companhias corrompem os bons costumes\"."
         },
         {
           "n": 34,
-          "text": "Se alguém estiver com fome, coma em casa, para que, quando vocês se reunirem, isso não resulte em condenação. Quanto ao mais, quando eu for lhes darei instruções."
+          "text": "Como justos, recuperem o bom senso e parem de pecar; pois alguns há que não têm conhecimento de Deus; digo isso para vergonha de vocês."
+        },
+        {
+          "n": 35,
+          "text": "Mas alguém pode perguntar: \"Como ressuscitam os mortos? Com que espécie de corpo virão? \""
+        },
+        {
+          "n": 36,
+          "text": "Insensato! O que você semeia não nasce a não ser que morra."
+        },
+        {
+          "n": 37,
+          "text": "Quando você semeia, não semeia o corpo que virá a ser, mas apenas uma simples semente, como de trigo ou de alguma outra coisa."
+        },
+        {
+          "n": 38,
+          "text": "Mas Deus lhe dá um corpo, como determinou, e a cada espécie de semente dá seu corpo apropriado."
+        },
+        {
+          "n": 39,
+          "text": "Nem toda carne é a mesma: os homens têm uma espécie de carne, os animais têm outra, as aves outra, e os peixes outra."
+        },
+        {
+          "n": 40,
+          "text": "Há corpos celestes e há também corpos terrestres; mas o esplendor dos corpos celestes é um, e o dos corpos terrestres é outro."
+        },
+        {
+          "n": 41,
+          "text": "Um é o esplendor do sol, outro o da lua, e outro o das estrelas; e as estrelas diferem em esplendor umas das outras."
+        },
+        {
+          "n": 42,
+          "text": "Assim será com a ressurreição dos mortos. O corpo que é semeado é perecível e ressuscita imperecível;"
+        },
+        {
+          "n": 43,
+          "text": "é semeado em desonra e ressuscita em glória; é semeado em fraqueza e ressuscita em poder;"
+        },
+        {
+          "n": 44,
+          "text": "é semeado um corpo natural e ressuscita um corpo espiritual. Se há corpo natural, há também corpo espiritual."
+        },
+        {
+          "n": 45,
+          "text": "Assim está escrito: \"O primeiro homem, Adão, tornou-se um ser vivente\"; o último Adão, espírito vivificante."
+        },
+        {
+          "n": 46,
+          "text": "Não foi o espiritual que veio antes, mas o natural; depois dele, o espiritual."
+        },
+        {
+          "n": 47,
+          "text": "O primeiro homem era do pó da terra; o segundo homem, do céu."
+        },
+        {
+          "n": 48,
+          "text": "Os que são da terra são semelhantes ao homem terreno; os que são do céu, ao homem celestial."
+        },
+        {
+          "n": 49,
+          "text": "Assim como tivemos a imagem do homem terreno, teremos também a imagem do homem celestial."
+        },
+        {
+          "n": 50,
+          "text": "Irmãos, eu lhes declaro que carne e sangue não podem herdar o Reino de Deus, nem o que é perecível pode herdar o imperecível."
+        },
+        {
+          "n": 51,
+          "text": "Eis que eu lhes digo um mistério: nem todos dormiremos, mas todos seremos transformados,"
+        },
+        {
+          "n": 52,
+          "text": "num momento, num abrir e fechar de olhos, ao som da última trombeta. Pois a trombeta soará, os mortos ressuscitarão incorruptíveis e nós seremos transformados."
+        },
+        {
+          "n": 53,
+          "text": "Pois é necessário que aquilo que é corruptível se revista de incorruptibilidade, e aquilo que é mortal, se revista de imortalidade."
+        },
+        {
+          "n": 54,
+          "text": "Quando, porém, o que é corruptível se revestir de incorruptibilidade, e o que é mortal, de imortalidade, então se cumprirá a palavra que está escrita: \"A morte foi destruída pela vitória\"."
+        },
+        {
+          "n": 55,
+          "text": "\"Onde está, ó morte, a sua vitória? Onde está, ó morte, o seu aguilhão? \""
+        },
+        {
+          "n": 56,
+          "text": "O aguilhão da morte é o pecado, e a força do pecado é a lei."
+        },
+        {
+          "n": 57,
+          "text": "Mas graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo."
+        },
+        {
+          "n": 58,
+          "text": "Portanto, meus amados irmãos, mantenham-se firmes, e que nada os abale. Sejam sempre dedicados à obra do Senhor, pois vocês sabem que, no Senhor, o trabalho de vocês não será inútil."
         }
       ]
     },
     "meditation": [
-      "É possível participar de um ato religioso e, ao mesmo tempo, não perceber quem ficou de fora. Foi isso que aconteceu em Corinto.",
-      "Jesus parte o pão e diz: 'isto é o meu corpo'. A memória dele deveria tornar a comunidade mais atenta, não mais indiferente. Lembrar de Cristo é lembrar também de quem Cristo acolheu.",
-      "Talvez hoje a pergunta não seja apenas 'como está minha comunhão com Deus?', mas também 'quem minha maneira de viver deixa invisível?'. A mesa do evangelho nos ensina a desacelerar para que ninguém seja esquecido."
+      "Sua esperança não é uma ideia bonita; ela se apoia num fato — Cristo ressuscitou, e por isso a morte não terá a última palavra sobre você.",
+      "Você não precisa fingir que não tem medo da morte. Pode ser honesto com Deus sobre isso e ainda assim confiar na ressurreição.",
+      "Como primícias, Jesus abre um caminho que também é seu. O que aconteceu com ele é a garantia do que Deus fará por você."
     ],
     "questions": [
-      "Quem costuma ficar à margem nos ambientes que você frequenta?",
-      "Como sua fé pode aparecer na forma como você reparte tempo, atenção ou recursos?",
-      "Onde você precisa diminuir o ritmo para incluir alguém?"
+      "Que medo concreto muda de tamanho quando você olha para a ressurreição de Cristo?",
+      "Você tem tratado Jesus só como exemplo moral, esquecendo que ele está vivo?",
+      "Como a esperança do futuro pode mudar uma decisão que você precisa tomar hoje?"
     ],
-    "application": "Convide alguém que costuma ficar à margem para uma conversa, café ou refeição e pratique uma escuta generosa.",
-    "prayer": "Jesus, tua mesa me recebe pela graça. Faz-me enxergar quem está sendo esquecido e ensina-me a repartir, esperar e acolher com justiça. Amém.",
-    "day": 7
+    "application": "Diante de uma dor ou perda que você carrega, faça uma oração curta unindo lamento e esperança: 'Cristo ressuscitou; a morte não terá a última palavra sobre mim'.",
+    "prayer": "Jesus vivo, firma minha fé na tua ressurreição. Sustenta-me diante do medo da morte e faz minha esperança ser concreta, mesmo em dias difíceis. Amém."
+  },
+  {
+    "theme": "O que em você parece acabado, Deus pode transformar em vida nova",
+    "date": "1 Coríntios 15.35-58",
+    "verse": {
+      "text": "Portanto, meus amados irmãos, mantenham-se firmes, e que nada os abale. Sejam sempre dedicados à obra do Senhor.",
+      "ref": "1 Coríntios 15.58"
+    },
+    "word": {
+      "original": "ἀφθαρσία",
+      "translit": "aphtharsía",
+      "lang": "grego",
+      "meaning": "incorruptibilidade",
+      "note": "Aphtharsía descreve aquilo que não se desgasta. Seu corpo, sua história e seu cansaço de hoje não são descartáveis para Deus: ele promete vestir o que é mortal em você com uma vida que não se acaba."
+    },
+    "context": "Você talvez sinta seu corpo ou sua vida como algo frágil, cansado, sem muito futuro. Paulo usa a imagem de uma semente que precisa 'morrer' na terra para germinar em algo novo, para mostrar que Deus não descarta o que parece fraco — ele transforma.",
+    "passage": {
+      "ref": "1 Coríntios 15 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Irmãos, quero lembrar-lhes o evangelho que lhes preguei, o qual vocês receberam e no qual estão firmes."
+        },
+        {
+          "n": 2,
+          "text": "Por meio deste evangelho vocês são salvos, desde que se apeguem firmemente à palavra que lhes preguei; caso contrário, vocês têm crido em vão."
+        },
+        {
+          "n": 3,
+          "text": "Pois o que primeiramente lhes transmiti foi o que recebi: que Cristo morreu pelos nossos pecados, segundo as Escrituras,"
+        },
+        {
+          "n": 4,
+          "text": "foi sepultado e ressuscitou ao terceiro dia, segundo as Escrituras,"
+        },
+        {
+          "n": 5,
+          "text": "e apareceu a Pedro e depois aos Doze."
+        },
+        {
+          "n": 6,
+          "text": "Depois disso apareceu a mais de quinhentos irmãos de uma só vez, a maioria dos quais ainda vive, embora alguns já tenham adormecido."
+        },
+        {
+          "n": 7,
+          "text": "Depois apareceu a Tiago e, então, a todos os apóstolos;"
+        },
+        {
+          "n": 8,
+          "text": "depois destes apareceu também a mim, como a um que nasceu fora de tempo."
+        },
+        {
+          "n": 9,
+          "text": "Pois sou o menor dos apóstolos e nem sequer mereço ser chamado apóstolo, porque persegui a igreja de Deus."
+        },
+        {
+          "n": 10,
+          "text": "Mas, pela graça de Deus, sou o que sou, e sua graça para comigo não foi em vão; antes, trabalhei mais do que todos eles; contudo, não eu, mas a graça de Deus comigo."
+        },
+        {
+          "n": 11,
+          "text": "Portanto, quer tenha sido eu, quer tenham sido eles, é isto que pregamos, e é isto que vocês creram."
+        },
+        {
+          "n": 12,
+          "text": "Ora, se está sendo pregado que Cristo ressuscitou dentre os mortos, como alguns de vocês estão dizendo que não existe ressurreição dos mortos?"
+        },
+        {
+          "n": 13,
+          "text": "Se não há ressurreição dos mortos, então nem mesmo Cristo ressuscitou;"
+        },
+        {
+          "n": 14,
+          "text": "e, se Cristo não ressuscitou, é inútil a nossa pregação, como também é inútil a fé que vocês têm."
+        },
+        {
+          "n": 15,
+          "text": "Mais que isso, seremos considerados falsas testemunhas de Deus, pois contra ele testemunhamos que ressuscitou a Cristo dentre os mortos. Mas se de fato os mortos não ressuscitam, ele também não ressuscitou a Cristo."
+        },
+        {
+          "n": 16,
+          "text": "Pois, se os mortos não ressuscitam, nem mesmo Cristo ressuscitou."
+        },
+        {
+          "n": 17,
+          "text": "E, se Cristo não ressuscitou, inútil é a fé que vocês têm, e ainda estão em seus pecados."
+        },
+        {
+          "n": 18,
+          "text": "Neste caso, também os que dormiram em Cristo estão perdidos."
+        },
+        {
+          "n": 19,
+          "text": "Se é somente para esta vida que temos esperança em Cristo, dentre todos os homens somos os mais dignos de compaixão."
+        },
+        {
+          "n": 20,
+          "text": "Mas de fato Cristo ressuscitou dentre os mortos, sendo as primícias dentre aqueles que dormiram."
+        },
+        {
+          "n": 21,
+          "text": "Visto que a morte veio por meio de um só homem, também a ressurreição dos mortos veio por meio de um só homem."
+        },
+        {
+          "n": 22,
+          "text": "Pois da mesma forma como em Adão todos morrem, em Cristo todos serão vivificados."
+        },
+        {
+          "n": 23,
+          "text": "Mas cada um por sua vez: Cristo, o primeiro; depois, quando ele vier, os que lhe pertencem."
+        },
+        {
+          "n": 24,
+          "text": "Então virá o fim, quando ele entregar o Reino a Deus, o Pai, depois de ter destruído todo domínio, autoridade e poder."
+        },
+        {
+          "n": 25,
+          "text": "Pois é necessário que ele reine até que todos os seus inimigos sejam postos debaixo de seus pés."
+        },
+        {
+          "n": 26,
+          "text": "O último inimigo a ser destruído é a morte."
+        },
+        {
+          "n": 27,
+          "text": "Porque ele \"tudo sujeitou debaixo de seus pés\". Ora, quando se diz que \"tudo\" lhe foi sujeito, fica claro que isso não inclui o próprio Deus, que tudo submeteu a Cristo."
+        },
+        {
+          "n": 28,
+          "text": "Quando, porém, tudo lhe estiver sujeito, então o próprio Filho se sujeitará àquele que todas as coisas lhe sujeitou, a fim de que Deus seja tudo em todos."
+        },
+        {
+          "n": 29,
+          "text": "Se não há ressurreição, que farão aqueles que se batizam pelos mortos? Se absolutamente os mortos não ressuscitam, por que se batizam por eles?"
+        },
+        {
+          "n": 30,
+          "text": "Também nós, por que estamos nos expondo a perigos o tempo todo?"
+        },
+        {
+          "n": 31,
+          "text": "Todos os dias enfrento a morte, irmãos; isso digo pelo orgulho que tenho de vocês em Cristo Jesus, nosso Senhor."
+        },
+        {
+          "n": 32,
+          "text": "Se foi por meras razões humanas que lutei com feras em Éfeso, que ganhei com isso? Se os mortos não ressuscitam, \"comamos e bebamos, porque amanhã morreremos\"."
+        },
+        {
+          "n": 33,
+          "text": "Não se deixem enganar: \"as más companhias corrompem os bons costumes\"."
+        },
+        {
+          "n": 34,
+          "text": "Como justos, recuperem o bom senso e parem de pecar; pois alguns há que não têm conhecimento de Deus; digo isso para vergonha de vocês."
+        },
+        {
+          "n": 35,
+          "text": "Mas alguém pode perguntar: \"Como ressuscitam os mortos? Com que espécie de corpo virão? \""
+        },
+        {
+          "n": 36,
+          "text": "Insensato! O que você semeia não nasce a não ser que morra."
+        },
+        {
+          "n": 37,
+          "text": "Quando você semeia, não semeia o corpo que virá a ser, mas apenas uma simples semente, como de trigo ou de alguma outra coisa."
+        },
+        {
+          "n": 38,
+          "text": "Mas Deus lhe dá um corpo, como determinou, e a cada espécie de semente dá seu corpo apropriado."
+        },
+        {
+          "n": 39,
+          "text": "Nem toda carne é a mesma: os homens têm uma espécie de carne, os animais têm outra, as aves outra, e os peixes outra."
+        },
+        {
+          "n": 40,
+          "text": "Há corpos celestes e há também corpos terrestres; mas o esplendor dos corpos celestes é um, e o dos corpos terrestres é outro."
+        },
+        {
+          "n": 41,
+          "text": "Um é o esplendor do sol, outro o da lua, e outro o das estrelas; e as estrelas diferem em esplendor umas das outras."
+        },
+        {
+          "n": 42,
+          "text": "Assim será com a ressurreição dos mortos. O corpo que é semeado é perecível e ressuscita imperecível;"
+        },
+        {
+          "n": 43,
+          "text": "é semeado em desonra e ressuscita em glória; é semeado em fraqueza e ressuscita em poder;"
+        },
+        {
+          "n": 44,
+          "text": "é semeado um corpo natural e ressuscita um corpo espiritual. Se há corpo natural, há também corpo espiritual."
+        },
+        {
+          "n": 45,
+          "text": "Assim está escrito: \"O primeiro homem, Adão, tornou-se um ser vivente\"; o último Adão, espírito vivificante."
+        },
+        {
+          "n": 46,
+          "text": "Não foi o espiritual que veio antes, mas o natural; depois dele, o espiritual."
+        },
+        {
+          "n": 47,
+          "text": "O primeiro homem era do pó da terra; o segundo homem, do céu."
+        },
+        {
+          "n": 48,
+          "text": "Os que são da terra são semelhantes ao homem terreno; os que são do céu, ao homem celestial."
+        },
+        {
+          "n": 49,
+          "text": "Assim como tivemos a imagem do homem terreno, teremos também a imagem do homem celestial."
+        },
+        {
+          "n": 50,
+          "text": "Irmãos, eu lhes declaro que carne e sangue não podem herdar o Reino de Deus, nem o que é perecível pode herdar o imperecível."
+        },
+        {
+          "n": 51,
+          "text": "Eis que eu lhes digo um mistério: nem todos dormiremos, mas todos seremos transformados,"
+        },
+        {
+          "n": 52,
+          "text": "num momento, num abrir e fechar de olhos, ao som da última trombeta. Pois a trombeta soará, os mortos ressuscitarão incorruptíveis e nós seremos transformados."
+        },
+        {
+          "n": 53,
+          "text": "Pois é necessário que aquilo que é corruptível se revista de incorruptibilidade, e aquilo que é mortal, se revista de imortalidade."
+        },
+        {
+          "n": 54,
+          "text": "Quando, porém, o que é corruptível se revestir de incorruptibilidade, e o que é mortal, de imortalidade, então se cumprirá a palavra que está escrita: \"A morte foi destruída pela vitória\"."
+        },
+        {
+          "n": 55,
+          "text": "\"Onde está, ó morte, a sua vitória? Onde está, ó morte, o seu aguilhão? \""
+        },
+        {
+          "n": 56,
+          "text": "O aguilhão da morte é o pecado, e a força do pecado é a lei."
+        },
+        {
+          "n": 57,
+          "text": "Mas graças a Deus, que nos dá a vitória por meio de nosso Senhor Jesus Cristo."
+        },
+        {
+          "n": 58,
+          "text": "Portanto, meus amados irmãos, mantenham-se firmes, e que nada os abale. Sejam sempre dedicados à obra do Senhor, pois vocês sabem que, no Senhor, o trabalho de vocês não será inútil."
+        }
+      ]
+    },
+    "meditation": [
+      "Deus não trata seu cansaço como definitivo. A ressurreição promete transformação, não abandono, para aquilo que em você já parece gasto.",
+      "A vitória sobre a morte não apaga suas lágrimas de hoje, mas impede que o desespero seja sua última palavra.",
+      "Porque o Senhor ressuscitou, aquilo que você faz de bem — mesmo pequeno, mesmo sem aplausos — não é desperdício."
+    ],
+    "questions": [
+      "Que parte da sua vida você trata como acabada, mas talvez Deus ainda esteja transformando?",
+      "Onde o medo da morte tem limitado sua coragem para viver hoje?",
+      "Que trabalho ou cuidado seu, mesmo sem resultado visível, você pode continuar por confiança, não por controle?"
+    ],
+    "application": "Retome ou sustente um pequeno gesto de cuidado que parecia sem efeito, entregando a Deus o resultado que você não consegue ver.",
+    "prayer": "Deus da vida, obrigado porque a morte não vence. Mantém-me firme e faz o que eu faço por ti ter valor, mesmo quando não vejo o fruto agora. Amém."
+  },
+  {
+    "theme": "Você não precisa servir sozinho para servir bem",
+    "date": "1 Coríntios 16.1-12",
+    "verse": {
+      "text": "No primeiro dia da semana, cada um de vocês separe uma quantia, de acordo com a sua renda.",
+      "ref": "1 Coríntios 16.2"
+    },
+    "word": {
+      "original": "διακονία",
+      "translit": "diakonía",
+      "lang": "grego",
+      "meaning": "serviço, ministério",
+      "note": "Diakonía é serviço concreto, organizado, que une pessoas distantes umas das outras. Você não precisa carregar sozinho o cuidado com quem está necessitado; pode fazer parte de algo maior, planejado com outros."
+    },
+    "context": "Talvez você já tenha querido ajudar alguém, mas sentiu que sua contribuição sozinha não faria diferença. Paulo termina a carta tratando de algo bem prático: uma coleta organizada, com planejamento e transparência, para socorrer irmãos distantes. Generosidade também precisa de estrutura e parceria.",
+    "passage": {
+      "ref": "1 Coríntios 16 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Quanto à coleta para o povo de Deus, façam como ordenei às igrejas da Galácia."
+        },
+        {
+          "n": 2,
+          "text": "No primeiro dia da semana, cada um de vocês separe uma quantia, de acordo com a sua renda, reservando-a para que não seja preciso fazer coletas quando eu chegar."
+        },
+        {
+          "n": 3,
+          "text": "Então, quando eu chegar, entregarei cartas de recomendação aos homens que vocês aprovarem e os mandarei para Jerusalém com a oferta de vocês."
+        },
+        {
+          "n": 4,
+          "text": "Se me parecer conveniente ir também, eles me acompanharão."
+        },
+        {
+          "n": 5,
+          "text": "Depois de passar pela Macedônia irei visitá-los, já que passarei por lá."
+        },
+        {
+          "n": 6,
+          "text": "Talvez eu permaneça com vocês durante algum tempo, ou até mesmo passe o inverno com vocês, para que me ajudem na viagem, aonde quer que eu vá."
+        },
+        {
+          "n": 7,
+          "text": "Desta vez não quero apenas vê-los e fazer uma visita de passagem; espero ficar algum tempo com vocês, se o Senhor permitir."
+        },
+        {
+          "n": 8,
+          "text": "Mas permanecerei em Éfeso até o Pentecoste,"
+        },
+        {
+          "n": 9,
+          "text": "porque se abriu para mim uma porta ampla e promissora; e há muitos adversários."
+        },
+        {
+          "n": 10,
+          "text": "Se Timóteo for, tomem providências para que ele não tenha nada que temer enquanto estiver com vocês, pois ele trabalha na obra do Senhor, assim como eu."
+        },
+        {
+          "n": 11,
+          "text": "Portanto, ninguém o despreze. Ajudem-no a prosseguir viagem em paz, para que ele possa voltar a mim. Eu o estou esperando juntamente com os irmãos."
+        },
+        {
+          "n": 12,
+          "text": "Quanto ao irmão Apolo, insisti que fosse visitar vocês, juntamente com os irmãos. Ele não quis de modo nenhum ir agora, mas irá quando tiver boa oportunidade."
+        },
+        {
+          "n": 13,
+          "text": "Estejam vigilantes, mantenham-se firmes na fé, sejam homens de coragem, sejam fortes."
+        },
+        {
+          "n": 14,
+          "text": "Façam tudo com amor."
+        },
+        {
+          "n": 15,
+          "text": "Vocês sabem que os da casa de Estéfanas foram o primeiro fruto da Acaia e que eles têm se dedicado ao serviço dos santos. Recomendo-lhes, irmãos,"
+        },
+        {
+          "n": 16,
+          "text": "que se submetam a pessoas como eles e a todos os que cooperam e trabalham conosco."
+        },
+        {
+          "n": 17,
+          "text": "Alegrei-me com a vinda de Estéfanas, Fortunato e Acaico, porque eles supriram o que estava faltando da parte de vocês."
+        },
+        {
+          "n": 18,
+          "text": "Eles trouxeram alívio ao meu espírito, e ao de vocês também. Valorizem homens como estes."
+        },
+        {
+          "n": 19,
+          "text": "As igrejas da província da Ásia enviam-lhes saudações. Áqüila e Priscila os saúdam afetuosamente no Senhor, e também a igreja que se reúne na casa deles."
+        },
+        {
+          "n": 20,
+          "text": "Todos os irmãos daqui lhes enviam saudações. Saúdem-se uns aos outros com beijo santo."
+        },
+        {
+          "n": 21,
+          "text": "Eu, Paulo, escrevi esta saudação de próprio punho."
+        },
+        {
+          "n": 22,
+          "text": "Se alguém não ama o Senhor, seja amaldiçoado. Vem, Senhor!"
+        },
+        {
+          "n": 23,
+          "text": "A graça do Senhor Jesus seja com vocês."
+        },
+        {
+          "n": 24,
+          "text": "Recebam o amor que tenho por todos vocês em Cristo Jesus. Amém."
+        }
+      ]
+    },
+    "meditation": [
+      "Sua generosidade não precisa ser um impulso isolado; pode ser um hábito planejado, sustentado com outras pessoas.",
+      "Cuidar de recursos com transparência é também uma forma de amor — protege a confiança de quem confiou em você.",
+      "Uma porta aberta por Deus pode vir acompanhada de resistência. Isso não significa que você entendeu errado o chamado."
+    ],
+    "questions": [
+      "Sua generosidade tem algum espaço planejado na sua rotina, ou depende só do momento?",
+      "Com quem você pode se unir para servir algo maior do que consegue sozinho?",
+      "Que porta de serviço está aberta para você, mesmo trazendo dificuldade junto?"
+    ],
+    "application": "Separe hoje, de forma planejada, um valor ou recurso para ajudar alguém ou apoiar uma causa, e convide outra pessoa para participar com você.",
+    "prayer": "Senhor, tudo o que tenho vem de ti. Ensina-me a servir em parceria, com generosidade planejada e integridade, mesmo quando encontro resistência. Amém."
+  },
+  {
+    "theme": "Força e ternura podem crescer juntas em você",
+    "date": "1 Coríntios 16.13-24",
+    "verse": {
+      "text": "Estejam vigilantes, mantenham-se firmes na fé, sejam homens de coragem, sejam fortes. Façam tudo com amor.",
+      "ref": "1 Coríntios 16.13-14"
+    },
+    "word": {
+      "original": "ἀγάπη",
+      "translit": "agápē",
+      "lang": "grego",
+      "meaning": "amor que dá forma à ação",
+      "note": "No fim da carta, Paulo une firmeza e amor no mesmo respiro. Você não precisa escolher entre ser forte e ser gentil — o amor é o que dá forma certa à sua força."
+    },
+    "context": "A carta termina com recomendações simples: cuide de quem serve, seja firme, valorize gente discreta. Depois de tantas correções, Paulo resume tudo numa frase que também vale para você: faça tudo com amor.",
+    "passage": {
+      "ref": "1 Coríntios 16 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Quanto à coleta para o povo de Deus, façam como ordenei às igrejas da Galácia."
+        },
+        {
+          "n": 2,
+          "text": "No primeiro dia da semana, cada um de vocês separe uma quantia, de acordo com a sua renda, reservando-a para que não seja preciso fazer coletas quando eu chegar."
+        },
+        {
+          "n": 3,
+          "text": "Então, quando eu chegar, entregarei cartas de recomendação aos homens que vocês aprovarem e os mandarei para Jerusalém com a oferta de vocês."
+        },
+        {
+          "n": 4,
+          "text": "Se me parecer conveniente ir também, eles me acompanharão."
+        },
+        {
+          "n": 5,
+          "text": "Depois de passar pela Macedônia irei visitá-los, já que passarei por lá."
+        },
+        {
+          "n": 6,
+          "text": "Talvez eu permaneça com vocês durante algum tempo, ou até mesmo passe o inverno com vocês, para que me ajudem na viagem, aonde quer que eu vá."
+        },
+        {
+          "n": 7,
+          "text": "Desta vez não quero apenas vê-los e fazer uma visita de passagem; espero ficar algum tempo com vocês, se o Senhor permitir."
+        },
+        {
+          "n": 8,
+          "text": "Mas permanecerei em Éfeso até o Pentecoste,"
+        },
+        {
+          "n": 9,
+          "text": "porque se abriu para mim uma porta ampla e promissora; e há muitos adversários."
+        },
+        {
+          "n": 10,
+          "text": "Se Timóteo for, tomem providências para que ele não tenha nada que temer enquanto estiver com vocês, pois ele trabalha na obra do Senhor, assim como eu."
+        },
+        {
+          "n": 11,
+          "text": "Portanto, ninguém o despreze. Ajudem-no a prosseguir viagem em paz, para que ele possa voltar a mim. Eu o estou esperando juntamente com os irmãos."
+        },
+        {
+          "n": 12,
+          "text": "Quanto ao irmão Apolo, insisti que fosse visitar vocês, juntamente com os irmãos. Ele não quis de modo nenhum ir agora, mas irá quando tiver boa oportunidade."
+        },
+        {
+          "n": 13,
+          "text": "Estejam vigilantes, mantenham-se firmes na fé, sejam homens de coragem, sejam fortes."
+        },
+        {
+          "n": 14,
+          "text": "Façam tudo com amor."
+        },
+        {
+          "n": 15,
+          "text": "Vocês sabem que os da casa de Estéfanas foram o primeiro fruto da Acaia e que eles têm se dedicado ao serviço dos santos. Recomendo-lhes, irmãos,"
+        },
+        {
+          "n": 16,
+          "text": "que se submetam a pessoas como eles e a todos os que cooperam e trabalham conosco."
+        },
+        {
+          "n": 17,
+          "text": "Alegrei-me com a vinda de Estéfanas, Fortunato e Acaico, porque eles supriram o que estava faltando da parte de vocês."
+        },
+        {
+          "n": 18,
+          "text": "Eles trouxeram alívio ao meu espírito, e ao de vocês também. Valorizem homens como estes."
+        },
+        {
+          "n": 19,
+          "text": "As igrejas da província da Ásia enviam-lhes saudações. Áqüila e Priscila os saúdam afetuosamente no Senhor, e também a igreja que se reúne na casa deles."
+        },
+        {
+          "n": 20,
+          "text": "Todos os irmãos daqui lhes enviam saudações. Saúdem-se uns aos outros com beijo santo."
+        },
+        {
+          "n": 21,
+          "text": "Eu, Paulo, escrevi esta saudação de próprio punho."
+        },
+        {
+          "n": 22,
+          "text": "Se alguém não ama o Senhor, seja amaldiçoado. Vem, Senhor!"
+        },
+        {
+          "n": 23,
+          "text": "A graça do Senhor Jesus seja com vocês."
+        },
+        {
+          "n": 24,
+          "text": "Recebam o amor que tenho por todos vocês em Cristo Jesus. Amém."
+        }
+      ]
+    },
+    "meditation": [
+      "Ser vigilante e firme não exige de você uma postura dura. É possível permanecer atento ao que é certo sem perder a ternura.",
+      "Talvez exista alguém perto de você que serve nos bastidores, sem holofote. Reconhecer essa pessoa também é um ato de amor.",
+      "'Façam tudo com amor' resume tudo que você leu nesta carta: seus dons, sua liberdade, sua esperança só fazem sentido completo quando o amor dirige o que você faz."
+    ],
+    "questions": [
+      "Em que área da sua vida você precisa de mais firmeza sem perder a ternura?",
+      "Quem serve de forma discreta ao seu redor e merece seu reconhecimento hoje?",
+      "O que mudaria numa decisão sua se você a submetesse ao critério do amor?"
+    ],
+    "application": "Agradeça de forma específica a alguém que serve nos bastidores perto de você e escolha uma atitude do seu dia para fazer intencionalmente com amor.",
+    "prayer": "Senhor Jesus, mantém-me vigilante e firme. Dá-me coragem sem dureza e faz com que tudo em mim seja moldado pelo teu amor. Amém."
   }
 ];
