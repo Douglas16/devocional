@@ -28,7 +28,7 @@ window.PEDRO_CARTA = [
     },
     "context": "Pedro escreve a cristãos espalhados e vulneráveis, muitos vivendo como estrangeiros e pessoas sem grande poder social. Por isso começa não com uma cobrança, mas com identidade: misericórdia, novo nascimento, esperança e herança. Só depois reconhece que eles também estão entristecidos por provações.",
     "passage": {
-      "ref": "1 Pedro 1 · capítulo completo (NVI)",
+      "ref": "1 Pedro 1.1-12",
       "verses": [
         {
           "n": 1,
@@ -77,58 +77,6 @@ window.PEDRO_CARTA = [
         {
           "n": 12,
           "text": "A eles foi revelado que estavam ministrando, não para si próprios, mas para vocês, quando falaram das coisas que agora lhes foram anunciadas por meio daqueles que lhes pregaram o evangelho pelo Espírito Santo enviado do céu; coisas que até os anjos anseiam observar."
-        },
-        {
-          "n": 13,
-          "text": "Portanto, estejam com a mente preparada, prontos para a ação; sejam sóbrios e coloquem toda a esperança na graça que lhes será dada quando Jesus Cristo for revelado."
-        },
-        {
-          "n": 14,
-          "text": "Como filhos obedientes, não se deixem amoldar pelos maus desejos de outrora, quando viviam na ignorância."
-        },
-        {
-          "n": 15,
-          "text": "Mas, assim como é santo aquele que os chamou, sejam santos vocês também em tudo o que fizerem,"
-        },
-        {
-          "n": 16,
-          "text": "pois está escrito: \"Sejam santos, porque eu sou santo\"."
-        },
-        {
-          "n": 17,
-          "text": "Uma vez que vocês chamam Pai aquele que julga imparcialmente as obras de cada um, portem-se com temor durante a jornada terrena de vocês."
-        },
-        {
-          "n": 18,
-          "text": "Pois vocês sabem que não foi por meio de coisas perecíveis como prata ou ouro que vocês foram redimidos da sua maneira vazia de viver que lhes foi transmitida por seus antepassados,"
-        },
-        {
-          "n": 19,
-          "text": "mas pelo precioso sangue de Cristo, como de um cordeiro sem mancha e sem defeito,"
-        },
-        {
-          "n": 20,
-          "text": "conhecido antes da criação do mundo, revelado nestes últimos tempos em favor de vocês."
-        },
-        {
-          "n": 21,
-          "text": "Por meio dele vocês crêem em Deus, que o ressuscitou dentre os mortos e o glorificou, de modo que a fé e a esperança de vocês estão em Deus."
-        },
-        {
-          "n": 22,
-          "text": "Agora que vocês purificaram as suas vidas pela obediência à verdade, visando ao amor fraternal e sincero, amem sinceramente uns aos outros e de todo o coração."
-        },
-        {
-          "n": 23,
-          "text": "Pois vocês foram regenerados, não de uma semente perecível, mas imperecível, por meio da palavra de Deus, viva e permanente."
-        },
-        {
-          "n": 24,
-          "text": "Pois, \"toda a humanidade é como a relva, e toda a sua glória, como a flor da relva; a relva murcha e cai a sua flor,"
-        },
-        {
-          "n": 25,
-          "text": "mas a palavra do Senhor permanece para sempre\". Essa é a palavra que lhes foi anunciada."
         }
       ]
     },
@@ -162,56 +110,8 @@ window.PEDRO_CARTA = [
     },
     "context": "Depois de lembrar aos leitores quem eles são e que esperança receberam, Pedro passa para a maneira de viver. A santidade aparece ligada a mente preparada, esperança na graça, abandono de padrões antigos, amor sincero e uma Palavra que permanece quando tudo o mais passa.",
     "passage": {
-      "ref": "1 Pedro 1 · capítulo completo (NVI)",
+      "ref": "1 Pedro 1.13-25",
       "verses": [
-        {
-          "n": 1,
-          "text": "Pedro, apóstolo de Jesus Cristo, aos eleitos de Deus, peregrinos dispersos no Ponto, na Galácia, na Capadócia, na província da Ásia e na Bitínia,"
-        },
-        {
-          "n": 2,
-          "text": "escolhidos de acordo com a pré-conhecimento de Deus Pai, pela obra santificadora do Espírito, para a obediência a Jesus Cristo e a aspersão do seu sangue: Graça e paz lhes sejam multiplicadas."
-        },
-        {
-          "n": 3,
-          "text": "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo! Conforme a sua grande misericórdia, ele nos regenerou para uma esperança viva, por meio da ressurreição de Jesus Cristo dentre os mortos,"
-        },
-        {
-          "n": 4,
-          "text": "para uma herança que jamais poderá perecer, macular-se ou perder o seu valor. Herança guardada nos céus para vocês"
-        },
-        {
-          "n": 5,
-          "text": "que, mediante a fé, são protegidos pelo poder de Deus até chegar a salvação prestes a ser revelada no último tempo."
-        },
-        {
-          "n": 6,
-          "text": "Nisso vocês exultam, ainda que agora, por um pouco de tempo, devam ser entristecidos por todo tipo de provação."
-        },
-        {
-          "n": 7,
-          "text": "Assim acontece para que fique comprovado que a fé que vocês têm, muito mais valiosa do que o ouro que perece, mesmo que refinado pelo fogo, é genuína e resultará em louvor, glória e honra, quando Jesus Cristo for revelado."
-        },
-        {
-          "n": 8,
-          "text": "Mesmo não o tendo visto, vocês o amam; e apesar de não o verem agora, crêem nele e exultam com alegria indizível e gloriosa,"
-        },
-        {
-          "n": 9,
-          "text": "pois vocês estão alcançando o alvo da sua fé, a salvação das suas almas."
-        },
-        {
-          "n": 10,
-          "text": "Foi a respeito dessa salvação que os profetas que falaram da graça destinada a vocês investigaram e examinaram,"
-        },
-        {
-          "n": 11,
-          "text": "procurando saber o tempo e as circunstâncias para os quais apontava o Espírito de Cristo que neles estava, quando lhes predisse os sofrimentos de Cristo e as glórias que se seguiriam àqueles sofrimentos."
-        },
-        {
-          "n": 12,
-          "text": "A eles foi revelado que estavam ministrando, não para si próprios, mas para vocês, quando falaram das coisas que agora lhes foram anunciadas por meio daqueles que lhes pregaram o evangelho pelo Espírito Santo enviado do céu; coisas que até os anjos anseiam observar."
-        },
         {
           "n": 13,
           "text": "Portanto, estejam com a mente preparada, prontos para a ação; sejam sóbrios e coloquem toda a esperança na graça que lhes será dada quando Jesus Cristo for revelado."
@@ -296,7 +196,7 @@ window.PEDRO_CARTA = [
     },
     "context": "Pedro deixa de falar apenas da experiência individual e passa a descrever uma comunidade. Cristo é a pedra viva e, aproximando-se dele, os cristãos também são edificados juntos. Identidade, sacerdócio, misericórdia e missão aparecem no plural.",
     "passage": {
-      "ref": "1 Pedro 2 · capítulo completo (NVI)",
+      "ref": "1 Pedro 2.1-10",
       "verses": [
         {
           "n": 1,
@@ -337,66 +237,6 @@ window.PEDRO_CARTA = [
         {
           "n": 10,
           "text": "Antes vocês nem sequer eram povo, mas agora são povo de Deus; não haviam recebido misericórdia, mas agora a receberam."
-        },
-        {
-          "n": 11,
-          "text": "Amados, insisto em que, como estrangeiros e peregrinos no mundo, vocês se abstenham dos desejos carnais que guerreiam contra a alma."
-        },
-        {
-          "n": 12,
-          "text": "Vivam entre os pagãos de maneira exemplar para que, naquilo em que eles os acusam de praticarem o mal, observem as boas obras que vocês praticam e glorifiquem a Deus no dia da sua intervenção."
-        },
-        {
-          "n": 13,
-          "text": "Por causa do Senhor, sujeitem-se a toda autoridade constituída entre os homens; seja ao rei, como autoridade suprema,"
-        },
-        {
-          "n": 14,
-          "text": "seja aos governantes, como por ele enviados para punir os que praticam o mal e honrar os que praticam o bem."
-        },
-        {
-          "n": 15,
-          "text": "Pois é da vontade de Deus que, praticando o bem, vocês silenciem a ignorância dos insensatos."
-        },
-        {
-          "n": 16,
-          "text": "Vivam como pessoas livres, mas não usem a liberdade como desculpa para fazer o mal; vivam como servos de Deus."
-        },
-        {
-          "n": 17,
-          "text": "Tratem a todos com o devido respeito: amem os irmãos, temam a Deus e honrem o rei."
-        },
-        {
-          "n": 18,
-          "text": "Escravos, sujeitem-se a seus senhores com todo o respeito, não apenas aos bons e amáveis, mas também aos maus."
-        },
-        {
-          "n": 19,
-          "text": "Porque é louvável que, por motivo de sua consciência para com Deus, alguém suporte aflições sofrendo injustamente."
-        },
-        {
-          "n": 20,
-          "text": "Pois que vantagem há em suportar açoites recebidos por terem cometido o mal? Mas se vocês suportam o sofrimento por terem feito o bem, isso é louvável diante de Deus."
-        },
-        {
-          "n": 21,
-          "text": "Para isso vocês foram chamados, pois também Cristo sofreu no lugar de vocês, deixando-lhes exemplo, para que sigam os seus passos."
-        },
-        {
-          "n": 22,
-          "text": "\"Ele não cometeu pecado algum, e nenhum engano foi encontrado em sua boca\"."
-        },
-        {
-          "n": 23,
-          "text": "Quando insultado, não revidava; quando sofria, não fazia ameaças, mas entregava-se àquele que julga com justiça."
-        },
-        {
-          "n": 24,
-          "text": "Ele mesmo levou em seu corpo os nossos pecados sobre o madeiro, a fim de que morrêssemos para os pecados e vivêssemos para a justiça; por suas feridas vocês foram curados."
-        },
-        {
-          "n": 25,
-          "text": "Pois vocês eram como ovelhas desgarradas, mas agora se converteram ao Pastor e Bispo de suas almas."
         }
       ]
     },
@@ -430,48 +270,8 @@ window.PEDRO_CARTA = [
     },
     "context": "Pedro escreve a pessoas vivendo dentro de estruturas sociais que lhes davam pouco poder, inclusive escravos submetidos a senhores. O texto procura ensinar como preservar dignidade e fidelidade dentro de uma realidade injusta; não é aprovação da escravidão nem mandamento para que uma pessoa permaneça em situação abusiva quando há possibilidade de proteção e justiça.",
     "passage": {
-      "ref": "1 Pedro 2 · capítulo completo (NVI)",
+      "ref": "1 Pedro 2.11-25",
       "verses": [
-        {
-          "n": 1,
-          "text": "Livrem-se, pois, de toda maldade e de todo engano, hipocrisia, inveja e toda espécie de maledicência."
-        },
-        {
-          "n": 2,
-          "text": "Como crianças recém-nascidas, desejem de coração o leite espiritual puro, para que por meio dele cresçam para a salvação,"
-        },
-        {
-          "n": 3,
-          "text": "agora que provaram que o Senhor é bom."
-        },
-        {
-          "n": 4,
-          "text": "À medida que se aproximam dele, a pedra viva — rejeitada pelos homens, mas escolhida por Deus e preciosa para ele —"
-        },
-        {
-          "n": 5,
-          "text": "vocês também estão sendo utilizados como pedras vivas na edificação de uma casa espiritual para serem sacerdócio santo, oferecendo sacrifícios espirituais aceitáveis a Deus, por meio de Jesus Cristo."
-        },
-        {
-          "n": 6,
-          "text": "Pois assim é dito na Escritura: \"Eis que ponho em Sião uma pedra angular, escolhida e preciosa, e aquele que nela confia jamais será envergonhado\"."
-        },
-        {
-          "n": 7,
-          "text": "Portanto, para vocês, os que crêem, esta pedra é preciosa; mas para os que não crêem, \"a pedra que os construtores rejeitaram tornou-se a pedra angular\","
-        },
-        {
-          "n": 8,
-          "text": "e, \"pedra de tropeço e rocha que faz cair\". Os que não crêem tropeçam, porque desobedecem à mensagem; para o que também foram destinados."
-        },
-        {
-          "n": 9,
-          "text": "Vocês, porém, são geração eleita, sacerdócio real, nação santa, povo exclusivo de Deus, para anunciar as grandezas daquele que os chamou das trevas para a sua maravilhosa luz."
-        },
-        {
-          "n": 10,
-          "text": "Antes vocês nem sequer eram povo, mas agora são povo de Deus; não haviam recebido misericórdia, mas agora a receberam."
-        },
         {
           "n": 11,
           "text": "Amados, insisto em que, como estrangeiros e peregrinos no mundo, vocês se abstenham dos desejos carnais que guerreiam contra a alma."
@@ -564,7 +364,7 @@ window.PEDRO_CARTA = [
     },
     "context": "Pedro fala a mulheres e homens dentro de uma sociedade patriarcal, em que esposas tinham menos proteção e poder. Ao chamar as mulheres de co-herdeiras e exigir dos maridos honra e sabedoria no convívio, ele coloca a espiritualidade do casal diante de uma medida concreta: como um trata o outro.",
     "passage": {
-      "ref": "1 Pedro 3 · capítulo completo (NVI)",
+      "ref": "1 Pedro 3.1-12",
       "verses": [
         {
           "n": 1,
@@ -613,46 +413,6 @@ window.PEDRO_CARTA = [
         {
           "n": 12,
           "text": "Porque os olhos do Senhor estão sobre os justos e os seus ouvidos estão atentos à sua oração, mas o rosto do Senhor volta-se contra os que praticam o mal\"."
-        },
-        {
-          "n": 13,
-          "text": "Quem há de maltratá-los, se vocês forem zelosos na prática do bem?"
-        },
-        {
-          "n": 14,
-          "text": "Todavia, mesmo que venham a sofrer porque praticam a justiça, vocês serão felizes. \"Não temam aquilo que eles temem, não fiquem amedrontados. \""
-        },
-        {
-          "n": 15,
-          "text": "Antes, santifiquem Cristo como Senhor no coração. Estejam sempre preparados para responder a qualquer que lhes pedir a razão da esperança que há em vocês."
-        },
-        {
-          "n": 16,
-          "text": "Contudo, façam isso com mansidão e respeito, conservando boa consciência, de forma que os que falam maldosamente contra o bom procedimento de vocês, porque estão em Cristo, fiquem envergonhados de suas calúnias."
-        },
-        {
-          "n": 17,
-          "text": "É melhor sofrer por fazer o bem, se for da vontade de Deus, do que por fazer o mal."
-        },
-        {
-          "n": 18,
-          "text": "Pois também Cristo sofreu pelos pecados uma vez por todas, o justo pelos injustos, para conduzir-nos a Deus. Ele foi morto no corpo, mas vivificado pelo Espírito,"
-        },
-        {
-          "n": 19,
-          "text": "no qual também foi e pregou aos espíritos em prisão"
-        },
-        {
-          "n": 20,
-          "text": "que há muito tempo desobederam, quando Deus esperava pacientemente nos dias de Noé, enquanto a arca era construída. Nela apenas algumas pessoas, a saber, oito, foram salvas por meio da água,"
-        },
-        {
-          "n": 21,
-          "text": "e isso é representado pelo batismo que agora também salva vocês — não a remoção da sujeira do corpo, mas o compromisso de uma boa consciência diante de Deus — por meio da ressurreição de Jesus Cristo,"
-        },
-        {
-          "n": 22,
-          "text": "que subiu ao céu e está à direita de Deus; a ele estão sujeitos anjos, autoridades e poderes."
         }
       ]
     },
@@ -686,56 +446,8 @@ window.PEDRO_CARTA = [
     },
     "context": "Pedro escreve sobre pessoas que podem ser maltratadas mesmo quando fazem o bem. Nesse contexto aparece o chamado a explicar a esperança. A defesa da fé não nasce de uma vontade de derrotar alguém num debate, mas de uma vida cuja esperança desperta perguntas.",
     "passage": {
-      "ref": "1 Pedro 3 · capítulo completo (NVI)",
+      "ref": "1 Pedro 3.13-22",
       "verses": [
-        {
-          "n": 1,
-          "text": "Do mesmo modo, mulheres, sujeitem-se a seus maridos, a fim de que, se alguns deles não obedecem à palavra, sejam ganhos sem palavras, pelo procedimento de sua mulher,"
-        },
-        {
-          "n": 2,
-          "text": "observando a conduta honesta e respeitosa de vocês."
-        },
-        {
-          "n": 3,
-          "text": "A beleza de vocês não deve estar nos enfeites exteriores, como cabelos trançados e jóias de ouro ou roupas finas."
-        },
-        {
-          "n": 4,
-          "text": "Pelo contrário, esteja no ser interior, que não perece, beleza demonstrada num espírito dócil e tranqüilo, o que é de grande valor para Deus."
-        },
-        {
-          "n": 5,
-          "text": "Pois era assim que também costumavam adornar-se as santas mulheres do passado, que colocavam a sua esperança em Deus. Elas se sujeitavam a seus maridos,"
-        },
-        {
-          "n": 6,
-          "text": "como Sara, que obedecia a Abraão e lhe chamava senhor. Dela vocês serão filhas, se praticarem o bem e não derem lugar ao medo."
-        },
-        {
-          "n": 7,
-          "text": "Do mesmo modo vocês, maridos, sejam sábios no convívio com suas mulheres e tratem-nas com honra, como parte mais frágil e co-herdeiras do dom da graça da vida, de forma que não sejam interrompidas as suas orações."
-        },
-        {
-          "n": 8,
-          "text": "Quanto ao mais, tenham todos o mesmo modo de pensar, sejam compassivos, amem-se fraternalmente, sejam misericordiosos e humildes."
-        },
-        {
-          "n": 9,
-          "text": "Não retribuam mal com mal nem insulto com insulto; pelo contrário, bendigam; pois para isso vocês foram chamados, para receberem bênção por herança."
-        },
-        {
-          "n": 10,
-          "text": "Pois, \"quem quiser amar a vida e ver dias felizes, guarde a sua língua do mal e os seus lábios da falsidade."
-        },
-        {
-          "n": 11,
-          "text": "Afaste-se do mal e faça o bem; busque a paz com perseverança."
-        },
-        {
-          "n": 12,
-          "text": "Porque os olhos do Senhor estão sobre os justos e os seus ouvidos estão atentos à sua oração, mas o rosto do Senhor volta-se contra os que praticam o mal\"."
-        },
         {
           "n": 13,
           "text": "Quem há de maltratá-los, se vocês forem zelosos na prática do bem?"
@@ -808,7 +520,7 @@ window.PEDRO_CARTA = [
     },
     "context": "Pedro chama os leitores a viver o tempo restante de maneira diferente e, logo depois, leva a conversa para amor, hospitalidade e serviço. A urgência do texto não produz pânico; produz sobriedade e atenção ao que pode ser feito pelo outro hoje.",
     "passage": {
-      "ref": "1 Pedro 4 · capítulo completo (NVI)",
+      "ref": "1 Pedro 4.1-11",
       "verses": [
         {
           "n": 1,
@@ -853,38 +565,6 @@ window.PEDRO_CARTA = [
         {
           "n": 11,
           "text": "Se alguém fala, faça-o como quem transmite a palavra de Deus. Se alguém serve, faça-o com a força que Deus provê, de forma que em todas as coisas Deus seja glorificado mediante Jesus Cristo, a quem sejam a glória e o poder para todo o sempre. Amém."
-        },
-        {
-          "n": 12,
-          "text": "Amados, não se surpreendam com o fogo que surge entre vocês para os provar, como se algo estranho lhes estivesse acontecendo."
-        },
-        {
-          "n": 13,
-          "text": "Mas alegrem-se à medida que participam dos sofrimentos de Cristo, para que também, quando a sua glória for revelada, vocês exultem com grande alegria."
-        },
-        {
-          "n": 14,
-          "text": "Se vocês são insultados por causa do nome de Cristo, felizes são vocês, pois o Espírito da glória, o Espírito de Deus, repousa sobre vocês."
-        },
-        {
-          "n": 15,
-          "text": "Se algum de vocês sofre, que não seja como assassino, ladrão, criminoso ou como quem se intromete em negócios alheios."
-        },
-        {
-          "n": 16,
-          "text": "Contudo, se sofre como cristão, não se envergonhe, mas glorifique a Deus por meio desse nome."
-        },
-        {
-          "n": 17,
-          "text": "Pois chegou a hora de começar o julgamento pela casa de Deus; e, se começa primeiro conosco, qual será o fim daqueles que não obedecem ao evangelho de Deus?"
-        },
-        {
-          "n": 18,
-          "text": "E, \"se ao justo é difícil ser salvo, que será do ímpio e pecador? \""
-        },
-        {
-          "n": 19,
-          "text": "Por isso mesmo, aqueles que sofrem de acordo com a vontade de Deus devem confiar suas vidas ao seu fiel Criador e praticar o bem."
         }
       ]
     },
@@ -918,52 +598,8 @@ window.PEDRO_CARTA = [
     },
     "context": "Pedro fala a uma comunidade que enfrentava insultos e sofrimento por ser cristã. Ele procura ajudá-los a não interpretar automaticamente essa oposição como abandono de Deus. Ao mesmo tempo, distingue sofrer por fazer o bem de sofrer por escolhas destrutivas.",
     "passage": {
-      "ref": "1 Pedro 4 · capítulo completo (NVI)",
+      "ref": "1 Pedro 4.12-19",
       "verses": [
-        {
-          "n": 1,
-          "text": "Portanto, uma vez que Cristo sofreu corporalmente, armem-se também do mesmo pensamento, pois aquele que sofreu em seu corpo rompeu com o pecado,"
-        },
-        {
-          "n": 2,
-          "text": "para que, no tempo que lhe resta, não viva mais para satisfazer os maus desejos humanos, mas sim para fazer a vontade de Deus."
-        },
-        {
-          "n": 3,
-          "text": "No passado vocês já gastaram tempo suficiente fazendo o que agrada aos pagãos. Naquele tempo vocês viviam em libertinagem, na sensualidade, nas bebedeiras, orgias e farras, e na idolatria repugnante."
-        },
-        {
-          "n": 4,
-          "text": "Eles acham estranho que vocês não se lancem com eles na mesma torrente de imoralidade, e por isso os insultam."
-        },
-        {
-          "n": 5,
-          "text": "Contudo, eles terão que prestar contas àquele que está pronto para julgar os vivos e os mortos."
-        },
-        {
-          "n": 6,
-          "text": "Por isso mesmo o evangelho foi pregado também a mortos, para que eles, mesmo julgados no corpo segundo os homens, vivam pelo Espírito segundo Deus."
-        },
-        {
-          "n": 7,
-          "text": "O fim de todas as coisas está próximo. Portanto, sejam criteriosos e sóbrios; dediquem-se à oração."
-        },
-        {
-          "n": 8,
-          "text": "Sobretudo, amem-se sinceramente uns aos outros, porque o amor perdoa muitíssimos pecados."
-        },
-        {
-          "n": 9,
-          "text": "Sejam mutuamente hospitaleiros, sem reclamação."
-        },
-        {
-          "n": 10,
-          "text": "Cada um exerça o dom que recebeu para servir aos outros, administrando fielmente a graça de Deus em suas múltiplas formas."
-        },
-        {
-          "n": 11,
-          "text": "Se alguém fala, faça-o como quem transmite a palavra de Deus. Se alguém serve, faça-o com a força que Deus provê, de forma que em todas as coisas Deus seja glorificado mediante Jesus Cristo, a quem sejam a glória e o poder para todo o sempre. Amém."
-        },
         {
           "n": 12,
           "text": "Amados, não se surpreendam com o fogo que surge entre vocês para os provar, como se algo estranho lhes estivesse acontecendo."
@@ -1028,7 +664,7 @@ window.PEDRO_CARTA = [
     },
     "context": "2 Pedro começa lembrando que os leitores receberam tudo de que precisam para uma vida piedosa e, então, chama-os a acrescentar qualidades à fé. A ordem importa: crescimento é resposta ao que foi recebido, não tentativa de conquistar aquilo que Deus ainda estaria retendo.",
     "passage": {
-      "ref": "2 Pedro 1 · capítulo completo (NVI)",
+      "ref": "2 Pedro 1.1-11",
       "verses": [
         {
           "n": 1,
@@ -1073,46 +709,6 @@ window.PEDRO_CARTA = [
         {
           "n": 11,
           "text": "e assim vocês estarão ricamente providos quando entrarem no Reino eterno de nosso Senhor e Salvador Jesus Cristo."
-        },
-        {
-          "n": 12,
-          "text": "Por isso, sempre terei o cuidado de lembrar-lhes estas coisas, se bem que vocês já as sabem e estão solidamente firmados na verdade que receberam."
-        },
-        {
-          "n": 13,
-          "text": "Considero importante, enquanto estiver no tabernáculo deste corpo, despertar a memória de vocês,"
-        },
-        {
-          "n": 14,
-          "text": "porque sei que em breve deixarei este tabernáculo, como o nosso Senhor Jesus Cristo já me revelou."
-        },
-        {
-          "n": 15,
-          "text": "Eu me empenharei para que, também depois da minha partida, vocês sejam sempre capazes de lembrar-se destas coisas."
-        },
-        {
-          "n": 16,
-          "text": "De fato, não seguimos fábulas engenhosamente inventadas, quando lhes falamos a respeito do poder e da vinda de nosso Senhor Jesus Cristo; pelo contrário, nós fomos testemunhas oculares da sua majestade."
-        },
-        {
-          "n": 17,
-          "text": "Ele recebeu honra e glória da parte de Deus Pai, quando da suprema glória lhe foi dirigida a voz que disse: \"Este é o meu filho amado, em quem me agrado\"."
-        },
-        {
-          "n": 18,
-          "text": "Nós mesmos ouvimos essa voz vinda do céu, quando estávamos com ele no monte santo."
-        },
-        {
-          "n": 19,
-          "text": "Assim, temos ainda mais firme a palavra dos profetas, e vocês farão bem se a ela prestarem atenção, como a uma candeia que brilha em lugar escuro, até que o dia clareie e a estrela da alva nasça em seus corações."
-        },
-        {
-          "n": 20,
-          "text": "Antes de mais nada, saibam que nenhuma profecia da Escritura provém de interpretação pessoal,"
-        },
-        {
-          "n": 21,
-          "text": "pois jamais a profecia teve origem na vontade humana, mas homens falaram da parte de Deus, impelidos pelo Espírito Santo."
         }
       ]
     },
@@ -1146,52 +742,8 @@ window.PEDRO_CARTA = [
     },
     "context": "Pedro sabe que não estará para sempre com seus leitores e quer deixar uma memória confiável. Ele recorda a experiência no monte da transfiguração e, ao mesmo tempo, aponta para a palavra profética. Experiência e Escritura não precisam competir; ambas direcionam para Cristo.",
     "passage": {
-      "ref": "2 Pedro 1 · capítulo completo (NVI)",
+      "ref": "2 Pedro 1.12-21",
       "verses": [
-        {
-          "n": 1,
-          "text": "Simão Pedro, servo e apóstolo de Jesus Cristo, àqueles que, mediante a justiça de nosso Deus e Salvador Jesus Cristo, receberam conosco uma fé igualmente valiosa:"
-        },
-        {
-          "n": 2,
-          "text": "Graça e paz lhes sejam multiplicadas, pelo pleno conhecimento de Deus e de Jesus, o nosso Senhor."
-        },
-        {
-          "n": 3,
-          "text": "Seu divino poder nos deu todas as coisas de que necessitamos para a vida e para a piedade, por meio do pleno conhecimento daquele que nos chamou para a sua própria glória e virtude."
-        },
-        {
-          "n": 4,
-          "text": "Por intermédio destas ele nos deu as suas grandiosas e preciosas promessas, para que por elas vocês se tornassem participantes da natureza divina e fugissem da corrupção que há no mundo, causada pela cobiça."
-        },
-        {
-          "n": 5,
-          "text": "Por isso mesmo, empenhem-se para acrescentar à sua fé a virtude; à virtude o conhecimento;"
-        },
-        {
-          "n": 6,
-          "text": "ao conhecimento o domínio próprio; ao domínio próprio a perseverança; à perseverança a piedade;"
-        },
-        {
-          "n": 7,
-          "text": "à piedade a fraternidade; e à fraternidade o amor."
-        },
-        {
-          "n": 8,
-          "text": "Porque, se essas qualidades existirem e estiverem crescendo em suas vidas, elas impedirão que vocês, no pleno conhecimento de nosso Senhor Jesus Cristo, sejam inoperantes e improdutivos."
-        },
-        {
-          "n": 9,
-          "text": "Todavia, se alguém não as tem, está cego, só vê o que está perto, esquecendo-se da purificação dos seus antigos pecados."
-        },
-        {
-          "n": 10,
-          "text": "Portanto, irmãos, empenhem-se ainda mais para consolidar o chamado e a eleição de vocês, pois se agirem dessa forma, jamais tropeçarão,"
-        },
-        {
-          "n": 11,
-          "text": "e assim vocês estarão ricamente providos quando entrarem no Reino eterno de nosso Senhor e Salvador Jesus Cristo."
-        },
         {
           "n": 12,
           "text": "Por isso, sempre terei o cuidado de lembrar-lhes estas coisas, se bem que vocês já as sabem e estão solidamente firmados na verdade que receberam."
@@ -1386,7 +938,7 @@ window.PEDRO_CARTA = [
     },
     "context": "Alguns zombavam da promessa da volta de Cristo porque o tempo continuava passando. Pedro responde lembrando que Deus não mede o tempo como nós e que aquilo que parece atraso também pode ser expressão de misericórdia.",
     "passage": {
-      "ref": "2 Pedro 3 · capítulo completo (NVI)",
+      "ref": "2 Pedro 3.1-9",
       "verses": [
         {
           "n": 1,
@@ -1423,42 +975,6 @@ window.PEDRO_CARTA = [
         {
           "n": 9,
           "text": "O Senhor não demora em cumprir a sua promessa, como julgam alguns. Pelo contrário, ele é paciente com vocês, não querendo que ninguém pereça, mas que todos cheguem ao arrependimento."
-        },
-        {
-          "n": 10,
-          "text": "O dia do Senhor, porém, virá como ladrão. Os céus desaparecerão com um grande estrondo, os elementos serão desfeitos pelo calor, e a terra, e tudo o que nela há, será desnudada."
-        },
-        {
-          "n": 11,
-          "text": "Visto que tudo será assim desfeito, que tipo de pessoas é necessário que vocês sejam? Vivam de maneira santa e piedosa,"
-        },
-        {
-          "n": 12,
-          "text": "esperando o dia de Deus e apressando a sua vinda. Naquele dia os céus serão desfeitos pelo fogo, e os elementos se derreterão pelo calor."
-        },
-        {
-          "n": 13,
-          "text": "Todavia, de acordo com a sua promessa, esperamos novos céus e nova terra, onde habita a justiça."
-        },
-        {
-          "n": 14,
-          "text": "Portanto, amados, enquanto esperam estas coisas, empenhem-se para serem encontrados por ele em paz, imaculados e inculpáveis."
-        },
-        {
-          "n": 15,
-          "text": "Tenham em mente que a paciência de nosso Senhor significa salvação, como também o nosso amado irmão Paulo lhes escreveu, com a sabedoria que Deus lhe deu."
-        },
-        {
-          "n": 16,
-          "text": "Ele escreve da mesma forma em todas as suas cartas, falando nelas destes assuntos. Suas cartas contêm algumas coisas difíceis de entender, as quais os ignorantes e instáveis torcem, como também o fazem com as demais Escrituras, para a própria destruição deles."
-        },
-        {
-          "n": 17,
-          "text": "Portanto, amados, sabendo disso, guardem-se para que não sejam levados pelo erro dos que não têm princípios morais, nem percam a sua firmeza e caiam."
-        },
-        {
-          "n": 18,
-          "text": "Cresçam, porém, na graça e no conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja a glória, agora e para sempre! Amém."
         }
       ]
     },
@@ -1492,44 +1008,8 @@ window.PEDRO_CARTA = [
     },
     "context": "Pedro encerra a carta olhando para a consumação da história. O futuro de Deus produz uma pergunta para o presente: que tipo de pessoas devemos ser? A resposta não é fuga ansiosa, mas vida santa, paz, vigilância e crescimento na graça.",
     "passage": {
-      "ref": "2 Pedro 3 · capítulo completo (NVI)",
+      "ref": "2 Pedro 3.10-18",
       "verses": [
-        {
-          "n": 1,
-          "text": "Amados, esta é agora a segunda carta que lhes escrevo. Em ambas quero despertar com estas lembranças a sua mente sincera para que vocês se lembrem"
-        },
-        {
-          "n": 2,
-          "text": "das palavras proferidas no passado pelos santos profetas, e do mandamento de nosso Senhor e Salvador que os apóstolos de vocês lhes ensinaram."
-        },
-        {
-          "n": 3,
-          "text": "Antes de tudo saibam que, nos últimos dias, surgirão escarnecedores zombando e seguindo suas próprias paixões."
-        },
-        {
-          "n": 4,
-          "text": "Eles dirão: \"O que houve com a promessa da sua vinda? Desde que os antepassados morreram, tudo continua como desde o princípio da criação\"."
-        },
-        {
-          "n": 5,
-          "text": "Mas eles deliberadamente se esquecem de que há muito tempo, pela palavra de Deus, existiam céus e terra, esta formada da água e pela água."
-        },
-        {
-          "n": 6,
-          "text": "E pela água o mundo daquele tempo foi submerso e destruído."
-        },
-        {
-          "n": 7,
-          "text": "Pela mesma palavra os céus e a terra que agora existem estão reservados para o fogo, guardados para o dia do juízo e para a destruição dos ímpios."
-        },
-        {
-          "n": 8,
-          "text": "Não se esqueçam disto, amados: para o Senhor um dia é como mil anos, e mil anos como um dia."
-        },
-        {
-          "n": 9,
-          "text": "O Senhor não demora em cumprir a sua promessa, como julgam alguns. Pelo contrário, ele é paciente com vocês, não querendo que ninguém pereça, mas que todos cheguem ao arrependimento."
-        },
         {
           "n": 10,
           "text": "O dia do Senhor, porém, virá como ladrão. Os céus desaparecerão com um grande estrondo, os elementos serão desfeitos pelo calor, e a terra, e tudo o que nela há, será desnudada."

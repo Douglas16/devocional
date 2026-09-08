@@ -28,7 +28,7 @@ window.SINOTICOS_EXCLUSIVOS_CARTA = [
     },
     "context": "Mateus abre seu evangelho ligando Jesus a uma longa história de gerações, promessas, quedas e recomeços. José enfrenta uma situação que não compreende, os magos chegam de longe e Herodes reage com violência. No meio de tudo isso, o nome Emanuel anuncia presença — não uma vida sem perigo, mas Deus entrando de fato na história humana.",
     "passage": {
-      "ref": "Mateus 1 · capítulo completo (NVI)",
+      "ref": "Mateus 1-2",
       "verses": [
         {
           "n": 1,
@@ -129,6 +129,98 @@ window.SINOTICOS_EXCLUSIVOS_CARTA = [
         {
           "n": 25,
           "text": "Mas não teve relações com ela enquanto ela não deu à luz um filho. E ele lhe pôs o nome de Jesus."
+        },
+        {
+          "n": 26,
+          "text": "[Mt 2.1] Depois que Jesus nasceu em Belém da Judéia, nos dias do rei Herodes, magos vindos do Oriente chegaram a Jerusalém"
+        },
+        {
+          "n": 27,
+          "text": "[2.2] e perguntaram: \"Onde está o recém-nascido rei dos judeus? Vimos a sua estrela no Oriente e viemos adorá-lo\"."
+        },
+        {
+          "n": 28,
+          "text": "[2.3] Quando o rei Herodes ouviu isso, ficou perturbado, e com ele toda a Jerusalém."
+        },
+        {
+          "n": 29,
+          "text": "[2.4] Tendo reunido todos os chefes dos sacerdotes do povo e os mestres da lei, perguntou-lhes onde deveria nascer o Cristo."
+        },
+        {
+          "n": 30,
+          "text": "[2.5] E eles responderam: \"Em Belém da Judéia; pois assim escreveu o profeta:"
+        },
+        {
+          "n": 31,
+          "text": "[2.6] ‘Mas tu, Belém, da terra de Judá, de forma alguma és a menor entre as principais cidades de Judá; pois de ti virá o líder que, como pastor, conduzirá Israel, o meu povo’ \"."
+        },
+        {
+          "n": 32,
+          "text": "[2.7] Então Herodes chamou os magos secretamente e informou-se com eles a respeito do tempo exato em que a estrela tinha aparecido."
+        },
+        {
+          "n": 33,
+          "text": "[2.8] Enviou-os a Belém e disse: \"Vão informar-se com exatidão sobre o menino. Logo que o encontrarem, avisem-me, para que eu também vá adorá-lo\"."
+        },
+        {
+          "n": 34,
+          "text": "[2.9] Depois de ouvirem o rei, eles seguiram o seu caminho, e a estrela que tinham visto no Oriente foi adiante deles, até que finalmente parou sobre o lugar onde estava o menino."
+        },
+        {
+          "n": 35,
+          "text": "[2.10] Quando tornaram a ver a estrela, encheram-se de júbilo."
+        },
+        {
+          "n": 36,
+          "text": "[2.11] Ao entrarem na casa, viram o menino com Maria, sua mãe, e, prostrando-se, o adoraram. Então abriram os seus tesouros e lhe deram presentes: ouro, incenso e mirra."
+        },
+        {
+          "n": 37,
+          "text": "[2.12] E, tendo sido advertidos em sonho para não voltarem a Herodes, retornaram a sua terra por outro caminho."
+        },
+        {
+          "n": 38,
+          "text": "[2.13] Depois que partiram, um anjo do Senhor apareceu a José em sonho e disse-lhe: \"Levante-se, tome o menino e sua mãe, e fuja para o Egito. Fique lá até que eu lhe diga, pois Herodes vai procurar o menino para matá-lo\"."
+        },
+        {
+          "n": 39,
+          "text": "[2.14] Então ele se levantou, tomou o menino e sua mãe durante a noite, e partiu para o Egito,"
+        },
+        {
+          "n": 40,
+          "text": "[2.15] onde ficou até a morte de Herodes. E assim se cumpriu o que o Senhor tinha dito pelo profeta: \"Do Egito chamei o meu filho\"."
+        },
+        {
+          "n": 41,
+          "text": "[2.16] Quando Herodes percebeu que havia sido enganado pelos magos, ficou furioso e ordenou que matassem todos os meninos de dois anos para baixo, em Belém e nas proximidades, de acordo com a informação que havia obtido dos magos."
+        },
+        {
+          "n": 42,
+          "text": "[2.17] Então se cumpriu o que fora dito pelo profeta Jeremias:"
+        },
+        {
+          "n": 43,
+          "text": "[2.18] \"Ouviu-se uma voz em Ramá, choro e grande lamentação; é Raquel que chora por seus filhos e recusa ser consolada, porque já não existem\"."
+        },
+        {
+          "n": 44,
+          "text": "[2.19] Depois que Herodes morreu, um anjo do Senhor apareceu em sonho a José, no Egito,"
+        },
+        {
+          "n": 45,
+          "text": "[2.20] e disse: \"Levante-se, tome o menino e sua mãe, e vá para a terra de Israel, pois estão mortos os que procuravam tirar a vida do menino\"."
+        },
+        {
+          "n": 46,
+          "text": "[2.21] Ele se levantou, tomou o menino e sua mãe, e foi para a terra de Israel."
+        },
+        {
+          "n": 47,
+          "text": "[2.22] Mas, ao ouvir que Arquelau estava reinando na Judéia em lugar de seu pai Herodes, teve medo de ir para lá. Tendo sido avisado em sonho, retirou-se para a região da Galiléia"
+        },
+        {
+          "n": 48,
+          "text": "[2.23] e foi viver numa cidade chamada Nazaré. Assim cumpriu-se o que fora dito pelos profetas: Ele será chamado Nazareno."
         }
       ]
     },
@@ -1291,7 +1383,7 @@ window.SINOTICOS_EXCLUSIVOS_CARTA = [
     },
     "context": "Lucas dedica grande atenção às histórias de nascimento de João e Jesus, às experiências de Isabel e Maria e aos cânticos que interpretam o que Deus está fazendo. Maria recebe uma notícia extraordinária, faz perguntas e responde de maneira consciente.",
     "passage": {
-      "ref": "Lucas 1 · capítulo completo (NVI)",
+      "ref": "Lucas 1-2",
       "verses": [
         {
           "n": 1,
@@ -1612,6 +1704,214 @@ window.SINOTICOS_EXCLUSIVOS_CARTA = [
         {
           "n": 80,
           "text": "E o menino crescia e se fortalecia no espírito; e viveu no deserto, até aparecer publicamente a Israel."
+        },
+        {
+          "n": 81,
+          "text": "[Lc 2.1] Naqueles dias César Augusto publicou um decreto ordenando o recenseamento de todo o império romano."
+        },
+        {
+          "n": 82,
+          "text": "[2.2] Este foi o primeiro recenseamento feito quando Quirino era governador da Síria."
+        },
+        {
+          "n": 83,
+          "text": "[2.3] E todos iam para a sua cidade natal, a fim de alistar-se."
+        },
+        {
+          "n": 84,
+          "text": "[2.4] Assim, José também foi da cidade de Nazaré da Galiléia para a Judéia, para Belém, cidade de Davi, porque pertencia à casa e à linhagem de Davi."
+        },
+        {
+          "n": 85,
+          "text": "[2.5] Ele foi a fim de alistar-se, com Maria, que lhe estava prometida em casamento e esperava um filho."
+        },
+        {
+          "n": 86,
+          "text": "[2.6] Enquanto estavam lá, chegou o tempo de nascer o bebê,"
+        },
+        {
+          "n": 87,
+          "text": "[2.7] e ela deu à luz o seu primogênito. Envolveu-o em panos e o colocou numa manjedoura, porque não havia lugar para eles na hospedaria."
+        },
+        {
+          "n": 88,
+          "text": "[2.8] Havia pastores que estavam nos campos próximos e durante a noite tomavam conta dos seus rebanhos."
+        },
+        {
+          "n": 89,
+          "text": "[2.9] E aconteceu que um anjo do Senhor apareceu-lhes e a glória do Senhor resplandeceu ao redor deles; e ficaram aterrorizados."
+        },
+        {
+          "n": 90,
+          "text": "[2.10] Mas o anjo lhes disse: \"Não tenham medo. Estou lhes trazendo boas novas de grande alegria, que são para todo o povo:"
+        },
+        {
+          "n": 91,
+          "text": "[2.11] Hoje, na cidade de Davi, lhes nasceu o Salvador que é Cristo, o Senhor."
+        },
+        {
+          "n": 92,
+          "text": "[2.12] Isto lhes servirá de sinal: encontrarão o bebê envolto em panos e deitado numa manjedoura\"."
+        },
+        {
+          "n": 93,
+          "text": "[2.13] De repente, uma grande multidão do exército celestial apareceu com o anjo, louvando a Deus e dizendo:"
+        },
+        {
+          "n": 94,
+          "text": "[2.14] \"Glória a Deus nas alturas, e paz na terra aos homens aos quais ele concede o seu favor\"."
+        },
+        {
+          "n": 95,
+          "text": "[2.15] Quando os anjos os deixaram e foram para o céu, os pastores disseram uns aos outros: \"Vamos a Belém, e vejamos isso que aconteceu, e que o Senhor nos deu a conhecer\"."
+        },
+        {
+          "n": 96,
+          "text": "[2.16] Então correram para lá e encontraram Maria e José, e o bebê deitado na manjedoura."
+        },
+        {
+          "n": 97,
+          "text": "[2.17] Depois de o verem, contaram a todos o que lhes fora dito a respeito daquele menino,"
+        },
+        {
+          "n": 98,
+          "text": "[2.18] e todos os que ouviram o que os pastores diziam ficaram admirados."
+        },
+        {
+          "n": 99,
+          "text": "[2.19] Maria, porém, guardava todas essas coisas e sobre elas refletia em seu coração."
+        },
+        {
+          "n": 100,
+          "text": "[2.20] Os pastores voltaram glorificando e louvando a Deus por tudo o que tinham visto e ouvido, como lhes fora dito."
+        },
+        {
+          "n": 101,
+          "text": "[2.21] Completando-se os oito dias para a circuncisão do menino, foi-lhe posto o nome de Jesus, o qual lhe tinha sido dado pelo anjo antes de ele nascer."
+        },
+        {
+          "n": 102,
+          "text": "[2.22] Completando-se o tempo da purificação deles, de acordo com a Lei de Moisés, José e Maria o levaram a Jerusalém para apresentá-lo ao Senhor"
+        },
+        {
+          "n": 103,
+          "text": "[2.23] ( como está escrito na Lei do Senhor: \"Todo primogênito do sexo masculino será consagrado ao Senhor\" )"
+        },
+        {
+          "n": 104,
+          "text": "[2.24] e para oferecer um sacrifício, de acordo com o que diz a Lei do Senhor: \"duas rolinhas ou dois pombinhos\"."
+        },
+        {
+          "n": 105,
+          "text": "[2.25] Havia em Jerusalém um homem chamado Simeão, que era justo e piedoso, e que esperava a consolação de Israel; e o Espírito Santo estava sobre ele."
+        },
+        {
+          "n": 106,
+          "text": "[2.26] Fora-lhe revelado pelo Espírito Santo que ele não morreria antes de ver o Cristo do Senhor."
+        },
+        {
+          "n": 107,
+          "text": "[2.27] Movido pelo Espírito, ele foi ao templo. Quando os pais trouxeram o menino Jesus para lhe fazer conforme requeria o costume da lei,"
+        },
+        {
+          "n": 108,
+          "text": "[2.28] Simeão o tomou nos braços e louvou a Deus, dizendo:"
+        },
+        {
+          "n": 109,
+          "text": "[2.29] \"Ó Soberano, como prometeste, agora podes despedir em paz o teu servo."
+        },
+        {
+          "n": 110,
+          "text": "[2.30] Pois os meus olhos já viram a tua salvação,"
+        },
+        {
+          "n": 111,
+          "text": "[2.31] que preparaste à vista de todos os povos:"
+        },
+        {
+          "n": 112,
+          "text": "[2.32] luz para revelação aos gentios e para a glória de Israel, teu povo\"."
+        },
+        {
+          "n": 113,
+          "text": "[2.33] O pai e a mãe do menino estavam admirados com o que fora dito a respeito dele."
+        },
+        {
+          "n": 114,
+          "text": "[2.34] E Simeão os abençoou e disse a Maria, mãe de Jesus: \"Este menino está destinado a causar a queda e o soerguimento de muitos em Israel, e a ser um sinal de contradição,"
+        },
+        {
+          "n": 115,
+          "text": "[2.35] de modo que o pensamento de muitos corações será revelado. Quanto a você, uma espada atravessará a sua alma\"."
+        },
+        {
+          "n": 116,
+          "text": "[2.36] Estava ali a profetisa Ana, filha de Fanuel, da tribo de Aser. Era muito idosa; havia vivido com seu marido sete anos depois de se casar"
+        },
+        {
+          "n": 117,
+          "text": "[2.37] e então permanecera viúva até a idade de oitenta e quatro anos. Nunca deixava o templo: adorava a Deus jejuando e orando dia e noite."
+        },
+        {
+          "n": 118,
+          "text": "[2.38] Tendo chegado ali naquele exato momento, deu graças a Deus e falava a respeito do menino a todos os que esperavam a redenção de Jerusalém."
+        },
+        {
+          "n": 119,
+          "text": "[2.39] Depois de terem feito tudo o que era exigido pela Lei do Senhor, voltaram para a sua própria cidade, Nazaré, na Galiléia."
+        },
+        {
+          "n": 120,
+          "text": "[2.40] O menino crescia e se fortalecia, enchendo-se de sabedoria; e a graça de Deus estava sobre ele."
+        },
+        {
+          "n": 121,
+          "text": "[2.41] Todos os anos seus pais iam a Jerusalém para a festa da Páscoa."
+        },
+        {
+          "n": 122,
+          "text": "[2.42] Quando ele completou doze anos de idade, eles subiram à festa, conforme o costume."
+        },
+        {
+          "n": 123,
+          "text": "[2.43] Terminada a festa, voltando seus pais para casa, o menino Jesus ficou em Jerusalém, sem que eles percebessem."
+        },
+        {
+          "n": 124,
+          "text": "[2.44] Pensando que ele estava entre os companheiros de viagem, caminharam o dia todo. Então começaram a procurá-lo entre os seus parentes e conhecidos."
+        },
+        {
+          "n": 125,
+          "text": "[2.45] Não o encontrando, voltaram a Jerusalém para procurá-lo."
+        },
+        {
+          "n": 126,
+          "text": "[2.46] Depois de três dias o encontraram no templo, sentado entre os mestres, ouvindo-os e fazendo-lhes perguntas."
+        },
+        {
+          "n": 127,
+          "text": "[2.47] Todos os que o ouviam ficavam maravilhados com o seu entendimento e com as suas respostas."
+        },
+        {
+          "n": 128,
+          "text": "[2.48] Quando seus pais o viram, ficaram perplexos. Sua mãe lhe disse: \"Filho, por que você nos fez isto? Seu pai e eu estávamos aflitos, à sua procura\"."
+        },
+        {
+          "n": 129,
+          "text": "[2.49] Ele perguntou: \"Por que vocês estavam me procurando? Não sabiam que eu devia estar na casa de meu Pai? \""
+        },
+        {
+          "n": 130,
+          "text": "[2.50] Mas eles não compreenderam o que lhes dizia."
+        },
+        {
+          "n": 131,
+          "text": "[2.51] Então foi com eles para Nazaré, e era-lhes obediente. Sua mãe, porém, guardava todas essas coisas em seu coração."
+        },
+        {
+          "n": 132,
+          "text": "[2.52] Jesus ia crescendo em sabedoria, estatura e graça diante de Deus e dos homens."
         }
       ]
     },

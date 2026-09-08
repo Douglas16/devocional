@@ -158,7 +158,7 @@ window.ATOS_1_CARTA = [
     },
     "context": "Em Atos 2, os discípulos que antes estavam esperando são surpreendidos pelo som, pelo fogo e por línguas que não aprenderam. Pedro, que pouco tempo antes negara Jesus, agora se levanta para anunciá-lo. O centro do acontecimento não é a experiência em si, mas Cristo crucificado e ressuscitado.",
     "passage": {
-      "ref": "Atos 2 · capítulo completo (NVI)",
+      "ref": "Atos 2.1-41",
       "verses": [
         {
           "n": 1,
@@ -323,30 +323,6 @@ window.ATOS_1_CARTA = [
         {
           "n": 41,
           "text": "Os que aceitaram a mensagem foram batizados, e naquele dia houve um acréscimo de cerca de três mil pessoas."
-        },
-        {
-          "n": 42,
-          "text": "Eles se dedicavam ao ensino dos apóstolos e à comunhão, ao partir do pão e às orações."
-        },
-        {
-          "n": 43,
-          "text": "Todos estavam cheios de temor, e muitas maravilhas e sinais eram feitos pelos apóstolos."
-        },
-        {
-          "n": 44,
-          "text": "Todos os que criam mantinham-se unidos e tinham tudo em comum."
-        },
-        {
-          "n": 45,
-          "text": "Vendendo suas propriedades e bens, distribuíam a cada um conforme a sua necessidade."
-        },
-        {
-          "n": 46,
-          "text": "Todos os dias, continuavam a reunir-se no pátio do templo. Partiam o pão em suas casas, e juntos participavam das refeições, com alegria e sinceridade de coração,"
-        },
-        {
-          "n": 47,
-          "text": "louvando a Deus e tendo a simpatia de todo o povo. E o Senhor lhes acrescentava todos os dias os que iam sendo salvos."
         }
       ]
     },
@@ -379,172 +355,8 @@ window.ATOS_1_CARTA = [
     },
     "context": "Depois do Pentecostes, Lucas descreve uma comunidade aprendendo a viver aquilo que recebeu. A fé ganha ritmo: ensino, comunhão, pão partido e oração. A novidade do Espírito começa a aparecer em práticas muito comuns da vida.",
     "passage": {
-      "ref": "Atos 2 · capítulo completo (NVI)",
+      "ref": "Atos 2.42-47",
       "verses": [
-        {
-          "n": 1,
-          "text": "Chegando o dia de Pentecoste, estavam todos reunidos num só lugar."
-        },
-        {
-          "n": 2,
-          "text": "De repente veio do céu um som, como de um vento muito forte, e encheu toda a casa na qual estavam assentados."
-        },
-        {
-          "n": 3,
-          "text": "E viram o que parecia línguas de fogo, que se separaram e pousaram sobre cada um deles."
-        },
-        {
-          "n": 4,
-          "text": "Todos ficaram cheios do Espírito Santo e começaram a falar noutras línguas, conforme o Espírito os capacitava."
-        },
-        {
-          "n": 5,
-          "text": "Havia em Jerusalém judeus, tementes a Deus, vindos de todas as nações do mundo."
-        },
-        {
-          "n": 6,
-          "text": "Ouvindo-se este som, ajuntou-se uma multidão que ficou perplexa, pois cada um os ouvia falar em sua própria língua."
-        },
-        {
-          "n": 7,
-          "text": "Atônitos e maravilhados, eles perguntavam: \"Acaso não são galileus todos estes homens que estão falando?"
-        },
-        {
-          "n": 8,
-          "text": "Então, como os ouvimos, cada um de nós, em nossa própria língua materna?"
-        },
-        {
-          "n": 9,
-          "text": "Partos, medos e elamitas; habitantes da Mesopotâmia, Judéia e Capadócia, Ponto e da província da Ásia,"
-        },
-        {
-          "n": 10,
-          "text": "Frígia e Panfília, Egito e das partes da Líbia próximas a Cirene; visitantes vindos de Roma,"
-        },
-        {
-          "n": 11,
-          "text": "tanto judeus como convertidos ao judaísmo; cretenses e árabes. Nós os ouvimos declarar as maravilhas de Deus em nossa própria língua! \""
-        },
-        {
-          "n": 12,
-          "text": "Atônitos e perplexos, todos perguntavam uns aos outros: \"Que significa isto? \""
-        },
-        {
-          "n": 13,
-          "text": "Alguns, todavia, zombavam deles e diziam: \"Eles beberam vinho demais\"."
-        },
-        {
-          "n": 14,
-          "text": "Então Pedro levantou-se com os Onze e, em alta voz, dirigiu-se à multidão: \"Homens da Judéia e todos os que vivem em Jerusalém, deixem-me explicar-lhes isto! Ouçam com atenção:"
-        },
-        {
-          "n": 15,
-          "text": "estes homens não estão bêbados, como vocês supõem. Ainda são nove horas da manhã!"
-        },
-        {
-          "n": 16,
-          "text": "Pelo contrário, isto é o que foi predito pelo profeta Joel:"
-        },
-        {
-          "n": 17,
-          "text": "‘Nos últimos dias, diz Deus, derramarei do meu Espírito sobre todos os povos. Os seus filhos e as suas filhas profetizarão, os jovens terão visões, os velhos terão sonhos."
-        },
-        {
-          "n": 18,
-          "text": "Sobre os meus servos e as minhas servas derramarei do meu Espírito naqueles dias, e eles profetizarão."
-        },
-        {
-          "n": 19,
-          "text": "Mostrarei maravilhas em cima no céu e sinais em baixo, na terra, sangue, fogo e nuvens de fumaça."
-        },
-        {
-          "n": 20,
-          "text": "O sol se tornará em trevas e a lua em sangue, antes que venha o grande e glorioso dia do Senhor."
-        },
-        {
-          "n": 21,
-          "text": "E todo aquele que invocar o nome do Senhor será salvo! ’"
-        },
-        {
-          "n": 22,
-          "text": "\"Israelitas, ouçam estas palavras: Jesus de Nazaré foi aprovado por Deus diante de vocês por meio de milagres, maravilhas e sinais, que Deus fez entre vocês por intermédio dele, como vocês mesmos sabem."
-        },
-        {
-          "n": 23,
-          "text": "Este homem lhes foi entregue por propósito determinado e pré-conhecimento de Deus; e vocês, com a ajuda de homens perversos, o mataram, pregando-o na cruz."
-        },
-        {
-          "n": 24,
-          "text": "Mas Deus o ressuscitou dos mortos, rompendo os laços da morte, porque era impossível que a morte o retivesse."
-        },
-        {
-          "n": 25,
-          "text": "A respeito dele, disse Davi: ‘Eu sempre via o Senhor diante de mim. Porque ele está à minha direita, não serei abalado."
-        },
-        {
-          "n": 26,
-          "text": "Por isso o meu coração está alegre e a minha língua exulta; o meu corpo também repousará em esperança,"
-        },
-        {
-          "n": 27,
-          "text": "porque tu não me abandonarás no sepulcro, nem permitirás que o teu Santo sofra decomposição."
-        },
-        {
-          "n": 28,
-          "text": "Tu me fizeste conhecer os caminhos da vida e me encherás de alegria na tua presença’."
-        },
-        {
-          "n": 29,
-          "text": "\"Irmãos, posso dizer-lhes com franqueza que o patriarca Davi morreu e foi sepultado, e o seu túmulo está entre nós até o dia de hoje."
-        },
-        {
-          "n": 30,
-          "text": "Mas ele era profeta e sabia que Deus lhe prometera sob juramento que colocaria um dos seus descendentes em seu trono."
-        },
-        {
-          "n": 31,
-          "text": "Prevendo isso, falou da ressurreição do Cristo, que não foi abandonado no sepulcro e cujo corpo não sofreu decomposição."
-        },
-        {
-          "n": 32,
-          "text": "Deus ressuscitou este Jesus, e todos nós somos testemunhas desse fato."
-        },
-        {
-          "n": 33,
-          "text": "Exaltado à direita de Deus, ele recebeu do Pai o Espírito Santo prometido e derramou o que vocês agora vêem e ouvem."
-        },
-        {
-          "n": 34,
-          "text": "Pois Davi não subiu ao céu, mas ele mesmo declarou: ‘O Senhor disse ao meu Senhor: Senta-te à minha direita"
-        },
-        {
-          "n": 35,
-          "text": "até que eu ponha os teus inimigos como estrado para os teus pés’."
-        },
-        {
-          "n": 36,
-          "text": "\"Portanto, que todo Israel fique certo disto: Este Jesus, a quem vocês crucificaram, Deus o fez Senhor e Cristo\"."
-        },
-        {
-          "n": 37,
-          "text": "Quando ouviram isso, os seus corações ficaram aflitos, e eles perguntaram a Pedro e aos outros apóstolos: \"Irmãos, que faremos? \""
-        },
-        {
-          "n": 38,
-          "text": "Pedro respondeu: \"Arrependam-se, e cada um de vocês seja batizado em nome de Jesus Cristo, para perdão dos seus pecados, e receberão o dom do Espírito Santo."
-        },
-        {
-          "n": 39,
-          "text": "Pois a promessa é para vocês, para os seus filhos e para todos os que estão longe, para todos quantos o Senhor, o nosso Deus chamar\"."
-        },
-        {
-          "n": 40,
-          "text": "Com muitas outras palavras os advertia e insistia com eles: \"Salvem-se desta geração corrompida! \""
-        },
-        {
-          "n": 41,
-          "text": "Os que aceitaram a mensagem foram batizados, e naquele dia houve um acréscimo de cerca de três mil pessoas."
-        },
         {
           "n": 42,
           "text": "Eles se dedicavam ao ensino dos apóstolos e à comunhão, ao partir do pão e às orações."
@@ -600,7 +412,7 @@ window.ATOS_1_CARTA = [
     },
     "context": "Pedro e João encontram um homem que passava os dias à porta do templo pedindo ajuda. Eles não possuem aquilo que ele esperava receber, mas também não passam por ele com indiferença. A cura devolve ao homem mais que movimento: devolve participação, dignidade e acesso.",
     "passage": {
-      "ref": "Atos 3 · capítulo completo (NVI)",
+      "ref": "Atos 3-4.4",
       "verses": [
         {
           "n": 1,
@@ -705,6 +517,22 @@ window.ATOS_1_CARTA = [
         {
           "n": 26,
           "text": "Tendo Deus ressuscitado o seu Servo, enviou-o primeiramente a vocês, para abençoá-los, convertendo cada um de vocês das suas maldades\"."
+        },
+        {
+          "n": 27,
+          "text": "[At 4.1] Enquanto Pedro e João falavam ao povo, chegaram os sacerdotes, o capitão da guarda do templo e os saduceus."
+        },
+        {
+          "n": 28,
+          "text": "[4.2] Eles estavam muito perturbados porque os apóstolos estavam ensinando o povo e proclamando em Jesus a ressurreição dos mortos."
+        },
+        {
+          "n": 29,
+          "text": "[4.3] Agarraram Pedro e João e, como já estava anoitecendo, os colocaram na prisão até o dia seguinte."
+        },
+        {
+          "n": 30,
+          "text": "[4.4] Mas, muitos dos que tinham ouvido a mensagem creram, chegando o número dos homens que creram a perto de cinco mil."
         }
       ]
     },
@@ -737,24 +565,8 @@ window.ATOS_1_CARTA = [
     },
     "context": "Pedro e João são levados ao Sinédrio e proibidos de falar sobre Jesus. Quando são libertos, a igreja não ora para que toda oposição desapareça. Ela apresenta as ameaças a Deus e pede capacidade para continuar fiel.",
     "passage": {
-      "ref": "Atos 4 · capítulo completo (NVI)",
+      "ref": "Atos 4.5-31",
       "verses": [
-        {
-          "n": 1,
-          "text": "Enquanto Pedro e João falavam ao povo, chegaram os sacerdotes, o capitão da guarda do templo e os saduceus."
-        },
-        {
-          "n": 2,
-          "text": "Eles estavam muito perturbados porque os apóstolos estavam ensinando o povo e proclamando em Jesus a ressurreição dos mortos."
-        },
-        {
-          "n": 3,
-          "text": "Agarraram Pedro e João e, como já estava anoitecendo, os colocaram na prisão até o dia seguinte."
-        },
-        {
-          "n": 4,
-          "text": "Mas, muitos dos que tinham ouvido a mensagem creram, chegando o número dos homens que creram a perto de cinco mil."
-        },
         {
           "n": 5,
           "text": "No dia seguinte, as autoridades, os líderes religiosos e os mestres da lei reuniram-se em Jerusalém."
@@ -862,30 +674,6 @@ window.ATOS_1_CARTA = [
         {
           "n": 31,
           "text": "Depois de orarem, tremeu o lugar em que estavam reunidos; todos ficaram cheios do Espírito Santo e anunciavam corajosamente a palavra de Deus."
-        },
-        {
-          "n": 32,
-          "text": "Da multidão dos que creram, uma era a mente e um o coração. Ninguém considerava unicamente sua coisa alguma que possuísse, mas compartilhavam tudo o que tinham."
-        },
-        {
-          "n": 33,
-          "text": "Com grande poder os apóstolos continuavam a testemunhar da ressurreição do Senhor Jesus, e grandiosa graça estava sobre todos eles."
-        },
-        {
-          "n": 34,
-          "text": "Não havia pessoas necessitadas entre eles, pois os que possuíam terras ou casas as vendiam, traziam o dinheiro da venda"
-        },
-        {
-          "n": 35,
-          "text": "e o colocavam aos pés dos apóstolos, que o distribuíam segundo a necessidade de cada um."
-        },
-        {
-          "n": 36,
-          "text": "José, um levita de Chipre a quem os apóstolos deram o nome de Barnabé, que significa encorajador,"
-        },
-        {
-          "n": 37,
-          "text": "vendeu um campo que possuía, trouxe o dinheiro e o colocou aos pés dos apóstolos."
         }
       ]
     },
@@ -918,132 +706,8 @@ window.ATOS_1_CARTA = [
     },
     "context": "Lucas coloca Barnabé ao lado de Ananias e Safira. Um gesto de generosidade sincera é contrastado com uma tentativa de construir reputação espiritual. O texto expõe como a necessidade de parecer pode adoecer até ambientes marcados por graça.",
     "passage": {
-      "ref": "Atos 4 · capítulo completo (NVI)",
+      "ref": "Atos 4.32-5.11",
       "verses": [
-        {
-          "n": 1,
-          "text": "Enquanto Pedro e João falavam ao povo, chegaram os sacerdotes, o capitão da guarda do templo e os saduceus."
-        },
-        {
-          "n": 2,
-          "text": "Eles estavam muito perturbados porque os apóstolos estavam ensinando o povo e proclamando em Jesus a ressurreição dos mortos."
-        },
-        {
-          "n": 3,
-          "text": "Agarraram Pedro e João e, como já estava anoitecendo, os colocaram na prisão até o dia seguinte."
-        },
-        {
-          "n": 4,
-          "text": "Mas, muitos dos que tinham ouvido a mensagem creram, chegando o número dos homens que creram a perto de cinco mil."
-        },
-        {
-          "n": 5,
-          "text": "No dia seguinte, as autoridades, os líderes religiosos e os mestres da lei reuniram-se em Jerusalém."
-        },
-        {
-          "n": 6,
-          "text": "Estavam ali Anás, o sumo sacerdote, bem como Caifás, João, Alexandre e todos os que eram da família do sumo sacerdote."
-        },
-        {
-          "n": 7,
-          "text": "Mandaram trazer Pedro e João diante deles e começaram a interrogá-los: \"Com que poder ou em nome de quem vocês fizeram isso? \""
-        },
-        {
-          "n": 8,
-          "text": "Então Pedro, cheio do Espírito Santo, disse-lhes: \"Autoridades e líderes do povo!"
-        },
-        {
-          "n": 9,
-          "text": "Visto que hoje somos chamados para prestar contas de um ato de bondade em favor de um aleijado, sendo interrogados acerca de como ele foi curado,"
-        },
-        {
-          "n": 10,
-          "text": "saibam os senhores e todo o povo de Israel que por meio do nome de Jesus Cristo, o Nazareno, a quem os senhores crucificaram, mas a quem Deus ressuscitou dos mortos, este homem está aí curado diante dos senhores."
-        },
-        {
-          "n": 11,
-          "text": "Este Jesus é ‘a pedra que vocês, construtores, rejeitaram, e que se tornou a pedra angular’."
-        },
-        {
-          "n": 12,
-          "text": "Não há salvação em nenhum outro, pois, debaixo do céu não há nenhum outro nome dado aos homens pelo qual devamos ser salvos\"."
-        },
-        {
-          "n": 13,
-          "text": "Vendo a coragem de Pedro e de João, e percebendo que eram homens comuns e sem instrução, ficaram admirados e reconheceram que eles haviam estado com Jesus."
-        },
-        {
-          "n": 14,
-          "text": "E como podiam ver ali com eles o homem que fora curado, nada podiam dizer contra eles."
-        },
-        {
-          "n": 15,
-          "text": "Assim, ordenaram que se retirassem do Sinédrio e começaram a discutir,"
-        },
-        {
-          "n": 16,
-          "text": "perguntando: \"Que faremos com esses homens? Todos os que moram em Jerusalém sabem que eles realizaram um milagre notório que não podemos negar."
-        },
-        {
-          "n": 17,
-          "text": "Todavia, para impedir que isso se espalhe ainda mais entre o povo, precisamos adverti-los de que não falem mais com ninguém sobre esse nome\"."
-        },
-        {
-          "n": 18,
-          "text": "Então, chamando-os novamente, ordenaram-lhes que não falassem nem ensinassem em nome de Jesus."
-        },
-        {
-          "n": 19,
-          "text": "Mas Pedro e João responderam: \"Julguem os senhores mesmos se é justo aos olhos de Deus obedecer aos senhores e não a Deus."
-        },
-        {
-          "n": 20,
-          "text": "Pois não podemos deixar de falar do que vimos e ouvimos\"."
-        },
-        {
-          "n": 21,
-          "text": "Depois de mais ameaças, eles os deixaram ir. Não tinham como castigá-los, porque todo o povo estava louvando a Deus pelo que acontecera."
-        },
-        {
-          "n": 22,
-          "text": "Pois o homem que fora curado milagrosamente tinha mais de quarenta anos de idade."
-        },
-        {
-          "n": 23,
-          "text": "Quando foram soltos, Pedro e João voltaram para os seus e contaram tudo o que os chefes dos sacerdotes e os líderes religiosos lhes tinham dito."
-        },
-        {
-          "n": 24,
-          "text": "Ouvindo isso, levantaram juntos a voz a Deus, dizendo: \"Ó Soberano, tu fizeste o céu, a terra, o mar e tudo o que neles há!"
-        },
-        {
-          "n": 25,
-          "text": "Tu falaste pelo Espírito Santo por boca do teu servo, nosso pai Davi: ‘Por que se enfurecem as nações, e os povos conspiram em vão?"
-        },
-        {
-          "n": 26,
-          "text": "Os reis da terra se levantam, e os governantes se reúnem contra o Senhor e contra o seu Ungido’."
-        },
-        {
-          "n": 27,
-          "text": "De fato, Herodes e Pôncio Pilatos reuniram-se com os gentios e com os povos de Israel nesta cidade, para conspirar contra o teu santo servo Jesus, a quem ungiste."
-        },
-        {
-          "n": 28,
-          "text": "Fizeram o que o teu poder e a tua vontade haviam decidido de antemão que acontecesse."
-        },
-        {
-          "n": 29,
-          "text": "Agora, Senhor, considera as ameaças deles e capacita os teus servos para anunciarem a tua palavra corajosamente."
-        },
-        {
-          "n": 30,
-          "text": "Estende a tua mão para curar e realizar sinais e maravilhas por meio do nome do teu santo servo Jesus\"."
-        },
-        {
-          "n": 31,
-          "text": "Depois de orarem, tremeu o lugar em que estavam reunidos; todos ficaram cheios do Espírito Santo e anunciavam corajosamente a palavra de Deus."
-        },
         {
           "n": 32,
           "text": "Da multidão dos que creram, uma era a mente e um o coração. Ninguém considerava unicamente sua coisa alguma que possuísse, mas compartilhavam tudo o que tinham."
@@ -1067,6 +731,50 @@ window.ATOS_1_CARTA = [
         {
           "n": 37,
           "text": "vendeu um campo que possuía, trouxe o dinheiro e o colocou aos pés dos apóstolos."
+        },
+        {
+          "n": 38,
+          "text": "[At 5.1] Um homem chamado Ananias, juntamente com Safira, sua mulher, também vendeu uma propriedade."
+        },
+        {
+          "n": 39,
+          "text": "[5.2] Ele reteve parte do dinheiro para si, sabendo disso também sua mulher; e o restante levou e colocou aos pés dos apóstolos."
+        },
+        {
+          "n": 40,
+          "text": "[5.3] Então perguntou Pedro: \"Ananias, como você permitiu que Satanás enchesse o seu coração, a ponto de você mentir ao Espírito Santo e guardar para si uma parte do dinheiro que recebeu pela propriedade?"
+        },
+        {
+          "n": 41,
+          "text": "[5.4] Ela não lhe pertencia? E, depois de vendida, o dinheiro não estava em seu poder? O que o levou a pensar em fazer tal coisa? Você não mentiu aos homens, mas sim a Deus\"."
+        },
+        {
+          "n": 42,
+          "text": "[5.5] Ouvindo isso, Ananias caiu e morreu. Grande temor apoderou-se de todos os que ouviram o que tinha acontecido."
+        },
+        {
+          "n": 43,
+          "text": "[5.6] Então os moços vieram, envolveram seu corpo, levaram-no para fora e o sepultaram."
+        },
+        {
+          "n": 44,
+          "text": "[5.7] Cerca de três horas mais tarde, entrou sua mulher, sem saber o que havia acontecido."
+        },
+        {
+          "n": 45,
+          "text": "[5.8] Pedro lhe perguntou: \"Diga-me, foi esse o preço que vocês conseguiram pela propriedade? \" Respondeu ela: \"Sim, foi esse mesmo\"."
+        },
+        {
+          "n": 46,
+          "text": "[5.9] Pedro lhe disse: \"Por que vocês entraram em acordo para tentar o Espírito do Senhor? Veja! Estão à porta os pés dos que sepultaram seu marido, e eles a levarão também\"."
+        },
+        {
+          "n": 47,
+          "text": "[5.10] Naquele mesmo instante, ela caiu aos pés dele e morreu. Então os moços entraram e, encontrando-a morta, levaram-na e a sepultaram ao lado de seu marido."
+        },
+        {
+          "n": 48,
+          "text": "[5.11] E grande temor apoderou-se de toda a igreja e de todos os que ouviram falar desses acontecimentos."
         }
       ]
     },
@@ -1099,7 +807,7 @@ window.ATOS_1_CARTA = [
     },
     "context": "Estêvão aparece primeiro ajudando a resolver uma necessidade prática da comunidade. Depois ele anuncia o evangelho, enfrenta acusações e termina apedrejado. No momento mais violento da história, seus olhos são abertos para a glória de Deus e para Cristo.",
     "passage": {
-      "ref": "Atos 6 · capítulo completo (NVI)",
+      "ref": "Atos 6-7",
       "verses": [
         {
           "n": 1,
@@ -1160,6 +868,246 @@ window.ATOS_1_CARTA = [
         {
           "n": 15,
           "text": "Olhando para ele, todos os que estavam sentados no Sinédrio viram que o seu rosto parecia o rosto de um anjo."
+        },
+        {
+          "n": 16,
+          "text": "[At 7.1] Então o sumo sacerdote perguntou a Estêvão: \"São verdadeiras estas acusações? \""
+        },
+        {
+          "n": 17,
+          "text": "[7.2] A isso ele respondeu: \"Irmãos e pais, ouçam-me! O Deus glorioso apareceu a Abraão, nosso pai, estando ele ainda na Mesopotâmia, antes de morar em Harã, e lhe disse:"
+        },
+        {
+          "n": 18,
+          "text": "[7.3] ‘Saia da sua terra e do meio dos seus parentes e vá para a terra que eu lhe mostrarei’."
+        },
+        {
+          "n": 19,
+          "text": "[7.4] \"Então, ele saiu da terra dos caldeus e se estabeleceu em Harã. Depois da morte de seu pai, Deus o trouxe a esta terra, onde vocês agora vivem."
+        },
+        {
+          "n": 20,
+          "text": "[7.5] Deus não lhe deu nenhuma herança aqui, nem mesmo o espaço de um pé. Mas lhe prometeu que ele e, depois dele, seus descendentes, possuiriam a terra, embora, naquele tempo, Abraão não tivesse filhos."
+        },
+        {
+          "n": 21,
+          "text": "[7.6] Deus lhe falou desta forma: ‘Seus descendentes serão peregrinos numa terra estrangeira, e serão escravizados e maltratados por quatrocentos anos."
+        },
+        {
+          "n": 22,
+          "text": "[7.7] Mas eu castigarei a nação a quem servirão como escravos, e depois sairão dali e me adorarão neste lugar’."
+        },
+        {
+          "n": 23,
+          "text": "[7.8] E deu a Abraão a aliança da circuncisão. Por isso, Abraão gerou Isaque e o circuncidou oito dias depois do seu nascimento. Mais tarde, Isaque gerou Jacó, e este os doze patriarcas."
+        },
+        {
+          "n": 24,
+          "text": "[7.9] \"Os patriarcas, tendo inveja de José, venderam-no como escravo para o Egito. Mas Deus estava com ele"
+        },
+        {
+          "n": 25,
+          "text": "[7.10] e o libertou de todas as suas tribulações, dando a José favor e sabedoria diante do faraó, rei do Egito; este o tornou governador do Egito e de todo o seu palácio."
+        },
+        {
+          "n": 26,
+          "text": "[7.11] \"Depois houve fome em todo o Egito e em Canaã, trazendo consigo grande sofrimento, e os nossos antepassados não encontravam alimento."
+        },
+        {
+          "n": 27,
+          "text": "[7.12] Ouvindo que havia trigo no Egito, Jacó enviou nossos antepassados em sua primeira viagem."
+        },
+        {
+          "n": 28,
+          "text": "[7.13] Na segunda viagem deles, José fez-se reconhecer por seus irmãos, e o faraó pôde conhecer a família de José."
+        },
+        {
+          "n": 29,
+          "text": "[7.14] Depois disso, José mandou buscar seu pai Jacó e toda a sua família, que eram setenta e cinco pessoas."
+        },
+        {
+          "n": 30,
+          "text": "[7.15] Então Jacó desceu ao Egito, onde faleceram ele e os nossos antepassados."
+        },
+        {
+          "n": 31,
+          "text": "[7.16] Seus corpos foram levados de volta a Siquém e colocados no túmulo que Abraão havia comprado ali dos filhos de Hamor, por certa quantia."
+        },
+        {
+          "n": 32,
+          "text": "[7.17] \"Ao se aproximar o tempo em que Deus cumpriria sua promessa a Abraão, aumentou muito o número do nosso povo no Egito."
+        },
+        {
+          "n": 33,
+          "text": "[7.18] Então outro rei, que nada sabia a respeito de José, passou a governar o Egito."
+        },
+        {
+          "n": 34,
+          "text": "[7.19] Ele agiu traiçoeiramente para com o nosso povo e oprimiu os nossos antepassados, obrigando-os a abandonar os seus recém-nascidos, para que não sobrevivessem."
+        },
+        {
+          "n": 35,
+          "text": "[7.20] \"Naquele tempo nasceu Moisés, que era um menino extraordinário. Por três meses ele foi criado na casa de seu pai."
+        },
+        {
+          "n": 36,
+          "text": "[7.21] Quando foi abandonado, a filha do faraó o tomou e o criou como seu próprio filho."
+        },
+        {
+          "n": 37,
+          "text": "[7.22] Moisés foi educado em toda a sabedoria dos egípcios e veio a ser poderoso em palavras e obras."
+        },
+        {
+          "n": 38,
+          "text": "[7.23] \"Ao completar quarenta anos, Moisés decidiu visitar seus irmãos israelitas."
+        },
+        {
+          "n": 39,
+          "text": "[7.24] Ao ver um deles sendo maltratado por um egípcio, saiu em defesa do oprimido e o vingou, matando o egípcio."
+        },
+        {
+          "n": 40,
+          "text": "[7.25] Ele pensava que seus irmãos compreenderiam que Deus o estava usando para salvá-los, mas eles não o compreenderam."
+        },
+        {
+          "n": 41,
+          "text": "[7.26] No dia seguinte, Moisés dirigiu-se a dois israelitas que estavam brigando, e tentou reconciliá-los, dizendo: ‘Homens, vocês são irmãos; por que ferem um ao outro? ’"
+        },
+        {
+          "n": 42,
+          "text": "[7.27] \"Mas o homem que maltratava o outro empurrou Moisés e disse: ‘Quem o nomeou líder e juiz sobre nós?"
+        },
+        {
+          "n": 43,
+          "text": "[7.28] Quer matar-me como matou o egípcio ontem? ’"
+        },
+        {
+          "n": 44,
+          "text": "[7.29] Ouvindo isso, Moisés fugiu para Midiã, onde ficou morando como estrangeiro e teve dois filhos."
+        },
+        {
+          "n": 45,
+          "text": "[7.30] \"Passados quarenta anos, apareceu a Moisés um anjo nas labaredas de uma sarça em chamas no deserto, perto do monte Sinai."
+        },
+        {
+          "n": 46,
+          "text": "[7.31] Vendo aquilo, ficou atônito. E, aproximando-se para observar, ouviu a voz do Senhor:"
+        },
+        {
+          "n": 47,
+          "text": "[7.32] ‘Eu sou o Deus dos seus antepassados, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó’. Moisés, tremendo de medo, não ousava olhar."
+        },
+        {
+          "n": 48,
+          "text": "[7.33] \"Então o Senhor lhe disse: ‘Tire as sandálias dos pés, porque o lugar em que você está é terra santa."
+        },
+        {
+          "n": 49,
+          "text": "[7.34] De fato tenho visto a opressão sobre o meu povo no Egito. Ouvi seus gemidos e desci para livrá-lo. Venha agora, e eu o enviarei de volta ao Egito’."
+        },
+        {
+          "n": 50,
+          "text": "[7.35] \"Este é o mesmo Moisés que tinham rejeitado com estas palavras: ‘Quem o nomeou líder e juiz? ’ Ele foi enviado pelo próprio Deus para ser líder e libertador deles, por meio do anjo que lhe tinha aparecido na sarça."
+        },
+        {
+          "n": 51,
+          "text": "[7.36] Ele os tirou de lá, fazendo maravilhas e sinais no Egito, no mar Vermelho e no deserto durante quarenta anos."
+        },
+        {
+          "n": 52,
+          "text": "[7.37] \"Este é aquele Moisés que disse aos israelitas: ‘Deus lhes levantará dentre seus irmãos um profeta como eu’."
+        },
+        {
+          "n": 53,
+          "text": "[7.38] Ele estava na congregação, no deserto, com o anjo que lhe falava no monte Sinai e com os nossos antepassados, e recebeu palavras vivas, para transmiti-las a nós."
+        },
+        {
+          "n": 54,
+          "text": "[7.39] \"Mas nossos antepassados se recusaram a obedecer-lhe; pelo contrário, rejeitaram-no, e em seus corações voltaram para o Egito."
+        },
+        {
+          "n": 55,
+          "text": "[7.40] Disseram a Arão: ‘Faça para nós deuses que nos conduzam, pois a esse Moisés que nos tirou do Egito, não sabemos o que lhe aconteceu! ’"
+        },
+        {
+          "n": 56,
+          "text": "[7.41] Naquela ocasião fizeram um ídolo em forma de bezerro. Trouxeram-lhe sacrifícios e fizeram uma celebração em honra ao que suas mãos tinham feito."
+        },
+        {
+          "n": 57,
+          "text": "[7.42] Mas Deus afastou-se deles e os entregou à adoração dos astros, conforme o que foi escrito no livro dos profetas: ‘Foi a mim que vocês apresentaram sacrifícios e ofertas durante os quarenta anos no deserto, Ó nação de Israel?"
+        },
+        {
+          "n": 58,
+          "text": "[7.43] Ao invés disso, levantaram o santuário de Moloque e a estrela do seu deus Renfã, ídolos que vocês fizeram para adorar! Portanto, eu os enviarei para o exílio, para além da Babilônia’."
+        },
+        {
+          "n": 59,
+          "text": "[7.44] \"No deserto os nossos antepassados tinham o tabernáculo da aliança, que fora feito segundo a ordem de Deus a Moisés, de acordo com o modelo que ele tinha visto."
+        },
+        {
+          "n": 60,
+          "text": "[7.45] Tendo recebido o tabernáculo, nossos antepassados o levaram, sob a liderança de Josué, quando tomaram a terra das nações que Deus expulsou de diante deles. Esse tabernáculo permaneceu na terra até a época de Davi,"
+        },
+        {
+          "n": 61,
+          "text": "[7.46] que encontrou graça diante de Deus e pediu que ele lhe permitisse providenciar uma habitação para o Deus de Jacó."
+        },
+        {
+          "n": 62,
+          "text": "[7.47] Mas foi Salomão quem lhe construiu a casa."
+        },
+        {
+          "n": 63,
+          "text": "[7.48] \"Todavia, o Altíssimo não habita em casas feitas por homens. Como diz o profeta:"
+        },
+        {
+          "n": 64,
+          "text": "[7.49] ‘O céu é o meu trono, e a terra, o estrado dos meus pés. Que espécie de casa vocês me edificarão? diz o Senhor, ou onde seria meu lugar de descanso?"
+        },
+        {
+          "n": 65,
+          "text": "[7.50] Não foram as minhas mãos que fizeram todas estas coisas? ’"
+        },
+        {
+          "n": 66,
+          "text": "[7.51] \"Povo rebelde, obstinado de coração e de ouvidos! Vocês são iguais aos seus antepassados: sempre resistem ao Espírito Santo!"
+        },
+        {
+          "n": 67,
+          "text": "[7.52] Qual dos profetas os seus antepassados não perseguiram? Eles mataram aqueles que prediziam a vinda do Justo, de quem agora vocês se tornaram traidores e assassinos —"
+        },
+        {
+          "n": 68,
+          "text": "[7.53] vocês, que receberam a Lei por intermédio de anjos, mas não lhe obedeceram\"."
+        },
+        {
+          "n": 69,
+          "text": "[7.54] Ouvindo isso, ficavam furiosos e rangiam os dentes contra ele."
+        },
+        {
+          "n": 70,
+          "text": "[7.55] Mas Estêvão, cheio do Espírito Santo, levantou os olhos para o céu e viu a glória de Deus, e Jesus de pé, à direita de Deus,"
+        },
+        {
+          "n": 71,
+          "text": "[7.56] e disse: \"Vejo o céu aberto e o Filho do homem de pé, à direita de Deus\"."
+        },
+        {
+          "n": 72,
+          "text": "[7.57] Mas eles taparam os ouvidos e, gritando bem alto, lançaram-se todos juntos contra ele,"
+        },
+        {
+          "n": 73,
+          "text": "[7.58] arrastaram-no para fora da cidade e começaram a apedrejá-lo. As testemunhas deixaram seus mantos aos pés de um jovem chamado Saulo."
+        },
+        {
+          "n": 74,
+          "text": "[7.59] Enquanto apedrejavam Estêvão, este orava: \"Senhor Jesus, recebe o meu espírito\"."
+        },
+        {
+          "n": 75,
+          "text": "[7.60] Então caiu de joelhos e bradou: \"Senhor, não os consideres culpados deste pecado\". E, dizendo isso, adormeceu."
         }
       ]
     },
@@ -1590,7 +1538,7 @@ window.ATOS_1_CARTA = [
     },
     "context": "Cornélio recebe uma visão, e Pedro também. Deus prepara os dois lados do encontro. Quando Pedro entra na casa de um gentio e vê o Espírito ser derramado, precisa rever categorias que até então pareciam espiritualmente seguras.",
     "passage": {
-      "ref": "Atos 10 · capítulo completo (NVI)",
+      "ref": "Atos 10-11",
       "verses": [
         {
           "n": 1,
@@ -1783,6 +1731,126 @@ window.ATOS_1_CARTA = [
         {
           "n": 48,
           "text": "Então ordenou que fossem batizados em nome de Jesus Cristo. Depois pediram a Pedro que ficasse com eles alguns dias."
+        },
+        {
+          "n": 49,
+          "text": "[At 11.1] Os apóstolos e os irmãos de toda a Judéia ouviram falar que os gentios também haviam recebido a palavra de Deus."
+        },
+        {
+          "n": 50,
+          "text": "[11.2] Assim, quando Pedro subiu a Jerusalém, os que eram do partido dos circuncisos o criticavam, dizendo:"
+        },
+        {
+          "n": 51,
+          "text": "[11.3] \"Você entrou na casa de homens incircuncisos e comeu com eles\"."
+        },
+        {
+          "n": 52,
+          "text": "[11.4] Pedro, então, começou a explicar-lhes exatamente como tudo havia acontecido:"
+        },
+        {
+          "n": 53,
+          "text": "[11.5] \"Eu estava na cidade de Jope orando; caindo em êxtase, tive uma visão. Vi algo parecido com um grande lençol sendo baixado do céu, preso pelas quatro pontas, e que vinha até o lugar onde eu estava."
+        },
+        {
+          "n": 54,
+          "text": "[11.6] Olhei para dentro dele e notei que havia ali quadrúpedes da terra, animais selvagens, répteis e aves do céu."
+        },
+        {
+          "n": 55,
+          "text": "[11.7] Então ouvi uma voz que me dizia: ‘Levante-se, Pedro; mate e coma’."
+        },
+        {
+          "n": 56,
+          "text": "[11.8] \"Eu respondi: De modo nenhum, Senhor! Nunca entrou em minha boca algo impuro ou imundo."
+        },
+        {
+          "n": 57,
+          "text": "[11.9] \"A voz falou do céu segunda vez: ‘Não chame impuro ao que Deus purificou’."
+        },
+        {
+          "n": 58,
+          "text": "[11.10] Isso aconteceu três vezes, e então tudo foi recolhido ao céu."
+        },
+        {
+          "n": 59,
+          "text": "[11.11] \"Na mesma hora chegaram à casa em que eu estava hospedado três homens que me haviam sido enviados de Cesaréia."
+        },
+        {
+          "n": 60,
+          "text": "[11.12] O Espírito me disse que não hesitasse em ir com eles. Estes seis irmãos também foram comigo, e entramos na casa de um certo homem."
+        },
+        {
+          "n": 61,
+          "text": "[11.13] Ele nos contou como um anjo lhe tinha aparecido em sua casa e dissera: ‘Mande buscar, em Jope, a Simão, chamado Pedro."
+        },
+        {
+          "n": 62,
+          "text": "[11.14] Ele lhe trará uma mensagem por meio da qual serão salvos você e todos os da sua casa’."
+        },
+        {
+          "n": 63,
+          "text": "[11.15] \"Quando comecei a falar, o Espírito Santo desceu sobre eles como sobre nós no princípio."
+        },
+        {
+          "n": 64,
+          "text": "[11.16] Então me lembrei do que o Senhor tinha dito: ‘João batizou com água, mas vocês serão batizados com o Espírito Santo’."
+        },
+        {
+          "n": 65,
+          "text": "[11.17] Se, pois, Deus lhes deu o mesmo dom que nos dera quando cremos no Senhor Jesus Cristo, quem era eu para pensar em opor-me a Deus? \""
+        },
+        {
+          "n": 66,
+          "text": "[11.18] Ouvindo isso, não apresentaram mais objeções e louvaram a Deus, dizendo: \"Então, Deus concedeu arrependimento para a vida até mesmo aos gentios! \""
+        },
+        {
+          "n": 67,
+          "text": "[11.19] Os que tinham sido dispersos por causa da perseguição desencadeada com a morte de Estêvão chegaram até à Fenícia, Chipre e Antioquia, anunciando a mensagem apenas aos judeus."
+        },
+        {
+          "n": 68,
+          "text": "[11.20] Alguns deles, todavia, cipriotas e cireneus, foram a Antioquia e começaram a falar também aos gregos, contando-lhes as boas novas a respeito do Senhor Jesus."
+        },
+        {
+          "n": 69,
+          "text": "[11.21] A mão do Senhor estava com eles, e muitos creram e se converteram ao Senhor."
+        },
+        {
+          "n": 70,
+          "text": "[11.22] Notícias desse fato chegaram aos ouvidos da igreja em Jerusalém, e eles enviaram Barnabé a Antioquia."
+        },
+        {
+          "n": 71,
+          "text": "[11.23] Este, ali chegando e vendo a graça de Deus, ficou alegre e os animou a permanecerem fiéis ao Senhor, de todo o coração."
+        },
+        {
+          "n": 72,
+          "text": "[11.24] Ele era um homem bom, cheio do Espírito Santo e de fé; e muitas pessoas foram acrescentadas ao Senhor."
+        },
+        {
+          "n": 73,
+          "text": "[11.25] Então Barnabé foi a Tarso procurar Saulo"
+        },
+        {
+          "n": 74,
+          "text": "[11.26] e, quando o encontrou, levou-o para Antioquia. Assim, durante um ano inteiro Barnabé e Saulo se reuniram com a igreja e ensinaram a muitos. Em Antioquia, os discípulos foram pela primeira vez chamados cristãos."
+        },
+        {
+          "n": 75,
+          "text": "[11.27] Naqueles dias alguns profetas desceram de Jerusalém para Antioquia."
+        },
+        {
+          "n": 76,
+          "text": "[11.28] Um deles, Ágabo, levantou-se e pelo Espírito predisse que uma grande fome sobreviria a todo o mundo romano, o que aconteceu durante o reinado de Cláudio."
+        },
+        {
+          "n": 77,
+          "text": "[11.29] Os discípulos, cada um segundo as suas possibilidades, decidiram providenciar ajuda para os irmãos que viviam na Judéia."
+        },
+        {
+          "n": 78,
+          "text": "[11.30] E o fizeram, enviando suas ofertas aos presbíteros pelas mãos de Barnabé e Saulo."
         }
       ]
     },

@@ -91,7 +91,7 @@ window.TESSALONICENSES = [
     },
     "context": "Paulo relembra, com detalhe defensivo, o que aconteceu quando ele esteve em Tessalônica. Havia ali oponentes acusando-o de ser mais um pregador ambulante em busca de dinheiro e prestígio — comum na época helenística. Paulo desmonta a acusação com uma imagem chocante para o mundo antigo: eu fui com vocês como mãe amamentando filho, e como pai instruindo filho. Ternura E firmeza. É retrato de pastor.",
     "passage": {
-      "ref": "1 Tessalonicenses 2 · capítulo completo (NVI)",
+      "ref": "1 Tessalonicenses 2.1-12",
       "verses": [
         {
           "n": 1,
@@ -140,38 +140,6 @@ window.TESSALONICENSES = [
         {
           "n": 12,
           "text": "exortando, consolando e dando testemunho, para que vocês vivam de maneira digna de Deus, que os chamou para o seu Reino e glória."
-        },
-        {
-          "n": 13,
-          "text": "Também agradecemos a Deus sem cessar, pois, ao receberem de nossa parte a palavra de Deus, vocês a aceitaram não como palavra de homens, mas segundo verdadeiramente é, como palavra de Deus, que atua com eficácia em vocês, os que crêem."
-        },
-        {
-          "n": 14,
-          "text": "Porque vocês, irmãos, tornaram-se imitadores das igrejas de Deus em Cristo Jesus que estão na Judéia. Vocês sofreram da parte dos seus próprios conterrâneos as mesmas coisas que aquelas igrejas sofreram da parte dos judeus,"
-        },
-        {
-          "n": 15,
-          "text": "que mataram o Senhor Jesus e os profetas, e também nos perseguiram. Eles desagradam a Deus e são hostis a todos,"
-        },
-        {
-          "n": 16,
-          "text": "esforçando-se para nos impedir que falemos aos gentios, e estes sejam salvos. Dessa forma, vão sempre completando a medida dos seus pecados. Sobre eles, finalmente, veio a ira."
-        },
-        {
-          "n": 17,
-          "text": "Nós, porém, irmãos, privados da companhia de vocês por breve tempo, em pessoa, mas não no coração, esforçamo-nos ainda mais para vê-los pessoalmente, pela saudade que temos de vocês."
-        },
-        {
-          "n": 18,
-          "text": "Quisemos visitá-los. Eu mesmo, Paulo o quis, e não apenas uma vez, mas duas; Satanás, porém, nos impediu."
-        },
-        {
-          "n": 19,
-          "text": "Pois quem é a nossa esperança, alegria ou coroa em que nos gloriamos perante o Senhor Jesus na sua vinda? Não são vocês?"
-        },
-        {
-          "n": 20,
-          "text": "De fato, vocês são a nossa glória e a nossa alegria."
         }
       ]
     },
@@ -205,56 +173,8 @@ window.TESSALONICENSES = [
     },
     "context": "Paulo continua a defender seu ministério, mas o tom muda: agora reconhece que a igreja recebeu a Palavra como Palavra de Deus — e por isso sofreu. Ele os compara com as igrejas judaicas na Judeia (v.14), que sofreram pelos mesmos motivos. E confessa saudade — 'quisemos ir vê-los, mas Satanás nos impediu' (v.18). Carta pastoral que oscila entre defesa, elogio e afeto raro.",
     "passage": {
-      "ref": "1 Tessalonicenses 2 · capítulo completo (NVI)",
+      "ref": "1 Tessalonicenses 2.13-20",
       "verses": [
-        {
-          "n": 1,
-          "text": "Irmãos, vocês mesmos sabem que a visita que lhes fizemos não foi inútil."
-        },
-        {
-          "n": 2,
-          "text": "Apesar de termos sido maltratados e insultados em Filipos, como vocês sabem, com a ajuda de nosso Deus tivemos coragem de anunciar-lhes o evangelho de Deus, em meio a muita luta."
-        },
-        {
-          "n": 3,
-          "text": "Pois nossa exortação não tem origem no erro nem em motivos impuros, nem temos intenção de enganá-los;"
-        },
-        {
-          "n": 4,
-          "text": "pelo contrário, como homens aprovados por Deus, a ponto de nos ter sido confiado por ele o evangelho, não falamos para agradar a pessoas, mas a Deus, que prova os nossos corações."
-        },
-        {
-          "n": 5,
-          "text": "Vocês bem sabem a nossa linguagem nunca foi de bajulação nem de pretexto para ganância; Deus é testemunha."
-        },
-        {
-          "n": 6,
-          "text": "Nem buscamos reconhecimento humano, quer de vocês quer de outros."
-        },
-        {
-          "n": 7,
-          "text": "Embora, como apóstolos de Cristo, pudéssemos ter sido um peso, tornamo-nos bondosos entre vocês, como uma mãe que cuida dos próprios filhos."
-        },
-        {
-          "n": 8,
-          "text": "Sentindo, assim, tanta afeição por vocês, decidimos dar-lhes não somente o evangelho de Deus, mas também a nossa própria vida, porque vocês se tornaram muito amados por nós."
-        },
-        {
-          "n": 9,
-          "text": "Irmãos, certamente vocês se lembram do nosso trabalho esgotante e da nossa fadiga; trabalhamos noite e dia para não sermos pesados a ninguém, enquanto lhes pregávamos o evangelho de Deus."
-        },
-        {
-          "n": 10,
-          "text": "Tanto vocês como Deus são testemunhas de como nos portamos de maneira santa, justa e irrepreensível entre vocês, os que crêem."
-        },
-        {
-          "n": 11,
-          "text": "Pois vocês sabem que tratamos cada um como um pai trata seus filhos,"
-        },
-        {
-          "n": 12,
-          "text": "exortando, consolando e dando testemunho, para que vocês vivam de maneira digna de Deus, que os chamou para o seu Reino e glória."
-        },
         {
           "n": 13,
           "text": "Também agradecemos a Deus sem cessar, pois, ao receberem de nossa parte a palavra de Deus, vocês a aceitaram não como palavra de homens, mas segundo verdadeiramente é, como palavra de Deus, que atua com eficácia em vocês, os que crêem."
@@ -405,7 +325,7 @@ window.TESSALONICENSES = [
     },
     "context": "Aqui começa a segunda metade da carta — a seção prática. Depois de defender seu ministério e expressar afeto, Paulo passa às instruções éticas. Note que a santidade que ele descreve é chocantemente banal: controle do corpo, respeito ao próximo em transações comerciais, trabalho honesto, vida serena. Não pede feitos extraordinários — pede fidelidade em coisas que ninguém aplaude.",
     "passage": {
-      "ref": "1 Tessalonicenses 4 · capítulo completo (NVI)",
+      "ref": "1 Tessalonicenses 4.1-12",
       "verses": [
         {
           "n": 1,
@@ -454,30 +374,6 @@ window.TESSALONICENSES = [
         {
           "n": 12,
           "text": "a fim de que andem decentemente aos olhos dos que são de fora e não dependam de ninguém."
-        },
-        {
-          "n": 13,
-          "text": "Irmãos, não queremos que vocês sejam ignorantes quanto aos que dormem, para que não se entristeçam como os outros que não têm esperança."
-        },
-        {
-          "n": 14,
-          "text": "Se cremos que Jesus morreu e ressurgiu, cremos também que Deus trará, mediante Jesus e juntamente com ele, aqueles que nele dormiram."
-        },
-        {
-          "n": 15,
-          "text": "Dizemos a vocês, pela palavra do Senhor, que nós, os que estivermos vivos, os que ficarmos até a vinda do Senhor, certamente não precederemos os que dormem."
-        },
-        {
-          "n": 16,
-          "text": "Pois, dada a ordem, com a voz do arcanjo e o ressoar da trombeta de Deus, o próprio Senhor descerá do céu, e os mortos em Cristo ressuscitarão primeiro."
-        },
-        {
-          "n": 17,
-          "text": "Depois disso, os que estivermos vivos seremos arrebatados juntamente com eles nas nuvens, para o encontro com o Senhor nos ares. E assim estaremos com o Senhor para sempre."
-        },
-        {
-          "n": 18,
-          "text": "Consolem-se uns aos outros com estas palavras."
         }
       ]
     },
@@ -511,56 +407,8 @@ window.TESSALONICENSES = [
     },
     "context": "Provavelmente a razão principal da carta. A comunidade estava em pânico: alguns dos primeiros crentes tinham morrido antes da volta de Cristo (esperada iminente), e os que ficaram temiam que os mortos tivessem 'perdido' a promessa. Paulo responde com uma das passagens escatológicas mais claras do NT — não para satisfazer curiosidade, mas para 'consolar' (v.18). Doutrina serve à dor.",
     "passage": {
-      "ref": "1 Tessalonicenses 4 · capítulo completo (NVI)",
+      "ref": "1 Tessalonicenses 4.13-18",
       "verses": [
-        {
-          "n": 1,
-          "text": "Quanto ao mais, irmãos, já os instruímos acerca de como viver a fim de agradar a Deus e, de fato, assim vocês estão procedendo. Agora lhes pedimos e exortamos no Senhor Jesus que cresçam nisso cada vez mais."
-        },
-        {
-          "n": 2,
-          "text": "Pois vocês conhecem os mandamentos que lhes demos pela autoridade do Senhor Jesus."
-        },
-        {
-          "n": 3,
-          "text": "A vontade de Deus é que vocês sejam santificados: abstenham-se da imoralidade sexual."
-        },
-        {
-          "n": 4,
-          "text": "Cada um saiba controlar o próprio corpo de maneira santa e honrosa,"
-        },
-        {
-          "n": 5,
-          "text": "não com a paixão de desejo desenfreado, como os pagãos que desconhecem a Deus."
-        },
-        {
-          "n": 6,
-          "text": "Neste assunto, ninguém prejudique a seu irmão nem dele se aproveite. O Senhor castigará todas essas práticas, como já lhes dissemos e asseguramos."
-        },
-        {
-          "n": 7,
-          "text": "Porque Deus não nos chamou para a impureza, mas para a santidade."
-        },
-        {
-          "n": 8,
-          "text": "Portanto, aquele que rejeita estas coisas não está rejeitando o homem, mas a Deus, que lhes dá o seu Espírito Santo."
-        },
-        {
-          "n": 9,
-          "text": "Quanto ao amor fraternal, não precisamos escrever-lhes, pois vocês mesmos já foram ensinados por Deus a se amarem uns aos outros."
-        },
-        {
-          "n": 10,
-          "text": "E, de fato, vocês amam a todos os irmãos em toda a Macedônia. Contudo, irmãos, insistimos com vocês que cada vez mais assim procedam."
-        },
-        {
-          "n": 11,
-          "text": "Esforcem-se para ter uma vida tranqüila, cuidar dos seus próprios negócios e trabalhar com as próprias mãos, como nós os instruímos;"
-        },
-        {
-          "n": 12,
-          "text": "a fim de que andem decentemente aos olhos dos que são de fora e não dependam de ninguém."
-        },
         {
           "n": 13,
           "text": "Irmãos, não queremos que vocês sejam ignorantes quanto aos que dormem, para que não se entristeçam como os outros que não têm esperança."
@@ -617,7 +465,7 @@ window.TESSALONICENSES = [
     },
     "context": "Continuação natural do 4.13-18. Se a passagem anterior consolou os enlutados, esta responde 'quando isso vai acontecer?'. Paulo é claro: ninguém sabe (v.2). E é irrelevante saber, porque o cristão não vive esperando data — vive vestindo armadura (v.8). Escatologia bíblica é ética, não calendário.",
     "passage": {
-      "ref": "1 Tessalonicenses 5 · capítulo completo (NVI)",
+      "ref": "1 Tessalonicenses 5.1-11",
       "verses": [
         {
           "n": 1,
@@ -662,74 +510,6 @@ window.TESSALONICENSES = [
         {
           "n": 11,
           "text": "Por isso, exortem-se e edifiquem-se uns aos outros, como de fato vocês estão fazendo."
-        },
-        {
-          "n": 12,
-          "text": "Agora lhes pedimos, irmãos, que tenham consideração para com os que se esforçam no trabalho entre vocês, que os lideram no Senhor e os aconselham."
-        },
-        {
-          "n": 13,
-          "text": "Tenham-nos na mais alta estima, com amor, por causa do trabalho deles. Vivam em paz uns com os outros."
-        },
-        {
-          "n": 14,
-          "text": "Exortamos vocês, irmãos, a que advirtam os ociosos, confortem os desanimados, auxiliem os fracos, sejam pacientes para com todos."
-        },
-        {
-          "n": 15,
-          "text": "Tenham cuidado para que ninguém retribua o mal com o mal, mas sejam sempre bondosos uns para com os outros e para com todos."
-        },
-        {
-          "n": 16,
-          "text": "Alegrem-se sempre."
-        },
-        {
-          "n": 17,
-          "text": "Orem continuamente."
-        },
-        {
-          "n": 18,
-          "text": "Dêem graças em todas as circunstâncias, pois esta é a vontade de Deus para vocês em Cristo Jesus."
-        },
-        {
-          "n": 19,
-          "text": "Não apaguem o Espírito."
-        },
-        {
-          "n": 20,
-          "text": "Não tratem com desprezo as profecias,"
-        },
-        {
-          "n": 21,
-          "text": "mas ponham à prova todas as coisas e fiquem com o que é bom."
-        },
-        {
-          "n": 22,
-          "text": "Afastem-se de toda forma de mal."
-        },
-        {
-          "n": 23,
-          "text": "Que o próprio Deus da paz os santifique inteiramente. Que todo o espírito, alma e corpo de vocês seja conservado irrepreensível na vinda de nosso Senhor Jesus Cristo."
-        },
-        {
-          "n": 24,
-          "text": "Aquele que os chama é fiel, e fará isso."
-        },
-        {
-          "n": 25,
-          "text": "Irmãos, orem por nós."
-        },
-        {
-          "n": 26,
-          "text": "Saúdem todos os irmãos com beijo santo."
-        },
-        {
-          "n": 27,
-          "text": "Responsabilizo-os diante do Senhor para que esta carta seja lida a todos os irmãos."
-        },
-        {
-          "n": 28,
-          "text": "A graça de nosso Senhor Jesus Cristo seja com vocês."
         }
       ]
     },
@@ -763,52 +543,8 @@ window.TESSALONICENSES = [
     },
     "context": "Fechamento da carta. Rajada de imperativos curtos — 22 imperativos em 17 versículos. Paulo comprime a totalidade da vida cristã em instruções lapidares. Aqui está o cristianismo prático: honrai os que vos presidem, adverti os insubordinados, consolai os desanimados, sustentai os fracos, orai, alegrai-vos. Nada teórico. Tudo aplicável ainda hoje pela manhã.",
     "passage": {
-      "ref": "1 Tessalonicenses 5 · capítulo completo (NVI)",
+      "ref": "1 Tessalonicenses 5.12-28",
       "verses": [
-        {
-          "n": 1,
-          "text": "Irmãos, quanto aos tempos e épocas, não precisamos escrever-lhes,"
-        },
-        {
-          "n": 2,
-          "text": "pois vocês mesmos sabem perfeitamente que o dia do Senhor virá como ladrão à noite."
-        },
-        {
-          "n": 3,
-          "text": "Quando disserem: \"Paz e segurança\", então, de repente, a destruição virá sobre eles, como dores à mulher grávida; e de modo nenhum escaparão."
-        },
-        {
-          "n": 4,
-          "text": "Mas vocês, irmãos, não estão nas trevas, para que esse dia os surpreenda como ladrão."
-        },
-        {
-          "n": 5,
-          "text": "Vocês todos são filhos da luz, filhos do dia. Não somos da noite nem das trevas."
-        },
-        {
-          "n": 6,
-          "text": "Portanto, não durmamos como os demais, mas estejamos atentos e sejamos sóbrios;"
-        },
-        {
-          "n": 7,
-          "text": "pois os que dormem, dormem de noite, e os que se embriagam, embriagam-se de noite."
-        },
-        {
-          "n": 8,
-          "text": "Nós, porém, que somos do dia, sejamos sóbrios, vestindo a couraça da fé e do amor e o capacete da esperança da salvação."
-        },
-        {
-          "n": 9,
-          "text": "Porque Deus não nos destinou para a ira, mas para recebermos a salvação por meio de nosso Senhor Jesus Cristo."
-        },
-        {
-          "n": 10,
-          "text": "Ele morreu por nós para que, quer estejamos acordados quer dormindo, vivamos unidos a ele."
-        },
-        {
-          "n": 11,
-          "text": "Por isso, exortem-se e edifiquem-se uns aos outros, como de fato vocês estão fazendo."
-        },
         {
           "n": 12,
           "text": "Agora lhes pedimos, irmãos, que tenham consideração para com os que se esforçam no trabalho entre vocês, que os lideram no Senhor e os aconselham."
@@ -991,7 +727,7 @@ window.TESSALONICENSES = [
     },
     "context": "Uma das seções mais debatidas do NT. Alguém em Tessalônica estava dizendo — talvez com uma carta falsa em nome de Paulo (v.2) — que o Dia do Senhor já viera. Isso jogou a igreja em pânico. Paulo escreve para desmontar: antes desse Dia, há sinais que ainda não aconteceram. Não como calendário profético para especular, mas como âncora contra o pânico presente. O texto é apocalíptico, mas o propósito é pastoral.",
     "passage": {
-      "ref": "2 Tessalonicenses 2 · capítulo completo (NVI)",
+      "ref": "2 Tessalonicenses 2.1-12",
       "verses": [
         {
           "n": 1,
@@ -1040,26 +776,6 @@ window.TESSALONICENSES = [
         {
           "n": 12,
           "text": "e sejam condenados todos os que não creram na verdade, mas tiveram prazer na injustiça."
-        },
-        {
-          "n": 13,
-          "text": "Mas nós, devemos sempre dar graças a Deus por vocês, irmãos amados pelo Senhor, porque desde o princípio Deus os escolheu para serem salvos mediante a obra santificadora do Espírito e a fé na verdade."
-        },
-        {
-          "n": 14,
-          "text": "Ele os chamou para isso por meio de nosso evangelho, a fim de tomarem posse da glória de nosso Senhor Jesus Cristo."
-        },
-        {
-          "n": 15,
-          "text": "Portanto, irmãos, permaneçam firmes e apeguem-se às tradições que lhes foram ensinadas, quer de viva voz, quer por carta nossa."
-        },
-        {
-          "n": 16,
-          "text": "Que o próprio Senhor Jesus Cristo e Deus nosso Pai, que nos amou e nos deu eterna consolação e boa esperança pela graça,"
-        },
-        {
-          "n": 17,
-          "text": "dê ânimo aos seus corações e os fortaleça para fazerem sempre o bem, tanto em atos como em palavras."
         }
       ]
     },
@@ -1093,56 +809,8 @@ window.TESSALONICENSES = [
     },
     "context": "Depois de descrever o iníquo (2.1-12), Paulo muda de tom completamente: os tessalonicenses não pertencem a esse destino. Foram escolhidos, chamados, salvos. E, portanto, permaneçam firmes. É a estrutura clássica de Paulo: primeiro doutrina, depois exortação. Você foi salvo — comporte-se como quem foi. A ética cristã nunca é 'faça isso para ser salvo'; é 'faça isso porque foi'.",
     "passage": {
-      "ref": "2 Tessalonicenses 2 · capítulo completo (NVI)",
+      "ref": "2 Tessalonicenses 2.13-17",
       "verses": [
-        {
-          "n": 1,
-          "text": "Irmãos, quanto à vinda de nosso Senhor Jesus Cristo e à nossa reencontro com ele, rogamos a vocês"
-        },
-        {
-          "n": 2,
-          "text": "que não se deixem abalar nem alarmar tão facilmente, quer por profecia, quer por palavra, quer por carta supostamente vinda de nós, como se o dia do Senhor já tivesse chegado."
-        },
-        {
-          "n": 3,
-          "text": "Não deixem que ninguém os engane de modo algum. Antes daquele dia virá a apostasia e, então, será revelado o homem do pecado, o filho da perdição."
-        },
-        {
-          "n": 4,
-          "text": "Este se opõe e se exalta acima de tudo o que se chama Deus ou é objeto de adoração, a ponto de se assentar no santuário de Deus, proclamando que ele mesmo é Deus."
-        },
-        {
-          "n": 5,
-          "text": "Não se lembram de que quando eu ainda estava com vocês costumava lhes falar essas coisas?"
-        },
-        {
-          "n": 6,
-          "text": "E agora vocês sabem o que o está detendo, para que ele seja revelado no seu devido tempo."
-        },
-        {
-          "n": 7,
-          "text": "A verdade é que o mistério da iniqüidade já está em ação, restando apenas que seja afastado aquele que agora o detém."
-        },
-        {
-          "n": 8,
-          "text": "Então será revelado o perverso, a quem o Senhor Jesus matará com o sopro de sua boca e destruirá pela manifestação de sua vinda."
-        },
-        {
-          "n": 9,
-          "text": "A vinda desse perverso é segundo a ação de Satanás, com todo o poder, com sinais e com maravilhas enganadoras."
-        },
-        {
-          "n": 10,
-          "text": "Ele fará uso de todas as formas de engano da injustiça para os que estão perecendo, porquanto rejeitaram o amor à verdade que os poderia salvar."
-        },
-        {
-          "n": 11,
-          "text": "Por essa razão Deus lhes envia um poder sedutor, a fim de que creiam na mentira,"
-        },
-        {
-          "n": 12,
-          "text": "e sejam condenados todos os que não creram na verdade, mas tiveram prazer na injustiça."
-        },
         {
           "n": 13,
           "text": "Mas nós, devemos sempre dar graças a Deus por vocês, irmãos amados pelo Senhor, porque desde o princípio Deus os escolheu para serem salvos mediante a obra santificadora do Espírito e a fé na verdade."
@@ -1195,7 +863,7 @@ window.TESSALONICENSES = [
     },
     "context": "Paulo pede oração para si (v.1-2), depois volta a assegurar aos tessalonicenses que Deus os guardará (v.3-5). É um pequeno bloco de intercâmbio — 'orem por nós, e Deus vai vigiar por vocês'. Vida cristã madura entende as duas coisas: precisamos ser sustentados pela oração de outros, e temos garantia da fidelidade de Deus.",
     "passage": {
-      "ref": "2 Tessalonicenses 3 · capítulo completo (NVI)",
+      "ref": "2 Tessalonicenses 3.1-5",
       "verses": [
         {
           "n": 1,
@@ -1216,58 +884,6 @@ window.TESSALONICENSES = [
         {
           "n": 5,
           "text": "O Senhor conduza os seus corações ao amor de Deus e à perseverança de Cristo."
-        },
-        {
-          "n": 6,
-          "text": "Irmãos, em nome do nosso Senhor Jesus Cristo nós lhes ordenamos que se afastem de todo irmão que vive ociosamente e não conforme a tradição que receberam de nós."
-        },
-        {
-          "n": 7,
-          "text": "Pois vocês mesmos sabem como devem seguir o nosso exemplo, porque não vivemos ociosamente quando estivemos entre vocês,"
-        },
-        {
-          "n": 8,
-          "text": "nem comemos coisa alguma à custa de ninguém. Pelo contrário, trabalhamos arduamente e com fadiga, dia e noite, para não sermos pesados a nenhum de vocês,"
-        },
-        {
-          "n": 9,
-          "text": "não por que não tivéssemos tal direito, mas para que nos tornássemos um modelo para ser imitado por vocês."
-        },
-        {
-          "n": 10,
-          "text": "Quando ainda estávamos com vocês, nós lhes ordenamos isto: se alguém não quiser trabalhar, também não coma."
-        },
-        {
-          "n": 11,
-          "text": "Pois ouvimos que alguns de vocês estão ociosos; não trabalham, mas andam se intrometendo na vida alheia."
-        },
-        {
-          "n": 12,
-          "text": "A tais pessoas ordenamos e exortamos no Senhor Jesus Cristo que trabalhem tranqüilamente e comam o seu próprio pão."
-        },
-        {
-          "n": 13,
-          "text": "Quanto a vocês, irmãos, nunca se cansem de fazer o bem."
-        },
-        {
-          "n": 14,
-          "text": "Se alguém não obedecer à nossa palavra por esta carta, marquem-no e não se associem com ele, para que se sinta envergonhado;"
-        },
-        {
-          "n": 15,
-          "text": "contudo, não o considerem como inimigo, mas chamem a atenção dele como irmão."
-        },
-        {
-          "n": 16,
-          "text": "O próprio Senhor da paz lhes dê a paz em todo o tempo e de todas as formas. O Senhor seja com todos vocês."
-        },
-        {
-          "n": 17,
-          "text": "Eu, Paulo, escrevo esta saudação de próprio punho, a qual é um sinal em todas as minhas cartas. É dessa forma que escrevo."
-        },
-        {
-          "n": 18,
-          "text": "A graça de nosso Senhor Jesus Cristo seja com todos vocês."
         }
       ]
     },
@@ -1301,28 +917,8 @@ window.TESSALONICENSES = [
     },
     "context": "Fim da carta. Paulo trata de um problema específico: alguns membros da igreja pararam de trabalhar, provavelmente porque acreditavam que o Dia do Senhor era iminente ('para quê trabalhar se Jesus volta amanhã?'). O texto tem sido usado como martelo em contextos que Paulo não previu — mas seu ponto original é claro: cristianismo não isenta do trabalho; sublinha-o. E ociosidade produz intromissão nos outros.",
     "passage": {
-      "ref": "2 Tessalonicenses 3 · capítulo completo (NVI)",
+      "ref": "2 Tessalonicenses 3.6-18",
       "verses": [
-        {
-          "n": 1,
-          "text": "Finalmente, irmãos, orem por nós, para que a palavra do Senhor se propague rapidamente e receba a hora merecida, como aconteceu entre vocês."
-        },
-        {
-          "n": 2,
-          "text": "Orem também para que sejamos libertos dos homens perversos e maus, pois a fé não é de todos."
-        },
-        {
-          "n": 3,
-          "text": "Mas o Senhor é fiel; ele os fortalecerá e os guardará do Maligno."
-        },
-        {
-          "n": 4,
-          "text": "Confiamos no Senhor que vocês estão fazendo e continuarão a fazer as coisas que lhes ordenamos."
-        },
-        {
-          "n": 5,
-          "text": "O Senhor conduza os seus corações ao amor de Deus e à perseverança de Cristo."
-        },
         {
           "n": 6,
           "text": "Irmãos, em nome do nosso Senhor Jesus Cristo nós lhes ordenamos que se afastem de todo irmão que vive ociosamente e não conforme a tradição que receberam de nós."

@@ -16,76 +16,8 @@ window.ROMANOS_2 = [
     },
     "context": "Paulo amplia a visão de Romanos 8: não apenas pessoas, mas a criação inteira geme aguardando restauração. O Espírito intercede na fraqueza, Deus conduz seu povo em amor e nada pode separá-lo de Cristo.",
     "passage": {
-      "ref": "Romanos 8 · capítulo completo (NVI)",
+      "ref": "Romanos 8.18-39",
       "verses": [
-        {
-          "n": 1,
-          "text": "Portanto, agora já não há condenação para os que estão em Cristo Jesus,"
-        },
-        {
-          "n": 2,
-          "text": "porque por meio de Cristo Jesus a lei do Espírito de vida me libertou da lei do pecado e da morte."
-        },
-        {
-          "n": 3,
-          "text": "Porque, aquilo que a lei fora incapaz de fazer por estar enfraquecida pela carne, Deus o fez, enviando seu próprio Filho, à semelhança do homem pecador, como oferta pelo pecado. E assim condenou o pecado na carne,"
-        },
-        {
-          "n": 4,
-          "text": "a fim de que as justas exigências da lei fossem plenamente satisfeitas em nós, que não vivemos segundo a carne, mas segundo o Espírito."
-        },
-        {
-          "n": 5,
-          "text": "Quem vive segundo a carne tem a mente voltada para o que a carne deseja; mas quem, de acordo com o Espírito, tem a mente voltada para o que o Espírito deseja."
-        },
-        {
-          "n": 6,
-          "text": "A mentalidade da carne é morte, mas a mentalidade do Espírito é vida e paz;"
-        },
-        {
-          "n": 7,
-          "text": "a mentalidade da carne é inimiga de Deus porque não se submete à lei de Deus, nem pode fazê-lo."
-        },
-        {
-          "n": 8,
-          "text": "Quem é dominado pela carne não pode agradar a Deus."
-        },
-        {
-          "n": 9,
-          "text": "Entretanto, vocês não estão sob o domínio da carne, mas do Espírito, se de fato o Espírito de Deus habita em vocês. E, se alguém não tem o Espírito de Cristo, não pertence a Cristo."
-        },
-        {
-          "n": 10,
-          "text": "Mas se Cristo está em vocês, o corpo está morto por causa do pecado, mas o espírito está vivo por causa da justiça."
-        },
-        {
-          "n": 11,
-          "text": "E, se o Espírito daquele que ressuscitou Jesus dentre os mortos habita em vocês, aquele que ressuscitou a Cristo dentre os mortos também dará vida a seus corpos mortais, por meio do seu Espírito, que habita em vocês."
-        },
-        {
-          "n": 12,
-          "text": "Portanto, irmãos, estamos em dívida, não para com a carne, para vivermos sujeitos a ela."
-        },
-        {
-          "n": 13,
-          "text": "Pois se vocês viverem de acordo com a carne, morrerão; mas, se pelo Espírito fizerem morrer os atos do corpo, viverão,"
-        },
-        {
-          "n": 14,
-          "text": "porque todos os que são guiados pelo Espírito de Deus são filhos de Deus."
-        },
-        {
-          "n": 15,
-          "text": "Pois vocês não receberam um espírito que os escravize para novamente temer, mas receberam o Espírito que os adota como filhos, por meio do qual clamamos: \"Aba, Pai\"."
-        },
-        {
-          "n": 16,
-          "text": "O próprio Espírito testemunha ao nosso espírito que somos filhos de Deus."
-        },
-        {
-          "n": 17,
-          "text": "Se somos filhos, então somos herdeiros; herdeiros de Deus e co-herdeiros com Cristo, se de fato participamos dos seus sofrimentos, para que também participemos da sua glória."
-        },
         {
           "n": 18,
           "text": "Considero que os nossos sofrimentos atuais não podem ser comparados com a glória que em nós será revelada."
@@ -664,7 +596,7 @@ window.ROMANOS_2 = [
     },
     "context": "O 'portanto' de Romanos 12 conecta toda a vida prática à misericórdia dos capítulos anteriores. Paulo chama a comunidade à mente renovada, à humildade e ao uso dos dons para o bem do único corpo.",
     "passage": {
-      "ref": "Romanos 12 · capítulo completo (NVI)",
+      "ref": "Romanos 12.1-8",
       "verses": [
         {
           "n": 1,
@@ -697,58 +629,6 @@ window.ROMANOS_2 = [
         {
           "n": 8,
           "text": "se é dar ânimo, que assim faça; se é contribuir, que contribua generosamente; se é exercer liderança, que a exerça com zelo; se é mostrar misericórdia, que o faça com alegria."
-        },
-        {
-          "n": 9,
-          "text": "O amor deve ser sincero. Odeiem o que é mau; apeguem-se ao que é bom."
-        },
-        {
-          "n": 10,
-          "text": "Dediquem-se uns aos outros com amor fraternal. Prefiram dar honra aos outros mais do que a si próprios."
-        },
-        {
-          "n": 11,
-          "text": "Nunca lhes falte o zelo, sejam fervorosos no espírito, sirvam ao Senhor."
-        },
-        {
-          "n": 12,
-          "text": "Alegrem-se na esperança, sejam pacientes na tribulação, perseverem na oração."
-        },
-        {
-          "n": 13,
-          "text": "Compartilhem o que vocês têm com os santos em suas necessidades. Pratiquem a hospitalidade."
-        },
-        {
-          "n": 14,
-          "text": "Abençoem aqueles que os perseguem; abençoem, e não os amaldiçoem."
-        },
-        {
-          "n": 15,
-          "text": "Alegrem-se com os que se alegram; chorem com os que choram."
-        },
-        {
-          "n": 16,
-          "text": "Tenham uma mesma atitude uns para com os outros. Não sejam orgulhosos, mas estejam dispostos a associar-se a pessoas de posição inferior. Não sejam sábios aos seus próprios olhos."
-        },
-        {
-          "n": 17,
-          "text": "Não retribuam a ninguém mal por mal. Procurem fazer o que é correto aos olhos de todos."
-        },
-        {
-          "n": 18,
-          "text": "Façam todo o possível para viver em paz com todos."
-        },
-        {
-          "n": 19,
-          "text": "Amados, nunca procurem vingar-se, mas deixem com Deus a ira, pois está escrito: \"Minha é a vingança; eu retribuirei\", diz o Senhor."
-        },
-        {
-          "n": 20,
-          "text": "Pelo contrário: \"Se o seu inimigo tiver fome, dê-lhe de comer; se tiver sede, dê-lhe de beber. Fazendo isso, você amontoará brasas vivas sobre a cabeça dele\"."
-        },
-        {
-          "n": 21,
-          "text": "Não se deixem vencer pelo mal, mas vençam o mal com o bem."
         }
       ]
     },
@@ -781,40 +661,8 @@ window.ROMANOS_2 = [
     },
     "context": "Paulo passa dos dons para os relacionamentos. Em frases breves e concretas, descreve uma comunidade calorosa, generosa, paciente e não vingativa, capaz de vencer o mal com o bem.",
     "passage": {
-      "ref": "Romanos 12 · capítulo completo (NVI)",
+      "ref": "Romanos 12.9-21",
       "verses": [
-        {
-          "n": 1,
-          "text": "Portanto, irmãos, rogo-lhes pelas misericórdias de Deus que se ofereçam em sacrifício vivo, santo e agradável a Deus; este é o culto racional de vocês."
-        },
-        {
-          "n": 2,
-          "text": "Não se amoldem ao padrão deste mundo, mas transformem-se pela renovação da sua mente, para que sejam capazes de experimentar e comprovar a boa, agradável e perfeita vontade de Deus."
-        },
-        {
-          "n": 3,
-          "text": "Pois pela graça que me foi dada digo a todos vocês: ninguém tenha de si mesmo um conceito mais elevado do que deve ter; mas, pelo contrário, tenha um conceito equilibrado, de acordo com a medida da fé que Deus lhe concedeu."
-        },
-        {
-          "n": 4,
-          "text": "Assim como cada um de nós tem um corpo com muitos membros e esses membros não exercem todos a mesma função,"
-        },
-        {
-          "n": 5,
-          "text": "assim também em Cristo nós, que somos muitos, formamos um corpo, e cada membro está ligado a todos os outros."
-        },
-        {
-          "n": 6,
-          "text": "Temos diferentes dons, de acordo com a graça que nos foi dada. Se alguém tem o dom de profetizar, use-o na proporção da sua fé."
-        },
-        {
-          "n": 7,
-          "text": "Se o seu dom é servir, sirva; se é ensinar, ensine;"
-        },
-        {
-          "n": 8,
-          "text": "se é dar ânimo, que assim faça; se é contribuir, que contribua generosamente; se é exercer liderança, que a exerça com zelo; se é mostrar misericórdia, que o faça com alegria."
-        },
         {
           "n": 9,
           "text": "O amor deve ser sincero. Odeiem o que é mau; apeguem-se ao que é bom."
@@ -987,7 +835,7 @@ window.ROMANOS_2 = [
     },
     "context": "A igreja de Roma vivia tensões sobre comida, dias e práticas de consciência. Paulo chama os fortes e os fracos a não desprezar, não julgar e não usar liberdade de forma que destrua o irmão ou a irmã.",
     "passage": {
-      "ref": "Romanos 14 · capítulo completo (NVI)",
+      "ref": "Romanos 14-15.13",
       "verses": [
         {
           "n": 1,
@@ -1080,6 +928,58 @@ window.ROMANOS_2 = [
         {
           "n": 23,
           "text": "Mas aquele que tem dúvida é condenado se comer, porque não come com fé; e tudo o que não provém da fé é pecado."
+        },
+        {
+          "n": 24,
+          "text": "[Rm 15.1] Nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agradar a nós mesmos."
+        },
+        {
+          "n": 25,
+          "text": "[15.2] Cada um de nós deve agradar ao seu próximo para o bem dele, a fim de edificá-lo."
+        },
+        {
+          "n": 26,
+          "text": "[15.3] Pois também Cristo não agradou a si próprio, mas, como está escrito: \"Os insultos daqueles que te insultam caíram sobre mim\"."
+        },
+        {
+          "n": 27,
+          "text": "[15.4] Pois tudo o que foi escrito no passado, foi escrito para nos ensinar, de forma que, por meio da perseverança e do bom ânimo procedentes das Escrituras, mantenhamos a nossa esperança."
+        },
+        {
+          "n": 28,
+          "text": "[15.5] O Deus que concede perseverança e ânimo dê-lhes um espírito de unidade, segundo Cristo Jesus,"
+        },
+        {
+          "n": 29,
+          "text": "[15.6] para que com um só coração e uma só boca vocês glorifiquem ao Deus e Pai de nosso Senhor Jesus Cristo."
+        },
+        {
+          "n": 30,
+          "text": "[15.7] Portanto, aceitem-se uns aos outros, da mesma forma como Cristo os aceitou, a fim de que vocês glorifiquem a Deus."
+        },
+        {
+          "n": 31,
+          "text": "[15.8] Pois eu lhes digo que Cristo se tornou servo dos que são da circuncisão, por amor à verdade de Deus, para confirmar as promessas feitas aos patriarcas,"
+        },
+        {
+          "n": 32,
+          "text": "[15.9] a fim de que os gentios glorifiquem a Deus por sua misericórdia, como está escrito: \"Por isso, eu te louvarei entre os gentios; Cantarei louvores ao teu nome\"."
+        },
+        {
+          "n": 33,
+          "text": "[15.10] E também diz: \"Cantem de alegria, ó gentios, com o povo dele\"."
+        },
+        {
+          "n": 34,
+          "text": "[15.11] E mais: \"Louvem o Senhor, todos vocês, gentios; cantem louvores a ele todos os povos\"."
+        },
+        {
+          "n": 35,
+          "text": "[15.12] E Isaías também diz: \"Brotará a raiz de Jessé, aquele que se levantará para reinar sobre os gentios; estes colocarão nele a sua esperança\"."
+        },
+        {
+          "n": 36,
+          "text": "[15.13] Que o Deus da esperança os encha de toda alegria e paz, por sua confiança nele, para que vocês transbordem de esperança, pelo poder do Espírito Santo."
         }
       ]
     },
@@ -1112,60 +1012,8 @@ window.ROMANOS_2 = [
     },
     "context": "No encerramento, Paulo expõe seus planos missionários, pede oração para a viagem a Jerusalém e recomenda Febe. A longa lista de saudações não é apêndice descartável: revela uma comunidade diversa ligada por serviço, amizade e o evangelho.",
     "passage": {
-      "ref": "Romanos 15 · capítulo completo (NVI)",
+      "ref": "Romanos 15.14-16.27",
       "verses": [
-        {
-          "n": 1,
-          "text": "Nós, que somos fortes, devemos suportar as fraquezas dos fracos, e não agradar a nós mesmos."
-        },
-        {
-          "n": 2,
-          "text": "Cada um de nós deve agradar ao seu próximo para o bem dele, a fim de edificá-lo."
-        },
-        {
-          "n": 3,
-          "text": "Pois também Cristo não agradou a si próprio, mas, como está escrito: \"Os insultos daqueles que te insultam caíram sobre mim\"."
-        },
-        {
-          "n": 4,
-          "text": "Pois tudo o que foi escrito no passado, foi escrito para nos ensinar, de forma que, por meio da perseverança e do bom ânimo procedentes das Escrituras, mantenhamos a nossa esperança."
-        },
-        {
-          "n": 5,
-          "text": "O Deus que concede perseverança e ânimo dê-lhes um espírito de unidade, segundo Cristo Jesus,"
-        },
-        {
-          "n": 6,
-          "text": "para que com um só coração e uma só boca vocês glorifiquem ao Deus e Pai de nosso Senhor Jesus Cristo."
-        },
-        {
-          "n": 7,
-          "text": "Portanto, aceitem-se uns aos outros, da mesma forma como Cristo os aceitou, a fim de que vocês glorifiquem a Deus."
-        },
-        {
-          "n": 8,
-          "text": "Pois eu lhes digo que Cristo se tornou servo dos que são da circuncisão, por amor à verdade de Deus, para confirmar as promessas feitas aos patriarcas,"
-        },
-        {
-          "n": 9,
-          "text": "a fim de que os gentios glorifiquem a Deus por sua misericórdia, como está escrito: \"Por isso, eu te louvarei entre os gentios; Cantarei louvores ao teu nome\"."
-        },
-        {
-          "n": 10,
-          "text": "E também diz: \"Cantem de alegria, ó gentios, com o povo dele\"."
-        },
-        {
-          "n": 11,
-          "text": "E mais: \"Louvem o Senhor, todos vocês, gentios; cantem louvores a ele todos os povos\"."
-        },
-        {
-          "n": 12,
-          "text": "E Isaías também diz: \"Brotará a raiz de Jessé, aquele que se levantará para reinar sobre os gentios; estes colocarão nele a sua esperança\"."
-        },
-        {
-          "n": 13,
-          "text": "Que o Deus da esperança os encha de toda alegria e paz, por sua confiança nele, para que vocês transbordem de esperança, pelo poder do Espírito Santo."
-        },
         {
           "n": 14,
           "text": "Meus irmãos, eu mesmo estou convencido de que vocês estão cheios de bondade e plenamente instruídos, sendo capazes de aconselhar-se uns aos outros."
@@ -1245,6 +1093,114 @@ window.ROMANOS_2 = [
         {
           "n": 33,
           "text": "O Deus da paz seja com todos vocês. Amém."
+        },
+        {
+          "n": 34,
+          "text": "[Rm 16.1] Recomendo-lhes nossa irmã Febe, serva da igreja em Cencréia."
+        },
+        {
+          "n": 35,
+          "text": "[16.2] Peço que a recebam no Senhor, de maneira digna dos santos, e lhe prestem a ajuda de que venha a necessitar; pois tem sido de grande auxílio para muita gente, inclusive para mim."
+        },
+        {
+          "n": 36,
+          "text": "[16.3] Saúdem Priscila e Áqüila, meus colaboradores em Cristo Jesus."
+        },
+        {
+          "n": 37,
+          "text": "[16.4] Arriscaram a vida por mim. Sou grato a eles; não apenas eu, mas todas as igrejas dos gentios."
+        },
+        {
+          "n": 38,
+          "text": "[16.5] Saúdem também a igreja que se reúne na casa deles. Saúdem meu amado irmão Epêneto, que foi o primeiro convertido a Cristo na província da Ásia."
+        },
+        {
+          "n": 39,
+          "text": "[16.6] Saúdem Maria, que trabalhou arduamente por vocês."
+        },
+        {
+          "n": 40,
+          "text": "[16.7] Saúdem Andrônico e Júnias, meus parentes que estiveram na prisão comigo. São notáveis entre os apóstolos, e estavam em Cristo antes de mim."
+        },
+        {
+          "n": 41,
+          "text": "[16.8] Saúdem Amplíato, meu amado irmão no Senhor."
+        },
+        {
+          "n": 42,
+          "text": "[16.9] Saúdem Urbano, nosso cooperador em Cristo, e meu amado irmão Estáquis."
+        },
+        {
+          "n": 43,
+          "text": "[16.10] Saúdem Apeles, aprovado em Cristo. Saúdem os que pertencem à casa de Aristóbulo."
+        },
+        {
+          "n": 44,
+          "text": "[16.11] Saúdem Herodião, meu parente. Saúdem os da casa de Narciso, que estão no Senhor."
+        },
+        {
+          "n": 45,
+          "text": "[16.12] Saúdem Trifena e Trifosa, mulheres que trabalham arduamente no Senhor. Saúdem a amada Pérside, outra que trabalhou arduamente no Senhor."
+        },
+        {
+          "n": 46,
+          "text": "[16.13] Saúdem Rufo, eleito no Senhor, e sua mãe, que tem sido mãe também para mim."
+        },
+        {
+          "n": 47,
+          "text": "[16.14] Saúdem Asíncrito, Flegonte, Hermes, Pátrobas, Hermas e os irmãos que estão com eles."
+        },
+        {
+          "n": 48,
+          "text": "[16.15] Saúdem Filólogo, Júlia, Nereu e sua irmã, e também Olimpas e todos os santos que estão com eles."
+        },
+        {
+          "n": 49,
+          "text": "[16.16] Saúdem uns aos outros com beijo santo. Todas as igrejas de Cristo enviam-lhes saudações."
+        },
+        {
+          "n": 50,
+          "text": "[16.17] Recomendo-lhes, irmãos, que tomem cuidado com aqueles que causam divisões e colocam obstáculos ao ensino que vocês têm recebido. Afastem-se deles."
+        },
+        {
+          "n": 51,
+          "text": "[16.18] Pois essas pessoas não estão servindo a Cristo, nosso Senhor, mas a seus próprios apetites. Mediante palavras suaves e bajulação, enganam os corações dos ingênuos."
+        },
+        {
+          "n": 52,
+          "text": "[16.19] Todos têm ouvido falar da obediência de vocês, por isso estou muito alegre; mas quero que sejam sábios em relação ao que é bom, e sem malícia em relação ao que é mau."
+        },
+        {
+          "n": 53,
+          "text": "[16.20] Em breve o Deus da paz esmagará Satanás debaixo dos pés de vocês. A graça de nosso Senhor Jesus seja com vocês."
+        },
+        {
+          "n": 54,
+          "text": "[16.21] Timóteo, meu cooperador, envia-lhes saudações, bem como Lúcio, Jasom e Sosípatro, meus parentes."
+        },
+        {
+          "n": 55,
+          "text": "[16.22] Eu, Tércio, que redigi esta carta, saúdo vocês no Senhor."
+        },
+        {
+          "n": 56,
+          "text": "[16.23] Gaio, cuja hospitalidade eu e toda a igreja desfrutamos, envia-lhes saudações. Erasto, administrador da cidade, e nosso irmão Quarto enviam-lhes saudações."
+        },
+        {
+          "n": 57,
+          "text": "[16.24] Que a graça de nosso Senhor Jesus Cristo seja com vocês todos. Amém."
+        },
+        {
+          "n": 58,
+          "text": "[16.25] Ora, àquele que tem poder para confirmá-los pelo meu evangelho e pela proclamação de Jesus Cristo, de acordo com a revelação do mistério oculto nos tempos passados,"
+        },
+        {
+          "n": 59,
+          "text": "[16.26] mas agora revelado e dado a conhecer pelas Escrituras proféticas por ordem do Deus eterno, para que todas as nações venham a crer nele e a obedecer-lhe,"
+        },
+        {
+          "n": 60,
+          "text": "[16.27] ao único Deus sábio seja dada glória para todo o sempre, por meio de Jesus Cristo. Amém."
         }
       ]
     },

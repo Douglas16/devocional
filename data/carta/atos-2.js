@@ -154,7 +154,7 @@ window.ATOS_2_CARTA = [
     },
     "context": "Antioquia se torna um lugar de envio. Paulo e Barnabé atravessam cidades, enfrentam oposição, veem pessoas crerem e também aprendem que abrir portas para novos povos mexe com privilégios antigos. Quando retornam, não contam apenas conquistas pessoais: relatam o que Deus fez.",
     "passage": {
-      "ref": "Atos 13 · capítulo completo (NVI)",
+      "ref": "Atos 13-14",
       "verses": [
         {
           "n": 1,
@@ -363,6 +363,118 @@ window.ATOS_2_CARTA = [
         {
           "n": 52,
           "text": "Os discípulos continuavam cheios de alegria e do Espírito Santo."
+        },
+        {
+          "n": 53,
+          "text": "[At 14.1] Em Icônio, Paulo e Barnabé, como de costume, foram à sinagoga judaica. Ali falaram de tal modo que veio a crer grande multidão de judeus e gentios."
+        },
+        {
+          "n": 54,
+          "text": "[14.2] Mas os judeus que se tinham recusado a crer incitaram os gentios e irritaram-lhes os ânimos contra os irmãos."
+        },
+        {
+          "n": 55,
+          "text": "[14.3] Paulo e Barnabé passaram bastante tempo ali, falando corajosamente do Senhor, que confirmava a mensagem de sua graça realizando sinais e maravilhas pelas mãos deles."
+        },
+        {
+          "n": 56,
+          "text": "[14.4] O povo da cidade ficou dividido: alguns estavam a favor dos judeus, outros a favor dos apóstolos."
+        },
+        {
+          "n": 57,
+          "text": "[14.5] Formou-se uma conspiração de gentios e judeus, juntamente com os seus líderes, para maltratá-los e apedrejá-los."
+        },
+        {
+          "n": 58,
+          "text": "[14.6] Quando eles souberam disso, fugiram para as cidades licaônicas de Listra e Derbe, e seus arredores,"
+        },
+        {
+          "n": 59,
+          "text": "[14.7] onde continuaram a pregar as boas novas."
+        },
+        {
+          "n": 60,
+          "text": "[14.8] Em Listra havia um homem paralítico dos pés, aleijado desde o nascimento, que vivia ali sentado e nunca tinha andado."
+        },
+        {
+          "n": 61,
+          "text": "[14.9] Ele ouvira Paulo falar. Quando Paulo olhou diretamente para ele e viu que o homem tinha fé para ser curado,"
+        },
+        {
+          "n": 62,
+          "text": "[14.10] disse em alta voz: \"Levante-se! Fique de pé! \" Com isso, o homem deu um salto e começou a andar."
+        },
+        {
+          "n": 63,
+          "text": "[14.11] Ao ver o que Paulo fizera, a multidão começou a gritar em língua licaônica: \"Os deuses desceram até nós em forma humana! \""
+        },
+        {
+          "n": 64,
+          "text": "[14.12] A Barnabé chamavam Zeus e a Paulo Hermes, porque era ele quem trazia a palavra."
+        },
+        {
+          "n": 65,
+          "text": "[14.13] O sacerdote de Zeus, cujo templo ficava diante da cidade, trouxe bois e coroas de flores à porta da cidade, porque ele e a multidão queriam oferecer-lhes sacrifícios."
+        },
+        {
+          "n": 66,
+          "text": "[14.14] Ouvindo isso, os apóstolos Barnabé e Paulo rasgaram as roupas e correram para o meio da multidão, gritando:"
+        },
+        {
+          "n": 67,
+          "text": "[14.15] \"Homens, por que vocês estão fazendo isso? Nós também somos humanos como vocês. Estamos trazendo boas novas para vocês, dizendo-lhes que se afastem dessas coisas vãs e se voltem para o Deus vivo, que fez o céu, a terra, o mar e tudo o que neles há."
+        },
+        {
+          "n": 68,
+          "text": "[14.16] No passado ele permitiu que todas as nações seguissem os seus próprios caminhos."
+        },
+        {
+          "n": 69,
+          "text": "[14.17] Contudo, não ficou sem testemunho: mostrou sua bondade, dando-lhes chuva do céu e colheitas no tempo certo, concedendo-lhes sustento com fartura e enchendo de alegria os seus corações\"."
+        },
+        {
+          "n": 70,
+          "text": "[14.18] Apesar dessas palavras, eles tiveram dificuldade para impedir que a multidão lhes oferecesse sacrifícios."
+        },
+        {
+          "n": 71,
+          "text": "[14.19] Então alguns judeus chegaram de Antioquia e de Icônio e mudaram o ânimo das multidões. Apedrejaram Paulo e o arrastaram para fora da cidade, pensando que estivesse morto."
+        },
+        {
+          "n": 72,
+          "text": "[14.20] Mas quando os discípulos se ajuntaram em volta de Paulo, ele se levantou e voltou à cidade. No dia seguinte, ele e Barnabé partiram para Derbe."
+        },
+        {
+          "n": 73,
+          "text": "[14.21] Eles pregaram as boas novas naquela cidade e fizeram muitos discípulos. Então voltaram para Listra, Icônio e Antioquia,"
+        },
+        {
+          "n": 74,
+          "text": "[14.22] fortalecendo os discípulos e encorajando-os a permanecer na fé, dizendo: \"É necessário que passemos por muitas tribulações para entrarmos no Reino de Deus\"."
+        },
+        {
+          "n": 75,
+          "text": "[14.23] Paulo e Barnabé designaram-lhes presbíteros em cada igreja; tendo orado e jejuado, eles os encomendaram ao Senhor, em quem haviam confiado."
+        },
+        {
+          "n": 76,
+          "text": "[14.24] Passando pela Pisídia, chegaram à Panfília"
+        },
+        {
+          "n": 77,
+          "text": "[14.25] e, tendo pregado a palavra em Perge, desceram para Atália."
+        },
+        {
+          "n": 78,
+          "text": "[14.26] De Atália navegaram de volta a Antioquia, onde tinham sido recomendados à graça de Deus para a missão que agora haviam completado."
+        },
+        {
+          "n": 79,
+          "text": "[14.27] Chegando ali, reuniram a igreja e relataram tudo o que Deus tinha feito por meio deles e como abrira a porta da fé aos gentios."
+        },
+        {
+          "n": 80,
+          "text": "[14.28] E ficaram ali muito tempo com os discípulos."
         }
       ]
     },
@@ -1481,7 +1593,7 @@ window.ATOS_2_CARTA = [
     },
     "context": "Paulo é preso em Jerusalém e passa por uma sequência de audiências diante do povo, autoridades religiosas e governantes romanos. Sua liberdade diminui, mas sua possibilidade de testemunhar continua. A prisão não cancela sua voz.",
     "passage": {
-      "ref": "Atos 21 · capítulo completo (NVI)",
+      "ref": "Atos 21-26",
       "verses": [
         {
           "n": 1,
@@ -1642,6 +1754,610 @@ window.ATOS_2_CARTA = [
         {
           "n": 40,
           "text": "Tendo recebido permissão do comandante, Paulo levantou-se na escadaria e fez sinal à multidão. Quando todos fizeram silêncio, dirigiu-se a eles em aramaico:"
+        },
+        {
+          "n": 41,
+          "text": "[At 22.1] \"Irmãos e pais, ouçam agora a minha defesa\"."
+        },
+        {
+          "n": 42,
+          "text": "[22.2] Quando ouviram que lhes falava em aramaico, ficaram em absoluto silêncio. Então Paulo disse:"
+        },
+        {
+          "n": 43,
+          "text": "[22.3] \"Sou judeu, nascido em Tarso da Cilícia, mas criado nesta cidade. Fui instruído rigorosamente por Gamaliel na lei de nossos antepassados, sendo tão zeloso por Deus quanto qualquer de vocês hoje."
+        },
+        {
+          "n": 44,
+          "text": "[22.4] Persegui os seguidores deste Caminho até a morte, prendendo tanto homens como mulheres e lançando-os na prisão,"
+        },
+        {
+          "n": 45,
+          "text": "[22.5] como o podem testemunhar o sumo sacerdote e todo o Conselho, de quem cheguei a obter cartas para seus irmãos em Damasco e fui até lá, a fim de trazer essas pessoas a Jerusalém como prisioneiras, para serem punidas."
+        },
+        {
+          "n": 46,
+          "text": "[22.6] \"Por volta do meio-dia, eu me aproximava de Damasco, quando de repente uma forte luz vinda do céu brilhou ao meu redor."
+        },
+        {
+          "n": 47,
+          "text": "[22.7] Caí por terra e ouvi uma voz que me dizia: ‘Saulo, Saulo! por que você está me perseguindo? ’"
+        },
+        {
+          "n": 48,
+          "text": "[22.8] Então perguntei: Quem és tu, Senhor? E ele respondeu: ‘Eu sou Jesus, o Nazareno, a quem você persegue’."
+        },
+        {
+          "n": 49,
+          "text": "[22.9] Os que me acompanhavam viram a luz, mas não entenderam a voz daquele que falava comigo."
+        },
+        {
+          "n": 50,
+          "text": "[22.10] \"Assim perguntei: Que devo fazer, Senhor? Disse o Senhor: ‘Levante-se, entre em Damasco, onde lhe será dito o que você deve fazer’."
+        },
+        {
+          "n": 51,
+          "text": "[22.11] Os que estavam comigo me levaram pela mão até Damasco, porque o resplendor da luz me deixara cego."
+        },
+        {
+          "n": 52,
+          "text": "[22.12] \"Um homem chamado Ananias, piedoso segundo a lei e muito respeitado por todos os judeus que ali viviam,"
+        },
+        {
+          "n": 53,
+          "text": "[22.13] veio ver-me e, pondo-se junto a mim, disse: ‘Irmão Saulo, recupere a visão’. Naquele mesmo instante pude vê-lo."
+        },
+        {
+          "n": 54,
+          "text": "[22.14] \"Então ele disse: ‘O Deus dos nossos antepassados o escolheu para conhecer a sua vontade, ver o Justo e ouvir as palavras de sua boca."
+        },
+        {
+          "n": 55,
+          "text": "[22.15] Você será testemunha dele a todos os homens, daquilo que viu e ouviu."
+        },
+        {
+          "n": 56,
+          "text": "[22.16] E agora, que está esperando? Levante-se, seja batizado e lave os seus pecados, invocando o nome dele’."
+        },
+        {
+          "n": 57,
+          "text": "[22.17] \"Quando voltei a Jerusalém, estando eu a orar no templo, caí em êxtase e"
+        },
+        {
+          "n": 58,
+          "text": "[22.18] vi o Senhor que me dizia: ‘Depressa! Saia de Jerusalém imediatamente, pois não aceitarão seu testemunho a meu respeito’."
+        },
+        {
+          "n": 59,
+          "text": "[22.19] \"Eu respondi: Senhor, estes homens sabem que eu ia de uma sinagoga a outra, a fim de prender e açoitar os que crêem em ti."
+        },
+        {
+          "n": 60,
+          "text": "[22.20] E quando foi derramado o sangue de tua testemunha Estêvão, eu estava lá, dando minha aprovação e cuidando das roupas dos que o matavam."
+        },
+        {
+          "n": 61,
+          "text": "[22.21] \"Então o Senhor me disse: ‘Vá, eu o enviarei para longe, aos gentios’ \"."
+        },
+        {
+          "n": 62,
+          "text": "[22.22] A multidão ouvia Paulo até que ele disse isso. Então todos levantaram a voz e gritaram: \"Tira esse homem da face da terra! Ele não merece viver! \""
+        },
+        {
+          "n": 63,
+          "text": "[22.23] Estando eles gritando, tirando suas capas e lançando poeira para o ar,"
+        },
+        {
+          "n": 64,
+          "text": "[22.24] o comandante ordenou que Paulo fosse levado à fortaleza e fosse açoitado e interrogado, para saber por que o povo gritava daquela forma contra ele."
+        },
+        {
+          "n": 65,
+          "text": "[22.25] Enquanto o amarravam a fim de açoitá-lo, Paulo disse ao centurião que ali estava: \"Vocês têm o direito de açoitar um cidadão romano sem que ele tenha sido condenado? \""
+        },
+        {
+          "n": 66,
+          "text": "[22.26] Ao ouvir isso, o centurião foi prevenir o comandante: \"Que vais fazer? Este homem é cidadão romano\"."
+        },
+        {
+          "n": 67,
+          "text": "[22.27] O comandante dirigiu-se a Paulo e perguntou: \"Diga-me, você é cidadão romano? \" Ele respondeu: \"Sim, sou\"."
+        },
+        {
+          "n": 68,
+          "text": "[22.28] Então o comandante disse: \"Eu precisei pagar um elevado preço por minha cidadania\". Respondeu Paulo: \"Eu a tenho por direito de nascimento\"."
+        },
+        {
+          "n": 69,
+          "text": "[22.29] Os que iam interrogá-lo retiraram-se imediatamente. O próprio comandante ficou alarmado, ao saber que havia prendido um cidadão romano."
+        },
+        {
+          "n": 70,
+          "text": "[22.30] No dia seguinte, visto que o comandante queria descobrir exatamente por que Paulo estava sendo acusado pelos judeus, libertou-o e ordenou que se reunissem os chefes dos sacerdotes e todo o Sinédrio. Então, trazendo Paulo, apresentou-o a eles."
+        },
+        {
+          "n": 71,
+          "text": "[At 23.1] Paulo, fixando os olhos no Sinédrio, disse: \"Meus irmãos, tenho cumprido meu dever para com Deus com toda a boa consciência, até o dia de hoje\"."
+        },
+        {
+          "n": 72,
+          "text": "[23.2] Diante disso o sumo sacerdote Ananias deu ordens aos que estavam perto de Paulo para que lhe batessem na boca."
+        },
+        {
+          "n": 73,
+          "text": "[23.3] Então Paulo lhe disse: \"Deus te ferirá, parede branqueada! Estás aí sentado para me julgar conforme a lei, mas contra a lei me mandas ferir? \""
+        },
+        {
+          "n": 74,
+          "text": "[23.4] Os que estavam perto de Paulo disseram: \"Você ousa insultar o sumo sacerdote de Deus? \""
+        },
+        {
+          "n": 75,
+          "text": "[23.5] Paulo respondeu: \"Irmãos, eu não sabia que ele era o sumo sacerdote, pois está escrito: ‘Não fale mal de uma autoridade do seu povo’ \"."
+        },
+        {
+          "n": 76,
+          "text": "[23.6] Então Paulo, sabendo que alguns deles eram saduceus e os outros fariseus, bradou no Sinédrio: \"Irmãos, sou fariseu, filho de fariseu. Estou sendo julgado por causa da minha esperança na ressurreição dos mortos! \""
+        },
+        {
+          "n": 77,
+          "text": "[23.7] Dizendo isso, surgiu uma violenta discussão entre os fariseus e os saduceus, e a assembléia ficou dividida."
+        },
+        {
+          "n": 78,
+          "text": "[23.8] ( Os saduceus dizem que não há ressurreição nem anjos nem espíritos, mas os fariseus admitem todas essas coisas. )"
+        },
+        {
+          "n": 79,
+          "text": "[23.9] Houve um grande alvoroço, e alguns dos mestres da lei que eram fariseus se levantaram e começaram a discutir intensamente, dizendo: \"Não encontramos nada de errado neste homem. Quem sabe se algum espírito ou anjo falou com ele? \""
+        },
+        {
+          "n": 80,
+          "text": "[23.10] A discussão tornou-se tão violenta que o comandante teve medo que Paulo fosse despedaçado por eles. Então ordenou que as tropas descessem e o retirassem à força do meio deles, levando-o para a fortaleza."
+        },
+        {
+          "n": 81,
+          "text": "[23.11] Na noite seguinte o Senhor, pondo-se ao lado dele, disse: \"Coragem! Assim como você testemunhou a meu respeito em Jerusalém, deverá testemunhar também em Roma\"."
+        },
+        {
+          "n": 82,
+          "text": "[23.12] Na manhã seguinte os judeus tramaram uma conspiração e juraram solenemente que não comeriam nem beberiam enquanto não matassem Paulo."
+        },
+        {
+          "n": 83,
+          "text": "[23.13] Mais de quarenta homens estavam envolvidos nessa conspiração."
+        },
+        {
+          "n": 84,
+          "text": "[23.14] E, dirigindo-se aos chefes dos sacerdotes e aos líderes dos judeus, disseram: \"Juramos solenemente, sob maldição, que não comeremos nada enquanto não matarmos Paulo."
+        },
+        {
+          "n": 85,
+          "text": "[23.15] Agora, portanto, vocês e o Sinédrio peçam ao comandante que o faça comparecer diante de vocês com o pretexto de obter informações mais exatas sobre o seu caso. Estaremos prontos para matá-lo antes que ele chegue aqui\"."
+        },
+        {
+          "n": 86,
+          "text": "[23.16] Entretanto, o sobrinho de Paulo, filho de sua irmã, teve conhecimento dessa conspiração, foi à fortaleza e contou tudo a Paulo,"
+        },
+        {
+          "n": 87,
+          "text": "[23.17] que, chamando um dos centuriões, disse: \"Leve este rapaz ao comandante; ele tem algo para lhe dizer\"."
+        },
+        {
+          "n": 88,
+          "text": "[23.18] Assim ele o levou ao comandante. Então disse o centurião: \"Paulo, o prisioneiro, chamou-me, pediu-me que te trouxesse este rapaz, pois ele tem algo para te falar\"."
+        },
+        {
+          "n": 89,
+          "text": "[23.19] O comandante tomou o rapaz pela mão, levou-o à parte e perguntou: \"Que você tem para me dizer? \""
+        },
+        {
+          "n": 90,
+          "text": "[23.20] Ele respondeu: \"Os judeus planejaram pedir-te que apresentes Paulo ao Sinédrio amanhã, sob pretexto de buscar informações mais exatas a respeito dele."
+        },
+        {
+          "n": 91,
+          "text": "[23.21] Não te deixes convencer, pois mais de quarenta deles estão preparando uma emboscada contra Paulo. Eles juraram solenemente não comer nem beber enquanto não o matarem. Estão preparados agora, esperando que prometas atender-lhes o pedido\"."
+        },
+        {
+          "n": 92,
+          "text": "[23.22] O comandante despediu o rapaz e recomendou-lhe: \"Não diga a ninguém que você me contou isso\"."
+        },
+        {
+          "n": 93,
+          "text": "[23.23] Então ele chamou dois de seus centuriões e ordenou-lhes: \"Preparem um destacamento de duzentos soldados, setenta cavaleiros e duzentos lanceiros a fim de irem para Cesaréia esta noite, às nove horas da noite."
+        },
+        {
+          "n": 94,
+          "text": "[23.24] Providenciem montarias para Paulo, e levem-no em segurança ao governador Félix\"."
+        },
+        {
+          "n": 95,
+          "text": "[23.25] O comandante escreveu uma carta nestes termos:"
+        },
+        {
+          "n": 96,
+          "text": "[23.26] Cláudio Lísias, ao Excelentíssimo Governador Félix, Saudações."
+        },
+        {
+          "n": 97,
+          "text": "[23.27] Este homem foi preso pelos judeus, que estavam prestes a matá-lo quando eu, chegando com minhas tropas, o resgatei, pois soube que ele é cidadão romano."
+        },
+        {
+          "n": 98,
+          "text": "[23.28] Querendo saber por que o estavam acusando, levei-o ao Sinédrio deles."
+        },
+        {
+          "n": 99,
+          "text": "[23.29] Descobri que ele estava sendo acusado em questões acerca da lei deles, mas não havia contra ele nenhuma acusação que merecesse morte ou prisão."
+        },
+        {
+          "n": 100,
+          "text": "[23.30] Quando fui informado de que estava sendo preparada uma cilada contra ele, enviei-o imediatamente a Vossa Excelência. Também ordenei que os seus acusadores apresentassem a Vossa Excelência aquilo que têm contra ele."
+        },
+        {
+          "n": 101,
+          "text": "[23.31] Os soldados, cumprindo o seu dever, levaram Paulo durante a noite, e chegaram a Antipátride."
+        },
+        {
+          "n": 102,
+          "text": "[23.32] No dia seguinte deixaram a cavalaria prosseguir com ele, e voltaram para a fortaleza."
+        },
+        {
+          "n": 103,
+          "text": "[23.33] Quando a cavalaria chegou a Cesaréia, deu a carta ao governador e lhe entregou Paulo."
+        },
+        {
+          "n": 104,
+          "text": "[23.34] O governador leu a carta e perguntou de que província era ele. Informado de que era da Cilícia,"
+        },
+        {
+          "n": 105,
+          "text": "[23.35] disse: \"Ouvirei seu caso quando os seus acusadores chegarem aqui\". Então ordenou que Paulo fosse mantido sob custódia no palácio de Herodes."
+        },
+        {
+          "n": 106,
+          "text": "[At 24.1] Cinco dias depois, o sumo sacerdote Ananias desceu a Cesaréia com alguns dos líderes dos judeus e um advogado chamado Tértulo, os quais apresentaram ao governador suas acusações contra Paulo."
+        },
+        {
+          "n": 107,
+          "text": "[24.2] Quando Paulo foi chamado, Tértulo apresentou sua causa a Félix: \"Temos desfrutado de um longo período de paz durante o teu governo, e o teu providente cuidado resultou em reformas nesta nação."
+        },
+        {
+          "n": 108,
+          "text": "[24.3] Em tudo e em toda parte, excelentíssimo Félix, reconhecemos estes benefícios com profunda gratidão."
+        },
+        {
+          "n": 109,
+          "text": "[24.4] Todavia, a fim de não tomar-te mais tempo, peço-te o favor de ouvir-nos apenas por um pouco."
+        },
+        {
+          "n": 110,
+          "text": "[24.5] \"Verificamos que este homem é um perturbador, que promove tumultos entre os judeus pelo mundo todo. Ele é o principal cabeça da seita dos nazarenos"
+        },
+        {
+          "n": 111,
+          "text": "[24.6] e tentou até mesmo profanar o templo; então o prendemos e quisemos julgá-lo segundo a nossa lei."
+        },
+        {
+          "n": 112,
+          "text": "[24.7] Mas o comandante Lísias interveio, e com muita força o arrebatou de nossas mãos e ordenou que os seus acusadores se apresentassem."
+        },
+        {
+          "n": 113,
+          "text": "[24.8] Se tu mesmo o interrogares, poderás verificar a verdade a respeito de todas estas acusações que estamos fazendo contra ele\"."
+        },
+        {
+          "n": 114,
+          "text": "[24.9] Os judeus confirmaram a acusação, garantindo que as afirmações eram verdadeiras."
+        },
+        {
+          "n": 115,
+          "text": "[24.10] Quando o governador lhe deu sinal para que falasse, Paulo declarou: \"Sei que há muitos anos tens sido juiz nesta nação; por isso, de bom grado faço minha defesa."
+        },
+        {
+          "n": 116,
+          "text": "[24.11] Facilmente poderás verificar que há menos de doze dias subi a Jerusalém para adorar a Deus."
+        },
+        {
+          "n": 117,
+          "text": "[24.12] Meus acusadores não me encontraram discutindo com ninguém no templo, nem incitando uma multidão nas sinagogas ou em qualquer outro lugar na cidade."
+        },
+        {
+          "n": 118,
+          "text": "[24.13] Nem tampouco podem provar-te as acusações que agora estão levantando contra mim."
+        },
+        {
+          "n": 119,
+          "text": "[24.14] Confesso-te, porém, que adoro o Deus dos nossos antepassados como seguidor do Caminho, a que chamam seita. Creio em tudo o que concorda com a Lei e no que está escrito nos Profetas,"
+        },
+        {
+          "n": 120,
+          "text": "[24.15] e tenho em Deus a mesma esperança desses homens: de que haverá ressurreição tanto de justos como de injustos."
+        },
+        {
+          "n": 121,
+          "text": "[24.16] Por isso procuro sempre conservar minha consciência limpa diante de Deus e dos homens."
+        },
+        {
+          "n": 122,
+          "text": "[24.17] \"Depois de estar ausente por vários anos, vim a Jerusalém para trazer esmolas ao meu povo e apresentar ofertas."
+        },
+        {
+          "n": 123,
+          "text": "[24.18] Enquanto fazia isso, já cerimonialmente puro, encontraram-me no templo, sem envolver-me em nenhum ajuntamento ou tumulto."
+        },
+        {
+          "n": 124,
+          "text": "[24.19] Mas há alguns judeus da província da Ásia que deveriam estar aqui diante de ti e apresentar acusações, se é que têm algo contra mim."
+        },
+        {
+          "n": 125,
+          "text": "[24.20] Ou os que aqui se acham deveriam declarar que crime encontraram em mim quando fui levado perante o Sinédrio,"
+        },
+        {
+          "n": 126,
+          "text": "[24.21] a não ser que tenha sido este: quando me apresentei a eles, bradei: Por causa da ressurreição dos mortos estou sendo julgado hoje diante de vocês\"."
+        },
+        {
+          "n": 127,
+          "text": "[24.22] Então Félix, que tinha bom conhecimento do Caminho, adiou a causa e disse: \"Quando chegar o comandante Lísias, decidirei o caso de vocês\"."
+        },
+        {
+          "n": 128,
+          "text": "[24.23] E ordenou ao centurião que mantivesse Paulo sob custódia, mas que lhe desse certa liberdade e permitisse que os seus amigos o servissem."
+        },
+        {
+          "n": 129,
+          "text": "[24.24] Vários dias depois, Félix veio com Drusila sua mulher, que era judia, mandou chamar Paulo e o ouviu falar sobre a fé em Cristo Jesus."
+        },
+        {
+          "n": 130,
+          "text": "[24.25] Quando Paulo se pôs a discorrer acerca da justiça, do domínio próprio e do juízo vindouro, Félix teve medo e disse: \"Basta, por enquanto! Pode sair. Quando achar conveniente, mandarei chamá-lo de novo\"."
+        },
+        {
+          "n": 131,
+          "text": "[24.26] Ao mesmo tempo esperava que Paulo lhe oferecesse algum dinheiro, pelo que mandava buscá-lo freqüentemente e conversava com ele."
+        },
+        {
+          "n": 132,
+          "text": "[24.27] Passados dois anos, Félix foi sucedido por Pórcio Festo; todavia, porque desejava manter a simpatia dos judeus, Félix deixou Paulo na prisão."
+        },
+        {
+          "n": 133,
+          "text": "[At 25.1] Três dias depois de chegar à província, Festo subiu de Cesaréia para Jerusalém,"
+        },
+        {
+          "n": 134,
+          "text": "[25.2] onde os chefes dos sacerdotes e os judeus mais importantes compareceram diante dele, apresentando as acusações contra Paulo."
+        },
+        {
+          "n": 135,
+          "text": "[25.3] Pediram a Festo o favor de transferir Paulo para Jerusalém, contra os interesses do próprio Paulo, pois estavam preparando uma emboscada para matá-lo no caminho."
+        },
+        {
+          "n": 136,
+          "text": "[25.4] Festo respondeu: \"Paulo está preso em Cesaréia, e eu mesmo vou para lá em breve."
+        },
+        {
+          "n": 137,
+          "text": "[25.5] Desçam comigo alguns dos seus líderes e apresentem ali as acusações que têm contra esse homem, se realmente ele fez algo de errado\"."
+        },
+        {
+          "n": 138,
+          "text": "[25.6] Tendo passado com eles oito a dez dias, desceu para Cesaréia e, no dia seguinte, convocou o tribunal e ordenou que Paulo fosse trazido perante ele."
+        },
+        {
+          "n": 139,
+          "text": "[25.7] Quando Paulo apareceu, os judeus que tinham chegado de Jerusalém se aglomeraram ao seu redor, fazendo contra ele muitas e graves acusações que não podiam provar."
+        },
+        {
+          "n": 140,
+          "text": "[25.8] Então Paulo fez sua defesa: \"Nada fiz de errado contra a lei dos judeus, contra o templo ou contra César\"."
+        },
+        {
+          "n": 141,
+          "text": "[25.9] Festo, querendo prestar um favor aos judeus, perguntou a Paulo: \"Você está disposto a ir a Jerusalém e ali ser julgado diante de mim, acerca destas acusações? \""
+        },
+        {
+          "n": 142,
+          "text": "[25.10] Paulo respondeu: \"Estou agora diante do tribunal de César, onde devo ser julgado. Não fiz nenhum mal aos judeus, como bem sabes."
+        },
+        {
+          "n": 143,
+          "text": "[25.11] Se, de fato, sou culpado de ter feito algo que mereça pena de morte, não me recuso a morrer. Mas se as acusações feitas contra mim por estes judeus não são verdadeiras, ninguém tem o direito de me entregar a eles. Apelo para César! \""
+        },
+        {
+          "n": 144,
+          "text": "[25.12] Depois de ter consultado seus conselheiros, Festo declarou: \"Você apelou para César, para César irá! \""
+        },
+        {
+          "n": 145,
+          "text": "[25.13] Alguns dias depois, o rei Agripa e Berenice chegaram a Cesaréia para saudar Festo."
+        },
+        {
+          "n": 146,
+          "text": "[25.14] Visto que estavam passando muitos dias ali, Festo explicou o caso de Paulo ao rei: \"Há aqui um homem que Félix deixou preso."
+        },
+        {
+          "n": 147,
+          "text": "[25.15] Quando fui a Jerusalém, os chefes dos sacerdotes e os líderes dos judeus fizeram acusações contra ele, pedindo que fosse condenado."
+        },
+        {
+          "n": 148,
+          "text": "[25.16] \"Eu lhes disse que não é costume romano condenar ninguém antes que ele se defronte pessoalmente com seus acusadores e tenha a oportunidade de se defender das acusações que lhe fazem."
+        },
+        {
+          "n": 149,
+          "text": "[25.17] Vindo eles comigo para cá, não retardei o caso; convoquei o tribunal no dia seguinte e ordenei que o homem fosse apresentado."
+        },
+        {
+          "n": 150,
+          "text": "[25.18] Quando os seus acusadores se levantaram para falar, não o acusaram de nenhum dos crimes que eu esperava."
+        },
+        {
+          "n": 151,
+          "text": "[25.19] Pelo contrário, tinham alguns pontos de divergência com ele acerca de sua própria religião e de um certo Jesus, já morto, o qual Paulo insiste que está vivo."
+        },
+        {
+          "n": 152,
+          "text": "[25.20] Fiquei sem saber como investigar tais assuntos; por isso perguntei-lhe se ele estaria disposto a ir a Jerusalém e ser julgado ali acerca destas acusações."
+        },
+        {
+          "n": 153,
+          "text": "[25.21] Apelando Paulo para que fosse guardado até a decisão do Imperador, ordenei que ficasse sob custódia até que eu pudesse enviá-lo a César\"."
+        },
+        {
+          "n": 154,
+          "text": "[25.22] Então Agripa disse a Festo: \"Eu também gostaria de ouvir esse homem\". Ele respondeu: \"Amanhã o ouvirás\"."
+        },
+        {
+          "n": 155,
+          "text": "[25.23] No dia seguinte, Agripa e Berenice vieram com grande pompa e entraram na sala de audiências com os altos oficiais e os homens importantes da cidade. Por ordem de Festo, Paulo foi trazido."
+        },
+        {
+          "n": 156,
+          "text": "[25.24] Então Festo disse: \"Ó rei Agripa e todos os senhores aqui presentes conosco, vejam este homem! Toda a comunidade judaica me fez petições a respeito dele em Jerusalém e aqui em Cesaréia, gritando que ele não deveria mais viver."
+        },
+        {
+          "n": 157,
+          "text": "[25.25] Mas verifiquei que ele nada fez que mereça pena de morte; todavia, porque apelou para o Imperador, decidi enviá-lo a Roma."
+        },
+        {
+          "n": 158,
+          "text": "[25.26] No entanto, não tenho nada definido a respeito dele para escrever a Sua Majestade. Por isso, eu o trouxe diante dos senhores, e especialmente diante de ti, rei Agripa, de forma que, feita esta investigação, eu tenha algo para escrever."
+        },
+        {
+          "n": 159,
+          "text": "[25.27] Pois não me parece razoável enviar um preso sem especificar as acusações contra ele\"."
+        },
+        {
+          "n": 160,
+          "text": "[At 26.1] Então Agripa disse a Paulo: \"Você tem permissão para falar em sua defesa\". A seguir, Paulo fez sinal com a mão e começou a sua defesa:"
+        },
+        {
+          "n": 161,
+          "text": "[26.2] \"Rei Agripa, considero-me feliz por poder estar hoje em tua presença, para fazer a minha defesa contra todas as acusações dos judeus,"
+        },
+        {
+          "n": 162,
+          "text": "[26.3] e especialmente porque estás bem familiarizado com todos os costumes e controvérsias deles. Portanto, peço que me ouças pacientemente."
+        },
+        {
+          "n": 163,
+          "text": "[26.4] \"Todos os judeus sabem como tenho vivido desde pequeno, tanto em minha terra natal como em Jerusalém."
+        },
+        {
+          "n": 164,
+          "text": "[26.5] Eles me conhecem há muito tempo e podem testemunhar, se quiserem, que, como fariseu, vivi de acordo com a seita mais severa da nossa religião."
+        },
+        {
+          "n": 165,
+          "text": "[26.6] Agora, estou sendo julgado por causa da minha esperança no que Deus prometeu aos nossos antepassados."
+        },
+        {
+          "n": 166,
+          "text": "[26.7] Esta é a promessa que as nossas doze tribos esperam que se cumpra, cultuando a Deus com fervor, dia e noite. É por causa desta esperança, ó rei, que estou sendo acusado pelos judeus."
+        },
+        {
+          "n": 167,
+          "text": "[26.8] Por que os senhores acham impossível que Deus ressuscite os mortos?"
+        },
+        {
+          "n": 168,
+          "text": "[26.9] \"Eu também estava convencido de que deveria fazer todo o possível para me opor ao nome de Jesus, o Nazareno."
+        },
+        {
+          "n": 169,
+          "text": "[26.10] E foi exatamente isso que fiz em Jerusalém. Com autorização dos chefes dos sacerdotes lancei muitos santos na prisão, e quando eles eram condenados à morte eu dava o meu voto contra eles."
+        },
+        {
+          "n": 170,
+          "text": "[26.11] Muitas vezes ia de uma sinagoga para outra a fim de castigá-los, e tentava forçá-los a blasfemar. Em minha fúria contra eles, cheguei a ir a cidades estrangeiras para persegui-los."
+        },
+        {
+          "n": 171,
+          "text": "[26.12] \"Numa dessas viagens eu estava indo para Damasco, com autorização e permissão dos chefes dos sacerdotes."
+        },
+        {
+          "n": 172,
+          "text": "[26.13] Por volta do meio-dia, ó rei, estando eu a caminho, vi uma luz do céu, mais resplandecente que o sol, brilhando ao meu redor e ao redor dos que iam comigo."
+        },
+        {
+          "n": 173,
+          "text": "[26.14] Todos caímos por terra. Então ouvi uma voz que me dizia em aramaico. ‘Saulo, Saulo, por que você está me perseguindo? Resistir ao aguilhão só lhe trará dor! ’"
+        },
+        {
+          "n": 174,
+          "text": "[26.15] \"Então perguntei: Quem és tu, Senhor? \"Respondeu o Senhor: ‘Sou Jesus, a quem você está perseguindo."
+        },
+        {
+          "n": 175,
+          "text": "[26.16] Agora, levante-se, fique de pé. Eu lhe apareci para constituí-lo servo e testemunha do que você viu a meu respeito e do que lhe mostrarei."
+        },
+        {
+          "n": 176,
+          "text": "[26.17] Eu o livrarei do seu próprio povo e dos gentios, aos quais eu o envio"
+        },
+        {
+          "n": 177,
+          "text": "[26.18] para abrir-lhes os olhos e convertê-los das trevas para a luz, e do poder de Satanás para Deus, a fim de que recebam o perdão dos pecados e herança entre os que são santificados pela fé em mim’."
+        },
+        {
+          "n": 178,
+          "text": "[26.19] \"Assim, rei Agripa, não fui desobediente à visão celestial."
+        },
+        {
+          "n": 179,
+          "text": "[26.20] Preguei em primeiro lugar aos que estavam em Damasco, depois aos que estavam em Jerusalém e em toda a Judéia, e também aos gentios, dizendo que se arrependessem e se voltassem para Deus, praticando obras que mostrassem o seu arrependimento."
+        },
+        {
+          "n": 180,
+          "text": "[26.21] Por isso os judeus me prenderam no pátio do templo e tentaram matar-me."
+        },
+        {
+          "n": 181,
+          "text": "[26.22] Mas tenho contado com a ajuda de Deus até o dia de hoje, e, por este motivo, estou aqui e dou testemunho tanto a gente simples como a gente importante. Não estou dizendo nada além do que os profetas e Moisés disseram que haveria de acontecer:"
+        },
+        {
+          "n": 182,
+          "text": "[26.23] que o Cristo haveria de sofrer e, sendo o primeiro a ressuscitar dentre os mortos, proclamaria luz para o seu próprio povo e para os gentios\"."
+        },
+        {
+          "n": 183,
+          "text": "[26.24] A esta altura Festo interrompeu a defesa de Paulo e disse em alta voz: \"Você está louco, Paulo! As muitas letras o estão levando à loucura! \""
+        },
+        {
+          "n": 184,
+          "text": "[26.25] Respondeu Paulo: \"Não estou louco, excelentíssimo Festo. O que estou dizendo é verdadeiro e de bom senso."
+        },
+        {
+          "n": 185,
+          "text": "[26.26] O rei está familiarizado com essas coisas, e lhe posso falar abertamente. Estou certo de que nada disso escapou do seu conhecimento, pois nada se passou num lugar qualquer."
+        },
+        {
+          "n": 186,
+          "text": "[26.27] Rei Agripa, crês nos profetas? Eu sei que sim\"."
+        },
+        {
+          "n": 187,
+          "text": "[26.28] Então Agripa disse a Paulo: \"Você acha que em tão pouco tempo pode convencer-me a tornar-me cristão? \""
+        },
+        {
+          "n": 188,
+          "text": "[26.29] Paulo respondeu: \"Em pouco ou em muito, peço a Deus que não apenas tu, mas todos os que hoje me ouvem se tornem como eu, menos estas algemas\"."
+        },
+        {
+          "n": 189,
+          "text": "[26.30] O rei se levantou, e com ele o governador e Berenice, como também os que estavam assentados com eles."
+        },
+        {
+          "n": 190,
+          "text": "[26.31] Saindo do salão, comentavam entre si: \"Este homem não fez nada que mereça morte ou prisão\"."
+        },
+        {
+          "n": 191,
+          "text": "[26.32] Agripa disse a Festo: \"Ele poderia ser posto em liberdade, se não tivesse apelado para César\"."
         }
       ]
     },
@@ -1674,7 +2390,7 @@ window.ATOS_2_CARTA = [
     },
     "context": "Os capítulos finais levam Paulo por uma tempestade, um naufrágio, Malta e finalmente Roma. Quando chega ao centro do império, ele permanece sob custódia, mas recebe pessoas e continua ensinando sobre o Reino de Deus e Jesus.",
     "passage": {
-      "ref": "Atos 27 · capítulo completo (NVI)",
+      "ref": "Atos 27-28",
       "verses": [
         {
           "n": 1,
@@ -1851,6 +2567,130 @@ window.ATOS_2_CARTA = [
         {
           "n": 44,
           "text": "Os outros teriam que salvar-se em tábuas ou em pedaços do navio. Dessa forma, todos chegaram a salvo em terra."
+        },
+        {
+          "n": 45,
+          "text": "[At 28.1] Uma vez em terra, descobrimos que a ilha se chamava Malta."
+        },
+        {
+          "n": 46,
+          "text": "[28.2] Os habitantes da ilha mostraram extraordinária bondade para conosco. Fizeram uma fogueira e receberam bem a todos nós, pois estava chovendo e fazia frio."
+        },
+        {
+          "n": 47,
+          "text": "[28.3] Paulo ajuntou um monte de gravetos; quando os colocava no fogo, uma víbora, fugindo do calor, prendeu-se à sua mão."
+        },
+        {
+          "n": 48,
+          "text": "[28.4] Quando os habitantes da ilha viram a cobra agarrada na mão de Paulo, disseram uns aos outros: \"Certamente este homem é assassino, pois, tendo escapado do mar, a Justiça não lhe permite viver\"."
+        },
+        {
+          "n": 49,
+          "text": "[28.5] Mas Paulo, sacudindo a cobra no fogo, não sofreu mal nenhum."
+        },
+        {
+          "n": 50,
+          "text": "[28.6] Eles, porém, esperavam que ele começasse a inchar ou que caísse morto de repente, mas, tendo esperado muito tempo e vendo que nada de estranho lhe sucedia, mudaram de idéia e passaram a dizer que ele era um deus."
+        },
+        {
+          "n": 51,
+          "text": "[28.7] Próximo dali havia uma propriedade pertencente a Públio, o homem principal da ilha. Ele nos convidou a ficar em sua casa e, por três dias, bondosamente nos recebeu e nos hospedou."
+        },
+        {
+          "n": 52,
+          "text": "[28.8] Seu pai estava doente, acamado, sofrendo de febre e disenteria. Paulo entrou para vê-lo e, depois de orar, impôs-lhe as mãos e o curou."
+        },
+        {
+          "n": 53,
+          "text": "[28.9] Tendo acontecido isso, os outros doentes da ilha vieram e foram curados."
+        },
+        {
+          "n": 54,
+          "text": "[28.10] Eles nos prestaram muitas honras e, quando estávamos para embarcar, forneceram-nos os suprimentos que necessitávamos."
+        },
+        {
+          "n": 55,
+          "text": "[28.11] Passados três meses, embarcamos num navio que tinha passado o inverno na ilha; era um navio alexandrino, que tinha por emblema os deuses gêmeos Castor e Pólux."
+        },
+        {
+          "n": 56,
+          "text": "[28.12] Aportando em Siracusa, ficamos ali três dias."
+        },
+        {
+          "n": 57,
+          "text": "[28.13] Dali partimos e chegamos a Régio. No dia seguinte, soprando o vento sul, prosseguimos, chegando a Potéoli no segundo dia."
+        },
+        {
+          "n": 58,
+          "text": "[28.14] Ali encontramos alguns irmãos que nos convidaram a passar uma semana com eles. E depois fomos para Roma."
+        },
+        {
+          "n": 59,
+          "text": "[28.15] Os irmãos dali tinham ouvido falar que estávamos chegando e foram até a praça de Ápio e às Três Vendas para nos encontrar. Vendo-os, Paulo deu graças a Deus e sentiu-se encorajado."
+        },
+        {
+          "n": 60,
+          "text": "[28.16] Quando chegamos a Roma, Paulo recebeu permissão para morar por conta própria, sob a custódia de um soldado."
+        },
+        {
+          "n": 61,
+          "text": "[28.17] Três dias depois, ele convocou os líderes dos judeus. Quando estes se reuniram, Paulo lhes disse: \"Meus irmãos, embora eu não tenha feito nada contra o nosso povo nem contra os costumes dos nossos antepassados, fui preso em Jerusalém e entregue aos romanos."
+        },
+        {
+          "n": 62,
+          "text": "[28.18] Eles me interrogaram e queriam me soltar, porque eu não era culpado de crime algum que merecesse pena de morte."
+        },
+        {
+          "n": 63,
+          "text": "[28.19] Todavia, tendo os judeus feito objeção, fui obrigado a apelar para César, não porém, por ter alguma acusação contra o meu próprio povo."
+        },
+        {
+          "n": 64,
+          "text": "[28.20] Por essa razão pedi para vê-los e conversar com vocês. Por causa da esperança de Israel é que estou preso com estas algemas\"."
+        },
+        {
+          "n": 65,
+          "text": "[28.21] Eles responderam: \"Não recebemos nenhuma carta da Judéia a seu respeito, e nenhum dos irmãos que vieram de lá relatou ou disse qualquer coisa de mal contra você."
+        },
+        {
+          "n": 66,
+          "text": "[28.22] Todavia, queremos ouvir de sua parte o que você pensa, pois sabemos que por todo lugar há gente falando contra esta seita\"."
+        },
+        {
+          "n": 67,
+          "text": "[28.23] Assim combinaram encontrar-se com Paulo em dia determinado, indo em grupo ainda mais numeroso ao lugar onde ele estava. Desde a manhã até à tarde ele lhes deu explicações e lhes testemunhou do Reino de Deus, procurando convencê-los a respeito de Jesus, com base na Lei de Moisés e nos Profetas."
+        },
+        {
+          "n": 68,
+          "text": "[28.24] Alguns foram convencidos pelo que ele dizia, mas outros não creram."
+        },
+        {
+          "n": 69,
+          "text": "[28.25] Discordaram entre si mesmos e começaram a ir embora, depois de Paulo ter feito esta declaração final: \"Bem que o Espírito Santo falou aos seus antepassados, por meio do profeta Isaías:"
+        },
+        {
+          "n": 70,
+          "text": "[28.26] ‘Vá a este povo e diga: \"Ainda que estejam sempre ouvindo, vocês nunca entenderão; ainda que estejam sempre vendo, jamais perceberão\"."
+        },
+        {
+          "n": 71,
+          "text": "[28.27] Pois o coração deste povo se tornou insensível; de má vontade ouviram com os seus ouvidos, e fecharam os seus olhos. Se assim não fosse, poderiam ver com os olhos, ouvir com os ouvidos, entender com o coração e converter-se, e eu os curaria’."
+        },
+        {
+          "n": 72,
+          "text": "[28.28] \"Portanto, quero que saibam que esta salvação de Deus é enviada aos gentios; eles a ouvirão! \""
+        },
+        {
+          "n": 73,
+          "text": "[28.29] Depois que ele disse isto, os judeus se retiraram, discutindo intensamente entre si."
+        },
+        {
+          "n": 74,
+          "text": "[28.30] Por dois anos inteiros Paulo permaneceu na casa que havia alugado, e recebia a todos os que iam vê-lo."
+        },
+        {
+          "n": 75,
+          "text": "[28.31] Pregava o Reino de Deus e ensinava a respeito do Senhor Jesus Cristo, abertamente e sem impedimento algum."
         }
       ]
     },

@@ -23,7 +23,7 @@ window.JOAO_EVANGELHO_1_CARTA = [
     },
     "context": "João abre seu evangelho olhando para antes de todas as coisas e, ao mesmo tempo, trazendo essa grandeza para muito perto. A Palavra que estava com Deus e era Deus se fez carne. A luz entrou nas trevas, a graça ganhou rosto e o Deus invisível se tornou conhecido em Jesus. Antes de qualquer chamado à mudança, existe essa notícia: Deus se aproximou.",
     "passage": {
-      "ref": "João 1 · capítulo completo (NVI)",
+      "ref": "João 1.1-18",
       "verses": [
         {
           "n": 1,
@@ -96,138 +96,6 @@ window.JOAO_EVANGELHO_1_CARTA = [
         {
           "n": 18,
           "text": "Ninguém jamais viu a Deus, mas o Deus Unigênito, que está junto do Pai, o tornou conhecido."
-        },
-        {
-          "n": 19,
-          "text": "Esse foi o testemunho de João, quando os judeus de Jerusalém enviaram sacerdotes e levitas para lhe perguntarem quem ele era."
-        },
-        {
-          "n": 20,
-          "text": "Ele confessou e não negou; declarou abertamente: \"Não sou o Cristo\"."
-        },
-        {
-          "n": 21,
-          "text": "Perguntaram-lhe: \"E então, quem é você? É Elias? \" Ele disse: \"Não sou\". \"É o Profeta? \" Ele respondeu: \"Não\"."
-        },
-        {
-          "n": 22,
-          "text": "Finalmente perguntaram: \"Quem é você? Dê-nos uma resposta, para que a levemos àqueles que nos enviaram. Que diz você acerca de si próprio? \""
-        },
-        {
-          "n": 23,
-          "text": "João respondeu com as palavras do profeta Isaías: \"Eu sou a voz do que clama no deserto: ‘Façam um caminho reto para o Senhor’ \"."
-        },
-        {
-          "n": 24,
-          "text": "Alguns fariseus que tinham sido enviados"
-        },
-        {
-          "n": 25,
-          "text": "interrogaram-no: \"Então, por que você batiza, se não é o Cristo, nem Elias, nem o Profeta? \""
-        },
-        {
-          "n": 26,
-          "text": "Respondeu João: \"Eu batizo com água, mas entre vocês está alguém que vocês não conhecem."
-        },
-        {
-          "n": 27,
-          "text": "Ele é aquele que vem depois de mim, cujas correias das sandálias não sou digno de desamarrar\"."
-        },
-        {
-          "n": 28,
-          "text": "Tudo isso aconteceu em Betânia, do outro lado do Jordão, onde João estava batizando."
-        },
-        {
-          "n": 29,
-          "text": "No dia seguinte João viu Jesus aproximando-se e disse: \"Vejam! É o Cordeiro de Deus, que tira o pecado do mundo!"
-        },
-        {
-          "n": 30,
-          "text": "Este é aquele a quem eu me referi, quando disse: Vem depois de mim um homem que é superior a mim, porque já existia antes de mim."
-        },
-        {
-          "n": 31,
-          "text": "Eu mesmo não o conhecia, mas por isso é que vim batizando com água: para que ele viesse a ser revelado a Israel\"."
-        },
-        {
-          "n": 32,
-          "text": "Então João deu o seguinte testemunho: \"Eu vi o Espírito descer do céu como pomba e permanecer sobre ele."
-        },
-        {
-          "n": 33,
-          "text": "Eu não o teria reconhecido, se aquele que me enviou para batizar com água não me tivesse dito: ‘Aquele sobre quem você vir o Espírito descer e permanecer, esse é o que batiza com o Espírito Santo’."
-        },
-        {
-          "n": 34,
-          "text": "Eu vi e testifico que este é o Filho de Deus\"."
-        },
-        {
-          "n": 35,
-          "text": "No dia seguinte João estava ali novamente com dois dos seus discípulos."
-        },
-        {
-          "n": 36,
-          "text": "Quando viu Jesus passando, disse: \"Vejam! É o Cordeiro de Deus! \""
-        },
-        {
-          "n": 37,
-          "text": "Ouvindo-o dizer isso, os dois discípulos seguiram a Jesus."
-        },
-        {
-          "n": 38,
-          "text": "Voltando-se e vendo Jesus que os dois o seguiam, perguntou-lhes: \"O que vocês querem? \" Eles disseram: \"Rabi\", ( que significa Mestre ), \"onde estás hospedado? \""
-        },
-        {
-          "n": 39,
-          "text": "Respondeu ele: \"Venham e verão\". Então foram, por volta das quatro horas da tarde, viram onde ele estava hospedado e passaram com ele aquele dia."
-        },
-        {
-          "n": 40,
-          "text": "André, irmão de Simão Pedro, era um dos dois que tinham ouvido o que João dissera e que haviam seguido a Jesus."
-        },
-        {
-          "n": 41,
-          "text": "O primeiro que ele encontrou foi Simão, seu irmão, e lhe disse: \"Achamos o Messias\" ( isto é, o Cristo )."
-        },
-        {
-          "n": 42,
-          "text": "E o levou a Jesus. Jesus olhou para ele e disse: \"Você é Simão, filho de João. Será chamado Cefas\" ( que significa Pedro )."
-        },
-        {
-          "n": 43,
-          "text": "No dia seguinte Jesus decidiu partir para a Galiléia. Quando encontrou Filipe, disse-lhe: \"Siga-me\"."
-        },
-        {
-          "n": 44,
-          "text": "Filipe, como André e Pedro, era da cidade de Betsaida."
-        },
-        {
-          "n": 45,
-          "text": "Filipe encontrou Natanael e lhe disse: \"Achamos aquele sobre quem Moisés escreveu na Lei, e a respeito de quem os profetas também escreveram: Jesus de Nazaré, filho de José\"."
-        },
-        {
-          "n": 46,
-          "text": "Perguntou Natanael: \"Nazaré? Pode vir alguma coisa boa de lá? \" Disse Filipe: \"Venha e veja\"."
-        },
-        {
-          "n": 47,
-          "text": "Ao ver Natanael se aproximando, disse Jesus: \"Aí está um verdadeiro israelita, em quem não há falsidade\"."
-        },
-        {
-          "n": 48,
-          "text": "Perguntou Natanael: \"De onde me conheces? \" Jesus respondeu: \"Eu o vi quando você ainda estava debaixo da figueira, antes de Filipe o chamar\"."
-        },
-        {
-          "n": 49,
-          "text": "Então Natanael declarou: \"Mestre, tu és o Filho de Deus, tu és o Rei de Israel! \""
-        },
-        {
-          "n": 50,
-          "text": "Jesus disse: \"Você crê porque eu disse que o vi debaixo da figueira. Você verá coisas maiores do que essa! \""
-        },
-        {
-          "n": 51,
-          "text": "E então acrescentou: \"Digo-lhes a verdade: Vocês verão o céu aberto e os anjos de Deus subindo e descendo sobre o Filho do homem\"."
         }
       ]
     },
@@ -260,80 +128,8 @@ window.JOAO_EVANGELHO_1_CARTA = [
     },
     "context": "Depois do prólogo, João Batista aponta para Jesus e os primeiros discípulos começam a segui-lo. André leva Pedro, Filipe procura Natanael e o movimento se espalha por encontros pessoais. No centro da cena estão duas perguntas simples: 'o que vocês querem?' e 'onde estás hospedado?'. Jesus responde com um convite: venham e vejam.",
     "passage": {
-      "ref": "João 1 · capítulo completo (NVI)",
+      "ref": "João 1.19-51",
       "verses": [
-        {
-          "n": 1,
-          "text": "No princípio era aquele que é a Palavra. Ele estava com Deus, e era Deus."
-        },
-        {
-          "n": 2,
-          "text": "Ela estava com Deus no princípio."
-        },
-        {
-          "n": 3,
-          "text": "Todas as coisas foram feitas por intermédio dele; sem ele, nada do que existe teria sido feito."
-        },
-        {
-          "n": 4,
-          "text": "Nele estava a vida, e esta era a luz dos homens."
-        },
-        {
-          "n": 5,
-          "text": "A luz brilha nas trevas, e as trevas não a derrotaram."
-        },
-        {
-          "n": 6,
-          "text": "Surgiu um homem enviado por Deus, chamado João."
-        },
-        {
-          "n": 7,
-          "text": "Ele veio como testemunha, para testificar acerca da luz, a fim de que por meio dele todos os homens cressem."
-        },
-        {
-          "n": 8,
-          "text": "Ele próprio não era a luz, mas veio como testemunha da luz."
-        },
-        {
-          "n": 9,
-          "text": "Estava chegando ao mundo a verdadeira luz, que ilumina todos os homens."
-        },
-        {
-          "n": 10,
-          "text": "Aquele que é a Palavra estava no mundo, e o mundo foi feito por intermédio dele, mas o mundo não o reconheceu."
-        },
-        {
-          "n": 11,
-          "text": "Veio para o que era seu, mas os seus não o receberam."
-        },
-        {
-          "n": 12,
-          "text": "Contudo, aos que o receberam, aos que creram em seu nome, deu-lhes o direito de se tornarem filhos de Deus,"
-        },
-        {
-          "n": 13,
-          "text": "os quais não nasceram por descendência natural, nem pela vontade da carne nem pela vontade de algum homem, mas nasceram de Deus."
-        },
-        {
-          "n": 14,
-          "text": "Aquele que é a Palavra tornou-se carne e viveu entre nós. Vimos a sua glória, glória como do Unigênito vindo do Pai, cheio de graça e de verdade."
-        },
-        {
-          "n": 15,
-          "text": "João dá testemunho dele. Ele exclama: \"Este é aquele de quem eu falei: Aquele que vem depois de mim é superior a mim, porque já existia antes de mim\"."
-        },
-        {
-          "n": 16,
-          "text": "Todos recebemos da sua plenitude, graça sobre graça."
-        },
-        {
-          "n": 17,
-          "text": "Pois a Lei foi dada por intermédio de Moisés; a graça e a verdade vieram por intermédio de Jesus Cristo."
-        },
-        {
-          "n": 18,
-          "text": "Ninguém jamais viu a Deus, mas o Deus Unigênito, que está junto do Pai, o tornou conhecido."
-        },
         {
           "n": 19,
           "text": "Esse foi o testemunho de João, quando os judeus de Jerusalém enviaram sacerdotes e levitas para lhe perguntarem quem ele era."
@@ -630,7 +426,7 @@ window.JOAO_EVANGELHO_1_CARTA = [
     },
     "context": "Nicodemos chega a Jesus carregando conhecimento, posição e perguntas. Jesus não despreza sua história, mas mostra que nenhuma credencial consegue produzir aquilo que somente Deus pode gerar. No coração da conversa está o amor de Deus pelo mundo e o envio do Filho não para condenar, mas para salvar.",
     "passage": {
-      "ref": "João 3 · capítulo completo (NVI)",
+      "ref": "João 3.1-21",
       "verses": [
         {
           "n": 1,
@@ -715,66 +511,6 @@ window.JOAO_EVANGELHO_1_CARTA = [
         {
           "n": 21,
           "text": "Mas quem pratica a verdade vem para a luz, para que se veja claramente que as suas obras são realizadas por intermédio de Deus\"."
-        },
-        {
-          "n": 22,
-          "text": "Depois disso Jesus foi com os seus discípulos para a terra da Judéia, onde passou algum tempo com eles e batizava."
-        },
-        {
-          "n": 23,
-          "text": "João também estava batizando em Enom, perto de Salim, porque havia ali muitas águas, e o povo vinha para ser batizado."
-        },
-        {
-          "n": 24,
-          "text": "( Isto se deu antes de João ser preso. )"
-        },
-        {
-          "n": 25,
-          "text": "Surgiu uma discussão entre alguns discípulos de João e um certo judeu, a respeito da purificação cerimonial."
-        },
-        {
-          "n": 26,
-          "text": "Eles se dirigiram a João e lhe disseram: \"Mestre, aquele homem que estava contigo no outro lado do Jordão, do qual testemunhaste, está batizando, e todos estão se dirigindo a ele\"."
-        },
-        {
-          "n": 27,
-          "text": "A isso João respondeu: \"Uma pessoa só pode receber o que lhe é dado do céu."
-        },
-        {
-          "n": 28,
-          "text": "Vocês mesmos são testemunhas de que eu disse: Eu não sou o Cristo, mas sou aquele que foi enviado adiante dele."
-        },
-        {
-          "n": 29,
-          "text": "A noiva pertence ao noivo. O amigo que presta serviço ao noivo e que o atende e o ouve, enche-se de alegria quando ouve a voz do noivo. Esta é a minha alegria, que agora se completa."
-        },
-        {
-          "n": 30,
-          "text": "É necessário que ele cresça e que eu diminua."
-        },
-        {
-          "n": 31,
-          "text": "\"Aquele que vem do alto está acima de todos; aquele que é da terra pertence à terra e fala como quem é da terra. Aquele que vem do céu está acima de todos."
-        },
-        {
-          "n": 32,
-          "text": "Ele testifica o que tem visto e ouvido, mas ninguém aceita o seu testemunho."
-        },
-        {
-          "n": 33,
-          "text": "Aquele que o aceita confirma que Deus é verdadeiro."
-        },
-        {
-          "n": 34,
-          "text": "Pois aquele que Deus enviou fala as palavras de Deus, porque ele dá o Espírito sem limitações."
-        },
-        {
-          "n": 35,
-          "text": "O Pai ama o Filho e entregou tudo em suas mãos."
-        },
-        {
-          "n": 36,
-          "text": "Quem crê no Filho tem a vida eterna; já quem rejeita o Filho não verá a vida, mas a ira de Deus permanece sobre ele\"."
         }
       ]
     },
@@ -807,7 +543,7 @@ window.JOAO_EVANGELHO_1_CARTA = [
     },
     "context": "Jesus atravessa a Samaria, senta cansado junto ao poço e inicia uma conversa com uma mulher que provavelmente não esperava ser tratada com aquela atenção. A conversa passa de água para história pessoal, de lugares de adoração para o próprio Messias. A mulher que chegou sozinha para buscar água termina indo à cidade contar que encontrou alguém que a conheceu de verdade.",
     "passage": {
-      "ref": "João 4 · capítulo completo (NVI)",
+      "ref": "João 4.1-42",
       "verses": [
         {
           "n": 1,
@@ -976,54 +712,6 @@ window.JOAO_EVANGELHO_1_CARTA = [
         {
           "n": 42,
           "text": "E disseram à mulher: \"Agora cremos não somente por causa do que você disse, pois nós mesmos o ouvimos e sabemos que este é realmente o Salvador do mundo\"."
-        },
-        {
-          "n": 43,
-          "text": "Depois daqueles dois dias, ele partiu para a Galiléia."
-        },
-        {
-          "n": 44,
-          "text": "( Jesus tinha afirmado que nenhum profeta tem honra em sua própria terra. )"
-        },
-        {
-          "n": 45,
-          "text": "Quando chegou à Galiléia, os galileus deram-lhe boas-vindas. Eles tinham visto tudo o que ele fizera em Jerusalém, por ocasião da festa da Páscoa, pois também haviam estado lá."
-        },
-        {
-          "n": 46,
-          "text": "Mais uma vez, ele visitou Caná da Galiléia, onde tinha transformado água em vinho. E havia ali um oficial do rei, cujo filho estava doente em Cafarnaum."
-        },
-        {
-          "n": 47,
-          "text": "Quando ele ouviu falar que Jesus tinha chegado à Galiléia, vindo da Judéia, procurou-o e suplicou-lhe que fosse curar seu filho, que estava à beira da morte."
-        },
-        {
-          "n": 48,
-          "text": "Disse-lhe Jesus: \"Se vocês não virem sinais e maravilhas, nunca crerão\"."
-        },
-        {
-          "n": 49,
-          "text": "O oficial do rei disse: \"Senhor, vem, antes que o meu filho morra\"."
-        },
-        {
-          "n": 50,
-          "text": "Jesus respondeu: \"Pode ir. O seu filho continuará vivo\". O homem confiou na palavra de Jesus e partiu."
-        },
-        {
-          "n": 51,
-          "text": "Estando ele ainda a caminho, seus servos vieram ao seu encontro com notícias de que o menino estava vivo."
-        },
-        {
-          "n": 52,
-          "text": "Quando perguntou a que horas o seu filho tinha melhorado, eles lhe disseram: \"A febre o deixou ontem, à uma hora da tarde\"."
-        },
-        {
-          "n": 53,
-          "text": "Então o pai percebeu que aquela fora exatamente a hora em que Jesus lhe dissera: \"O seu filho continuará vivo\". Assim, creram ele e todos os de sua casa."
-        },
-        {
-          "n": 54,
-          "text": "Esse foi o segundo sinal miraculoso que Jesus realizou, depois que veio da Judéia para a Galiléia."
         }
       ]
     },
@@ -1277,7 +965,7 @@ window.JOAO_EVANGELHO_1_CARTA = [
     },
     "context": "João 6 começa com uma multidão faminta, poucos pães e peixes e uma provisão que excede o que parecia disponível. Depois, Jesus confronta a multidão porque muitos o procuram apenas pelo pão recebido. O sinal aponta para algo maior: ele próprio é o pão da vida.",
     "passage": {
-      "ref": "João 6 · capítulo completo (NVI)",
+      "ref": "João 6.1-40",
       "verses": [
         {
           "n": 1,
@@ -1438,130 +1126,6 @@ window.JOAO_EVANGELHO_1_CARTA = [
         {
           "n": 40,
           "text": "Porque a vontade de meu Pai é que todo o que olhar para o Filho e nele crer tenha a vida eterna, e eu o ressuscitarei no último dia\"."
-        },
-        {
-          "n": 41,
-          "text": "Com isso os judeus começaram a criticar Jesus, porque dissera: \"Eu sou o pão que desceu do céu\"."
-        },
-        {
-          "n": 42,
-          "text": "E diziam: \"Este não é Jesus, o filho de José? Não conhecemos seu pai e sua mãe? Como ele pode dizer: ‘Desci do céu’? \""
-        },
-        {
-          "n": 43,
-          "text": "Respondeu Jesus: \"Parem de fazer-me críticas."
-        },
-        {
-          "n": 44,
-          "text": "Ninguém pode vir a mim, se o Pai, que me enviou, não o atrair; e eu o ressuscitarei no último dia."
-        },
-        {
-          "n": 45,
-          "text": "Está escrito nos Profetas: ‘Todos serão ensinados por Deus’. Todos os que ouvem o Pai e dele aprendem vêm a mim."
-        },
-        {
-          "n": 46,
-          "text": "Ninguém viu o Pai, a não ser aquele que vem de Deus; somente ele viu ao Pai."
-        },
-        {
-          "n": 47,
-          "text": "Asseguro-lhes que aquele que crê tem a vida eterna."
-        },
-        {
-          "n": 48,
-          "text": "Eu sou o pão da vida."
-        },
-        {
-          "n": 49,
-          "text": "Os seus antepassados comeram o maná no deserto, mas morreram."
-        },
-        {
-          "n": 50,
-          "text": "Todavia, aqui está o pão que desce do céu, para que não morra quem dele comer."
-        },
-        {
-          "n": 51,
-          "text": "Eu sou o pão vivo que desceu do céu. Se alguém comer deste pão, viverá para sempre. Este pão é a minha carne, que eu darei pela vida do mundo\"."
-        },
-        {
-          "n": 52,
-          "text": "Então os judeus começaram a discutir exaltadamente entre si: \"Como pode este homem nos oferecer a sua carne para comermos? \""
-        },
-        {
-          "n": 53,
-          "text": "Jesus lhes disse: \"Eu lhes digo a verdade: Se vocês não comerem a carne do Filho do homem e não beberem o seu sangue, não terão vida em si mesmos."
-        },
-        {
-          "n": 54,
-          "text": "Todo o que come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último dia."
-        },
-        {
-          "n": 55,
-          "text": "Pois a minha carne é verdadeira comida e o meu sangue é verdadeira bebida."
-        },
-        {
-          "n": 56,
-          "text": "Todo o que come a minha carne e bebe o meu sangue permanece em mim e eu nele."
-        },
-        {
-          "n": 57,
-          "text": "Da mesma forma como o Pai que vive me enviou e eu vivo por causa do Pai, assim aquele que se alimenta de mim viverá por minha causa."
-        },
-        {
-          "n": 58,
-          "text": "Este é o pão que desceu do céu. Os antepassados de vocês comeram o maná e morreram, mas aquele que se alimenta deste pão viverá para sempre\"."
-        },
-        {
-          "n": 59,
-          "text": "Ele disse isso quando ensinava na sinagoga de Cafarnaum."
-        },
-        {
-          "n": 60,
-          "text": "Ao ouvirem isso, muitos dos seus discípulos disseram: \"Dura é essa palavra. Quem consegue ouvi-la? \""
-        },
-        {
-          "n": 61,
-          "text": "Sabendo em seu íntimo que os seus discípulos estavam se queixando do que ouviram, Jesus lhes disse: \"Isso os escandaliza?"
-        },
-        {
-          "n": 62,
-          "text": "Que acontecerá se vocês virem o Filho do homem subir para onde estava antes!"
-        },
-        {
-          "n": 63,
-          "text": "O Espírito dá vida; a carne não produz nada que se aproveite. As palavras que eu lhes disse são espírito e vida."
-        },
-        {
-          "n": 64,
-          "text": "Contudo, há alguns de vocês que não crêem\". Pois Jesus sabia desde o princípio quais deles não criam e quem o iria trair."
-        },
-        {
-          "n": 65,
-          "text": "E prosseguiu: \"É por isso que eu lhes disse que ninguém pode vir a mim, a não ser que isto lhe seja dado pelo Pai\"."
-        },
-        {
-          "n": 66,
-          "text": "Daquela hora em diante, muitos dos seus discípulos voltaram atrás e deixaram de segui-lo."
-        },
-        {
-          "n": 67,
-          "text": "Jesus perguntou aos Doze: \"Vocês também não querem ir? \""
-        },
-        {
-          "n": 68,
-          "text": "Simão Pedro lhe respondeu: \"Senhor, para quem iremos? Tu tens as palavras de vida eterna."
-        },
-        {
-          "n": 69,
-          "text": "Nós cremos e sabemos que és o Santo de Deus\"."
-        },
-        {
-          "n": 70,
-          "text": "Então Jesus respondeu: \"Não fui eu que os escolhi, os Doze? Todavia, um de vocês é um diabo! \""
-        },
-        {
-          "n": 71,
-          "text": "( Ele se referia a Judas, filho de Simão Iscariotes, que, embora fosse um dos Doze, mais tarde haveria de traí-lo. )"
         }
       ]
     },
@@ -1594,168 +1158,8 @@ window.JOAO_EVANGELHO_1_CARTA = [
     },
     "context": "Na segunda parte de João 6, o discurso de Jesus se torna cada vez mais difícil para a multidão e até para muitos discípulos. Alguns deixam de segui-lo. Jesus não força os Doze a ficar; pergunta se eles também querem ir. Pedro responde não porque entendeu tudo, mas porque reconheceu onde estão as palavras de vida eterna.",
     "passage": {
-      "ref": "João 6 · capítulo completo (NVI)",
+      "ref": "João 6.41-71",
       "verses": [
-        {
-          "n": 1,
-          "text": "Algum tempo depois Jesus partiu para a outra margem do mar da Galiléia ( ou seja, do mar de Tiberíades ),"
-        },
-        {
-          "n": 2,
-          "text": "e grande multidão continuava a segui-lo, porque vira os sinais miraculosos que ele tinha realizado nos doentes."
-        },
-        {
-          "n": 3,
-          "text": "Então Jesus subiu ao monte e sentou-se com os seus discípulos."
-        },
-        {
-          "n": 4,
-          "text": "Estava próxima a festa judaica da Páscoa."
-        },
-        {
-          "n": 5,
-          "text": "Levantando os olhos e vendo uma grande multidão que se aproximava, Jesus disse a Filipe: \"Onde compraremos pão para esse povo comer? \""
-        },
-        {
-          "n": 6,
-          "text": "Fez essa pergunta apenas para pô-lo à prova, pois já tinha em mente o que ia fazer."
-        },
-        {
-          "n": 7,
-          "text": "Filipe lhe respondeu: \"Duzentos denários não comprariam pão suficiente para que cada um recebesse um pedaço! \""
-        },
-        {
-          "n": 8,
-          "text": "Outro discípulo, André, irmão de Simão Pedro, tomou a palavra:"
-        },
-        {
-          "n": 9,
-          "text": "\"Aqui está um rapaz com cinco pães de cevada e dois peixinhos, mas o que é isto para tanta gente? \""
-        },
-        {
-          "n": 10,
-          "text": "Disse Jesus: \"Mandem o povo assentar-se\". Havia muita grama naquele lugar, e todos se assentaram. Eram cerca de cinco mil homens."
-        },
-        {
-          "n": 11,
-          "text": "Então Jesus tomou os pães, deu graças e os repartiu entre os que estavam assentados, tanto quanto queriam; e fez o mesmo com os peixes."
-        },
-        {
-          "n": 12,
-          "text": "Depois que todos receberam o suficiente para comer, disse aos seus discípulos: \"Ajuntem os pedaços que sobraram. Que nada seja desperdiçado\"."
-        },
-        {
-          "n": 13,
-          "text": "Então eles os ajuntaram e encheram doze cestos com os pedaços dos cinco pães de cevada deixados por aqueles que tinham comido."
-        },
-        {
-          "n": 14,
-          "text": "Depois de ver o sinal miraculoso que Jesus tinha realizado, o povo começou a dizer: \"Sem dúvida este é o Profeta que devia vir ao mundo\"."
-        },
-        {
-          "n": 15,
-          "text": "Sabendo Jesus que pretendiam proclamá-lo rei à força, retirou-se novamente sozinho para o monte."
-        },
-        {
-          "n": 16,
-          "text": "Ao anoitecer seus discípulos desceram para o mar,"
-        },
-        {
-          "n": 17,
-          "text": "entraram num barco e começaram a travessia para Cafarnaum. Já estava escuro, e Jesus ainda não tinha ido até onde eles estavam."
-        },
-        {
-          "n": 18,
-          "text": "Soprava um vento forte, e as águas estavam agitadas."
-        },
-        {
-          "n": 19,
-          "text": "Depois de terem remado cerca de cinco ou seis quilômetros, viram Jesus aproximando-se do barco, andando sobre o mar, e ficaram aterrorizados."
-        },
-        {
-          "n": 20,
-          "text": "Mas ele lhes disse: \"Sou eu! Não tenham medo! \""
-        },
-        {
-          "n": 21,
-          "text": "Então se animaram a recebê-lo no barco, e logo chegaram à praia para a qual se dirigiam."
-        },
-        {
-          "n": 22,
-          "text": "No dia seguinte, a multidão que tinha ficado no outro lado do mar percebeu que apenas um barco estivera ali, e que Jesus não havia entrado nele com os seus discípulos, mas que eles tinham partido sozinhos."
-        },
-        {
-          "n": 23,
-          "text": "Então alguns barcos de Tiberíades aproximaram-se do lugar onde o povo tinha comido o pão após o Senhor ter dado graças."
-        },
-        {
-          "n": 24,
-          "text": "Quando a multidão percebeu que nem Jesus nem os discípulos estavam ali, entrou nos barcos e foi para Cafarnaum em busca de Jesus."
-        },
-        {
-          "n": 25,
-          "text": "Quando o encontraram do outro lado do mar, perguntaram-lhe: \"Mestre, quando chegaste aqui? \""
-        },
-        {
-          "n": 26,
-          "text": "Jesus respondeu: \"A verdade é que vocês estão me procurando, não porque viram os sinais miraculosos, mas porque comeram os pães e ficaram satisfeitos."
-        },
-        {
-          "n": 27,
-          "text": "Não trabalhem pela comida que se estraga, mas pela comida que permanece para a vida eterna, a qual o Filho do homem lhes dará. Deus, o Pai, nele colocou o seu selo de aprovação\"."
-        },
-        {
-          "n": 28,
-          "text": "Então lhe perguntaram: \"O que precisamos fazer para realizar as obras que Deus requer? \""
-        },
-        {
-          "n": 29,
-          "text": "Jesus respondeu: \"A obra de Deus é esta: crer naquele que ele enviou\"."
-        },
-        {
-          "n": 30,
-          "text": "Então lhe perguntaram: \"Que sinal miraculoso mostrarás para que o vejamos e creiamos em ti? Que farás?"
-        },
-        {
-          "n": 31,
-          "text": "Os nossos antepassados comeram o maná no deserto; como está escrito: ‘Ele lhes deu a comer pão do céu’\"."
-        },
-        {
-          "n": 32,
-          "text": "Declarou-lhes Jesus: \"Digo-lhes a verdade: Não foi Moisés quem lhes deu pão do céu, mas é meu Pai quem lhes dá o verdadeiro pão do céu."
-        },
-        {
-          "n": 33,
-          "text": "Pois o pão de Deus é aquele que desceu do céu e dá vida ao mundo\"."
-        },
-        {
-          "n": 34,
-          "text": "Disseram eles: \"Senhor, dá-nos sempre desse pão! \""
-        },
-        {
-          "n": 35,
-          "text": "Então Jesus declarou: \"Eu sou o pão da vida. Aquele que vem a mim nunca terá fome; aquele que crê em mim nunca terá sede."
-        },
-        {
-          "n": 36,
-          "text": "Mas, como eu lhes disse, vocês me viram, mas ainda não crêem."
-        },
-        {
-          "n": 37,
-          "text": "Todo o que o Pai me der virá a mim, e quem vier a mim eu jamais rejeitarei."
-        },
-        {
-          "n": 38,
-          "text": "Pois desci do céu, não para fazer a minha vontade, mas para fazer a vontade daquele que me enviou."
-        },
-        {
-          "n": 39,
-          "text": "E esta é a vontade daquele que me enviou: que eu não perca nenhum dos que ele me deu, mas os ressuscite no último dia."
-        },
-        {
-          "n": 40,
-          "text": "Porque a vontade de meu Pai é que todo o que olhar para o Filho e nele crer tenha a vida eterna, e eu o ressuscitarei no último dia\"."
-        },
         {
           "n": 41,
           "text": "Com isso os judeus começaram a criticar Jesus, porque dissera: \"Eu sou o pão que desceu do céu\"."
@@ -1911,7 +1315,7 @@ window.JOAO_EVANGELHO_1_CARTA = [
     },
     "context": "João 7–8 reúne conflitos intensos em Jerusalém, debates sobre a identidade de Jesus e declarações centrais sobre luz, verdade e liberdade. No meio dessas tensões, aparece a cena de uma mulher exposta publicamente. Jesus não banaliza o pecado nem participa da humilhação coletiva: oferece uma saída que une graça e mudança.",
     "passage": {
-      "ref": "João 7 · capítulo completo (NVI)",
+      "ref": "João 7-8",
       "verses": [
         {
           "n": 1,
@@ -2124,6 +1528,242 @@ window.JOAO_EVANGELHO_1_CARTA = [
         {
           "n": 53,
           "text": "Então cada um foi para a sua casa."
+        },
+        {
+          "n": 54,
+          "text": "[Jo 8.1] Jesus, porém, foi para o monte das Oliveiras."
+        },
+        {
+          "n": 55,
+          "text": "[8.2] Ao amanhecer ele apareceu novamente no templo, onde todo o povo se reuniu ao seu redor, e ele se assentou para ensiná-lo."
+        },
+        {
+          "n": 56,
+          "text": "[8.3] Os mestres da lei e os fariseus trouxeram-lhe uma mulher surpreendida em adultério. Fizeram-na ficar em pé diante de todos"
+        },
+        {
+          "n": 57,
+          "text": "[8.4] e disseram a Jesus: \"Mestre, esta mulher foi surpreendida em ato de adultério."
+        },
+        {
+          "n": 58,
+          "text": "[8.5] Na Lei, Moisés nos ordena apedrejar tais mulheres. E o senhor, que diz? \""
+        },
+        {
+          "n": 59,
+          "text": "[8.6] Eles estavam usando essa pergunta como armadilha, a fim de terem uma base para acusá-lo. Mas Jesus inclinou-se e começou a escrever no chão com o dedo."
+        },
+        {
+          "n": 60,
+          "text": "[8.7] Visto que continuavam a interrogá-lo, ele se levantou e lhes disse: \"Se algum de vocês estiver sem pecado, seja o primeiro a atirar pedra nela\"."
+        },
+        {
+          "n": 61,
+          "text": "[8.8] Inclinou-se novamente e continuou escrevendo no chão."
+        },
+        {
+          "n": 62,
+          "text": "[8.9] Os que o ouviram foram saindo, um de cada vez, começando com os mais velhos. Jesus ficou só, com a mulher em pé diante dele."
+        },
+        {
+          "n": 63,
+          "text": "[8.10] Então Jesus pôs-se de pé e perguntou-lhe: \"Mulher, onde estão eles? Ninguém a condenou? \""
+        },
+        {
+          "n": 64,
+          "text": "[8.11] \"Ninguém, Senhor\", disse ela. Declarou Jesus: \"Eu também não a condeno. Agora vá e abandone sua vida de pecado\"."
+        },
+        {
+          "n": 65,
+          "text": "[8.12] Falando novamente ao povo, Jesus disse: \"Eu sou a luz do mundo. Quem me segue, nunca andará em trevas, mas terá a luz da vida\"."
+        },
+        {
+          "n": 66,
+          "text": "[8.13] Os fariseus lhe disseram: \"Você está testemunhando a respeito de si próprio. O seu testemunho não é válido! \""
+        },
+        {
+          "n": 67,
+          "text": "[8.14] Respondeu Jesus: \"Ainda que eu mesmo testemunhe em meu favor, o meu testemunho é válido, pois sei de onde vim e para onde vou. Mas vocês não sabem de onde vim nem para onde vou."
+        },
+        {
+          "n": 68,
+          "text": "[8.15] Vocês julgam por padrões humanos; eu não julgo ninguém."
+        },
+        {
+          "n": 69,
+          "text": "[8.16] Mesmo que eu julgue, as minhas decisões são verdadeiras, porque não estou sozinho. Eu estou com o Pai, que me enviou."
+        },
+        {
+          "n": 70,
+          "text": "[8.17] Na Lei de vocês está escrito que o testemunho de dois homens é válido."
+        },
+        {
+          "n": 71,
+          "text": "[8.18] Eu testemunho acerca de mim mesmo; a minha outra testemunha é o Pai, que me enviou\"."
+        },
+        {
+          "n": 72,
+          "text": "[8.19] Então lhe perguntaram: \"Onde está o seu pai? \" Respondeu Jesus: \"Vocês não conhecem nem a mim nem a meu Pai. Se me conhecessem, também conheceriam a meu Pai\"."
+        },
+        {
+          "n": 73,
+          "text": "[8.20] Ele proferiu essas palavras enquanto ensinava no templo, perto do lugar onde se colocavam as ofertas. No entanto, ninguém o prendeu, porque a sua hora ainda não havia chegado."
+        },
+        {
+          "n": 74,
+          "text": "[8.21] Mais uma vez, Jesus lhes disse: \"Eu vou embora, e vocês procurarão por mim, e morrerão em seus pecados. Para onde vou, vocês não podem ir\"."
+        },
+        {
+          "n": 75,
+          "text": "[8.22] Isso levou os judeus a perguntarem: \"Será que ele irá matar-se? Será por isso que ele diz: ‘Para onde vou, vocês não podem ir’? \""
+        },
+        {
+          "n": 76,
+          "text": "[8.23] Mas ele continuou: \"Vocês são daqui de baixo; eu sou lá de cima. Vocês são deste mundo; eu não sou deste mundo."
+        },
+        {
+          "n": 77,
+          "text": "[8.24] Eu lhes disse que vocês morrerão em seus pecados. Se vocês não crerem que Eu Sou, de fato morrerão em seus pecados\"."
+        },
+        {
+          "n": 78,
+          "text": "[8.25] \"Quem é você? \", perguntaram eles. \"Exatamente o que tenho dito o tempo todo\", respondeu Jesus."
+        },
+        {
+          "n": 79,
+          "text": "[8.26] \"Tenho muitas coisas para dizer e julgar a respeito de vocês. Pois aquele que me enviou merece confiança, e digo ao mundo aquilo que dele ouvi\"."
+        },
+        {
+          "n": 80,
+          "text": "[8.27] Eles não entenderam que lhes estava falando a respeito do Pai."
+        },
+        {
+          "n": 81,
+          "text": "[8.28] Então Jesus disse: \"Quando vocês levantarem o Filho do homem, saberão que Eu Sou, e que nada faço de mim mesmo, mas falo exatamente o que o Pai me ensinou."
+        },
+        {
+          "n": 82,
+          "text": "[8.29] Aquele que me enviou está comigo; ele não me deixou sozinho, pois sempre faço o que lhe agrada\"."
+        },
+        {
+          "n": 83,
+          "text": "[8.30] Tendo dito essas coisas, muitos creram nele."
+        },
+        {
+          "n": 84,
+          "text": "[8.31] Disse Jesus aos judeus que haviam crido nele: \"Se vocês permanecerem firmes na minha palavra, verdadeiramente serão meus discípulos."
+        },
+        {
+          "n": 85,
+          "text": "[8.32] E conhecerão a verdade, e a verdade os libertará\"."
+        },
+        {
+          "n": 86,
+          "text": "[8.33] Eles lhe responderam: \"Somos descendentes de Abraão e nunca fomos escravos de ninguém. Como você pode dizer que seremos livres? \""
+        },
+        {
+          "n": 87,
+          "text": "[8.34] Jesus respondeu: \"Digo-lhes a verdade: Todo aquele que vive pecando é escravo do pecado."
+        },
+        {
+          "n": 88,
+          "text": "[8.35] O escravo não tem lugar permanente na família, mas o filho pertence a ela para sempre."
+        },
+        {
+          "n": 89,
+          "text": "[8.36] Portanto, se o Filho os libertar, vocês de fato serão livres."
+        },
+        {
+          "n": 90,
+          "text": "[8.37] Eu sei que vocês são descendentes de Abraão. Contudo, estão procurando matar-me, porque em vocês não há lugar para a minha palavra."
+        },
+        {
+          "n": 91,
+          "text": "[8.38] Eu lhes estou dizendo o que vi na presença do Pai, e vocês fazem o que ouviram do pai de vocês\"."
+        },
+        {
+          "n": 92,
+          "text": "[8.39] \"Abraão é o nosso pai\", responderam eles. Disse Jesus: \"Se vocês fossem filhos de Abraão, fariam as obras que Abraão fez."
+        },
+        {
+          "n": 93,
+          "text": "[8.40] Mas vocês estão procurando matar-me, sendo que eu lhes falei a verdade que ouvi de Deus; Abraão não agiu assim."
+        },
+        {
+          "n": 94,
+          "text": "[8.41] Vocês estão fazendo as obras do pai de vocês\". Protestaram eles: \"Nós não somos filhos ilegítimos. O único Pai que temos é Deus\"."
+        },
+        {
+          "n": 95,
+          "text": "[8.42] Disse-lhes Jesus: \"Se Deus fosse o Pai de vocês, vocês me amariam, pois eu vim de Deus e agora estou aqui. Eu não vim por mim mesmo, mas ele me enviou."
+        },
+        {
+          "n": 96,
+          "text": "[8.43] Por que a minha linguagem não é clara para vocês? Porque são incapazes de ouvir o que eu digo."
+        },
+        {
+          "n": 97,
+          "text": "[8.44] \"Vocês pertencem ao pai de vocês, o diabo, e querem realizar o desejo dele. Ele foi homicida desde o princípio e não se apegou à verdade, pois não há verdade nele. Quando mente, fala a sua própria língua, pois é mentiroso e pai da mentira."
+        },
+        {
+          "n": 98,
+          "text": "[8.45] No entanto, vocês não crêem em mim, porque lhes digo a verdade!"
+        },
+        {
+          "n": 99,
+          "text": "[8.46] Qual de vocês pode me acusar de algum pecado? Se estou falando a verdade, porque vocês não crêem em mim?"
+        },
+        {
+          "n": 100,
+          "text": "[8.47] Aquele que pertence a Deus ouve o que Deus diz. Vocês não ouvem porque não pertencem a Deus\"."
+        },
+        {
+          "n": 101,
+          "text": "[8.48] Os judeus lhe responderam: \"Não estamos certos em dizer que você é samaritano e está endemoninhado? \""
+        },
+        {
+          "n": 102,
+          "text": "[8.49] Disse Jesus: \"Não estou endemoninhado! Pelo contrário, honro o meu Pai, e vocês me desonram."
+        },
+        {
+          "n": 103,
+          "text": "[8.50] Não estou buscando glória para mim mesmo; mas, há quem a busque e julgue."
+        },
+        {
+          "n": 104,
+          "text": "[8.51] Asseguro-lhes que, se alguém guardar a minha palavra, jamais verá a morte\"."
+        },
+        {
+          "n": 105,
+          "text": "[8.52] Diante disso, os judeus exclamaram: \"Agora sabemos que você está endemoninhado! Abraão morreu, bem como os profetas, mas você diz que se alguém guardar a sua palavra, nunca experimentará a morte."
+        },
+        {
+          "n": 106,
+          "text": "[8.53] Você é maior do que o nosso pai Abraão? Ele morreu, bem como os profetas. Quem você pensa que é? \""
+        },
+        {
+          "n": 107,
+          "text": "[8.54] Respondeu Jesus: \"Se glorifico a mim mesmo, a minha glória nada significa. Meu Pai, que vocês dizem ser o Deus de vocês, é quem me glorifica."
+        },
+        {
+          "n": 108,
+          "text": "[8.55] Vocês não o conhecem, mas eu o conheço. Se eu dissesse que não o conheço, seria mentiroso como vocês, mas eu de fato o conheço e guardo a sua palavra."
+        },
+        {
+          "n": 109,
+          "text": "[8.56] Abraão, pai de vocês, regozijou-se porque veria o meu dia; ele o viu e alegrou-se\"."
+        },
+        {
+          "n": 110,
+          "text": "[8.57] Disseram-lhe os judeus: \"Você ainda não tem cinqüenta anos, e viu Abraão? \""
+        },
+        {
+          "n": 111,
+          "text": "[8.58] Respondeu Jesus: \"Eu lhes afirmo que antes de Abraão nascer, Eu Sou! \""
+        },
+        {
+          "n": 112,
+          "text": "[8.59] Então eles apanharam pedras para apedrejá-lo, mas Jesus escondeu-se e saiu do templo."
         }
       ]
     },

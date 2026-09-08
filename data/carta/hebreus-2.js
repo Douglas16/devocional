@@ -355,7 +355,7 @@ window.HEBREUS_2_CARTA = [
     },
     "context": "Hebreus 11 recorda pessoas que obedeceram, esperaram, partiram, construíram, ofereceram e perseveraram sem possuir imediatamente tudo o que Deus havia prometido. A fé aparece como caminho, não apenas como momento.",
     "passage": {
-      "ref": "Hebreus 11 · capítulo completo (NVI)",
+      "ref": "Hebreus 11.1-22",
       "verses": [
         {
           "n": 1,
@@ -444,78 +444,6 @@ window.HEBREUS_2_CARTA = [
         {
           "n": 22,
           "text": "Pela fé José, no fim da vida, fez menção do êxodo dos israelitas do Egito e deu instruções acerca dos seus próprios ossos."
-        },
-        {
-          "n": 23,
-          "text": "Pela fé Moisés, recém-nascido, foi escondido durante três meses por seus pais, pois estes viram que ele não era uma criança comum, e não temeram o decreto do rei."
-        },
-        {
-          "n": 24,
-          "text": "Pela fé Moisés, já adulto, recusou ser chamado filho da filha do faraó,"
-        },
-        {
-          "n": 25,
-          "text": "preferindo ser maltratado com o povo de Deus a desfrutar os prazeres do pecado durante algum tempo."
-        },
-        {
-          "n": 26,
-          "text": "Por amor de Cristo, considerou a desonra riqueza maior do que os tesouros do Egito, porque contemplava a sua recompensa."
-        },
-        {
-          "n": 27,
-          "text": "Pela fé saiu do Egito, não temendo a ira do rei, e perseverou, porque via aquele que é invisível."
-        },
-        {
-          "n": 28,
-          "text": "Pela fé celebrou a Páscoa e fez a aspersão do sangue, para que o destruidor não tocasse nos fihos mais velhos dos israelitas."
-        },
-        {
-          "n": 29,
-          "text": "Pela fé o povo atravessou o mar Vermelho como em terra seca; mas, quando os egípcios tentaram fazê-lo, morreram afogados."
-        },
-        {
-          "n": 30,
-          "text": "Pela fé caíram os muros de Jericó, depois de serem rodeados durante sete dias."
-        },
-        {
-          "n": 31,
-          "text": "Pela fé a prostituta Raabe, por ter acolhido os espiões, não foi morta com os que haviam sido desobedientes."
-        },
-        {
-          "n": 32,
-          "text": "Que mais direi? Não tenho tempo para falar de Gideão, Baraque, Sansão, Jefté, Davi, Samuel e os profetas,"
-        },
-        {
-          "n": 33,
-          "text": "os quais pela fé conquistaram reinos, praticaram a justiça, alcançaram o cumprimento de promessas, fecharam a boca de leões,"
-        },
-        {
-          "n": 34,
-          "text": "apagaram o poder do fogo e escaparam do fio da espada; da fraqueza tiraram força, tornaram-se poderosos na batalha e puseram em fuga exércitos estrangeiros."
-        },
-        {
-          "n": 35,
-          "text": "Houve mulheres que, pela ressurreição, tiveram de volta os seus mortos. Alguns foram torturados e recusaram ser libertados, para poderem alcançar uma ressurreição superior."
-        },
-        {
-          "n": 36,
-          "text": "Outros enfrentaram zombaria e açoites, outros ainda foram acorrentados e colocados na prisão,"
-        },
-        {
-          "n": 37,
-          "text": "apedrejados, serrados ao meio, postos à prova, mortos ao fio da espada. Andaram errantes, vestidos de pele de ovelhas e de cabras, necessitados, afligidos e maltratados."
-        },
-        {
-          "n": 38,
-          "text": "O mundo não era digno deles. Vagaram pelos desertos e montes, pelas cavernas e grutas."
-        },
-        {
-          "n": 39,
-          "text": "Todos estes receberam bom testemunho por meio da fé; no entanto, nenhum deles recebeu o que havia sido prometido."
-        },
-        {
-          "n": 40,
-          "text": "Deus havia planejado algo melhor para nós, para que conosco fossem eles aperfeiçoados."
         }
       ]
     },
@@ -549,96 +477,8 @@ window.HEBREUS_2_CARTA = [
     },
     "context": "Depois da grande lista de testemunhas da fé, Hebreus conduz o olhar para Jesus. A corrida não é uma competição contra outras pessoas. É um caminho pessoal, cercado de testemunhas, em que Jesus é o autor, o centro e o sustentador.",
     "passage": {
-      "ref": "Hebreus 11 · capítulo completo (NVI)",
+      "ref": "Hebreus 11.23-12.3",
       "verses": [
-        {
-          "n": 1,
-          "text": "Ora, a fé é a certeza daquilo que esperamos e a prova das coisas que não vemos."
-        },
-        {
-          "n": 2,
-          "text": "Pois foi por meio dela que os antigos receberam bom testemunho."
-        },
-        {
-          "n": 3,
-          "text": "Pela fé entendemos que o universo foi formado pela palavra de Deus, de modo que o que se vê não foi feito do que é visível."
-        },
-        {
-          "n": 4,
-          "text": "Pela fé Abel ofereceu a Deus um sacrifício superior ao de Caim. Pela fé ele foi reconhecido como justo, quando Deus aprovou as suas ofertas. Embora esteja morto, por meio da fé ainda fala."
-        },
-        {
-          "n": 5,
-          "text": "Pela fé Enoque foi arrebatado, de modo que não experimentou a morte; \"ele já não foi encontrado porque Deus o havia arrebatado\", pois antes de ser arrebatado recebeu testemunho de que tinha agradado a Deus."
-        },
-        {
-          "n": 6,
-          "text": "Sem fé é impossível agradar a Deus, pois quem dele se aproxima precisa crer que ele existe e que recompensa aqueles que o buscam."
-        },
-        {
-          "n": 7,
-          "text": "Pela fé Noé, quando avisado a respeito de coisas que ainda não se viam, movido por santo temor, construiu uma arca para salvar sua família. Por meio da fé ele condenou o mundo e tornou-se herdeiro da justiça que é segundo a fé."
-        },
-        {
-          "n": 8,
-          "text": "Pela fé Abraão, quando chamado, obedeceu e dirigiu-se a um lugar que mais tarde receberia como herança, embora não soubesse para onde estava indo."
-        },
-        {
-          "n": 9,
-          "text": "Pela fé peregrinou na terra prometida como se estivesse em terra estranha; viveu em tendas, bem como Isaque e Jacó, co-herdeiros da mesma promessa."
-        },
-        {
-          "n": 10,
-          "text": "Pois ele esperava a cidade que tem alicerces, cujo arquiteto e edificador é Deus."
-        },
-        {
-          "n": 11,
-          "text": "Pela fé, Abraão — e também a própria Sara, apesar de estéril e avançada em idade — recebeu poder para gerar um filho, porque considerou fiel aquele que lhe havia feito a promessa."
-        },
-        {
-          "n": 12,
-          "text": "Assim, daquele homem já sem vitalidade originaram-se descendentes tão numerosos como as estrelas do céu e tão incontáveis como a areia da praia do mar."
-        },
-        {
-          "n": 13,
-          "text": "Todos estes ainda viveram pela fé, e morreram sem receber o que tinha sido prometido; viram-nas de longe e de longe as saudaram, reconhecendo que eram estrangeiros e peregrinos na terra."
-        },
-        {
-          "n": 14,
-          "text": "Os que assim falam mostram que estão buscando uma pátria."
-        },
-        {
-          "n": 15,
-          "text": "Se estivessem pensando naquela de onde saíram, teriam oportunidade de voltar."
-        },
-        {
-          "n": 16,
-          "text": "Em vez disso, esperavam eles uma pátria melhor, isto é, a pátria celestial. Por essa razão Deus não se envergonha de ser chamado o Deus deles, pois preparou-lhes uma cidade."
-        },
-        {
-          "n": 17,
-          "text": "Pela fé Abraão, quando Deus o pôs à prova, ofereceu Isaque como sacrifício. Aquele que havia recebido as promessas estava a ponto de sacrificar o seu único filho,"
-        },
-        {
-          "n": 18,
-          "text": "embora Deus lhe tivesse dito: \"Por meio de Isaque a sua descendência será considerada\"."
-        },
-        {
-          "n": 19,
-          "text": "Abraão levou em conta que Deus pode ressuscitar os mortos; e, figuradamente, recebeu Isaque de volta dentre os mortos."
-        },
-        {
-          "n": 20,
-          "text": "Pela fé Isaque abençoou Jacó e Esaú com respeito ao futuro deles."
-        },
-        {
-          "n": 21,
-          "text": "Pela fé Jacó, à beira da morte, abençoou cada um dos filhos de José e adorou a Deus, apoiado na extremidade do seu bordão."
-        },
-        {
-          "n": 22,
-          "text": "Pela fé José, no fim da vida, fez menção do êxodo dos israelitas do Egito e deu instruções acerca dos seus próprios ossos."
-        },
         {
           "n": 23,
           "text": "Pela fé Moisés, recém-nascido, foi escondido durante três meses por seus pais, pois estes viram que ele não era uma criança comum, e não temeram o decreto do rei."
@@ -710,6 +550,18 @@ window.HEBREUS_2_CARTA = [
         {
           "n": 40,
           "text": "Deus havia planejado algo melhor para nós, para que conosco fossem eles aperfeiçoados."
+        },
+        {
+          "n": 41,
+          "text": "[Hb 12.1] Portanto, também nós, uma vez que estamos rodeados por tão grande nuvem de testemunhas, livremo-nos de tudo o que nos atrapalha e do pecado que nos envolve, e corramos com perseverança a corrida que nos é proposta,"
+        },
+        {
+          "n": 42,
+          "text": "[12.2] tendo os olhos fitos em Jesus, autor e consumador da nossa fé. Ele, pela alegria que lhe fora proposta, suportou a cruz, desprezando a vergonha, e assentou-se à direita do trono de Deus."
+        },
+        {
+          "n": 43,
+          "text": "[12.3] Pensem bem naquele que suportou tal oposição dos pecadores contra si mesmo, para que vocês não se cansem nem se desanimem."
         }
       ]
     },
@@ -743,20 +595,8 @@ window.HEBREUS_2_CARTA = [
     },
     "context": "Hebreus 12 fala de disciplina, cura, paz, santidade e da diferença entre aquilo que pode ser abalado e aquilo que permanece. A disciplina é apresentada como formação, e o capítulo termina chamando os leitores à gratidão pelo Reino que não pode ser removido.",
     "passage": {
-      "ref": "Hebreus 12 · capítulo completo (NVI)",
+      "ref": "Hebreus 12.4-29",
       "verses": [
-        {
-          "n": 1,
-          "text": "Portanto, também nós, uma vez que estamos rodeados por tão grande nuvem de testemunhas, livremo-nos de tudo o que nos atrapalha e do pecado que nos envolve, e corramos com perseverança a corrida que nos é proposta,"
-        },
-        {
-          "n": 2,
-          "text": "tendo os olhos fitos em Jesus, autor e consumador da nossa fé. Ele, pela alegria que lhe fora proposta, suportou a cruz, desprezando a vergonha, e assentou-se à direita do trono de Deus."
-        },
-        {
-          "n": 3,
-          "text": "Pensem bem naquele que suportou tal oposição dos pecadores contra si mesmo, para que vocês não se cansem nem se desanimem."
-        },
         {
           "n": 4,
           "text": "Na luta contra o pecado, vocês ainda não resistiram até o ponto de derramar o próprio sangue."

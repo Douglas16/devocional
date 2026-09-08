@@ -259,6 +259,10 @@ window.TIAGO_BLOCOS_CARTA = [
           "text": "Mas vocês têm insultado o pobre. Não são os ricos que oprimem vocês? Não são eles os que os arrastam para os tribunais?"
         },
         {
+          "n": 7,
+          "text": "Não são eles que difamam o bom nome que sobre vocês foi invocado?"
+        },
+        {
           "n": 8,
           "text": "Se vocês, de fato, obedecem à lei do Reino, encontrada na Escritura que diz: 'Ame o seu próximo como a si mesmo', estarão agindo corretamente."
         },
@@ -269,6 +273,10 @@ window.TIAGO_BLOCOS_CARTA = [
         {
           "n": 10,
           "text": "Pois quem obedece a toda a Lei, mas tropeça em apenas um ponto, torna-se culpado de quebrá-la inteiramente."
+        },
+        {
+          "n": 11,
+          "text": "Pois aquele que disse: \"Não adulterarás\", também disse: \"Não matarás\". Se você não comete adultério, mas comete assassinato, torna-se transgressor da Lei."
         },
         {
           "n": 12,
@@ -354,6 +362,10 @@ window.TIAGO_BLOCOS_CARTA = [
         {
           "n": 24,
           "text": "Vejam que uma pessoa é justificada por obras, e não apenas pela fé."
+        },
+        {
+          "n": 25,
+          "text": "Caso semelhante é o de Raabe, a prostituta: não foi ela justificada pelas obras, quando acolheu os espias e os fez sair por outro caminho?"
         },
         {
           "n": 26,
@@ -707,6 +719,10 @@ window.TIAGO_BLOCOS_CARTA = [
         {
           "n": 11,
           "text": "Como vocês sabem, nós consideramos felizes aqueles que perseveraram. Vocês ouviram falar sobre a perseverança de Jó e viram o fim que o Senhor lhe proporcionou. O Senhor é cheio de compaixão e misericórdia."
+        },
+        {
+          "n": 12,
+          "text": "Sobretudo, meus irmãos, não jurem nem pelo céu, nem pela terra, nem por qualquer outra coisa. Seja o sim de vocês, sim, e o não, não, para que não caiam em condenação."
         },
         {
           "n": 13,

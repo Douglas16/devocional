@@ -1194,7 +1194,7 @@ window.JOAO_EVANGELHO_2 = [
     },
     "context": "Fim do discurso de despedida. João 16 fala do Espírito e da vinda. João 17 é a chamada 'oração sacerdotal' — Jesus ora em voz alta na presença dos discípulos, provavelmente enquanto eles atravessavam Jerusalém em direção ao Getsêmani. Ora por si mesmo (v.1-5), pelos discípulos presentes (v.6-19), e pelos crentes de todas as épocas (v.20-26) — o que inclui você.",
     "passage": {
-      "ref": "João 16 · capítulo completo (NVI)",
+      "ref": "João 16-17",
       "verses": [
         {
           "n": 1,
@@ -1327,6 +1327,110 @@ window.JOAO_EVANGELHO_2 = [
         {
           "n": 33,
           "text": "\"Eu lhes disse essas coisas para que em mim vocês tenham paz. Neste mundo vocês terão aflições; contudo, tenham ânimo! Eu venci o mundo\"."
+        },
+        {
+          "n": 34,
+          "text": "[Jo 17.1] Depois de dizer isso, Jesus olhou para o céu e orou: \"Pai, chegou a hora. Glorifica o teu Filho, para que o teu Filho te glorifique."
+        },
+        {
+          "n": 35,
+          "text": "[17.2] Pois lhe deste autoridade sobre toda a humanidade, para que conceda a vida eterna a todos os que lhe deste."
+        },
+        {
+          "n": 36,
+          "text": "[17.3] Esta é a vida eterna: que te conheçam, o único Deus verdadeiro, e a Jesus Cristo, a quem enviaste."
+        },
+        {
+          "n": 37,
+          "text": "[17.4] Eu te glorifiquei na terra, completando a obra que me deste para fazer."
+        },
+        {
+          "n": 38,
+          "text": "[17.5] E agora, Pai, glorifica-me junto a ti, com a glória que eu tinha contigo antes que o mundo existisse."
+        },
+        {
+          "n": 39,
+          "text": "[17.6] \"Eu revelei teu nome àqueles que do mundo me deste. Eles eram teus; tu os deste a mim, e eles têm guardado a tua palavra."
+        },
+        {
+          "n": 40,
+          "text": "[17.7] Agora eles sabem que tudo o que me deste vem de ti."
+        },
+        {
+          "n": 41,
+          "text": "[17.8] Pois eu lhes transmiti as palavras que me deste, e eles as aceitaram. Eles reconheceram de fato que vim de ti e creram que me enviaste."
+        },
+        {
+          "n": 42,
+          "text": "[17.9] Eu rogo por eles. Não estou rogando pelo mundo, mas por aqueles que me deste, pois são teus."
+        },
+        {
+          "n": 43,
+          "text": "[17.10] Tudo o que tenho é teu, e tudo o que tens é meu. E eu tenho sido glorificado por meio deles."
+        },
+        {
+          "n": 44,
+          "text": "[17.11] Não ficarei mais no mundo, mas eles ainda estão no mundo, e eu vou para ti. Pai santo, protege-os em teu nome, o nome que me deste, para que sejam um, assim como somos um."
+        },
+        {
+          "n": 45,
+          "text": "[17.12] Enquanto estava com eles, eu os protegi e os guardei pelo nome que me deste. Nenhum deles se perdeu, a não ser aquele que estava destinado à perdição, para que se cumprisse a Escritura."
+        },
+        {
+          "n": 46,
+          "text": "[17.13] \"Agora vou para ti, mas digo estas coisas enquanto ainda estou no mundo, para que eles tenham a plenitude da minha alegria."
+        },
+        {
+          "n": 47,
+          "text": "[17.14] Dei-lhes a tua palavra, e o mundo os odiou, pois eles não são do mundo, como eu também não sou."
+        },
+        {
+          "n": 48,
+          "text": "[17.15] Não rogo que os tires do mundo, mas que os protejas do Maligno."
+        },
+        {
+          "n": 49,
+          "text": "[17.16] Eles não são do mundo, como eu também não sou."
+        },
+        {
+          "n": 50,
+          "text": "[17.17] Santifica-os na verdade; a tua palavra é a verdade."
+        },
+        {
+          "n": 51,
+          "text": "[17.18] Assim como me enviaste ao mundo, eu os enviei ao mundo."
+        },
+        {
+          "n": 52,
+          "text": "[17.19] Em favor deles eu me santifico, para que também eles sejam santificados pela verdade."
+        },
+        {
+          "n": 53,
+          "text": "[17.20] \"Minha oração não é apenas por eles. Rogo também por aqueles que crerão em mim, por meio da mensagem deles,"
+        },
+        {
+          "n": 54,
+          "text": "[17.21] para que todos sejam um, Pai, como tu estás em mim e eu em ti. Que eles também estejam em nós, para que o mundo creia que tu me enviaste."
+        },
+        {
+          "n": 55,
+          "text": "[17.22] Dei-lhes a glória que me deste, para que eles sejam um, assim como nós somos um:"
+        },
+        {
+          "n": 56,
+          "text": "[17.23] eu neles e tu em mim. Que eles sejam levados à plena unidade, para que o mundo saiba que tu me enviaste, e os amaste como igualmente me amaste."
+        },
+        {
+          "n": 57,
+          "text": "[17.24] \"Pai, quero que os que me deste estejam comigo onde eu estou e vejam a minha glória, a glória que me deste porque me amaste antes da criação do mundo."
+        },
+        {
+          "n": 58,
+          "text": "[17.25] \"Pai justo, embora o mundo não te conheça, eu te conheço, e estes sabem que me enviaste."
+        },
+        {
+          "n": 59,
+          "text": "[17.26] Eu os fiz conhecer o teu nome, e continuarei a fazê-lo, a fim de que o amor que tens por mim esteja neles, e eu neles esteja\"."
         }
       ]
     },
@@ -1359,7 +1463,7 @@ window.JOAO_EVANGELHO_2 = [
     },
     "context": "Prisão, julgamentos (Anás, Caifás, Pilatos, Herodes, Pilatos), sentença, crucificação, morte. João conta a paixão com sobriedade estranha — Jesus está no controle o tempo todo. Não é vítima; é protagonista. 'Ninguém tira minha vida; eu a dou' (10.18). O v.30 encerra o ministério terreno. Depois de 'está consumado', Ele entrega o espírito voluntariamente.",
     "passage": {
-      "ref": "João 18 · capítulo completo (NVI)",
+      "ref": "João 18-19",
       "verses": [
         {
           "n": 1,
@@ -1520,6 +1624,174 @@ window.JOAO_EVANGELHO_2 = [
         {
           "n": 40,
           "text": "Eles, em resposta, gritaram: \"Não, ele não! Queremos Barrabás! \" Ora, Barrabás era um bandido."
+        },
+        {
+          "n": 41,
+          "text": "[Jo 19.1] Então Pilatos mandou açoitar Jesus."
+        },
+        {
+          "n": 42,
+          "text": "[19.2] Os soldados teceram uma coroa de espinhos e a puseram na cabeça dele. Vestiram-no com uma capa de púrpura,"
+        },
+        {
+          "n": 43,
+          "text": "[19.3] e, chegando-se a ele, diziam: \"Salve, rei dos judeus! \" E batiam-lhe no rosto."
+        },
+        {
+          "n": 44,
+          "text": "[19.4] Mais uma vez, Pilatos saiu e disse aos judeus: \"Vejam, eu o estou trazendo a vocês, para que saibam que não acho nele motivo algum de acusação\"."
+        },
+        {
+          "n": 45,
+          "text": "[19.5] Quando Jesus veio para fora, usando a coroa de espinhos e a capa de púrpura, disse-lhes Pilatos: \"Eis o homem! \""
+        },
+        {
+          "n": 46,
+          "text": "[19.6] Ao vê-lo, os chefes dos sacerdotes e os guardas gritaram: \"Crucifica-o! Crucifica-o! \" Mas Pilatos respondeu: \"Levem-no vocês e crucifiquem-no. Quanto a mim, não encontro base para acusá-lo\"."
+        },
+        {
+          "n": 47,
+          "text": "[19.7] Os judeus insistiram: \"Temos uma lei e, de acordo com essa lei, ele deve morrer, porque se declarou Filho de Deus\"."
+        },
+        {
+          "n": 48,
+          "text": "[19.8] Ao ouvir isso, Pilatos ficou ainda mais amedrontado"
+        },
+        {
+          "n": 49,
+          "text": "[19.9] e voltou para dentro do palácio. Então perguntou a Jesus: \"De onde você vem? \", mas Jesus não lhe deu resposta."
+        },
+        {
+          "n": 50,
+          "text": "[19.10] \"Você se nega a falar comigo? \", disse Pilatos. \"Não sabe que eu tenho autoridade para libertá-lo e para crucificá-lo? \""
+        },
+        {
+          "n": 51,
+          "text": "[19.11] Jesus respondeu: \"Não terias nenhuma autoridade sobre mim, se esta não te fosse dada de cima. Por isso, aquele que me entregou a ti é culpado de um pecado maior\"."
+        },
+        {
+          "n": 52,
+          "text": "[19.12] Daí em diante Pilatos procurou libertar Jesus, mas os judeus gritavam: \"Se deixares esse homem livre, não és amigo de César. Quem se diz rei opõe-se a César\"."
+        },
+        {
+          "n": 53,
+          "text": "[19.13] Ao ouvir isso, Pilatos trouxe Jesus para fora e sentou-se na cadeira de juiz, num lugar conhecido como Pavimento de Pedra ( que em aramaico é Gábata )."
+        },
+        {
+          "n": 54,
+          "text": "[19.14] Era o Dia da Preparação da semana da Páscoa, por volta do meio-dia. \"Eis o rei de vocês\", disse Pilatos aos judeus."
+        },
+        {
+          "n": 55,
+          "text": "[19.15] Mas eles gritaram: \"Mata! Mata! Crucifica-o! \" \"Devo crucificar o rei de vocês? \", perguntou Pilatos. \"Não temos rei, senão César\", responderam os chefes dos sacerdotes."
+        },
+        {
+          "n": 56,
+          "text": "[19.16] Finalmente Pilatos o entregou a eles para ser crucificado. Então os soldados encarregaram-se de Jesus."
+        },
+        {
+          "n": 57,
+          "text": "[19.17] Levando a sua própria cruz, ele saiu para o lugar chamado Caveira ( que em aramaico é chamado Gólgota )."
+        },
+        {
+          "n": 58,
+          "text": "[19.18] Ali o crucificaram, e com ele dois outros, um de cada lado de Jesus."
+        },
+        {
+          "n": 59,
+          "text": "[19.19] Pilatos mandou preparar uma placa e pregá-la na cruz, com a seguinte inscrição: JESUS NAZARENO, O REI DOS JUDEUS."
+        },
+        {
+          "n": 60,
+          "text": "[19.20] Muitos dos judeus leram a placa, pois o lugar em que Jesus foi crucificado ficava próximo da cidade, e a placa estava escrita em aramaico, latim e grego."
+        },
+        {
+          "n": 61,
+          "text": "[19.21] Os chefes dos sacerdotes dos judeus protestaram junto a Pilatos: \"Não escrevas ‘O Rei dos Judeus’, mas sim que esse homem se dizia rei dos judeus\"."
+        },
+        {
+          "n": 62,
+          "text": "[19.22] Pilatos respondeu: \"O que escrevi, escrevi\"."
+        },
+        {
+          "n": 63,
+          "text": "[19.23] Tendo crucificado Jesus, os soldados tomaram as roupas dele e as dividiram em quatro partes, uma para cada um deles, restando a túnica. Esta, porém, era sem costura, tecida numa única peça, de alto a baixo."
+        },
+        {
+          "n": 64,
+          "text": "[19.24] \"Não a rasguemos\", disseram uns aos outros. \"Vamos decidir por sorteio quem ficará com ela. \" Isso aconteceu para que se cumprisse a Escritura que diz: \"Dividiram as minhas roupas entre si, e tiraram sortes pelas minhas vestes\". Foi o que os soldados fizeram."
+        },
+        {
+          "n": 65,
+          "text": "[19.25] Perto da cruz de Jesus estavam sua mãe, a irmã dela, Maria, mulher de Clopas, e Maria Madalena."
+        },
+        {
+          "n": 66,
+          "text": "[19.26] Quando Jesus viu sua mãe ali, e, perto dela, o discípulo a quem ele amava, disse à sua mãe: \"Aí está o seu filho\","
+        },
+        {
+          "n": 67,
+          "text": "[19.27] e ao discípulo: \"Aí está a sua mãe\". Daquela hora em diante, o discípulo a levou para casa."
+        },
+        {
+          "n": 68,
+          "text": "[19.28] Mais tarde, sabendo então que tudo estava concluído, para que a Escritura se cumprisse, Jesus disse: \"Tenho sede\"."
+        },
+        {
+          "n": 69,
+          "text": "[19.29] Estava ali uma vasilha cheia de vinagre. Então embeberam uma esponja nela, colocaram a esponja na ponta de um caniço de hissopo e a ergueram até os lábios de Jesus."
+        },
+        {
+          "n": 70,
+          "text": "[19.30] Tendo-o provado, Jesus disse: \"Está consumado! \" Com isso, curvou a cabeça e entregou o espírito."
+        },
+        {
+          "n": 71,
+          "text": "[19.31] Esse era o Dia da Preparação, e o dia seguinte seria um sábado especialmente sagrado. Por não quererem que os corpos permanecessem na cruz durante o sábado, os judeus pediram a Pilatos que ordenasse que lhes quebrassem as pernas e os corpos fossem retirados."
+        },
+        {
+          "n": 72,
+          "text": "[19.32] Vieram, então, os soldados e quebraram as pernas do primeiro homem que fora crucificado com Jesus e em seguida as do outro."
+        },
+        {
+          "n": 73,
+          "text": "[19.33] Mas quando chegaram a Jesus, percebendo que já estava morto, não lhe quebraram as pernas."
+        },
+        {
+          "n": 74,
+          "text": "[19.34] Em vez disso, um dos soldados perfurou o lado de Jesus com uma lança, e logo saiu sangue e água."
+        },
+        {
+          "n": 75,
+          "text": "[19.35] Aquele que o viu, disso deu testemunho, e o seu testemunho é verdadeiro. Ele sabe que está dizendo a verdade, e dela testemunha para que vocês também creiam."
+        },
+        {
+          "n": 76,
+          "text": "[19.36] Estas coisas aconteceram para que se cumprisse a Escritura: \"Nenhum dos seus ossos será quebrado\","
+        },
+        {
+          "n": 77,
+          "text": "[19.37] e, como diz a Escritura noutro lugar: \"Olharão para aquele que traspassaram\"."
+        },
+        {
+          "n": 78,
+          "text": "[19.38] Depois disso José de Arimatéia pediu a Pilatos o corpo de Jesus. José era discípulo de Jesus, mas o era secretamente, porque tinha medo dos judeus. Com a permissão de Pilatos, veio e levou embora o corpo."
+        },
+        {
+          "n": 79,
+          "text": "[19.39] Ele estava acompanhado de Nicodemos, aquele que antes tinha visitado Jesus à noite. Nicodemos levou cerca de trinta e quatro quilos de uma mistura de mirra e aloés."
+        },
+        {
+          "n": 80,
+          "text": "[19.40] Tomando o corpo de Jesus, os dois o envolveram em faixas de linho, juntamente com as especiarias, de acordo com os costumes judaicos de sepultamento."
+        },
+        {
+          "n": 81,
+          "text": "[19.41] No lugar onde Jesus foi crucificado havia um jardim; e no jardim, um sepulcro novo, onde ninguém jamais fora colocado."
+        },
+        {
+          "n": 82,
+          "text": "[19.42] Por ser o Dia da Preparação para os judeus e visto que o sepulcro ficava perto, colocaram Jesus ali."
         }
       ]
     },

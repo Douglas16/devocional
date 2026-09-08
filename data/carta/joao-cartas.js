@@ -23,7 +23,7 @@ window.JOAO_CARTAS_CARTA = [
     },
     "context": "João começa lembrando que a fé cristã nasce de um encontro real com Jesus: algo visto, ouvido e tocado. A partir daí, ele fala de luz, pecado, confissão, perdão e comunhão. Em vez de exigir uma aparência de perfeição, o texto oferece um caminho de honestidade: reconhecer o que existe, trazer à luz e confiar na fidelidade de Deus.",
     "passage": {
-      "ref": "1 João 1 · capítulo completo (NVI)",
+      "ref": "1 João 1.1-2.6",
       "verses": [
         {
           "n": 1,
@@ -64,6 +64,30 @@ window.JOAO_CARTAS_CARTA = [
         {
           "n": 10,
           "text": "Se afirmarmos que não temos cometido pecado, fazemos de Deus um mentiroso, e a sua palavra não está em nós."
+        },
+        {
+          "n": 11,
+          "text": "[1Jo 2.1] Meus filhinhos, escrevo-lhes estas coisas para que vocês não pequem. Se, porém, alguém pecar, temos um intercessor junto ao Pai, Jesus Cristo, o Justo."
+        },
+        {
+          "n": 12,
+          "text": "[2.2] Ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos pecados de todo o mundo."
+        },
+        {
+          "n": 13,
+          "text": "[2.3] Sabemos que o conhecemos, se obedecemos aos seus mandamentos."
+        },
+        {
+          "n": 14,
+          "text": "[2.4] Aquele que diz: \"Eu o conheço\", mas não obedece aos seus mandamentos, é mentiroso, e a verdade não está nele."
+        },
+        {
+          "n": 15,
+          "text": "[2.5] Mas, se alguém obedece à sua palavra, nele verdadeiramente o amor de Deus está aperfeiçoado. Desta forma sabemos que estamos nele:"
+        },
+        {
+          "n": 16,
+          "text": "[2.6] aquele que afirma que permanece nele, deve andar como ele andou."
         }
       ]
     },
@@ -96,32 +120,8 @@ window.JOAO_CARTAS_CARTA = [
     },
     "context": "João une amor aos irmãos, permanência em Cristo, discernimento e um alerta contra o fascínio de um sistema que promete identidade por meio de desejo, posse e orgulho. O problema não é viver no mundo, mas permitir que a lógica dele defina aquilo que vale a pena desejar.",
     "passage": {
-      "ref": "1 João 2 · capítulo completo (NVI)",
+      "ref": "1 João 2.7-27",
       "verses": [
-        {
-          "n": 1,
-          "text": "Meus filhinhos, escrevo-lhes estas coisas para que vocês não pequem. Se, porém, alguém pecar, temos um intercessor junto ao Pai, Jesus Cristo, o Justo."
-        },
-        {
-          "n": 2,
-          "text": "Ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos pecados de todo o mundo."
-        },
-        {
-          "n": 3,
-          "text": "Sabemos que o conhecemos, se obedecemos aos seus mandamentos."
-        },
-        {
-          "n": 4,
-          "text": "Aquele que diz: \"Eu o conheço\", mas não obedece aos seus mandamentos, é mentiroso, e a verdade não está nele."
-        },
-        {
-          "n": 5,
-          "text": "Mas, se alguém obedece à sua palavra, nele verdadeiramente o amor de Deus está aperfeiçoado. Desta forma sabemos que estamos nele:"
-        },
-        {
-          "n": 6,
-          "text": "aquele que afirma que permanece nele, deve andar como ele andou."
-        },
         {
           "n": 7,
           "text": "Amados, não lhes escrevo um mandamento novo, mas um mandamento antigo, que vocês têm desde o princípio: a mensagem que ouviram."
@@ -205,14 +205,6 @@ window.JOAO_CARTAS_CARTA = [
         {
           "n": 27,
           "text": "Quanto a vocês, a unção que receberam dele permanece em vocês, e não precisam que alguém os ensine; mas, como a unção dele recebida, que é verdadeira e não falsa, os ensina acerca de todas as coisas, permaneçam nele como ele os ensinou."
-        },
-        {
-          "n": 28,
-          "text": "Filhinhos, agora permaneçam nele para que, quando ele se manifestar, tenhamos confiança e não sejamos envergonhados diante dele na sua vinda."
-        },
-        {
-          "n": 29,
-          "text": "Se vocês sabem que ele é justo, saibam também que todo aquele que pratica a justiça é nascido dele."
         }
       ]
     },
@@ -245,116 +237,8 @@ window.JOAO_CARTAS_CARTA = [
     },
     "context": "João começa esta parte com uma declaração de identidade: somos chamados filhos de Deus — e isso é realmente quem somos. Depois, mostra como essa identidade alcança escolhas, amor concreto e até a forma como lidamos com a própria consciência quando ela nos condena.",
     "passage": {
-      "ref": "1 João 2 · capítulo completo (NVI)",
+      "ref": "1 João 2.28-3.24",
       "verses": [
-        {
-          "n": 1,
-          "text": "Meus filhinhos, escrevo-lhes estas coisas para que vocês não pequem. Se, porém, alguém pecar, temos um intercessor junto ao Pai, Jesus Cristo, o Justo."
-        },
-        {
-          "n": 2,
-          "text": "Ele é a propiciação pelos nossos pecados, e não somente pelos nossos, mas também pelos pecados de todo o mundo."
-        },
-        {
-          "n": 3,
-          "text": "Sabemos que o conhecemos, se obedecemos aos seus mandamentos."
-        },
-        {
-          "n": 4,
-          "text": "Aquele que diz: \"Eu o conheço\", mas não obedece aos seus mandamentos, é mentiroso, e a verdade não está nele."
-        },
-        {
-          "n": 5,
-          "text": "Mas, se alguém obedece à sua palavra, nele verdadeiramente o amor de Deus está aperfeiçoado. Desta forma sabemos que estamos nele:"
-        },
-        {
-          "n": 6,
-          "text": "aquele que afirma que permanece nele, deve andar como ele andou."
-        },
-        {
-          "n": 7,
-          "text": "Amados, não lhes escrevo um mandamento novo, mas um mandamento antigo, que vocês têm desde o princípio: a mensagem que ouviram."
-        },
-        {
-          "n": 8,
-          "text": "No entanto, eu lhes escrevo um mandamento novo, o qual é verdadeiro nele e em vocês, pois as trevas estão se dissipando e já brilha a verdadeira luz."
-        },
-        {
-          "n": 9,
-          "text": "Quem afirma estar na luz mas odeia seu irmão, continua nas trevas."
-        },
-        {
-          "n": 10,
-          "text": "Quem ama seu irmão permanece na luz, e nele não há causa de tropeço."
-        },
-        {
-          "n": 11,
-          "text": "Mas quem odeia seu irmão está nas trevas e anda nas trevas; não sabe para onde vai, porque as trevas o cegaram."
-        },
-        {
-          "n": 12,
-          "text": "Filhinhos, eu lhes escrevo porque os seus pecados foram perdoados, graças ao nome de Jesus."
-        },
-        {
-          "n": 13,
-          "text": "Pais, eu lhes escrevo porque vocês conhecem aquele que é desde o princípio. Jovens, eu lhes escrevo porque venceram o Maligno."
-        },
-        {
-          "n": 14,
-          "text": "Filhinhos, eu lhes escrevi porque vocês conhecem o Pai. Pais, eu lhes escrevi porque vocês conhecem aquele que é desde o princípio. Jovens, eu lhes escrevi, porque vocês são fortes, e em vocês a Palavra de Deus permanece e vocês venceram o Maligno."
-        },
-        {
-          "n": 15,
-          "text": "Não amem o mundo nem o que nele há. Se alguém amar o mundo, o amor do Pai não está nele."
-        },
-        {
-          "n": 16,
-          "text": "Pois tudo o que há no mundo — a cobiça da carne, a cobiça dos olhos e a ostentação dos bens — não provém do Pai, mas do mundo."
-        },
-        {
-          "n": 17,
-          "text": "O mundo e a sua cobiça passam, mas aquele que faz a vontade de Deus permanece para sempre."
-        },
-        {
-          "n": 18,
-          "text": "Filhinhos, esta é a última hora; e, assim como vocês ouviram que o anticristo está vindo, já agora muitos anticristos têm surgido. Por isso sabemos que esta é a última hora."
-        },
-        {
-          "n": 19,
-          "text": "Eles saíram do nosso meio, mas na realidade não eram dos nossos, pois, se fossem dos nossos, teriam permanecido conosco; o fato de terem saído mostra que nenhum deles era dos nossos."
-        },
-        {
-          "n": 20,
-          "text": "Mas vocês têm uma unção que procede do Santo, e todos vocês têm conhecimento."
-        },
-        {
-          "n": 21,
-          "text": "Não lhes escrevo porque não conhecem a verdade, mas porque vocês a conhecem e porque nenhuma mentira procede da verdade."
-        },
-        {
-          "n": 22,
-          "text": "Quem é o mentiroso, senão aquele que nega que Jesus é o Cristo? Este é o anticristo: aquele que nega o Pai e o Filho."
-        },
-        {
-          "n": 23,
-          "text": "Todo o que nega o Filho também não tem o Pai; quem confessa publicamente o Filho tem também o Pai."
-        },
-        {
-          "n": 24,
-          "text": "Quanto a vocês, cuidem para que aquilo que ouviram desde o princípio permaneça em vocês. Se o que ouviram desde o princípio permanecer em vocês, vocês também permanecerão no Filho e no Pai."
-        },
-        {
-          "n": 25,
-          "text": "E esta é a promessa que ele nos fez: a vida eterna."
-        },
-        {
-          "n": 26,
-          "text": "Escrevo-lhes estas coisas a respeito daqueles que os querem enganar."
-        },
-        {
-          "n": 27,
-          "text": "Quanto a vocês, a unção que receberam dele permanece em vocês, e não precisam que alguém os ensine; mas, como a unção dele recebida, que é verdadeira e não falsa, os ensina acerca de todas as coisas, permaneçam nele como ele os ensinou."
-        },
         {
           "n": 28,
           "text": "Filhinhos, agora permaneçam nele para que, quando ele se manifestar, tenhamos confiança e não sejamos envergonhados diante dele na sua vinda."
@@ -362,6 +246,102 @@ window.JOAO_CARTAS_CARTA = [
         {
           "n": 29,
           "text": "Se vocês sabem que ele é justo, saibam também que todo aquele que pratica a justiça é nascido dele."
+        },
+        {
+          "n": 30,
+          "text": "[1Jo 3.1] Vejam como é grande o amor que o Pai nos concedeu: que fôssemos chamados filhos de Deus, o que de fato somos! Por isso o mundo não nos conhece, porque não o conheceu."
+        },
+        {
+          "n": 31,
+          "text": "[3.2] Amados, agora somos filhos de Deus, e ainda não se manifestou o que havemos de ser, mas sabemos que, quando ele se manifestar, seremos semelhantes a ele, pois o veremos como ele é."
+        },
+        {
+          "n": 32,
+          "text": "[3.3] Todo aquele que nele tem esta esperança purifica-se a si mesmo, assim como ele é puro."
+        },
+        {
+          "n": 33,
+          "text": "[3.4] Todo aquele que pratica o pecado transgride a Lei; de fato, o pecado é a transgressão da Lei."
+        },
+        {
+          "n": 34,
+          "text": "[3.5] Vocês sabem que ele se manifestou para tirar os nossos pecados, e nele não há pecado."
+        },
+        {
+          "n": 35,
+          "text": "[3.6] Todo aquele que nele permanece não está no pecado. Todo aquele que está no pecado não o viu nem o conheceu."
+        },
+        {
+          "n": 36,
+          "text": "[3.7] Filhinhos, não deixem que ninguém os engane. Aquele que pratica a justiça é justo, assim como ele é justo."
+        },
+        {
+          "n": 37,
+          "text": "[3.8] Aquele que pratica o pecado é do diabo, porque o diabo vem pecando desde o princípio. Para isso o Filho de Deus se manifestou: para destruir as obras do diabo."
+        },
+        {
+          "n": 38,
+          "text": "[3.9] Todo aquele que é nascido de Deus não pratica o pecado, porque a semente de Deus permanece nele; ele não pode estar no pecado, porque é nascido de Deus."
+        },
+        {
+          "n": 39,
+          "text": "[3.10] Desta forma sabemos quem são os filhos de Deus e quem são os filhos do diabo: quem não pratica a justiça não procede de Deus; e também quem não ama seu irmão."
+        },
+        {
+          "n": 40,
+          "text": "[3.11] Esta é a mensagem que vocês ouviram desde o princípio: que nos amemos uns aos outros."
+        },
+        {
+          "n": 41,
+          "text": "[3.12] Não sejamos como Caim, que pertencia ao Maligno e matou seu irmão. E por que o matou? Porque suas obras eram más e as de seu irmão eram justas."
+        },
+        {
+          "n": 42,
+          "text": "[3.13] Meus irmãos, não se admirem se o mundo os odeia."
+        },
+        {
+          "n": 43,
+          "text": "[3.14] Sabemos que já passamos da morte para a vida porque amamos nossos irmãos. Quem não ama permanece na morte."
+        },
+        {
+          "n": 44,
+          "text": "[3.15] Quem odeia seu irmão é assassino, e vocês sabem que nenhum assassino tem vida eterna em si mesmo."
+        },
+        {
+          "n": 45,
+          "text": "[3.16] Nisto conhecemos o que é o amor: Jesus Cristo deu a sua vida por nós, e devemos dar a nossa vida por nossos irmãos."
+        },
+        {
+          "n": 46,
+          "text": "[3.17] Se alguém tiver recursos materiais e, vendo seu irmão em necessidade, não se compadecer dele, como pode permanecer nele o amor de Deus?"
+        },
+        {
+          "n": 47,
+          "text": "[3.18] Filhinhos, não amemos de palavra nem de boca, mas em ação e em verdade."
+        },
+        {
+          "n": 48,
+          "text": "[3.19] Assim saberemos que somos da verdade; e tranqüilizaremos o nosso coração diante dele"
+        },
+        {
+          "n": 49,
+          "text": "[3.20] quando o nosso coração nos condenar. Porque Deus é maior do que o nosso coração e sabe todas as coisas."
+        },
+        {
+          "n": 50,
+          "text": "[3.21] Amados, se o nosso coração não nos condenar, temos confiança diante de Deus"
+        },
+        {
+          "n": 51,
+          "text": "[3.22] e recebemos dele tudo o que pedimos, porque obedecemos aos seus mandamentos e fazemos o que lhe agrada."
+        },
+        {
+          "n": 52,
+          "text": "[3.23] E este é o seu mandamento: que creiamos no nome de seu Filho Jesus Cristo e que nos amemos uns aos outros, como ele nos ordenou."
+        },
+        {
+          "n": 53,
+          "text": "[3.24] Os que obedecem aos seus mandamentos permanecem nele, e ele neles. Deste modo sabemos que ele permanece em nós: pelo Espírito que nos deu."
         }
       ]
     },

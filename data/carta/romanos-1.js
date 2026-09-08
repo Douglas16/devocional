@@ -24,7 +24,7 @@ window.ROMANOS_1_CARTA = [
     },
     "context": "Paulo escreve a uma igreja que ainda não visitou e abre a carta apresentando o centro da sua mensagem: Jesus Cristo, o Filho prometido, ressuscitado e Senhor. Antes de desenvolver os grandes temas de Romanos, ele coloca o evangelho como poder de Deus para salvar e como revelação da justiça divina recebida pela fé.",
     "passage": {
-      "ref": "Romanos 1 · capítulo completo (NVI)",
+      "ref": "Romanos 1.1-17",
       "verses": [
         {
           "n": 1,
@@ -93,66 +93,6 @@ window.ROMANOS_1_CARTA = [
         {
           "n": 17,
           "text": "Porque no evangelho é revelada a justiça de Deus, uma justiça que do princípio ao fim é pela fé, como está escrito: \"O justo viverá pela fé\"."
-        },
-        {
-          "n": 18,
-          "text": "Portanto, a ira de Deus é revelada do céu contra toda impiedade e injustiça dos homens que suprimem a verdade pela injustiça,"
-        },
-        {
-          "n": 19,
-          "text": "pois o que de Deus se pode conhecer é manifesto entre eles, porque Deus lhes manifestou."
-        },
-        {
-          "n": 20,
-          "text": "Pois desde a criação do mundo os atributos invisíveis de Deus, seu eterno poder e sua natureza divina, têm sido vistos claramente, sendo compreendidos por meio das coisas criadas, de forma que tais homens são indesculpáveis;"
-        },
-        {
-          "n": 21,
-          "text": "porque, tendo conhecido a Deus, não o glorificaram como Deus, nem lhe renderam graças, mas os seus pensamentos tornaram-se fúteis e os seus corações insensatos se obscureceram."
-        },
-        {
-          "n": 22,
-          "text": "Dizendo-se sábios, tornaram-se loucos"
-        },
-        {
-          "n": 23,
-          "text": "e trocaram a glória do Deus imortal por imagens feitas segundo a semelhança do homem mortal, bem como de pássaros, quadrúpedes e répteis."
-        },
-        {
-          "n": 24,
-          "text": "Por isso Deus os entregou à impureza sexual, segundo os desejos pecaminosos dos seus corações, para a degradação dos seus corpos entre si."
-        },
-        {
-          "n": 25,
-          "text": "Trocaram a verdade de Deus pela mentira, e adoraram e serviram a coisas e seres criados, em lugar do Criador, que é bendito para sempre. Amém."
-        },
-        {
-          "n": 26,
-          "text": "Por causa disso Deus os entregou a paixões vergonhosas. Até suas mulheres trocaram suas relações sexuais naturais por outras, contrárias à natureza."
-        },
-        {
-          "n": 27,
-          "text": "Da mesma forma, os homens também abandonaram as relações naturais com as mulheres e se inflamaram de paixão uns pelos outros. Começaram a cometer atos indecentes, homens com homens, e receberam em si mesmos o castigo merecido pela sua perversão."
-        },
-        {
-          "n": 28,
-          "text": "Além do mais, visto que desprezaram o conhecimento de Deus, ele os entregou a uma disposição mental reprovável, para praticarem o que não deviam."
-        },
-        {
-          "n": 29,
-          "text": "Tornaram-se cheios de toda sorte de injustiça, maldade, ganância e depravação. Estão cheios de inveja, homicídio, rivalidades, engano e malícia. São bisbilhoteiros,"
-        },
-        {
-          "n": 30,
-          "text": "caluniadores, inimigos de Deus, insolentes, arrogantes e presunçosos; inventam maneiras de praticar o mal; desobedecem a seus pais;"
-        },
-        {
-          "n": 31,
-          "text": "são insensatos, desleais, sem amor pela família, implacáveis."
-        },
-        {
-          "n": 32,
-          "text": "Embora conheçam o justo decreto de Deus, de que as pessoas que praticam tais coisas merecem a morte, não somente continuam a praticá-las, mas também aprovam aqueles que as praticam."
         }
       ]
     },
@@ -185,76 +125,8 @@ window.ROMANOS_1_CARTA = [
     },
     "context": "Depois de anunciar a boa notícia, Paulo descreve uma humanidade que troca o Criador pela criação. O argumento percorre idolatria, desejos desordenados e relações quebradas, preparando o terreno para Romanos 2, onde quem se coloca na posição de juiz também será confrontado.",
     "passage": {
-      "ref": "Romanos 1 · capítulo completo (NVI)",
+      "ref": "Romanos 1.18-32",
       "verses": [
-        {
-          "n": 1,
-          "text": "Paulo, servo de Cristo Jesus, chamado para ser apóstolo, separado para o evangelho de Deus,"
-        },
-        {
-          "n": 2,
-          "text": "o qual foi prometido por ele de antemão por meio dos seus profetas nas Escrituras Sagradas,"
-        },
-        {
-          "n": 3,
-          "text": "acerca de seu Filho, que, como homem, era descendente de Davi,"
-        },
-        {
-          "n": 4,
-          "text": "e que mediante o Espírito de santidade foi declarado Filho de Deus com poder, pela sua ressurreição dentre os mortos: Jesus Cristo, nosso Senhor."
-        },
-        {
-          "n": 5,
-          "text": "Por meio dele e por causa do seu nome, recebemos graça e apostolado para chamar dentre todas as nações um povo para a obediência que vem pela fé."
-        },
-        {
-          "n": 6,
-          "text": "E vocês também estão entre os chamados para pertencerem a Jesus Cristo."
-        },
-        {
-          "n": 7,
-          "text": "A todos os que em Roma são amados de Deus e chamados para serem santos: A vocês, graça e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo."
-        },
-        {
-          "n": 8,
-          "text": "Antes de tudo, sou grato a meu Deus, mediante Jesus Cristo, por todos vocês, porque em todo o mundo está sendo anunciada a fé que vocês têm."
-        },
-        {
-          "n": 9,
-          "text": "Deus, a quem sirvo de todo o coração pregando o evangelho de seu Filho, é minha testemunha de como sempre me lembro de vocês"
-        },
-        {
-          "n": 10,
-          "text": "em minhas orações; e peço que agora, finalmente, pela vontade de Deus, seja-me aberto o caminho para que eu possa visitá-los."
-        },
-        {
-          "n": 11,
-          "text": "Anseio vê-los, a fim de compartilhar com vocês algum dom espiritual, para fortalecê-los,"
-        },
-        {
-          "n": 12,
-          "text": "isto é, para que eu e vocês sejamos mutuamente encorajados pela fé."
-        },
-        {
-          "n": 13,
-          "text": "Quero que vocês saibam, irmãos, que muitas vezes planejei visitá-los, mas fui impedido de fazê-lo até agora. Meu propósito é colher algum fruto entre vocês, assim como tenho colhido entre os demais gentios."
-        },
-        {
-          "n": 14,
-          "text": "Sou devedor tanto a gregos como a bárbaros, tanto a sábios como a ignorantes."
-        },
-        {
-          "n": 15,
-          "text": "Por isso estou disposto a pregar o evangelho também a vocês que estão em Roma."
-        },
-        {
-          "n": 16,
-          "text": "Não me envergonho do evangelho, porque é o poder de Deus para a salvação de todo aquele que crê: primeiro do judeu, depois do grego."
-        },
-        {
-          "n": 17,
-          "text": "Porque no evangelho é revelada a justiça de Deus, uma justiça que do princípio ao fim é pela fé, como está escrito: \"O justo viverá pela fé\"."
-        },
         {
           "n": 18,
           "text": "Portanto, a ira de Deus é revelada do céu contra toda impiedade e injustiça dos homens que suprimem a verdade pela injustiça,"
@@ -346,7 +218,7 @@ window.ROMANOS_1_CARTA = [
     },
     "context": "Paulo se volta para quem julga. Depois de descrever a ruptura humana em Romanos 1, ele impede o leitor religioso de ocupar uma posição confortável de superioridade. Judeus e gentios, religiosos e irreligiosos, chegam ao mesmo ponto: ninguém consegue construir sua própria justiça diante de Deus.",
     "passage": {
-      "ref": "Romanos 2 · capítulo completo (NVI)",
+      "ref": "Romanos 2.1-3.20",
       "verses": [
         {
           "n": 1,
@@ -463,6 +335,86 @@ window.ROMANOS_1_CARTA = [
         {
           "n": 29,
           "text": "Não! Judeu é quem o é interiormente, e circuncisão é a operada no coração, pelo Espírito, e não pela lei escrita. Para estes o louvor não provém dos homens, mas de Deus."
+        },
+        {
+          "n": 30,
+          "text": "[Rm 3.1] Que vantagem há então em ser judeu, ou que utilidade há na circuncisão?"
+        },
+        {
+          "n": 31,
+          "text": "[3.2] Muita, em todos os sentidos! Principalmente porque aos judeus foram confiadas as palavras de Deus."
+        },
+        {
+          "n": 32,
+          "text": "[3.3] Que importa se alguns deles foram infiéis? A sua infidelidade anulará a fidelidade de Deus?"
+        },
+        {
+          "n": 33,
+          "text": "[3.4] De maneira nenhuma! Seja Deus verdadeiro, e todo homem mentiroso. Como está escrito: \"De modo que são justas as tuas palavras e prevaleces quando julgas\"."
+        },
+        {
+          "n": 34,
+          "text": "[3.5] Mas, se a nossa injustiça ressalta de maneira ainda mais clara a justiça de Deus, que diremos? Que Deus é injusto por aplicar a sua ira? ( Estou usando um argumento humano. )"
+        },
+        {
+          "n": 35,
+          "text": "[3.6] Claro que não! Se fosse assim, como Deus iria julgar o mundo?"
+        },
+        {
+          "n": 36,
+          "text": "[3.7] Alguém pode alegar ainda: \"Se a minha mentira ressalta a veracidade de Deus, aumentando assim a sua glória, por que sou condenado como pecador? \""
+        },
+        {
+          "n": 37,
+          "text": "[3.8] Por que não dizer como alguns caluniosamente afirmam que dizemos: \"Façamos o mal, para que nos venha o bem\"? A condenação dos tais é merecida."
+        },
+        {
+          "n": 38,
+          "text": "[3.9] Que concluiremos então? Estamos em posição de vantagem? Não! Já demonstramos que tanto judeus quanto gentios estão debaixo do pecado."
+        },
+        {
+          "n": 39,
+          "text": "[3.10] Como está escrito: \"Não há nenhum justo, nem um sequer;"
+        },
+        {
+          "n": 40,
+          "text": "[3.11] não há ninguém que entenda, ninguém que busque a Deus."
+        },
+        {
+          "n": 41,
+          "text": "[3.12] Todos se desviaram, tornaram-se juntamente inúteis; não há ninguém que faça o bem, não há nem um sequer\"."
+        },
+        {
+          "n": 42,
+          "text": "[3.13] \"Suas gargantas são um túmulo aberto; com suas línguas enganam\". \"Veneno de serpentes está em seus lábios\"."
+        },
+        {
+          "n": 43,
+          "text": "[3.14] \"Suas bocas estão cheias de maldição e amargura\"."
+        },
+        {
+          "n": 44,
+          "text": "[3.15] \"Seus pés são ágeis para derramar sangue;"
+        },
+        {
+          "n": 45,
+          "text": "[3.16] ruína e desgraça marcam os seus caminhos,"
+        },
+        {
+          "n": 46,
+          "text": "[3.17] e não conhecem o caminho da paz\"."
+        },
+        {
+          "n": 47,
+          "text": "[3.18] \"Aos seus olhos é inútil temer a Deus\"."
+        },
+        {
+          "n": 48,
+          "text": "[3.19] Sabemos que tudo o que a lei diz, o diz àqueles que estão debaixo dela, para que toda boca se cale e todo o mundo esteja sob o juízo de Deus."
+        },
+        {
+          "n": 49,
+          "text": "[3.20] Portanto, ninguém será declarado justo diante dele baseando-se na obediência à lei, pois é mediante a lei que nos tornamos plenamente conscientes do pecado."
         }
       ]
     },
@@ -495,88 +447,8 @@ window.ROMANOS_1_CARTA = [
     },
     "context": "Depois de fechar todas as portas da autopromoção, Paulo abre uma porta com as palavras 'mas agora'. A justiça de Deus se manifesta em Cristo e é recebida pela fé. A ênfase deixa de estar no currículo humano e passa para a ação graciosa de Deus.",
     "passage": {
-      "ref": "Romanos 3 · capítulo completo (NVI)",
+      "ref": "Romanos 3.21-31",
       "verses": [
-        {
-          "n": 1,
-          "text": "Que vantagem há então em ser judeu, ou que utilidade há na circuncisão?"
-        },
-        {
-          "n": 2,
-          "text": "Muita, em todos os sentidos! Principalmente porque aos judeus foram confiadas as palavras de Deus."
-        },
-        {
-          "n": 3,
-          "text": "Que importa se alguns deles foram infiéis? A sua infidelidade anulará a fidelidade de Deus?"
-        },
-        {
-          "n": 4,
-          "text": "De maneira nenhuma! Seja Deus verdadeiro, e todo homem mentiroso. Como está escrito: \"De modo que são justas as tuas palavras e prevaleces quando julgas\"."
-        },
-        {
-          "n": 5,
-          "text": "Mas, se a nossa injustiça ressalta de maneira ainda mais clara a justiça de Deus, que diremos? Que Deus é injusto por aplicar a sua ira? ( Estou usando um argumento humano. )"
-        },
-        {
-          "n": 6,
-          "text": "Claro que não! Se fosse assim, como Deus iria julgar o mundo?"
-        },
-        {
-          "n": 7,
-          "text": "Alguém pode alegar ainda: \"Se a minha mentira ressalta a veracidade de Deus, aumentando assim a sua glória, por que sou condenado como pecador? \""
-        },
-        {
-          "n": 8,
-          "text": "Por que não dizer como alguns caluniosamente afirmam que dizemos: \"Façamos o mal, para que nos venha o bem\"? A condenação dos tais é merecida."
-        },
-        {
-          "n": 9,
-          "text": "Que concluiremos então? Estamos em posição de vantagem? Não! Já demonstramos que tanto judeus quanto gentios estão debaixo do pecado."
-        },
-        {
-          "n": 10,
-          "text": "Como está escrito: \"Não há nenhum justo, nem um sequer;"
-        },
-        {
-          "n": 11,
-          "text": "não há ninguém que entenda, ninguém que busque a Deus."
-        },
-        {
-          "n": 12,
-          "text": "Todos se desviaram, tornaram-se juntamente inúteis; não há ninguém que faça o bem, não há nem um sequer\"."
-        },
-        {
-          "n": 13,
-          "text": "\"Suas gargantas são um túmulo aberto; com suas línguas enganam\". \"Veneno de serpentes está em seus lábios\"."
-        },
-        {
-          "n": 14,
-          "text": "\"Suas bocas estão cheias de maldição e amargura\"."
-        },
-        {
-          "n": 15,
-          "text": "\"Seus pés são ágeis para derramar sangue;"
-        },
-        {
-          "n": 16,
-          "text": "ruína e desgraça marcam os seus caminhos,"
-        },
-        {
-          "n": 17,
-          "text": "e não conhecem o caminho da paz\"."
-        },
-        {
-          "n": 18,
-          "text": "\"Aos seus olhos é inútil temer a Deus\"."
-        },
-        {
-          "n": 19,
-          "text": "Sabemos que tudo o que a lei diz, o diz àqueles que estão debaixo dela, para que toda boca se cale e todo o mundo esteja sob o juízo de Deus."
-        },
-        {
-          "n": 20,
-          "text": "Portanto, ninguém será declarado justo diante dele baseando-se na obediência à lei, pois é mediante a lei que nos tornamos plenamente conscientes do pecado."
-        },
         {
           "n": 21,
           "text": "Mas agora se manifestou uma justiça que provém de Deus, independente da lei, da qual testemunham a Lei e os Profetas,"
@@ -1160,7 +1032,7 @@ window.ROMANOS_1_CARTA = [
     },
     "context": "O clamor de Romanos 7 desemboca imediatamente numa declaração: não há condenação para quem está em Cristo Jesus. Paulo passa da luta com o pecado para a vida no Espírito, pertencimento, filiação e uma nova maneira de se relacionar com Deus.",
     "passage": {
-      "ref": "Romanos 8 · capítulo completo (NVI)",
+      "ref": "Romanos 8.1-17",
       "verses": [
         {
           "n": 1,
@@ -1229,94 +1101,6 @@ window.ROMANOS_1_CARTA = [
         {
           "n": 17,
           "text": "Se somos filhos, então somos herdeiros; herdeiros de Deus e co-herdeiros com Cristo, se de fato participamos dos seus sofrimentos, para que também participemos da sua glória."
-        },
-        {
-          "n": 18,
-          "text": "Considero que os nossos sofrimentos atuais não podem ser comparados com a glória que em nós será revelada."
-        },
-        {
-          "n": 19,
-          "text": "A natureza criada aguarda, com grande expectativa, que os filhos de Deus sejam revelados."
-        },
-        {
-          "n": 20,
-          "text": "Pois ela foi submetida à futilidade, não pela sua própria escolha, mas por causa da vontade daquele que a sujeitou, na esperança"
-        },
-        {
-          "n": 21,
-          "text": "de que a própria natureza criada será libertada da escravidão da decadência em que se encontra para a gloriosa liberdade dos filhos de Deus."
-        },
-        {
-          "n": 22,
-          "text": "Sabemos que toda a natureza criada geme até agora, como em dores de parto."
-        },
-        {
-          "n": 23,
-          "text": "E não só isso, mas nós mesmos, que temos os primeiros frutos do Espírito, gememos interiormente, esperando ansiosamente nossa adoção como filhos, a redenção do nosso corpo."
-        },
-        {
-          "n": 24,
-          "text": "Pois nessa esperança fomos salvos. Mas, esperança que se vê não é esperança. Quem espera por aquilo que está vendo?"
-        },
-        {
-          "n": 25,
-          "text": "Mas se esperamos o que ainda não vemos, aguardamo-lo pacientemente."
-        },
-        {
-          "n": 26,
-          "text": "Da mesma forma o Espírito nos ajuda em nossa fraqueza, pois não sabemos como orar, mas o próprio Espírito intercede por nós com gemidos inexprimíveis."
-        },
-        {
-          "n": 27,
-          "text": "E aquele que sonda os corações conhece a intenção do Espírito, porque o Espírito intercede pelos santos de acordo com a vontade de Deus."
-        },
-        {
-          "n": 28,
-          "text": "Sabemos que Deus age em todas as coisas para o bem daqueles que o amam, dos que foram chamados de acordo com o seu propósito."
-        },
-        {
-          "n": 29,
-          "text": "Pois aqueles que de antemão conheceu, também os predestinou para serem conformes à imagem de seu Filho, a fim de que ele seja o primogênito entre muitos irmãos."
-        },
-        {
-          "n": 30,
-          "text": "E aos que predestinou, também chamou; aos que chamou, também justificou; aos que justificou, também glorificou."
-        },
-        {
-          "n": 31,
-          "text": "Que diremos, pois, diante dessas coisas? Se Deus é por nós, quem será contra nós?"
-        },
-        {
-          "n": 32,
-          "text": "Aquele que não poupou a seu próprio Filho, mas o entregou por todos nós, como não nos dará juntamente com ele, e de graça, todas as coisas?"
-        },
-        {
-          "n": 33,
-          "text": "Quem fará alguma acusação contra os escolhidos de Deus? É Deus quem os justifica."
-        },
-        {
-          "n": 34,
-          "text": "Quem os condenará? Foi Cristo Jesus que morreu; e mais, que ressuscitou e está à direita de Deus, e também intercede por nós."
-        },
-        {
-          "n": 35,
-          "text": "Quem nos separará do amor de Cristo? Será tribulação, ou angústia, ou perseguição, ou fome, ou nudez, ou perigo, ou espada?"
-        },
-        {
-          "n": 36,
-          "text": "Como está escrito: \"Por amor de ti enfrentamos a morte todos os dias; somos considerados como ovelhas destinadas ao matadouro\"."
-        },
-        {
-          "n": 37,
-          "text": "Mas, em todas estas coisas somos mais que vencedores, por meio daquele que nos amou."
-        },
-        {
-          "n": 38,
-          "text": "Pois estou convencido de que nem morte nem vida, nem anjos nem demônios, nem o presente nem o futuro, nem quaisquer poderes,"
-        },
-        {
-          "n": 39,
-          "text": "nem altura nem profundidade, nem qualquer outra coisa na criação será capaz de nos separar do amor de Deus que está em Cristo Jesus, nosso Senhor."
         }
       ]
     },

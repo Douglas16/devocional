@@ -130,7 +130,7 @@ window.APOCALIPSE = [
     },
     "context": "As primeiras quatro cartas chamam igrejas reais a recuperar o amor, resistir ao medo e rejeitar compromissos com a idolatria.",
     "passage": {
-      "ref": "Apocalipse 2 · capítulo completo (NVI)",
+      "ref": "Apocalipse 2.1-3.6",
       "verses": [
         {
           "n": 1,
@@ -247,6 +247,30 @@ window.APOCALIPSE = [
         {
           "n": 29,
           "text": "Aquele que tem ouvidos ouça o que o Espírito diz às igrejas."
+        },
+        {
+          "n": 30,
+          "text": "[Ap 3.1] Ao anjo da igreja em Sardes escreva: Estas são as palavras daquele que tem os sete espíritos de Deus e as sete estrelas. Conheço as suas obras; você tem fama de estar vivo, mas está morto."
+        },
+        {
+          "n": 31,
+          "text": "[3.2] Esteja atento! Fortaleça o que resta e que estava para morrer, pois não achei suas obras perfeitas aos olhos do meu Deus."
+        },
+        {
+          "n": 32,
+          "text": "[3.3] Lembre-se, portanto, do que você recebeu e ouviu; obedeça e arrependa-se. Mas se você não estiver atento, virei como um ladrão e você não saberá a que hora virei contra você."
+        },
+        {
+          "n": 33,
+          "text": "[3.4] No entanto, você tem aí em Sardes uns poucos que não contaminaram as suas vestes. Eles andarão comigo, vestidos de branco, pois são dignos."
+        },
+        {
+          "n": 34,
+          "text": "[3.5] O vencedor será igualmente vestido de branco. Jamais apagarei o seu nome do livro da vida, mas o reconhecerei diante do meu Pai e dos seus anjos."
+        },
+        {
+          "n": 35,
+          "text": "[3.6] Aquele que tem ouvidos ouça o que o Espírito diz às igrejas."
         }
       ]
     },
@@ -280,32 +304,8 @@ window.APOCALIPSE = [
     },
     "context": "Filadélfia recebe uma porta aberta; Laodiceia é chamada a abandonar a autossuficiência e voltar a Cristo.",
     "passage": {
-      "ref": "Apocalipse 3 · capítulo completo (NVI)",
+      "ref": "Apocalipse 3.7-22",
       "verses": [
-        {
-          "n": 1,
-          "text": "Ao anjo da igreja em Sardes escreva: Estas são as palavras daquele que tem os sete espíritos de Deus e as sete estrelas. Conheço as suas obras; você tem fama de estar vivo, mas está morto."
-        },
-        {
-          "n": 2,
-          "text": "Esteja atento! Fortaleça o que resta e que estava para morrer, pois não achei suas obras perfeitas aos olhos do meu Deus."
-        },
-        {
-          "n": 3,
-          "text": "Lembre-se, portanto, do que você recebeu e ouviu; obedeça e arrependa-se. Mas se você não estiver atento, virei como um ladrão e você não saberá a que hora virei contra você."
-        },
-        {
-          "n": 4,
-          "text": "No entanto, você tem aí em Sardes uns poucos que não contaminaram as suas vestes. Eles andarão comigo, vestidos de branco, pois são dignos."
-        },
-        {
-          "n": 5,
-          "text": "O vencedor será igualmente vestido de branco. Jamais apagarei o seu nome do livro da vida, mas o reconhecerei diante do meu Pai e dos seus anjos."
-        },
-        {
-          "n": 6,
-          "text": "Aquele que tem ouvidos ouça o que o Espírito diz às igrejas."
-        },
         {
           "n": 7,
           "text": "Ao anjo da igreja em Filadélfia escreva: Estas são as palavras daquele que é santo e verdadeiro, que tem a chave de Davi. O que ele abre ninguém pode fechar, e o que ele fecha ninguém pode abrir."
@@ -570,7 +570,7 @@ window.APOCALIPSE = [
     },
     "context": "Os selos revelam a realidade dolorosa de um mundo ferido; ao mesmo tempo, Deus conhece seu povo e promete que o Cordeiro o pastoreará.",
     "passage": {
-      "ref": "Apocalipse 6 · capítulo completo (NVI)",
+      "ref": "Apocalipse 6-7",
       "verses": [
         {
           "n": 1,
@@ -639,6 +639,74 @@ window.APOCALIPSE = [
         {
           "n": 17,
           "text": "Pois chegou o grande dia da ira deles; e quem poderá suportar? \""
+        },
+        {
+          "n": 18,
+          "text": "[Ap 7.1] Depois disso vi quatro anjos de pé nos quatro cantos da terra, retendo os quatro ventos, para impedir que qualquer vento soprasse na terra, no mar ou em qualquer árvore."
+        },
+        {
+          "n": 19,
+          "text": "[7.2] Então vi outro anjo subindo do Oriente, tendo o selo do Deus vivo. Ele bradou em alta voz aos quatro anjos a quem havia sido dado poder para danificar a terra e o mar:"
+        },
+        {
+          "n": 20,
+          "text": "[7.3] \"Não danifiquem nem a terra, nem o mar nem as árvores, até que selemos as testas dos servos do nosso Deus\"."
+        },
+        {
+          "n": 21,
+          "text": "[7.4] Então ouvi o número dos que foram selados: cento e quarenta e quatro mil, de todas as tribos de Israel."
+        },
+        {
+          "n": 22,
+          "text": "[7.5] Da tribo de Judá foram selados doze mil, da tribo de Rúben, doze mil, da tribo de Gade, doze mil,"
+        },
+        {
+          "n": 23,
+          "text": "[7.6] da tribo de Aser, doze mil, da tribo de Naftali, doze mil, da tribo de Manassés, doze mil,"
+        },
+        {
+          "n": 24,
+          "text": "[7.7] da tribo de Simeão, doze mil, da tribo de Levi, doze mil, da tribo de Issacar, doze mil,"
+        },
+        {
+          "n": 25,
+          "text": "[7.8] da tribo de Zebulom, doze mil, da tribo de José, doze mil, da tribo de Benjamim, doze mil."
+        },
+        {
+          "n": 26,
+          "text": "[7.9] Depois disso olhei, e diante de mim estava uma grande multidão que ninguém podia contar, de todas as nações, tribos, povos e línguas, de pé, diante do trono e do Cordeiro, com vestes brancas e segurando palmas."
+        },
+        {
+          "n": 27,
+          "text": "[7.10] E clamavam em alta voz: \"A salvação pertence ao nosso Deus, que se assenta no trono, e ao Cordeiro\"."
+        },
+        {
+          "n": 28,
+          "text": "[7.11] Todos os anjos estavam de pé ao redor do trono, dos anciãos e dos quatro seres viventes. Eles se prostraram com o rosto em terra diante do trono e adoraram a Deus,"
+        },
+        {
+          "n": 29,
+          "text": "[7.12] dizendo: \"Amém! Louvor e glória, sabedoria, ação de graças, honra, poder e força sejam ao nosso Deus para todo o sempre. Amém! \""
+        },
+        {
+          "n": 30,
+          "text": "[7.13] Então um dos anciãos me perguntou: \"Quem são estes que estão vestidos de branco, e de onde vieram? \""
+        },
+        {
+          "n": 31,
+          "text": "[7.14] Respondi: \"Senhor, tu o sabes\". E ele disse: \"Estes são os que vieram da grande tribulação e lavaram as suas vestes e as branquearam no sangue do Cordeiro."
+        },
+        {
+          "n": 32,
+          "text": "[7.15] Por isso, eles estão diante do trono de Deus e o servem dia e noite em seu santuário; e aquele que está assentado no trono estenderá sobre eles o seu tabernáculo."
+        },
+        {
+          "n": 33,
+          "text": "[7.16] Nunca mais terão fome, nunca mais terão sede. Não cairá sobre eles sol, e nenhum calor abrasador,"
+        },
+        {
+          "n": 34,
+          "text": "[7.17] pois o Cordeiro que está no centro do trono será o seu Pastor; ele os guiará às fontes de água viva. E Deus enxugará dos seus olhos toda lágrima\"."
         }
       ]
     },
@@ -672,7 +740,7 @@ window.APOCALIPSE = [
     },
     "context": "As trombetas funcionam como advertência: o mal traz ruína, e Deus chama pessoas a abandonar a idolatria antes que o coração se torne insensível.",
     "passage": {
-      "ref": "Apocalipse 8 · capítulo completo (NVI)",
+      "ref": "Apocalipse 8-9",
       "verses": [
         {
           "n": 1,
@@ -725,6 +793,90 @@ window.APOCALIPSE = [
         {
           "n": 13,
           "text": "Enquanto eu olhava, ouvi uma águia que voava pelo meio do céu e dizia em alta voz: \"Ai, ai, ai dos que habitam na terra, por causa do toque das trombetas que está prestes a ser dado pelos três outros anjos! \""
+        },
+        {
+          "n": 14,
+          "text": "[Ap 9.1] O quinto anjo tocou a sua trombeta, e vi uma estrela que havia caído do céu sobre a terra. À estrela foi dada a chave do poço do Abismo."
+        },
+        {
+          "n": 15,
+          "text": "[9.2] Quando ela abriu o Abismo, subiu dele fumaça como a de uma gigantesca fornalha. O sol e o céu escureceram com a fumaça que saía do abismo."
+        },
+        {
+          "n": 16,
+          "text": "[9.3] Da fumaça saíram gafanhotos que vieram sobre a terra, e lhes foi dado poder como o dos escorpiões da terra."
+        },
+        {
+          "n": 17,
+          "text": "[9.4] Eles receberam ordens para não causar dano nem à relva da terra nem a qualquer planta ou árvore, mas apenas àqueles que não tinham o selo de Deus na testa."
+        },
+        {
+          "n": 18,
+          "text": "[9.5] Não lhes foi dado poder para matá-los, mas sim para causar-lhes tormento durante cinco meses. A agonia que eles sofreram era como a da picada do escorpião."
+        },
+        {
+          "n": 19,
+          "text": "[9.6] Naqueles dias os homens procurarão a morte, mas não a encontrarão; desejarão morrer, mas a morte fugirá deles."
+        },
+        {
+          "n": 20,
+          "text": "[9.7] Os gafanhotos pareciam cavalos preparados para a batalha. Tinham sobre a cabeça algo como coroas de ouro, e o rosto deles parecia rosto humano."
+        },
+        {
+          "n": 21,
+          "text": "[9.8] Os cabelos deles eram como os de mulheres e os dentes como os de leão."
+        },
+        {
+          "n": 22,
+          "text": "[9.9] Tinham couraças como couraças de ferro, e o som das suas asas era como o barulho de muitos cavalos e carruagens correndo para a batalha."
+        },
+        {
+          "n": 23,
+          "text": "[9.10] Tinham caudas e ferrões como de escorpiões, e na cauda tinham poder para causar tormento aos homens durante cinco meses."
+        },
+        {
+          "n": 24,
+          "text": "[9.11] Tinham um rei sobre eles, o anjo do Abismo, cujo nome, em hebraico, é Abadom, e, em grego, Apoliom."
+        },
+        {
+          "n": 25,
+          "text": "[9.12] O primeiro ai passou; dois outros ais ainda estão por vir."
+        },
+        {
+          "n": 26,
+          "text": "[9.13] O sexto anjo tocou a sua trombeta, e ouvi uma voz que vinha das pontas do altar de ouro que está diante de Deus."
+        },
+        {
+          "n": 27,
+          "text": "[9.14] Ela disse ao sexto anjo que tinha a trombeta: \"Solte os quatro anjos que estão amarrados junto ao grande rio Eufrates\"."
+        },
+        {
+          "n": 28,
+          "text": "[9.15] Os quatro anjos, que estavam preparados para aquela hora, dia, mês e ano, foram soltos para matar um terço da humanidade."
+        },
+        {
+          "n": 29,
+          "text": "[9.16] O número dos cavaleiros que compunham os exércitos era de duzentos milhões; eu ouvi o seu número."
+        },
+        {
+          "n": 30,
+          "text": "[9.17] Os cavalos e os cavaleiros que vi em minha visão tinham este aspecto: as suas couraças eram vermelhas como o fogo, azul-escuras, e amarelas como o enxofre. A cabeça dos cavalos parecia a cabeça de um leão, e da boca lançavam fogo, fumaça e enxofre."
+        },
+        {
+          "n": 31,
+          "text": "[9.18] Um terço da humanidade foi morto pelas três pragas de fogo, fumaça e enxofre que saíam das suas bocas."
+        },
+        {
+          "n": 32,
+          "text": "[9.19] O poder dos cavalos estava na boca e na cauda; pois as suas caudas eram como cobras; tinham cabeças com as quais feriam as pessoas."
+        },
+        {
+          "n": 33,
+          "text": "[9.20] O restante da humanidade que não morreu por essas pragas, nem assim se arrependeu das obras das suas mãos; eles não pararam de adorar os demônios e os ídolos de ouro, prata, bronze, pedra e madeira, ídolos que não podem ver nem ouvir nem andar."
+        },
+        {
+          "n": 34,
+          "text": "[9.21] Também não se arrependeram dos seus assassinatos, das suas feitiçarias, da sua imoralidade sexual e dos seus roubos."
         }
       ]
     },
@@ -758,7 +910,7 @@ window.APOCALIPSE = [
     },
     "context": "A igreja recebe uma mensagem doce e amarga e é chamada a testemunhar. O fim do capítulo anuncia que o Reino de Cristo vence todo poder rival.",
     "passage": {
-      "ref": "Apocalipse 10 · capítulo completo (NVI)",
+      "ref": "Apocalipse 10-11",
       "verses": [
         {
           "n": 1,
@@ -803,6 +955,82 @@ window.APOCALIPSE = [
         {
           "n": 11,
           "text": "Então me foi dito: \"É preciso que você profetize de novo acerca de muitos povos, nações, línguas e reis\"."
+        },
+        {
+          "n": 12,
+          "text": "[Ap 11.1] Deram-me um caniço semelhante a uma vara de medir, e me foi dito: \"Vá e meça o templo de Deus e o altar, e conte os adoradores que lá estiverem."
+        },
+        {
+          "n": 13,
+          "text": "[11.2] Exclua, porém, o pátio exterior; não o meça, pois ele foi dado aos gentios. Eles pisarão a cidade santa durante quarenta e dois meses."
+        },
+        {
+          "n": 14,
+          "text": "[11.3] Darei poder às minhas duas testemunhas, e elas profetizarão durante mil duzentos e sessenta dias, vestidas de pano de saco\"."
+        },
+        {
+          "n": 15,
+          "text": "[11.4] Estas são as duas oliveiras e os dois candelabros que permanecem diante do Senhor da terra."
+        },
+        {
+          "n": 16,
+          "text": "[11.5] Se alguém quiser lhes causar dano, da boca deles sairá fogo que devorará os seus inimigos. É assim que deve morrer qualquer pessoa que quiser causar-lhes dano."
+        },
+        {
+          "n": 17,
+          "text": "[11.6] Estes homens têm poder para fechar o céu, de modo que não chova durante o tempo em que estiverem profetizando, e têm poder para transformar a água em sangue e ferir a terra com toda sorte de pragas, quantas vezes desejarem."
+        },
+        {
+          "n": 18,
+          "text": "[11.7] Quando eles tiverem terminado o seu testemunho, a besta que vem do Abismo os atacará. E irá vencê-los e matá-los."
+        },
+        {
+          "n": 19,
+          "text": "[11.8] Os seus cadáveres ficarão expostos na rua principal da grande cidade, que figuradamente é chamada Sodoma e Egito, onde também foi crucificado o seu Senhor."
+        },
+        {
+          "n": 20,
+          "text": "[11.9] Durante três dias e meio, homens de todos povos, tribos, línguas e nações contemplarão os seus cadáveres e não permitirão que sejam sepultados."
+        },
+        {
+          "n": 21,
+          "text": "[11.10] Os habitantes da terra se alegrarão por causa deles e festejarão, enviando presentes uns aos outros, pois esses dois profetas haviam atormentado os que habitam na terra."
+        },
+        {
+          "n": 22,
+          "text": "[11.11] Mas, depois dos três dias e meio, entrou neles um sopro de vida da parte de Deus, e eles ficaram de pé, e um grande terror tomou conta daqueles que os viram."
+        },
+        {
+          "n": 23,
+          "text": "[11.12] Então eles ouviram uma forte voz do céu que lhes disse: \"Subam para cá\". E eles subiram para o céu numa nuvem, enquanto os seus inimigos olhavam."
+        },
+        {
+          "n": 24,
+          "text": "[11.13] Naquela mesma hora houve um forte terremoto, e um décimo da cidade ruiu. Sete mil pessoas foram mortas no terremoto; os sobreviventes ficaram aterrorizados e deram glória ao Deus do céu."
+        },
+        {
+          "n": 25,
+          "text": "[11.14] O segundo ai passou; o terceiro ai virá em breve."
+        },
+        {
+          "n": 26,
+          "text": "[11.15] O sétimo anjo tocou a sua trombeta, e houve altas vozes no céu que diziam: \"O reino do mundo se tornou de nosso Senhor e do seu Cristo, e ele reinará para todo o sempre\"."
+        },
+        {
+          "n": 27,
+          "text": "[11.16] Os vinte e quatro anciãos que estavam assentados em seus tronos diante de Deus prostraram-se sobre seus rostos e adoraram a Deus,"
+        },
+        {
+          "n": 28,
+          "text": "[11.17] dizendo: \"Graças te damos, Senhor Deus todo-poderoso, que és e que eras, porque assumiste o teu grande poder e começaste a reinar."
+        },
+        {
+          "n": 29,
+          "text": "[11.18] As nações se iraram; e chegou a tua ira. Chegou o tempo de julgares os mortos e de recompensares os teus servos, os profetas, os teus santos e os que temem o teu nome, tanto pequenos como grandes, e de destruir os que destroem a terra\"."
+        },
+        {
+          "n": 30,
+          "text": "[11.19] Então foi aberto o santuário de Deus no céu, e ali foi vista a arca da sua aliança. Houve relâmpagos, vozes, trovões, um terremoto e um grande temporal de granizo."
         }
       ]
     },
@@ -836,7 +1064,7 @@ window.APOCALIPSE = [
     },
     "context": "O conflito é espiritual e a pressão para adorar poderes falsos é real. Vencer significa fidelidade ao Cordeiro, não violência contra pessoas.",
     "passage": {
-      "ref": "Apocalipse 12 · capítulo completo (NVI)",
+      "ref": "Apocalipse 12-13",
       "verses": [
         {
           "n": 1,
@@ -909,6 +1137,78 @@ window.APOCALIPSE = [
         {
           "n": 18,
           "text": "Então o dragão se pôs em pé na areia do mar."
+        },
+        {
+          "n": 19,
+          "text": "[Ap 13.1] Vi uma besta que saía do mar. Tinha dez chifres e sete cabeças, com dez coroas, uma sobre cada chifre, e em cada cabeça um nome de blasfêmia."
+        },
+        {
+          "n": 20,
+          "text": "[13.2] A besta que vi era semelhante a um leopardo, mas tinha pés como os de urso e boca como a de leão. O dragão deu à besta o seu poder, o seu trono e grande autoridade."
+        },
+        {
+          "n": 21,
+          "text": "[13.3] Uma das cabeças da besta parecia ter sofrido um ferimento mortal, mas o ferimento mortal foi curado. Todo o mundo ficou maravilhado e seguiu a besta."
+        },
+        {
+          "n": 22,
+          "text": "[13.4] Adoraram o dragão, que tinha dado autoridade à besta, e também adoraram a besta, dizendo: \"Quem é como a besta? Quem pode guerrear contra ela? \""
+        },
+        {
+          "n": 23,
+          "text": "[13.5] À besta foi dada uma boca para falar palavras arrogantes e blasfemas, e lhe foi autoridade para agir durante quarenta e dois meses."
+        },
+        {
+          "n": 24,
+          "text": "[13.6] Ela abriu a boca para blasfemar contra Deus e amaldiçoar o seu nome e o seu tabernáculo, os que habitam no céu."
+        },
+        {
+          "n": 25,
+          "text": "[13.7] Foi-lhe dado poder para guerrear contra os santos e vencê-los. Foi-lhe dada autoridade sobre toda tribo, povo, língua e nação."
+        },
+        {
+          "n": 26,
+          "text": "[13.8] Todos os habitantes da terra adorarão a besta, a saber, todos aqueles que não tiveram seus nomes escritos no livro da vida do Cordeiro que foi morto desde a criação do mundo."
+        },
+        {
+          "n": 27,
+          "text": "[13.9] Aquele que tem ouvidos ouça:"
+        },
+        {
+          "n": 28,
+          "text": "[13.10] Se alguém há de ir para o cativeiro, para o cativeiro irá. Se alguém há de ser morto à espada, à espada haverá de ser morto. Aqui estão a perseverança e a fidelidade dos santos."
+        },
+        {
+          "n": 29,
+          "text": "[13.11] Então vi outra besta que saía da terra, com dois chifres como cordeiro, mas que falava como dragão."
+        },
+        {
+          "n": 30,
+          "text": "[13.12] Exercia toda a autoridade da primeira besta, em nome dela, e fazia a terra e seus habitantes adorarem a primeira besta, cujo ferimento mortal havia sido curado."
+        },
+        {
+          "n": 31,
+          "text": "[13.13] E realizava grandes sinais, chegando a fazer descer fogo do céu à terra, à vista dos homens."
+        },
+        {
+          "n": 32,
+          "text": "[13.14] Por causa dos sinais que lhe foi permitido realizar em nome da primeira besta, ela enganou os habitantes da terra. Ordenou-lhes que fizessem uma imagem em honra da besta que fora ferida pela espada e contudo revivera."
+        },
+        {
+          "n": 33,
+          "text": "[13.15] Foi-lhe dado poder para dar fôlego à imagem da primeira besta, de modo que ela podia falar e fazer que fossem mortos todos os que se recusassem a adorar a imagem."
+        },
+        {
+          "n": 34,
+          "text": "[13.16] Também obrigou todos, pequenos e grandes, ricos e pobres, livres e escravos, a receberem certa marca na mão direita ou na testa,"
+        },
+        {
+          "n": 35,
+          "text": "[13.17] para que ninguém pudesse comprar nem vender, a não ser quem tivesse a marca, que é o nome da besta ou o número do seu nome."
+        },
+        {
+          "n": 36,
+          "text": "[13.18] Aqui há sabedoria. Aquele que tem entendimento calcule o número da besta, pois é número de homem. Seu número é seiscentos e sessenta e seis."
         }
       ]
     },
@@ -942,7 +1242,7 @@ window.APOCALIPSE = [
     },
     "context": "O Cordeiro permanece com seu povo. Os juízos afirmam que Deus não ignora o mal; os redimidos respondem com adoração à sua justiça.",
     "passage": {
-      "ref": "Apocalipse 14 · capítulo completo (NVI)",
+      "ref": "Apocalipse 14-15",
       "verses": [
         {
           "n": 1,
@@ -1023,6 +1323,38 @@ window.APOCALIPSE = [
         {
           "n": 20,
           "text": "Elas foram pisadas no lagar, fora da cidade, e correu sangue do lagar, chegando ao nível dos freios dos cavalos, numa distância de cerca de trezentos quilômetros."
+        },
+        {
+          "n": 21,
+          "text": "[Ap 15.1] Vi no céu outro sinal, grande e maravilhoso: sete anjos com as sete últimas pragas, pois com elas se completa a ira de Deus."
+        },
+        {
+          "n": 22,
+          "text": "[15.2] Vi algo semelhante a um mar de vidro misturado com fogo, e, de pé, junto ao mar, os que tinham vencido a besta, a sua imagem e o número do seu nome. Eles seguravam harpas que lhes haviam sido dadas por Deus,"
+        },
+        {
+          "n": 23,
+          "text": "[15.3] e cantavam o cântico de Moisés, servo de Deus, e o cântico do Cordeiro: \"Grandes e maravilhosas são as tuas obras, Senhor Deus todo-poderoso. Justos e verdadeiros são os teus caminhos, ó Rei das nações."
+        },
+        {
+          "n": 24,
+          "text": "[15.4] Quem não te temerá, ó Senhor? Quem não glorificará o teu nome? Pois tu somente és santo. Todas as nações virão à tua presença e te adorarão, pois os teus atos de justiça se tornaram manifestos\"."
+        },
+        {
+          "n": 25,
+          "text": "[15.5] Depois disso olhei, e vi que se abriu no céu o santuário, o tabernáculo da aliança."
+        },
+        {
+          "n": 26,
+          "text": "[15.6] Saíram do santuário os sete anjos com as sete pragas. Eles estavam vestidos de linho puro e resplandecente, e tinham cinturões de ouro ao redor do peito."
+        },
+        {
+          "n": 27,
+          "text": "[15.7] E um dos quatro seres viventes deu aos sete anjos sete taças de ouro cheias da ira de Deus, que vive para todo o sempre."
+        },
+        {
+          "n": 28,
+          "text": "[15.8] O santuário ficou cheio da fumaça da glória de Deus e do seu poder, e ninguém podia entrar no santuário enquanto não se completassem as sete pragas dos sete anjos."
         }
       ]
     },
@@ -1056,7 +1388,7 @@ window.APOCALIPSE = [
     },
     "context": "Babilônia representa sistemas de poder, luxo e violência que seduzem povos. Sua queda revela que nenhum império rivaliza com Deus para sempre.",
     "passage": {
-      "ref": "Apocalipse 16 · capítulo completo (NVI)",
+      "ref": "Apocalipse 16-18",
       "verses": [
         {
           "n": 1,
@@ -1141,6 +1473,174 @@ window.APOCALIPSE = [
         {
           "n": 21,
           "text": "Caíram sobre os homens, vindas do céu, enormes pedras de granizo, de cerca de trinta e cinco quilos cada; eles blasfemaram contra Deus por causa do granizo, pois a praga fora terrível."
+        },
+        {
+          "n": 22,
+          "text": "[Ap 17.1] Um dos sete anjos que tinham as sete taças aproximou-se e me disse: \"Venha, eu lhe mostrarei o julgamento da grande prostituta que está sentada sobre muitas águas,"
+        },
+        {
+          "n": 23,
+          "text": "[17.2] com quem os reis da terra se prostituíram; os habitantes da terra se embriagaram com o vinho da sua prostituição\"."
+        },
+        {
+          "n": 24,
+          "text": "[17.3] Então o anjo me levou no Espírito para um deserto. Ali vi uma mulher montada numa besta vermelha, que estava coberta de nomes blasfemos e que tinha sete cabeças e dez chifres."
+        },
+        {
+          "n": 25,
+          "text": "[17.4] A mulher estava vestida de azul e vermelho, e adornada de ouro, pedras preciosas e pérolas. Segurava um cálice de ouro, cheio de coisas repugnantes e da impureza da sua prostituição."
+        },
+        {
+          "n": 26,
+          "text": "[17.5] Em sua testa havia esta inscrição: MISTÉRIO: BABILÔNIA, A GRANDE; A MÃE DAS PROSTITUTAS E DAS PRÁTICAS REPUGNANTES DA TERRA."
+        },
+        {
+          "n": 27,
+          "text": "[17.6] Vi que a mulher estava embriagada com o sangue dos santos, o sangue das testemunhas de Jesus. Quando a vi, fiquei muito admirado."
+        },
+        {
+          "n": 28,
+          "text": "[17.7] Então o anjo me disse: \"Por que você está admirado? Eu lhe explicarei o mistério dessa mulher e da besta sobre a qual ela está montada, que tem sete cabeças e dez chifres."
+        },
+        {
+          "n": 29,
+          "text": "[17.8] A besta que você viu, era e já não é. Ela está para subir do abismo e caminha para a perdição. Os habitantes da terra, cujos nomes não foram escritos no livro da vida desde a criação do mundo, ficarão admirados quando virem a besta, porque ela era, agora não é, e entretanto virá."
+        },
+        {
+          "n": 30,
+          "text": "[17.9] \"Aqui se requer mente sábia. As sete cabeças são sete colinas sobre as quais está sentada a mulher."
+        },
+        {
+          "n": 31,
+          "text": "[17.10] São também sete reis. Cinco já caíram, um ainda existe, e o outro ainda não surgiu; mas, quando surgir, deverá permanecer durante pouco tempo."
+        },
+        {
+          "n": 32,
+          "text": "[17.11] A besta que era, e agora não é, é o oitavo rei. É um dos sete, e caminha para a perdição."
+        },
+        {
+          "n": 33,
+          "text": "[17.12] \"Os dez chifres que você viu são dez reis que ainda não receberam reino, mas que por uma hora receberão autoridade como reis, juntamente com a besta."
+        },
+        {
+          "n": 34,
+          "text": "[17.13] Eles têm um único propósito, e darão seu poder e sua autoridade à besta."
+        },
+        {
+          "n": 35,
+          "text": "[17.14] Guerrearão contra o Cordeiro, mas o Cordeiro os vencerá, pois é o Senhor dos senhores e o Rei dos reis; e vencerão com ele os seus chamados, escolhidos e fiéis\"."
+        },
+        {
+          "n": 36,
+          "text": "[17.15] Então o anjo me disse: \"As águas que você viu, onde está sentada a prostituta, são povos, multidões, nações e línguas."
+        },
+        {
+          "n": 37,
+          "text": "[17.16] A besta e os dez chifres que você viu odiarão a prostituta. Eles a levarão à ruína e a deixarão nua, comerão a sua carne e a destruirão com fogo,"
+        },
+        {
+          "n": 38,
+          "text": "[17.17] pois Deus colocou no coração deles o desejo de realizar o propósito que ele tem, levando-os a concordarem em dar à besta o poder que eles têm para reinar até que se cumpram as palavras de Deus."
+        },
+        {
+          "n": 39,
+          "text": "[17.18] A mulher que você viu é a grande cidade que reina sobre os reis da terra\"."
+        },
+        {
+          "n": 40,
+          "text": "[Ap 18.1] Depois disso vi outro anjo que descia do céu. Tinha grande autoridade, e a terra foi iluminada por seu esplendor."
+        },
+        {
+          "n": 41,
+          "text": "[18.2] E ele bradou com voz poderosa: \"Caiu! Caiu a grande Babilônia! Ela se tornou habitação de demônios e antro de todo espírito imundo antro de toda ave impura e detestável,"
+        },
+        {
+          "n": 42,
+          "text": "[18.3] pois todas as nações beberam do vinho da fúria da sua prostituição. Os reis da terra se prostituíram com ela; à custa do seu luxo excessivo os negociantes da terra se enriqueceram\"."
+        },
+        {
+          "n": 43,
+          "text": "[18.4] Então ouvi outra voz do céu que dizia: \"Saiam dela, vocês, povo meu, para que vocês não participem dos seus pecados, para que as pragas que vão cair sobre ela não os atinjam!"
+        },
+        {
+          "n": 44,
+          "text": "[18.5] Pois os pecados da Babilônia acumularam-se até o céu, e Deus se lembrou dos seus crimes."
+        },
+        {
+          "n": 45,
+          "text": "[18.6] Retribuam-lhe na mesma moeda; paguem-lhe em dobro pelo que fez; misturem para ela uma porção dupla no seu próprio cálice."
+        },
+        {
+          "n": 46,
+          "text": "[18.7] Façam-lhe sofrer tanto tormento e tanta aflição como a glória e o luxo a que ela se entregou. Em seu coração ela se vangloriava: ‘Estou sentada como rainha; não sou viúva e jamais terei tristeza’."
+        },
+        {
+          "n": 47,
+          "text": "[18.8] Por isso num só dia as suas pragas a alcançarão: morte, tristeza e fome, e o fogo a consumirá, pois poderoso é o Senhor Deus que a julga."
+        },
+        {
+          "n": 48,
+          "text": "[18.9] \"Quando os reis da terra, que se prostituíram com ela e participaram do seu luxo, virem a fumaça do seu incêndio, chorarão e se lamentarão por ela."
+        },
+        {
+          "n": 49,
+          "text": "[18.10] Amedrontados por causa do tormento dela, ficarão de longe e gritarão: ‘Ai! A grande cidade! Babilônia, cidade poderosa! Em apenas uma hora chegou a sua condenação! ’"
+        },
+        {
+          "n": 50,
+          "text": "[18.11] \"Os negociantes da terra chorarão e se lamentarão por causa dela, porque ninguém mais compra a sua mercadoria:"
+        },
+        {
+          "n": 51,
+          "text": "[18.12] artigos como ouro, prata, pedras preciosas e pérolas; linho fino, púrpura, seda e tecido vermelho; todo tipo de madeira de cedro e peças de marfim, madeira preciosa, bronze, ferro e mármore;"
+        },
+        {
+          "n": 52,
+          "text": "[18.13] canela e outras especiarias, incenso, mirra e perfumes, vinho e azeite de oliva; farinha fina e trigo, bois e ovelhas, cavalos e carruagens, e corpos e almas de seres humanos."
+        },
+        {
+          "n": 53,
+          "text": "[18.14] \"Eles dirão: ‘Foram-se as frutas que tanto lhe apeteciam! Todas as suas riquezas e todo o seu esplendor se desvaneceram; nunca mais serão recuperados’."
+        },
+        {
+          "n": 54,
+          "text": "[18.15] Os negociantes dessas coisas, que enriqueceram à custa dela, ficarão de longe, amedrontados com o tormento dela, e chorarão e se lamentarão,"
+        },
+        {
+          "n": 55,
+          "text": "[18.16] gritando: ‘Ai! A grande cidade, vestida de linho fino, de roupas de púrpura e vestes vermelhas, adornada de ouro, pedras preciosas e pérolas!"
+        },
+        {
+          "n": 56,
+          "text": "[18.17] Em apenas uma hora, tamanha riqueza foi arruinada! ’ \"Todos os pilotos, todos os passageiros e marinheiros dos navios e todos os que ganham a vida no mar ficarão de longe."
+        },
+        {
+          "n": 57,
+          "text": "[18.18] Ao verem a fumaça do incêndio dela, exclamarão: ‘Que outra cidade jamais se igualou a esta grande cidade? ’"
+        },
+        {
+          "n": 58,
+          "text": "[18.19] Lançarão pó sobre a cabeça, e lamentando-se e chorando, gritarão: ‘Ai! A grande cidade! Graças à sua riqueza, nela prosperaram todos os que tinham navios no mar! Em apenas uma hora ela ficou em ruínas!"
+        },
+        {
+          "n": 59,
+          "text": "[18.20] Celebre o que se deu com ela, ó céus! Celebrem, ó santos, apóstolos e profetas! Deus a julgou, retribuindo-lhe o que ela fez a vocês ’ \"."
+        },
+        {
+          "n": 60,
+          "text": "[18.21] Então um anjo poderoso levantou uma pedra do tamanho de uma grande pedra de moinho, lançou-a ao mar e disse: \"Com igual violência será lançada por terra a grande cidade da Babilônia, para nunca mais ser encontrada."
+        },
+        {
+          "n": 61,
+          "text": "[18.22] Nunca mais se ouvirá em seu meio o som de harpistas, dos músicos, dos flautistas e dos tocadores de trombeta. Nunca mais se achará dentro de seus muros artífice algum, de qualquer profissão. Nunca mais se ouvirá em seu meio o ruído das pedras de moinho."
+        },
+        {
+          "n": 62,
+          "text": "[18.23] Nunca mais brilhará dentro de seus muros a luz da candeia. Nunca mais se ouvirá ali a voz do noivo e da noiva. Seus mercadores eram os grandes do mundo. Todas as nações foram seduzidas por suas feitiçarias."
+        },
+        {
+          "n": 63,
+          "text": "[18.24] Nela foi encontrado sangue de profetas e de santos, e de todos os que foram assassinados na terra\"."
         }
       ]
     },
@@ -1386,7 +1886,7 @@ window.APOCALIPSE = [
     },
     "context": "A esperança final é Deus habitando com seu povo numa criação restaurada. A carta termina com cura, adoração e o convite para receber gratuitamente a água da vida.",
     "passage": {
-      "ref": "Apocalipse 21 · capítulo completo (NVI)",
+      "ref": "Apocalipse 21-22",
       "verses": [
         {
           "n": 1,
@@ -1495,6 +1995,90 @@ window.APOCALIPSE = [
         {
           "n": 27,
           "text": "Nela jamais entrará algo impuro, nem ninguém que pratique o que é vergonhoso ou enganoso, mas unicamente aqueles cujos nomes estão escritos no livro da vida do Cordeiro."
+        },
+        {
+          "n": 28,
+          "text": "[Ap 22.1] Então o anjo me mostrou o rio da água da vida que, claro como cristal, fluía do trono de Deus e do Cordeiro,"
+        },
+        {
+          "n": 29,
+          "text": "[22.2] no meio da rua principal da cidade. De cada lado do rio estava a árvore da vida, que dá doze colheitas, dando fruto todos os meses. As folhas da árvore servem para a cura das nações."
+        },
+        {
+          "n": 30,
+          "text": "[22.3] Já não haverá maldição nenhuma. O trono de Deus e do Cordeiro estará na cidade, e os seus servos o servirão."
+        },
+        {
+          "n": 31,
+          "text": "[22.4] Eles verão a sua face, e o seu nome estará em suas testas."
+        },
+        {
+          "n": 32,
+          "text": "[22.5] Não haverá mais noite. Eles não precisarão de luz de candeia nem da luz do sol, pois o Senhor Deus os iluminará; e eles reinarão para todo o sempre."
+        },
+        {
+          "n": 33,
+          "text": "[22.6] O anjo me disse: \"Estas palavras são dignas de confiança e verdadeiras. O Senhor, o Deus dos espíritos dos profetas, enviou o seu anjo para mostrar aos seus servos as coisas que em breve hão de acontecer\"."
+        },
+        {
+          "n": 34,
+          "text": "[22.7] \"Eis que venho em breve! Feliz é aquele que guarda as palavras da profecia deste livro\"."
+        },
+        {
+          "n": 35,
+          "text": "[22.8] Eu, João, sou aquele que ouviu e viu estas coisas. Tendo-as ouvido e visto, caí aos pés do anjo que me mostrou tudo aquilo para mim, para adorá-lo."
+        },
+        {
+          "n": 36,
+          "text": "[22.9] Mas ele me disse: \"Não faça isso! Sou servo como você e seus irmãos, os profetas, e como os que guardam as palavras deste livro. Adore a Deus! \""
+        },
+        {
+          "n": 37,
+          "text": "[22.10] Então me disse: \"Não sele as palavras da profecia deste livro, pois o tempo está próximo."
+        },
+        {
+          "n": 38,
+          "text": "[22.11] Continue o injusto a praticar injustiça; continue o imundo na imundícia; continue o justo a praticar justiça; e continue o santo a santificar-se\"."
+        },
+        {
+          "n": 39,
+          "text": "[22.12] \"Eis que venho em breve! A minha recompensa está comigo, e eu retribuirei a cada um de acordo com o que fez."
+        },
+        {
+          "n": 40,
+          "text": "[22.13] Eu sou o Alfa e o Ômega, o Primeiro e o Último, o Princípio e o Fim."
+        },
+        {
+          "n": 41,
+          "text": "[22.14] \"Felizes os que lavam as suas vestes, para que tenham direito à árvore da vida e possam entrar na cidade pelas portas."
+        },
+        {
+          "n": 42,
+          "text": "[22.15] Fora ficam os cães, os que praticam feitiçaria, os que cometem imoralidades sexuais, os assassinos, os idólatras e todos os que amam e praticam a mentira."
+        },
+        {
+          "n": 43,
+          "text": "[22.16] \"Eu, Jesus, enviei o meu anjo para dar a vocês este testemunho concernente às igrejas. Eu sou a Raiz e o Descendente de Davi, e a resplandecente Estrela da Manhã\"."
+        },
+        {
+          "n": 44,
+          "text": "[22.17] O Espírito e a noiva dizem: \"Vem! \" E todo aquele que ouvir diga: \"Vem! \" Quem tiver sede, venha; e quem quiser, beba de graça da água da vida."
+        },
+        {
+          "n": 45,
+          "text": "[22.18] Declaro a todos os que ouvem as palavras da profecia deste livro: se alguém lhe acrescentar algo, Deus lhe acrescentará as pragas descritas neste livro."
+        },
+        {
+          "n": 46,
+          "text": "[22.19] Se alguém tirar alguma palavra deste livro de profecia, Deus tirará dele a sua parte na árvore da vida e na cidade santa, que são descritas neste livro."
+        },
+        {
+          "n": 47,
+          "text": "[22.20] Aquele que dá testemunho destas coisas diz: \"Sim, venho em breve! \" Amém. Vem, Senhor Jesus!"
+        },
+        {
+          "n": 48,
+          "text": "[22.21] A graça do Senhor Jesus seja com todos. Amém."
         }
       ]
     },

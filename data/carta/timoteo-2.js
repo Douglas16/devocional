@@ -368,7 +368,7 @@ window.TIMOTEO_2_CARTA = [
     },
     "context": "Paulo dá a Timóteo uma incumbência final e depois olha para a própria vida. Ele sabe que sua partida está próxima, reconhece que sua corrida está terminando e fala com serenidade sobre fidelidade, não sobre uma carreira sem falhas.",
     "passage": {
-      "ref": "2 Timóteo 4 · capítulo completo (NVI)",
+      "ref": "2 Timóteo 4.1-8",
       "verses": [
         {
           "n": 1,
@@ -401,62 +401,6 @@ window.TIMOTEO_2_CARTA = [
         {
           "n": 8,
           "text": "Agora me está reservada a coroa da justiça, que o Senhor, justo Juiz, me dará naquele dia; e não somente a mim, mas também a todos os que amam a sua vinda."
-        },
-        {
-          "n": 9,
-          "text": "Procure vir logo ao meu encontro,"
-        },
-        {
-          "n": 10,
-          "text": "pois Demas, amando este mundo, abandonou-me e foi para Tessalônica. Crescente foi para a Galácia, e Tito, para a Dalmácia."
-        },
-        {
-          "n": 11,
-          "text": "Só Lucas está comigo. Traga Marcos com você, porque ele me é útil para o ministério."
-        },
-        {
-          "n": 12,
-          "text": "Enviei Tíquico a Éfeso."
-        },
-        {
-          "n": 13,
-          "text": "Quando você vier, traga a capa que deixei na casa de Carpo, em Trôade, e os meus livros, especialmente os pergaminhos."
-        },
-        {
-          "n": 14,
-          "text": "Alexandre, o ferreiro, causou-me muitos males. O Senhor lhe dará a retribuição pelo que fez."
-        },
-        {
-          "n": 15,
-          "text": "Previna-se contra ele, porque se opôs fortemente às nossas palavras."
-        },
-        {
-          "n": 16,
-          "text": "Na minha primeira defesa, ninguém apareceu para me apoiar; todos me abandonaram. Que isso não lhes cobrado."
-        },
-        {
-          "n": 17,
-          "text": "Mas o Senhor permaneceu ao meu lado e me deu forças, para que por mim a mensagem fosse plenamente proclamada, e todos os gentios a ouvissem. E eu fui libertado da boca do leão."
-        },
-        {
-          "n": 18,
-          "text": "O Senhor me livrará de toda obra maligna e me levará a salvo para o seu Reino celestial. A ele seja a glória para todo o sempre. Amém."
-        },
-        {
-          "n": 19,
-          "text": "Saudações a Priscila e Áqüila, e à casa de Onesíforo."
-        },
-        {
-          "n": 20,
-          "text": "Erasto permaneceu em Corinto, mas deixei Trófimo doente em Mileto."
-        },
-        {
-          "n": 21,
-          "text": "Procure vir antes do inverno. Êubulo, Prudente, Lino, Cláudia e todos os irmãos enviam-lhe saudações."
-        },
-        {
-          "n": 22,
-          "text": "O Senhor seja com o seu espírito. A graça seja com vocês."
         }
       ]
     },
@@ -489,40 +433,8 @@ window.TIMOTEO_2_CARTA = [
     },
     "context": "No fim da carta, Paulo cita nomes, ausências, pedidos práticos, conflitos e saudades. Ele pede capa, livros e companhia. A espiritualidade do texto é profundamente concreta: alguém próximo da morte continua precisando de calor, leitura e pessoas. Ao falar de Alexandre, Paulo entrega a retribuição ao Senhor e também recomenda prudência.",
     "passage": {
-      "ref": "2 Timóteo 4 · capítulo completo (NVI)",
+      "ref": "2 Timóteo 4.9-22",
       "verses": [
-        {
-          "n": 1,
-          "text": "Na presença de Deus e de Cristo Jesus, que há de julgar os vivos e os mortos por sua manifestação e por seu Reino, eu o exorto solenemente:"
-        },
-        {
-          "n": 2,
-          "text": "Pregue a palavra, esteja preparado a tempo e fora de tempo, repreenda, corrija, exorte com toda a paciência e doutrina."
-        },
-        {
-          "n": 3,
-          "text": "Pois virá o tempo em que não suportarão a sã doutrina; pelo contrário, sentindo coceira nos ouvidos, segundo os seus próprios desejos juntarão mestres para si mesmos."
-        },
-        {
-          "n": 4,
-          "text": "Eles se recusarão a dar ouvidos à verdade, voltando-se para os mitos."
-        },
-        {
-          "n": 5,
-          "text": "Você, porém, seja sóbrio em tudo, suporte os sofrimentos, faça a obra de um evangelista, cumpra plenamente o seu ministério."
-        },
-        {
-          "n": 6,
-          "text": "Eu já estou sendo derramado como uma oferta de bebida. Está próximo o tempo da minha partida."
-        },
-        {
-          "n": 7,
-          "text": "Combati o bom combate, terminei a corrida, guardei a fé."
-        },
-        {
-          "n": 8,
-          "text": "Agora me está reservada a coroa da justiça, que o Senhor, justo Juiz, me dará naquele dia; e não somente a mim, mas também a todos os que amam a sua vinda."
-        },
         {
           "n": 9,
           "text": "Procure vir logo ao meu encontro,"
