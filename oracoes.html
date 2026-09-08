@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Lectio — Pedidos de Oração</title><script src="theme.js"></script><link rel="stylesheet" href="styles.css"></head><body>
+<html lang="pt-BR"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Lectio — Pedidos de Oração</title><script src="theme.js"></script><script src="confirm-modal.js"></script><link rel="stylesheet" href="styles.css"></head><body>
 <div class="journeys-actions">
   <a class="icon-btn" href="jornadas.html" title="Voltar às jornadas" aria-label="Voltar às jornadas"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M11 18l-6-6 6-6"/></svg></a>
   <div class="theme-menu" id="themeMenu">
@@ -134,7 +134,7 @@
   };
 
   document.querySelectorAll('.pedido-list').forEach(list => {
-    list.addEventListener('click', (e) => {
+    list.addEventListener('click', async (e) => {
       const checkBtn = e.target.closest('.pedido-check');
       const delBtn = e.target.closest('.pedido-delete');
       if (checkBtn) {
@@ -147,7 +147,13 @@
         render();
       } else if (delBtn) {
         const id = delBtn.dataset.id;
-        if (!confirm('Excluir este pedido de oração? Essa ação não pode ser desfeita.')) return;
+        const ok = await window.lectioConfirm({
+          title: 'Excluir pedido de oração',
+          message: 'Essa ação não pode ser desfeita. Deseja excluir este pedido?',
+          confirmLabel: 'Excluir pedido',
+          cancelLabel: 'Cancelar'
+        });
+        if (!ok) return;
         items = items.filter(p => p.id !== id);
         save(items);
         render();
