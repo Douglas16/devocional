@@ -1220,6 +1220,9 @@ body::before {
 .journey-choice.is-complete { --journey-progress: 100%; border-color: var(--line-strong); }
 .journey-choice.is-complete .journey-choice-title { color: var(--ink-2); }
 .journey-choice.is-complete .journey-choice-progress { color: var(--accent); font-weight: 800; }
+.journey-choice-stat { cursor: default; border-style: dashed; grid-column: 1 / -1; }
+.journey-choice-stat:hover { transform: none; border-color: var(--line); box-shadow: none; }
+.journey-choice-stat.is-complete:hover { border-color: var(--line-strong); }
 
 /* ============ RESET MODAL ============ */
 .reset-modal-overlay { position: fixed; inset: 0; z-index: 100; display: flex; align-items: center; justify-content: center; padding: 24px; background: color-mix(in oklch, black 55%, transparent); }

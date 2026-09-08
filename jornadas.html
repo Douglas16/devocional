@@ -52,6 +52,7 @@
 <a class="journey-choice" href="sinoticos.html"><div class="journey-choice-title">Sinóticos (Mt · Mc · Lc)</div><div class="journey-choice-meta">35 dias · NVI</div></a>
 <a class="journey-choice" href="tito-filemom-judas.html"><div class="journey-choice-title">Tito + Filemom + Judas</div><div class="journey-choice-meta">6 dias · NVI</div></a>
 <a class="journey-choice" href="zacarias-malaquias.html"><div class="journey-choice-title">Zacarias + Malaquias</div><div class="journey-choice-meta">18 dias · NVI</div></a>
+<div class="journey-choice journey-choice-stat" id="bibleProgressCard"><div class="journey-choice-title">Bíblia toda</div><div class="journey-choice-meta">capítulos lidos</div></div>
 </div></main><script>
 (() => {
   const progress = {
@@ -272,6 +273,10 @@
 
   const plural = (n, singular, pluralForm) => `${n} ${n === 1 ? singular : pluralForm}`;
 
+  // Total de capítulos da Bíblia (NVI, 66 livros) — soma fixa de docs/nvi.json,
+  // não carregado aqui para não baixar os 3,8MB do texto inteiro só para um total.
+  const TOTAL_BIBLE_CHAPTERS = 1189;
+
   let totalHighlighted = 0;
   let totalChaptersRead = 0;
   const journeysWithProgress = [];
@@ -285,6 +290,22 @@
     Object.values(state.highlights || {}).forEach(arr => { totalHighlighted += (arr || []).length; });
     if (readDays.length > 0) journeysWithProgress.push({ href, readDays });
   });
+
+  const bibleCard = document.getElementById('bibleProgressCard');
+  if (bibleCard) {
+    const biblePercent = Math.min(100, Math.round(totalChaptersRead / TOTAL_BIBLE_CHAPTERS * 100));
+    bibleCard.querySelector('.journey-choice-meta').textContent = `${plural(totalChaptersRead, 'capítulo lido', 'capítulos lidos')} de ${TOTAL_BIBLE_CHAPTERS}`;
+    let bibleValue = bibleCard.querySelector('.journey-choice-progress');
+    if (!bibleValue) {
+      bibleValue = document.createElement('div');
+      bibleValue.className = 'journey-choice-progress';
+      bibleCard.appendChild(bibleValue);
+    }
+    bibleValue.textContent = `${biblePercent}%`;
+    bibleValue.setAttribute('aria-label', `${biblePercent}% da Bíblia lida`);
+    bibleCard.style.setProperty('--journey-progress', `${biblePercent}%`);
+    bibleCard.classList.toggle('is-complete', biblePercent === 100);
+  }
 
   if (totalChaptersRead === 0) {
     statsEl.textContent = 'Comece uma jornada para acompanhar aqui suas estatísticas de leitura.';

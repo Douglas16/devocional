@@ -75,7 +75,10 @@ function App() {
   const toggleRead = (day) => {
     setState(s => {
       const read = { ...(s.read || {}) };
+      const wasComplete = total > 0 && Object.keys(read).length >= total;
       if (read[day]) delete read[day]; else read[day] = new Date().toISOString();
+      const nowComplete = total > 0 && Object.keys(read).length >= total;
+      if (!wasComplete && nowComplete && window.lectioConfetti) window.lectioConfetti();
       return { ...s, read };
     });
   };
