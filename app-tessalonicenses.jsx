@@ -49,6 +49,15 @@ function App() {
   const days = window.LectioMode.resolveDays(window.TESSALONICENSES, window.TESSALONICENSES_CARTA, mode);
   const total = days.length;
 
+  // Ao reabrir, avança automaticamente para o próximo dia após os já lidos
+  useEffect(() => {
+    setCurrentDay(d => {
+      let next = d;
+      while (next < total && state.read && state.read[next]) next++;
+      return next;
+    });
+  }, []);
+
   // Persist state changes
   useEffect(() => { saveState({ ...state, currentDay }); }, [state, currentDay]);
 
