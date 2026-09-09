@@ -94,16 +94,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "O Pregador observa ciclos que se repetem e uma busca por novidade que não satisfaz. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "Hevel — vapor que passa — descreve tentar segurar aquilo que só pode ser recebido; sol, vento e rios se movem em ciclos que ninguém consegue deter ou reter.",
+      "Quanto mais sabedoria e conhecimento o Pregador reuniu, maior foi o peso que sentiu (v.18): conhecer mais nem sempre alivia o coração.",
+      "Gerações inteiras já foram esquecidas (v.11); a ilusão de deixar um legado que dure para sempre não resiste ao teste do tempo."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Que ciclo repetitivo da sua rotina você tem tentado controlar como se pudesse detê-lo?",
+      "Que busca por algo 'novo' tem deixado você mais cansado do que satisfeito?",
+      "Como você costuma lidar com o peso que vem de entender mais sobre a vida?"
     ],
-    "application": "Leia Eclesiastes 1 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Nomeie hoje, em voz alta ou por escrito, um ciclo da vida que foge ao seu controle e escolha recebê-lo em vez de lutar contra ele.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -232,16 +232,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "O Pregador experimenta prazer, projetos e riqueza, mas reconhece que a alegria simples é dádiva de Deus. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "O Pregador testou riso, vinho, grandes construções, jardins e riquezas — tudo que prometia satisfação — e descobriu que nada disso encheu o vazio (v.1-11).",
+      "Sábio e tolo compartilham o mesmo destino final: a morte iguala quem se esforçou por conhecimento e quem viveu sem ele (v.14-16).",
+      "No fim, o texto não recomenda parar de trabalhar, mas reconhecer comer, beber e alegrar-se no próprio trabalho como presente direto da mão de Deus, não conquista própria (v.24)."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Que prazer ou projeto você já perseguiu esperando que finalmente trouxesse satisfação completa?",
+      "Você trabalha mais para provar seu valor do que para receber o trabalho como dádiva?",
+      "Ter que deixar para outro aquilo que você construiu com tanto esforço muda por que você trabalha hoje?"
     ],
-    "application": "Leia Eclesiastes 2 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Ao terminar uma tarefa hoje, pare por um instante e agradeça a Deus pelo trabalho em si, antes de correr para a próxima.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -354,16 +354,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "Deus ordena tempos que excedem nosso controle e coloca no coração humano um anseio pela eternidade. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "A lista de tempos opostos — nascer e morrer, plantar e arrancar, chorar e rir (v.2-8) — mostra que nenhuma estação, boa ou difícil, é permanente nem está fora do propósito de Deus.",
+      "Deus colocou eternidade no coração humano, mas não deu ao homem capacidade de abarcar tudo o que faz (v.11) — por isso vivemos com perguntas que não se resolvem por completo.",
+      "Diante da injustiça e da mortalidade que igualam homens e animais (v.16-19), o Pregador não desiste da esperança: encontra sentido em fazer o bem e desfrutar o trabalho como porção recebida."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Em que 'tempo' você está agora — de construir, de chorar, de calar, de recomeçar — e você tem resistido a reconhecê-lo?",
+      "Como o anseio por eternidade que você sente aparece nos dias comuns da sua semana?",
+      "Que injustiça sem solução imediata você precisa entregar ao julgamento de Deus em vez de carregar sozinho?"
     ],
-    "application": "Leia Eclesiastes 3 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Identifique hoje a estação exata que você está vivendo e escreva uma frase agradecendo por ela, mesmo que seja uma estação difícil.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -452,16 +452,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "O capítulo encara opressão, competição e solidão, valorizando trabalho compartilhado e contentamento. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "O Pregador vê lágrimas de oprimidos sem consolo (v.1) e conclui que a solidão diante do sofrimento agrava a dor — por isso valoriza companhia acima de conquista isolada.",
+      "O homem que trabalha sem parar, sem filho nem irmão, e nunca pergunta 'para quem estou me esforçando tanto' (v.8), ilustra como ambição sem relacionamento vira fardo vazio.",
+      "Um cordão de três dobras não se rompe com facilidade (v.12): força verdadeira nasce de vínculo, não de autossuficiência."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Que parte do seu esforço nasce mais de comparação com os outros do que de propósito genuíno?",
+      "Se você caísse hoje, quem estaria por perto para ajudá-lo a levantar?",
+      "Que 'cordão de três dobras' — pessoas, comunidade, Deus — você tem negligenciado fortalecer?"
     ],
-    "application": "Leia Eclesiastes 4 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Procure hoje uma pessoa e ofereça companhia real em algo que ela normalmente enfrentaria sozinha.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -566,16 +566,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "Aproximar-se de Deus pede escuta e reverência; riqueza não entrega a segurança que promete. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "Entrar no santuário pede mais escuta do que palavras apressadas (v.1-2) — votos feitos sem intenção de cumprir ofendem mais a Deus do que agradam.",
+      "Quem ama o dinheiro nunca terá o suficiente (v.10): quanto mais bens, mais gente para consumi-los, e a fartura do rico não lhe garante uma noite tranquila de sono (v.11-12).",
+      "Desfrutar riqueza e trabalho com contentamento é chamado explicitamente de presente de Deus (v.19) — a capacidade de aproveitar, não apenas de possuir, vem dele."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Suas palavras diante de Deus nascem mais de reverência silenciosa ou de pressa em preencher o silêncio?",
+      "Que promessa feita a Deus você ainda não cumpriu?",
+      "O que revelaria sobre você comparar quanto tempo passa acumulando com quanto tempo passa desfrutando o que já tem?"
     ],
-    "application": "Leia Eclesiastes 5 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Antes de orar hoje, fique em silêncio por um minuto só para ouvir, sem pedir nada.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -648,16 +648,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "Ter muito sem poder desfrutar revela o limite de acumular como se isso garantisse uma vida plena. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "Ter riqueza, bens e honra sem a capacidade de desfrutá-los é chamado de mal terrível (v.2) — posse sem prazer é uma forma cruel de vazio.",
+      "O apetite do homem nunca se satisfaz, por mais que ele trabalhe para alimentá-lo (v.7) — o problema não é ter pouco, mas nunca sentir que é suficiente.",
+      "É melhor contentar-se com o que os olhos já veem do que vaguear atrás de um desejo que sempre se desloca para mais além (v.9)."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "O que você já possui hoje, mas ainda não conseguiu realmente desfrutar?",
+      "Que desejo continua 'mudando de lugar' cada vez que você quase o alcança?",
+      "Contentar-se com o que já está diante de você parece fraqueza ou sabedoria, na sua experiência?"
     ],
-    "application": "Leia Eclesiastes 6 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Escolha algo que você já tem — uma refeição, uma casa, uma amizade — e desfrute conscientemente disso hoje, sem pensar no que ainda falta.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -798,16 +798,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "A sabedoria aprende em dias bons e maus, recusando tanto a pressa quanto a fantasia de controlar tudo. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "Ir a uma casa de luto ensina mais do que ir a uma festa (v.2-4), porque a morte é destino de todos e olhar de frente para ela amadurece o coração.",
+      "O fim de algo costuma valer mais que seu início, e a paciência supera o orgulho (v.8) — sabedoria aparece em quem sabe esperar, não só em quem sabe começar.",
+      "Depois de buscar entender tudo com sabedoria, o Pregador admite: a realidade é profunda demais para ser totalmente decifrada (v.23-24) — e isso não é fracasso, é honestidade."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Que experiência difícil recente ensinou algo que um momento fácil provavelmente não ensinaria?",
+      "Você tende a idealizar 'os dias antigos' em vez de enfrentar o que o presente pede?",
+      "Em que área da vida você precisa admitir 'ainda não entendo' em vez de forçar uma explicação?"
     ],
-    "application": "Leia Eclesiastes 7 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Visite ou ligue hoje para alguém que está enlutado ou passando por dificuldade, mesmo que isso interrompa seus planos.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -900,16 +900,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "A injustiça tardia não prova que Deus perdeu o governo; o livro chama a temê-lo mesmo sem explicações completas. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "Ninguém tem poder sobre o próprio espírito, sobre o dia da morte ou sobre os efeitos da guerra (v.8) — há limites que nenhuma sabedoria humana ultrapassa.",
+      "Ver o ímpio prosperar e ser sepultado com honra, enquanto o justo é esquecido (v.10), é chamado abertamente de algo que 'não faz sentido' — o Pregador não finge que a injustiça aparente não dói.",
+      "Mesmo sem conseguir decifrar tudo o que Deus faz debaixo do sol (v.17), o texto ainda afirma que as coisas serão melhores para quem o teme — confiança não depende de compreensão total."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Que situação de injustiça você observa hoje e ainda não viu ser corrigida?",
+      "Onde você tenta controlar algo — tempo, resultado, reputação — que simplesmente está fora do seu alcance?",
+      "Você consegue confiar em Deus sem exigir dele uma explicação completa?"
     ],
-    "application": "Leia Eclesiastes 8 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Escreva hoje uma situação que você não entende e entregue-a a Deus em oração, sem tentar resolvê-la por conta própria.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -1006,16 +1006,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "A morte nivela todos e torna o presente precioso: amar, trabalhar e alegrar-se enquanto há vida. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "Justos e ímpios, sábios e tolos compartilham o mesmo destino final (v.2-3) — e é justamente essa igualdade diante da morte que torna o presente precioso, não descartável.",
+      "'Vá, coma com prazer... Deus já se agradou do que você faz' (v.7) — o texto autoriza alegria concreta: comida, roupa boa, amor, trabalho, sem culpa religiosa.",
+      "A corrida nem sempre é dos velozes, nem a batalha dos fortes (v.11): tempo e acaso alcançam a todos, o que liberta do peso de ter que sempre vencer."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Que alegria simples — comida, uma roupa, um encontro — você tem adiado como se não merecesse aproveitá-la agora?",
+      "O que você faria diferente hoje se lembrasse que nem sempre o esforço garante o resultado esperado?",
+      "Como a história do homem pobre e sábio, esquecido depois de salvar a cidade (v.14-15), fala sobre o reconhecimento que você busca?"
     ],
-    "application": "Leia Eclesiastes 9 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Faça hoje, sem adiar, algo bom e concreto — uma refeição com calma, um gesto de cuidado, uma conversa — que você vem guardando para 'quando tiver mais tempo'.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -1120,16 +1120,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "Pequenas tolices e palavras impensadas podem alterar muito; sabedoria aparece em escolhas concretas. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "Uma mosca morta estraga um frasco inteiro de perfume (v.1): um pouco de insensatez pesa mais do que muita sabedoria e honra acumuladas.",
+      "O machado sem fio exige mais força para o mesmo corte (v.10) — antes de trabalhar mais, sabedoria pergunta se algo precisa ser afiado, ajustado ou preparado.",
+      "Mesmo pensamentos não ditos sobre o rei ou o rico podem voltar a você (v.20); o capítulo lembra que nem os cantos mais escondidos do coração ficam realmente escondidos."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Que pequeno descuido repetido tem causado um estrago maior do que você percebe?",
+      "Existe algo na sua vida — um hábito, uma ferramenta, uma relação — que está 'sem fio' e exigindo força extra em vez de manutenção?",
+      "Suas palavras, ditas ou pensadas, têm construído ou destruído o que está ao seu redor?"
     ],
-    "application": "Leia Eclesiastes 10 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Escolha hoje um pequeno reparo ou ajuste que você vem adiando — físico, relacional ou de rotina — e resolva-o antes que custe mais caro depois.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -1194,16 +1194,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "Como não controlamos vento, nuvens ou resultados, somos chamados a agir generosamente e confiar em Deus. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "Quem fica observando o vento nunca planta, e quem espera nuvens perfeitas nunca colhe (v.4): esperar condições ideais pode ser só uma forma educada de paralisia.",
+      "'Reparta com sete, até com oito' (v.2) — generosidade aqui não depende de certeza sobre o futuro, mas é praticada justamente porque o futuro é incerto.",
+      "Plantar de manhã e à tarde, sem saber qual semente vingará (v.6), é a imagem central: agir com responsabilidade e deixar o resultado nas mãos de Deus."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Que decisão você vem adiando esperando ter certeza total do resultado?",
+      "Onde vale a pena 'semear em mais de um lugar' em vez de apostar tudo numa única possibilidade?",
+      "Alegrar-se na juventude e lembrar do julgamento futuro (v.9) parecem contraditórios — como você vive as duas coisas ao mesmo tempo?"
     ],
-    "application": "Leia Eclesiastes 11 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Dê hoje um passo concreto, mesmo pequeno, em algo que você tem adiado por falta de garantias.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   },
   {
@@ -1284,16 +1284,16 @@ window.ECLESIASTES = [
       ]
     },
     "meditation": [
-      "A conclusão encara a velhice e a morte, chamando a lembrar do Criador e viver responsavelmente diante dele. Eclesiastes permite nomear os limites sem disfarçá-los.",
-      "O texto não manda desistir da vida; convida a receber como dom aquilo que não conseguimos possuir.",
-      "Ore este capítulo com honestidade e escolha gratidão em vez de tentar controlar o que pertence a Deus."
+      "O convite para lembrar do Criador vem 'nos dias da juventude' (v.1) — antes que cheguem dias em que você diga 'não tenho satisfação neles', não depois.",
+      "A poesia do envelhecimento — guardas tremendo, moedores parando, o cordão de prata se rompendo (v.3-7) — descreve com beleza dura que o corpo não é eterno e o tempo de agir é agora.",
+      "Depois de percorrer prazer, riqueza, injustiça, tempo e mistério, a conclusão do livro inteiro cabe numa frase: tema a Deus e guarde os seus mandamentos, pois Deus trará a julgamento tudo o que foi feito (v.13-14)."
     ],
     "questions": [
-      "Que limite ou frustração este capítulo ajuda você a nomear?",
-      "Que presente simples de Deus você pode receber com gratidão?",
-      "Como o temor de Deus muda sua próxima escolha?"
+      "Que decisão sobre lembrar de Deus você está adiando para 'quando envelhecer' ou 'quando tiver mais tempo'?",
+      "Olhando para trás em todo o livro de Eclesiastes, o que mudou na forma como você encara o que pode e o que não pode controlar?",
+      "O que significa, na prática desta semana, temer a Deus sem viver com medo dele?"
     ],
-    "application": "Leia Eclesiastes 12 devagar e anote uma frase que o ajude a viver hoje com mais verdade e gratidão.",
+    "application": "Escolha hoje uma prática simples e concreta para lembrar do Criador diariamente — uma oração ao acordar, uma pausa no meio do trabalho, uma gratidão antes de dormir.",
     "prayer": "Deus, ensina-me a viver com sabedoria e limites. Recebo o dia de hoje como dádiva e te entrego o que não controlo. Amém."
   }
 ];
