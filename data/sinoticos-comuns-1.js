@@ -115,91 +115,111 @@ window.SINOTICOS_COMUNS_1 = [
       "meaning": "mergulhar, imergir",
       "note": "Palavra usada em contextos comuns — tingir tecido, submergir navio. Não é gesto simbólico leve; é imersão completa. Jesus, sem pecado, se submete ao rito de metanoia. Não porque precisava — porque se identificou com pecadores desde o começo. Todo o Seu ministério é essa lógica: descer para levantar."
     },
-    "context": "**Mateus** conta o diálogo entre Jesus e João ('convém-nos cumprir toda a justiça', Mt 3.15) — só ele traz esse detalhe. **Marcos** é o mais curto e imediato: 'nos dias em que veio Jesus, foi batizado'. **Lucas** posiciona o batismo depois de mencionar todos os batizados — Jesus se enfileira. E acrescenta que Jesus 'estava orando' quando o céu se abriu (Lc 3.21) — típico de Lucas, o evangelho da oração. Os três registram a voz do Pai e o Espírito descendo como pomba. Trindade em cena.",
+    "context": "**Mateus** conta o diálogo entre Jesus e João (‘convém-nos cumprir toda a justiça’, Mt 3.15) — só ele traz esse detalhe. **Marcos** é o mais curto e imediato: ‘nos dias em que veio Jesus, foi batizado’. **Lucas** posiciona o batismo depois de mencionar todos os batizados — Jesus se enfileira. E acrescenta que Jesus ‘estava orando’ quando o céu se abriu (Lc 3.21) — típico de Lucas, o evangelho da oração. Os três registram a voz do Pai e o Espírito descendo como pomba. Trindade em cena.",
     "passage": {
-      "ref": "Mateus 3 · capítulo completo (NVI)",
+      "ref": "Lucas 3 · capítulo completo (NVI)",
       "verses": [
         {
           "n": 1,
-          "text": "Naqueles dias surgiu João Batista, pregando no deserto da Judéia."
+          "text": "No décimo quinto ano do reinado de Tibério César, quando Pôncio Pilatos era governador da Judéia, Herodes tetrarca da Galiléia, seu irmão Filipe tetrarca da Ituréia e de Traconítida, e Lisânias tetrarca de Abilene,"
         },
         {
           "n": 2,
-          "text": "Ele dizia: \"Arrependam-se, porque o Reino dos céus está próximo\"."
+          "text": "Anás e Caifás exerciam o sumo sacerdócio. Foi nesse ano que veio a palavra de Deus a João, filho de Zacarias, no deserto."
         },
         {
           "n": 3,
-          "text": "Este é aquele que foi anunciado pelo profeta Isaías: \"Voz do que clama no deserto: ‘Preparem o caminho para o Senhor, façam veredas retas para ele’ \"."
+          "text": "Ele percorreu toda a região próxima ao Jordão, pregando um batismo de arrependimento para o perdão dos pecados."
         },
         {
           "n": 4,
-          "text": "As roupas de João eram feitas de pêlos de camelo, e ele usava um cinto de couro na cintura. O seu alimento era gafanhotos e mel silvestre."
+          "text": "Como está escrito no livro das palavras de Isaías, o profeta: \"Voz do que clama no deserto: ‘Preparem o caminho para o Senhor, façam veredas retas para ele."
         },
         {
           "n": 5,
-          "text": "A ele vinha gente de Jerusalém, de toda a Judéia e de toda a região ao redor do Jordão."
+          "text": "Todo vale será aterrado e todas as montanhas e colinas, niveladas. As estradas tortuosas serão endireitadas, e os caminhos irregulares, aplanados."
         },
         {
           "n": 6,
-          "text": "Confessando os seus pecados, eram batizados por ele no rio Jordão."
+          "text": "E toda a humanidade verá a salvação de Deus’\"."
         },
         {
           "n": 7,
-          "text": "Quando viu que muitos fariseus e saduceus vinham para onde ele estava batizando, disse-lhes: \"Raça de víboras! Quem lhes deu a idéia de fugir da ira que se aproxima?"
+          "text": "João dizia às multidões que saíam para serem batizadas por ele: \"Raça de víboras! Quem lhes ensinou a fugir da ira que se aproxima?"
         },
         {
           "n": 8,
-          "text": "Dêem fruto que mostre o arrependimento!"
+          "text": "Dêem frutos que mostrem o arrependimento. E não comecem a dizer a si mesmos: ‘Abraão é nosso pai’, porque eu lhes digo que Deus pode fazer surgir filhos a Abraão destas pedras."
         },
         {
           "n": 9,
-          "text": "Não pensem que vocês podem dizer a si mesmos: ‘Abraão é nosso pai’. Pois eu lhes digo que destas pedras Deus pode fazer surgir filhos a Abraão."
+          "text": "O machado já está posto à raiz das árvores, e toda árvore que não der bom fruto será cortada e lançada ao fogo\"."
         },
         {
           "n": 10,
-          "text": "O machado já está posto à raiz das árvores, e toda árvore que não der bom fruto será cortada e lançada ao fogo."
+          "text": "\"O que devemos fazer então? \", perguntavam as multidões."
         },
         {
           "n": 11,
-          "text": "\"Eu os batizo com água para arrependimento. Mas depois de mim vem alguém mais poderoso do que eu, tanto que não sou digno nem de levar as suas sandálias. Ele os batizará com o Espírito Santo e com fogo."
+          "text": "João respondia: \"Quem tem duas túnicas reparta-as com quem não tem nenhuma; e quem tem comida, compartilhe-a da mesma forma\"."
         },
         {
           "n": 12,
-          "text": "Ele traz a pá em sua mão e limpará sua eira, juntando seu trigo no celeiro, mas queimará a palha com fogo que nunca se apaga\"."
+          "text": "Alguns publicanos também vieram para serem batizados. Eles perguntaram: \"Mestre, o que devemos fazer? \""
         },
         {
           "n": 13,
-          "text": "Então Jesus veio da Galiléia ao Jordão para ser batizado por João."
+          "text": "Ele respondeu: \"Não cobrem nada além do que lhes foi estipulado\"."
         },
         {
           "n": 14,
-          "text": "João, porém, tentou impedi-lo, dizendo: \"Eu preciso ser batizado por ti, e tu vens a mim? \""
+          "text": "Então alguns soldados lhe perguntaram: \"E nós, o que devemos fazer? \" Ele respondeu: \"Não extorquam ninguém, nem acusem ninguém falsamente, mas contentem-se com o seu salário\"."
         },
         {
           "n": 15,
-          "text": "Respondeu Jesus: \"Deixe assim por enquanto; convém que assim façamos, para cumprir toda a justiça\". E João concordou."
+          "text": "O povo estava em grande expectativa, questionando em seus corações se acaso João não seria o Cristo."
         },
         {
           "n": 16,
-          "text": "Assim que Jesus foi batizado, saiu da água. Naquele momento os céus se abriram, e ele viu o Espírito de Deus descendo como pomba e pousando sobre ele."
+          "text": "João respondeu a todos: \"Eu os batizo com água. Mas virá alguém mais poderoso do que eu, cuja sandália não sou digno de desatar. Ele os batizará com o Espírito Santo e com fogo."
         },
         {
           "n": 17,
-          "text": "Então uma voz dos céus disse: \"Este é o meu Filho amado, em quem me agrado\"."
+          "text": "Ele traz a pá em sua mão, a fim de limpar sua eira e juntar o trigo em seu celeiro; mas a palha ele queimará com fogo que nunca se apaga\"."
+        },
+        {
+          "n": 18,
+          "text": "E com muitas outras palavras João exortava o povo e lhe pregava as boas novas."
+        },
+        {
+          "n": 19,
+          "text": "Todavia, quando João repreendeu Herodes, o tetrarca, por causa de Herodias, mulher de seu irmão Filipe, e por todas as outras coisas más que Herodes tinha feito,"
+        },
+        {
+          "n": 20,
+          "text": "Herodes acrescentou a todas elas a de colocar João na prisão."
+        },
+        {
+          "n": 21,
+          "text": "Quando todo o povo estava sendo batizado, também Jesus o foi. E, enquanto ele estava orando, o céu se abriu"
+        },
+        {
+          "n": 22,
+          "text": "e o Espírito Santo desceu sobre ele em forma corpórea, como pomba. Então veio do céu uma voz: \"Tu és o meu Filho amado; em ti me agrado\"."
         }
       ]
     },
     "meditation": [
-      "V.15 é uma frase estranha: 'convém-nos cumprir toda a justiça'. Jesus não precisa ser batizado — é o único que não precisa. Mas se submete para se identificar com quem precisa. Nasce aqui o princípio da encarnação: Deus não se posiciona ACIMA de nós; se ao nosso lado. Se você quer imitar Cristo, comece por descer, não por subir.",
-      "V.16: 'o Espírito de Deus descendo como pomba'. Não é força; é ternura. Pomba é o pássaro que Noé soltou e voltou com folha de oliveira — sinal de que a ira das águas passou. O Espírito desce sobre Jesus na mesma imagem: as águas do juízo passaram, a era da graça começa.",
-      "V.17 é a frase que muita gente precisa ouvir dita sobre si: 'meu Filho amado, de quem me agrado'. Note que Jesus ainda não fez ministério algum. Nenhum milagre, nenhum sermão. E o Pai já se agrada. O 'agradar-se' de Deus não é performance; é filiação. Se você é filho, Ele se agrada — antes de qualquer produção sua."
+      "V.15 é uma frase estranha: ‘convém-nos cumprir toda a justiça’. Jesus não precisa ser batizado — é o único que não precisa. Mas se submete para se identificar com quem precisa. Nasce aqui o princípio da encarnação: Deus não se posiciona ACIMA de nós; se ao nosso lado. Se você quer imitar Cristo, comece por descer, não por subir.",
+      "V.16: ‘o Espírito de Deus descendo como pomba’. Não é força; é ternura. Pomba é o pássaro que Noé soltou e voltou com folha de oliveira — sinal de que a ira das águas passou. O Espírito desce sobre Jesus na mesma imagem: as águas do juízo passaram, a era da graça começa.",
+      "V.17 é a frase que muita gente precisa ouvir dita sobre si: ‘meu Filho amado, de quem me agrado’. Note que Jesus ainda não fez ministério algum. Nenhum milagre, nenhum sermão. E o Pai já se agrada. O ‘agradar-se’ de Deus não é performance; é filiação. Se você é filho, Ele se agrada — antes de qualquer produção sua."
     ],
     "questions": [
-      "Em que 'submissão descendente' você precisa entrar, à imitação de Cristo (v.15)?",
+      "Em que ‘submissão descendente’ você precisa entrar, à imitação de Cristo (v.15)?",
       "Você espera o Espírito como pomba (ternura) ou como fúria? Deus escolheu a primeira imagem.",
-      "Você tem tentado 'conquistar o agrado' do Pai por produção? Ele já se agrada. Como muda o dia?"
+      "Você tem tentado ‘conquistar o agrado’ do Pai por produção? Ele já se agrada. Como muda o dia?"
     ],
-    "application": "Antes de qualquer coisa produtiva hoje, pare e receba silenciosamente: 'Você é meu filho amado. Eu me agrado'. Deixe a frase preceder o esforço.",
+    "application": "Antes de qualquer coisa produtiva hoje, pare e receba silenciosamente: ‘Você é meu filho amado. Eu me agrado’. Deixe a frase preceder o esforço.",
     "prayer": "Pai, tu te agradaste do teu Filho antes de qualquer sinal. Que eu receba hoje esse mesmo agrado — não como recompensa, mas como identidade. E que o teu Espírito desça como pomba sobre mim. Amém."
   },
   {
@@ -562,189 +582,77 @@ window.SINOTICOS_COMUNS_1 = [
       "meaning": "autoridade, poder legítimo",
       "note": "Exousia não é dynamis (força bruta) nem bía (violência). É poder com direito — autoridade reconhecida por sua origem. Jesus ensina e cura com exousia inata; os escribas ensinavam citando autoridade alheia. Diferença perceptível. As pessoas notam quando alguém fala de dentro, não como quem cita. Autoridade real dispensa argumentos de reforço."
     },
-    "context": "**Marcos** é o mais detalhado desse dia em Cafarnaum — sinagoga, endemoninhado, casa de Pedro, sogra doente, multidões ao entardecer. Mostra um Jesus que age rapidamente ('imediatamente' é a palavra favorita de Marcos, aparece 41 vezes no evangelho). **Mateus** condensa a cura da sogra e as multidões (Mt 8.14-17), acrescentando cumprimento profético de Is 53. **Lucas** (Lc 4.31-41) segue Marcos de perto mas com toques médicos (era médico) — 'febre forte', 'os demônios saíam gritando'. Um só dia de ministério, três olhares.",
+    "context": "**Marcos** é o mais detalhado desse dia em Cafarnaum — sinagoga, endemoninhado, casa de Pedro, sogra doente, multidões ao entardecer. Mostra um Jesus que age rapidamente (‘imediatamente’ é a palavra favorita de Marcos, aparece 41 vezes no evangelho). **Mateus** condensa a cura da sogra e as multidões (Mt 8.14-17), acrescentando cumprimento profético de Is 53. **Lucas** (Lc 4.31-41) segue Marcos de perto mas com toques médicos (era médico) — ‘febre forte’, ‘os demônios saíam gritando’. Um só dia de ministério, três olhares.",
     "passage": {
-      "ref": "Marcos 1 · capítulo completo (NVI)",
+      "ref": "Mateus 8 · capítulo completo (NVI)",
       "verses": [
         {
           "n": 1,
-          "text": "Princípio do evangelho de Jesus Cristo, o Filho de Deus."
+          "text": "Quando ele desceu do monte, grandes multidões o seguiram."
         },
         {
           "n": 2,
-          "text": "Conforme está escrito no profeta Isaías: \"Enviarei à tua frente o meu mensageiro; ele preparará o teu caminho\"—"
+          "text": "Um leproso, aproximando-se, adorou-o de joelhos e disse: \"Senhor, se quiseres, podes purificar-me! \""
         },
         {
           "n": 3,
-          "text": "\"voz do que clama no deserto: ‘Preparem o caminho para o Senhor, façam veredas retas para ele’ \"."
+          "text": "Jesus estendeu a mão, tocou nele e disse: \"Quero. Seja purificado! \" Imediatamente ele foi purificado."
         },
         {
           "n": 4,
-          "text": "Assim surgiu João, batizando no deserto e pregando um batismo de arrependimento para o perdão dos pecados."
+          "text": "Em seguida Jesus lhe disse: \"Olhe, não conte isso a ninguém. Mas vá mostrar-se ao sacerdote e apresente a oferta que Moisés ordenou, para que sirva de testemunho\"."
         },
         {
           "n": 5,
-          "text": "A ele vinha toda a região da Judéia e todo o povo de Jerusalém. Confessando os seus pecados, eram batizados por ele no rio Jordão."
+          "text": "Entrando Jesus em Cafarnaum, dirigiu-se a ele um centurião, pedindo-lhe ajuda."
         },
         {
           "n": 6,
-          "text": "João vestia roupas feitas de pêlos de camelo, usava um cinto de couro e comia gafanhotos e mel silvestre."
+          "text": "E disse: \"Senhor, meu servo está em casa, paralítico, em terrível sofrimento\"."
         },
         {
           "n": 7,
-          "text": "E esta era a sua mensagem: \"Depois de mim vem alguém mais poderoso do que eu, tanto que não sou digno nem de curvar-me e desamarrar as correias das suas sandálias."
+          "text": "Jesus lhe disse: \"Eu irei curá-lo\"."
         },
         {
           "n": 8,
-          "text": "Eu os batizo com água, mas ele os batizará com o Espírito Santo\"."
+          "text": "Respondeu o centurião: \"Senhor, não mereço receber-te debaixo do meu teto. Mas dize apenas uma palavra, e meu servo será curado\"."
         },
         {
           "n": 9,
-          "text": "Naquela ocasião Jesus veio de Nazaré da Galiléia e foi batizado por João no Jordão."
+          "text": "Pois eu também sou homem sujeito à autoridade, com soldados sob o meu comando. Digo a um: ‘Vá’, e ele vai; e a outro: ‘Venha’, e ele vem. Digo a meu servo: ‘Faça isto’, e ele faz\"."
         },
         {
           "n": 10,
-          "text": "Assim que saiu da água, Jesus viu os céus se abrindo, e o Espírito descendo como pomba sobre ele."
+          "text": "Ao ouvir isso, Jesus admirou-se e disse aos que o seguiam: \"Digo-lhes a verdade: Não encontrei em Israel alguém com tanta fé\"."
         },
         {
           "n": 11,
-          "text": "Então veio dos céus uma voz: \"Tu és o meu Filho amado; em ti me agrado\"."
+          "text": "Eu lhes digo que muitos virão do Oriente e do Ocidente, e se sentarão à mesa com Abraão, Isaque e Jacó no Reino dos céus."
         },
         {
           "n": 12,
-          "text": "Logo após, o Espírito o impeliu para o deserto."
+          "text": "Mas os súditos do Reino serão lançados para fora, nas trevas, onde haverá choro e ranger de dentes\"."
         },
         {
           "n": 13,
-          "text": "Ali esteve quarenta dias, sendo tentado por Satanás. Estava com os animais selvagens, e os anjos o serviam."
+          "text": "Então Jesus disse ao centurião: \"Vá! Como você creu, assim lhe acontecerá! \" Na mesma hora o seu servo foi curado."
         },
         {
           "n": 14,
-          "text": "Depois que João foi preso, Jesus foi para a Galiléia, proclamando as boas novas de Deus."
+          "text": "Entrando Jesus na casa de Pedro, viu a sogra deste de cama, com febre."
         },
         {
           "n": 15,
-          "text": "\"O tempo é chegado\", dizia ele. \"O Reino de Deus está próximo. Arrependam-se e creiam nas boas novas! \""
+          "text": "Tomando-a pela mão, a febre a deixou, e ela se levantou e começou a servi-lo."
         },
         {
           "n": 16,
-          "text": "Andando à beira do mar da Galiléia, Jesus viu Simão e seu irmão André lançando redes ao mar, pois eram pescadores."
+          "text": "Ao anoitecer foram trazidos a ele muitos endemoninhados, e ele expulsou os espíritos com uma palavra e curou todos os doentes."
         },
         {
           "n": 17,
-          "text": "E disse Jesus: \"Sigam-me, e eu os farei pescadores de homens\"."
-        },
-        {
-          "n": 18,
-          "text": "No mesmo instante eles deixaram as suas redes e o seguiram."
-        },
-        {
-          "n": 19,
-          "text": "Indo um pouco mais adiante, viu num barco Tiago, filho de Zebedeu, e João, seu irmão, preparando as suas redes."
-        },
-        {
-          "n": 20,
-          "text": "Logo os chamou, e eles o seguiram, deixando Zebedeu, seu pai, com os empregados no barco."
-        },
-        {
-          "n": 21,
-          "text": "Eles foram para Cafarnaum e, assim que chegou o sábado, Jesus entrou na sinagoga e começou a ensinar."
-        },
-        {
-          "n": 22,
-          "text": "Todos ficavam maravilhados com o seu ensino, porque lhes ensinava como alguém que tem autoridade e não como os mestres da lei."
-        },
-        {
-          "n": 23,
-          "text": "Justamente naquela hora, na sinagoga, um homem possesso de um espírito imundo gritou:"
-        },
-        {
-          "n": 24,
-          "text": "\"O que queres conosco, Jesus de Nazaré? Vieste para nos destruir? Sei quem tu és: o Santo de Deus! \""
-        },
-        {
-          "n": 25,
-          "text": "\"Cale-se e saia dele! \", repreendeu-o Jesus."
-        },
-        {
-          "n": 26,
-          "text": "O espírito imundo sacudiu o homem violentamente e saiu dele gritando."
-        },
-        {
-          "n": 27,
-          "text": "Todos ficaram tão admirados que perguntavam uns aos outros: \"O que é isto? Um novo ensino — e com autoridade! Até aos espíritos imundos ele dá ordens, e eles lhe obedecem! \""
-        },
-        {
-          "n": 28,
-          "text": "As notícias a seu respeito se espalharam rapidamente por toda a região da Galiléia."
-        },
-        {
-          "n": 29,
-          "text": "Logo que saíram da sinagoga, foram com Tiago e João à casa de Simão e André."
-        },
-        {
-          "n": 30,
-          "text": "A sogra de Simão estava de cama, com febre, e falaram a respeito dela a Jesus."
-        },
-        {
-          "n": 31,
-          "text": "Então ele se aproximou dela, tomou-a pela mão e ajudou-a a levantar-se. A febre a deixou, e ela começou a servi-los."
-        },
-        {
-          "n": 32,
-          "text": "Ao anoitecer, depois do pôr-do-sol, o povo levou a Jesus todos os doentes e os endemoninhados."
-        },
-        {
-          "n": 33,
-          "text": "Toda a cidade se reuniu à porta da casa,"
-        },
-        {
-          "n": 34,
-          "text": "e Jesus curou muitos que sofriam de várias doenças. Também expulsou muitos demônios; não permitia, porém, que estes falassem, porque sabiam quem ele era."
-        },
-        {
-          "n": 35,
-          "text": "De madrugada, quando ainda estava escuro, Jesus levantou-se, saiu de casa e foi para um lugar deserto, onde ficou orando."
-        },
-        {
-          "n": 36,
-          "text": "Simão e seus companheiros foram procurá-lo"
-        },
-        {
-          "n": 37,
-          "text": "e, ao encontrá-lo, disseram: \"Todos estão te procurando! \""
-        },
-        {
-          "n": 38,
-          "text": "Jesus respondeu: \"Vamos para outro lugar, para os povoados vizinhos, para que também lá eu pregue. Foi para isso que eu vim\"."
-        },
-        {
-          "n": 39,
-          "text": "Então ele percorreu toda a Galiléia, pregando nas sinagogas e expulsando os demônios."
-        },
-        {
-          "n": 40,
-          "text": "Um leproso aproximou-se dele e suplicou-lhe de joelhos: \"Se quiseres, podes purificar-me! \""
-        },
-        {
-          "n": 41,
-          "text": "Cheio de compaixão, Jesus estendeu a mão, tocou nele e disse: \"Quero. Seja purificado! \""
-        },
-        {
-          "n": 42,
-          "text": "Imediatamente a lepra o deixou, e ele foi purificado."
-        },
-        {
-          "n": 43,
-          "text": "Em seguida Jesus o despediu, com uma severa advertência:"
-        },
-        {
-          "n": 44,
-          "text": "\"Olhe, não conte isso a ninguém. Mas vá mostrar-se ao sacerdote e ofereça pela sua purificação os sacrifícios que Moisés ordenou, para que sirva de testemunho\"."
-        },
-        {
-          "n": 45,
-          "text": "Ele, porém, saiu e começou a tornar público o fato, espalhando a notícia. Por isso Jesus não podia mais entrar publicamente em nenhuma cidade, mas ficava fora, em lugares solitários. Todavia, assim mesmo vinha a ele gente de todas as partes."
+          "text": "E assim se cumpriu o que fora dito pelo profeta Isaías: \"Ele tomou sobre si as nossas enfermidades e suportou as nossas doenças\"."
         }
       ]
     },
@@ -918,137 +826,81 @@ window.SINOTICOS_COMUNS_1 = [
       "translit": "sábbaton",
       "lang": "grego",
       "meaning": "sábado, descanso",
-      "note": "Vem do hebraico shabbat (cessar, descansar). Instituição da criação (Gn 2), reforçada nos 10 mandamentos. Mas Jesus reivindica ser 'Senhor do sábado' (Mc 2.28) — ou seja, tem autoridade sobre o próprio dia sagrado. Ato blasfemo aos ouvidos judaicos. Ou verdadeiro, e Ele é Deus. Não há terceira opção."
+      "note": "Vem do hebraico shabbat (cessar, descansar). Instituição da criação (Gn 2), reforçada nos 10 mandamentos. Mas Jesus reivindica ser ‘Senhor do sábado’ (Mc 2.28) — ou seja, tem autoridade sobre o próprio dia sagrado. Ato blasfemo aos ouvidos judaicos. Ou verdadeiro, e Ele é Deus. Não há terceira opção."
     },
-    "context": "Dois episódios ligados nos três sinóticos: espigas colhidas no sábado (aluno colhia = trabalhando, no entender rabínico) e cura do homem da mão atrofiada. **Marcos** (Mc 2.23-3.6) e **Lucas** (Lc 6.1-11) mantêm a sequência. **Mateus** (Mt 12.1-14) acrescenta o argumento sobre Davi comendo o pão da proposição e sobre sacerdotes trabalhando no sábado. Os três concluem com a mesma frase amarga: 'os fariseus saíram e começaram a tramar como poderiam matá-lo'. Sábado revela o coração.",
+    "context": "Dois episódios ligados nos três sinóticos: espigas colhidas no sábado (aluno colhia = trabalhando, no entender rabínico) e cura do homem da mão atrofiada. **Marcos** (Mc 2.23-3.6) e **Lucas** (Lc 6.1-11) mantêm a sequência. **Mateus** (Mt 12.1-14) acrescenta o argumento sobre Davi comendo o pão da proposição e sobre sacerdotes trabalhando no sábado. Os três concluem com a mesma frase amarga: ‘os fariseus saíram e começaram a tramar como poderiam matá-lo’. Sábado revela o coração.",
     "passage": {
-      "ref": "Marcos 2 · capítulo completo (NVI)",
+      "ref": "Mateus 12 · capítulo completo (NVI)",
       "verses": [
         {
           "n": 1,
-          "text": "Poucos dias depois, tendo Jesus entrado novamente em Cafarnaum, o povo ouviu falar que ele estava em casa."
+          "text": "Naquela ocasião Jesus passou pelas lavouras de cereal no sábado. Seus discípulos estavam com fome e começaram a colher espigas e comê-las."
         },
         {
           "n": 2,
-          "text": "Então muita gente se reuniu ali, de forma que não havia lugar nem junto à porta; e ele lhes pregava a palavra."
+          "text": "Os fariseus, vendo aquilo, lhe disseram: \"Olha, os teus discípulos estão fazendo o que não é permitido no sábado! \""
         },
         {
           "n": 3,
-          "text": "Vieram alguns homens, trazendo-lhe um paralítico, carregado por quatro deles."
+          "text": "Ele respondeu: \"Vocês não leram o que fez Davi quando ele e seus companheiros estavam com fome?"
         },
         {
           "n": 4,
-          "text": "Não podendo levá-lo até Jesus, por causa da multidão, removeram parte da cobertura do lugar onde Jesus estava e, através de uma abertura no teto, baixaram a maca em que estava deitado o paralítico."
+          "text": "Ele entrou na casa de Deus, e juntamente com os seus companheiros comeu os pães da Presença, o que não lhe era permitido comer, nem aos que estavam com ele, mas somente aos sacerdotes."
         },
         {
           "n": 5,
-          "text": "Vendo a fé que eles tinham, Jesus disse ao paralítico: \"Filho, os seus pecados estão perdoados\"."
+          "text": "Ou vocês não leram na Lei que, no sábado, os sacerdotes no templo profanam esse dia e, contudo, ficam isentos de culpa?"
         },
         {
           "n": 6,
-          "text": "Estavam sentados ali alguns mestres da lei, raciocinando em seu íntimo:"
+          "text": "Eu lhes digo que aqui está o que é maior do que o templo."
         },
         {
           "n": 7,
-          "text": "\"Por que esse homem fala assim? Está blasfemando! Quem pode perdoar pecados, a não ser somente Deus? \""
+          "text": "Se vocês soubessem o que significam estas palavras: ‘Desejo misericórdia, não sacrifícios’, não teriam condenado os inocentes."
         },
         {
           "n": 8,
-          "text": "Jesus percebeu logo em seu espírito que era isso que eles estavam pensando e lhes disse: \"Por que vocês estão remoendo essas coisas em seus corações?"
+          "text": "Pois o Filho do homem é Senhor do sábado\"."
         },
         {
           "n": 9,
-          "text": "Que é mais fácil dizer ao paralítico: ‘Os seus pecados estão perdoados’, ou: ‘Levante-se, pegue a sua maca e ande’?"
+          "text": "Saindo daquele lugar, dirigiu-se à sinagoga deles,"
         },
         {
           "n": 10,
-          "text": "Mas, para que vocês saibam que o Filho do homem tem na terra autoridade para perdoar pecados — disse ao paralítico —"
+          "text": "e estava ali um homem com uma das mãos atrofiada. Procurando um motivo para acusar Jesus, eles lhe perguntaram: \"É permitido curar no sábado? \""
         },
         {
           "n": 11,
-          "text": "eu lhe digo: Levante-se, pegue a sua maca e vá para casa\"."
+          "text": "Ele lhes respondeu: \"Qual de vocês, se tiver uma ovelha e ela cair num buraco no sábado, não irá pegá-la e tirá-la dali?"
         },
         {
           "n": 12,
-          "text": "Ele se levantou, pegou a maca e saiu à vista de todos. Estes ficaram atônitos e glorificaram a Deus, dizendo: \"Nunca vimos nada igual! \""
+          "text": "Quanto mais vale um homem do que uma ovelha! Portanto, é permitido fazer o bem no sábado\"."
         },
         {
           "n": 13,
-          "text": "Jesus saiu outra vez para beira-mar. Uma grande multidão aproximou-se, e ele começou a ensiná-los."
+          "text": "Então ele disse ao homem: \"Estenda a mão\". Ele a estendeu, e ela foi restaurada, e ficou boa como a outra."
         },
         {
           "n": 14,
-          "text": "Passando por ali, viu Levi, filho de Alfeu, sentado na coletoria, e disse-lhe: \"Siga-me\". Levi levantou-se e o seguiu."
-        },
-        {
-          "n": 15,
-          "text": "Durante uma refeição na casa de Levi, muitos publicanos e \"pecadores\" estavam comendo com Jesus e seus discípulos, pois havia muitos que o seguiam."
-        },
-        {
-          "n": 16,
-          "text": "Quando os mestres da lei que eram fariseus o viram comendo com \"pecadores\" e publicanos, perguntaram aos discípulos de Jesus: \"Por que ele come com publicanos e ‘pecadores’? \""
-        },
-        {
-          "n": 17,
-          "text": "Ouvindo isso, Jesus lhes disse: \"Não são os que têm saúde que precisam de médico, mas sim os doentes. Eu não vim para chamar justos, mas pecadores\"."
-        },
-        {
-          "n": 18,
-          "text": "Os discípulos de João e os fariseus estavam jejuando. Algumas pessoas vieram a Jesus e lhe perguntaram: \"Por que os discípulos de João e os dos fariseus jejuam, mas os teus não? \""
-        },
-        {
-          "n": 19,
-          "text": "Jesus respondeu: \"Como podem os convidados do noivo jejuar enquanto este está com eles? Não podem, enquanto o têm consigo."
-        },
-        {
-          "n": 20,
-          "text": "Mas virão dias quando o noivo lhes será tirado; e nesse tempo jejuarão."
-        },
-        {
-          "n": 21,
-          "text": "\"Ninguém põe remendo de pano novo em roupa velha, pois o remendo forçará a roupa, tornando pior o rasgo."
-        },
-        {
-          "n": 22,
-          "text": "E ninguém põe vinho novo em vasilhas de couro velhas; se o fizer, o vinho rebentará as vasilhas, e tanto o vinho quanto as vasilhas se estragarão. Pelo contrário, põe-se vinho novo em vasilhas de couro novas\"."
-        },
-        {
-          "n": 23,
-          "text": "Certo sábado Jesus estava passando pelas lavouras de cereal. Enquanto caminhavam, seus discípulos começaram a colher espigas."
-        },
-        {
-          "n": 24,
-          "text": "Os fariseus lhe perguntaram: \"Olha, por que eles estão fazendo o que não é permitido no sábado? \""
-        },
-        {
-          "n": 25,
-          "text": "Ele respondeu: \"Vocês nunca leram o que fez Davi quando ele e seus companheiros estavam necessitados e com fome?"
-        },
-        {
-          "n": 26,
-          "text": "Nos dias de Abiatar, o sumo sacerdote, ele entrou na casa de Deus e comeu os pães da Presença, que apenas aos sacerdotes era permitido comer, e os deu também aos seus companheiros\"."
-        },
-        {
-          "n": 27,
-          "text": "E então lhes disse: \"O sábado foi feito por causa do homem, e não o homem por causa do sábado."
-        },
-        {
-          "n": 28,
-          "text": "Assim, pois, o Filho do homem é Senhor até mesmo do sábado\"."
+          "text": "Então os fariseus saíram e começaram a conspirar sobre como poderiam matar Jesus."
         }
       ]
     },
     "meditation": [
-      "V.27 inverte a teologia legalista: 'o sábado foi feito por causa do homem'. Não somos servos do dia; o dia é servo nosso. O princípio se estende a todas as regras: existem por causa da pessoa, não a pessoa por causa delas. Sempre que a regra pisa o humano, saiu do lugar.",
-      "V.5 tem uma frase raríssima: Jesus 'olhou com INDIGNAÇÃO... entristecido com o coração endurecido deles'. Jesus se irrita. Não é santo estoico. O que O irrita não são pecadores — é gente religiosa que prefere ver alguém sofrer para manter regra. Cuidado com sua indignação seletiva; a de Jesus era pela vítima, não pela norma.",
+      "V.27 inverte a teologia legalista: ‘o sábado foi feito por causa do homem’. Não somos servos do dia; o dia é servo nosso. O princípio se estende a todas as regras: existem por causa da pessoa, não a pessoa por causa delas. Sempre que a regra pisa o humano, saiu do lugar.",
+      "V.5 tem uma frase raríssima: Jesus ‘olhou com INDIGNAÇÃO... entristecido com o coração endurecido deles’. Jesus se irrita. Não é santo estoico. O que O irrita não são pecadores — é gente religiosa que prefere ver alguém sofrer para manter regra. Cuidado com sua indignação seletiva; a de Jesus era pela vítima, não pela norma.",
       "V.6 fecha com ironia amarga: os fariseus saíram do culto de sábado — dia de vida — para conspirar assassinato. Legalismo religioso muitas vezes se torna a máquina de morte que ele finge combater. Se sua fé te leva a odiar mais fácil, examine — talvez seja fariseu com verniz cristão."
     ],
     "questions": [
-      "Que 'regra religiosa' você tem colocado acima do bem-estar de pessoas ao seu redor?",
-      "Sua indignação é 'como a de Jesus' — pelas vítimas — ou como a dos fariseus — pela quebra da norma?",
+      "Que ‘regra religiosa’ você tem colocado acima do bem-estar de pessoas ao seu redor?",
+      "Sua indignação é ‘como a de Jesus’ — pelas vítimas — ou como a dos fariseus — pela quebra da norma?",
       "Sua religião te ajuda a curar mãos atrofiadas, ou te ensina a esperar dias apropriados para se importar?"
     ],
-    "application": "Identifique HOJE uma 'mão atrofiada' ao seu redor — pessoa em necessidade — e aja, mesmo se for 'dia impróprio' pela conveniência.",
+    "application": "Identifique HOJE uma ‘mão atrofiada’ ao seu redor — pessoa em necessidade — e aja, mesmo se for ‘dia impróprio’ pela conveniência.",
     "prayer": "Senhor do sábado, ensina-me que a regra serve à pessoa, não o contrário. Que a minha indignação seja pelas mãos atrofiadas, não pelas regras arranhadas. E que o meu culto não me torne conspirador da morte. Amém."
   },
   {

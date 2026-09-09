@@ -1,5 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-josue-v1',
+  finale: 'swords',
   hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.JOSUE, window.JOSUE_CARTA, window.LectioMode.get()),
   subtitle: 'Josué · 24 dias · NVI',
   journeyTitle: 'Vinte e quatro dias com Josué: coragem, conquista e uma promessa cumprida',

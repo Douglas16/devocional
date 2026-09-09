@@ -1,5 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-numeros-v1',
+  finale: 'scroll',
   hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.NUMEROS, window.NUMEROS_CARTA, window.LectioMode.get()),
   subtitle: 'Números · 36 dias · NVI',
   journeyTitle: 'Trinta e seis dias com Números: a jornada pelo deserto',

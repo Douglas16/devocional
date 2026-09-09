@@ -1,5 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-genesis-v1',
+  finale: 'scroll',
   hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.GENESIS, window.GENESIS_CARTA, window.LectioMode.get()),
   subtitle: 'Gênesis · 50 dias · NVI',
   journeyTitle: 'Cinquenta dias com Gênesis: das origens à providência',

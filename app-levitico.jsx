@@ -1,5 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-levitico-v1',
+  finale: 'scroll',
   hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.LEVITICO, window.LEVITICO_CARTA, window.LectioMode.get()),
   subtitle: 'Levítico · 27 dias · NVI',
   journeyTitle: 'Vinte e sete dias com Levítico: sejam santos, porque eu sou santo',

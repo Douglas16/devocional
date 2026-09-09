@@ -1,5 +1,6 @@
 window.LECTIO_STUDY = {
   storageKey: 'lectio-exodo-deuteronomio-v1',
+  finale: 'scroll',
   hasCartaMode: true, days: () => window.LectioMode.resolveDays(window.EXODO_DEUTERONOMIO, window.EXODO_DEUTERONOMIO_CARTA, window.LectioMode.get()),
   subtitle: 'Êxodo + Deuteronômio · 74 dias · NVI',
   journeyTitle: 'Setenta e quatro dias entre Êxodo e Deuteronômio: libertação, lei e aliança',

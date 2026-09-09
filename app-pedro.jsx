@@ -78,7 +78,7 @@ function App() {
       const wasComplete = total > 0 && Object.keys(read).length >= total;
       if (read[day]) delete read[day]; else read[day] = new Date().toISOString();
       const nowComplete = total > 0 && Object.keys(read).length >= total;
-      if (!wasComplete && nowComplete && window.lectioConfetti) window.lectioConfetti();
+      if (!wasComplete && nowComplete && window.lectioFinale) window.lectioFinale(window.LECTIO_STUDY && window.LECTIO_STUDY.finale);
       return { ...s, read };
     });
   };
