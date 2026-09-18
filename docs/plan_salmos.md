@@ -2,7 +2,7 @@ Novo estudo: Salmos (NVI)
 
 Conceito
 
-Uma jornada integral de 150 dias, um salmo por dia. Salmos não deve ser tratado como uma coleção de frases de efeito: é o livro de oração de Israel e da igreja, com espaço para louvor, lamento, medo, culpa, gratidão, sabedoria, protesto, confiança e esperança.
+Uma jornada integral de 150 salmos em 184 leituras: um salmo por dia, exceto os 19 salmos mais longos, divididos por assunto. Salmos não deve ser tratado como uma coleção de frases de efeito: é o livro de oração de Israel e da igreja, com espaço para louvor, lamento, medo, culpa, gratidão, sabedoria, protesto, confiança e esperança.
 
 A jornada preservará a particularidade de cada salmo e, ao mesmo tempo, ajudará o leitor a aprender a orar com o texto. O objetivo não é fazer o leitor “sentir-se bem” todos os dias, mas oferecer linguagem fiel para dizer a verdade diante de Deus.
 
@@ -18,10 +18,9 @@ O Saltério é dividido em cinco livros, cada um encerrado por uma doxologia:
 
 Formato da jornada
 
-- 150 dias, exatamente um salmo por dia, seguindo a ordem canônica.
+- 184 leituras, seguindo a ordem canônica. Salmos com mais de 25 versículos (18, 22, 35, 37, 44, 68, 69, 73, 78, 89, 102, 104, 105, 106, 107, 109, 118, 119, 136) são divididos em 2 a 8 partes por assunto; o Salmo 119 segue as estrofes do acróstico. Cada leitura traz todos os versículos da NVI da sua parte. A divisão está em `salmos-layout.js`, que também migra o progresso salvo (`layout: 2`).
 - O título de cada dia traz “Livro I–V” e o tipo predominante do salmo: lamento, louvor, sabedoria, ação de graças, real/messiânico, peregrinação, penitencial ou confiança.
-- Salmos longos (especialmente 18, 78, 89, 119, 136 e 139) continuam sendo um dia completo para preservar a unidade literária. A leitura mostrará versículos selecionados; o campo de contexto orientará a leitura integral na NVI.
-- No Salmo 119, a jornada destacará que ele é um acróstico hebraico de 22 estrofes, sem reduzir sua meditação ao tamanho do texto exibido.
+- No Salmo 119, cada leitura agrupa 2 a 3 estrofes do acróstico hebraico (Aleph–Gimel, Daleth–Waw etc.).
 
 Palavras-chave em hebraico
 

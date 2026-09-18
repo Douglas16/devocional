@@ -7,10 +7,14 @@
 // Tom: caloroso, íntimo, pastoral e não acusatório.
 // Salmos de imprecação e lamento extremo são acolhidos como linguagem de oração,
 // sem transformar vingança, violência ou desespero em instrução de conduta.
-
+// Salmos longos foram divididos por assunto em várias leituras (campos psalm/part/parts);
+// o texto integral da NVI de cada salmo continua presente, versículo a versículo.
 window.SALMOS_CARTA = [
   {
     "day": 1,
+    "psalm": 1,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode escolher raízes antes de frutos",
     "date": "Salmo 1",
     "verse": {
@@ -69,6 +73,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 2,
+    "psalm": 2,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando poderes se levantam, o trono de Deus não entra em pânico",
     "date": "Salmo 2",
     "verse": {
@@ -151,6 +158,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 3,
+    "psalm": 3,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode dormir mesmo cercado, se souber quem o sustenta",
     "date": "Salmo 3",
     "verse": {
@@ -217,6 +227,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 4,
+    "psalm": 4,
+    "part": 1,
+    "parts": 1,
     "theme": "Há uma paz que chega antes de todos os problemas irem embora",
     "date": "Salmo 4",
     "verse": {
@@ -283,6 +296,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 5,
+    "psalm": 5,
+    "part": 1,
+    "parts": 1,
     "theme": "Começar o dia falando com Deus pode mudar o jeito de atravessá-lo",
     "date": "Salmo 5",
     "verse": {
@@ -365,6 +381,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 6,
+    "psalm": 6,
+    "part": 1,
+    "parts": 1,
     "theme": "Suas lágrimas não tornam sua oração menos espiritual",
     "date": "Salmo 6",
     "verse": {
@@ -439,6 +458,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 7,
+    "psalm": 7,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode pedir justiça sem precisar se tornar juiz de tudo",
     "date": "Salmo 7",
     "verse": {
@@ -541,6 +563,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 8,
+    "psalm": 8,
+    "part": 1,
+    "parts": 1,
     "theme": "Diante de um universo imenso, sua vida ainda é lembrada",
     "date": "Salmo 8",
     "verse": {
@@ -611,6 +636,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 9,
+    "psalm": 9,
+    "part": 1,
+    "parts": 1,
     "theme": "O clamor do oprimido não desaparece no silêncio",
     "date": "Salmo 9",
     "verse": {
@@ -725,6 +753,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 10,
+    "psalm": 10,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando Deus parece longe, você ainda pode chamá-lo de Rei",
     "date": "Salmo 10",
     "verse": {
@@ -831,6 +862,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 11,
+    "psalm": 11,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando os fundamentos tremem, nem tudo perdeu o lugar",
     "date": "Salmo 11",
     "verse": {
@@ -893,6 +927,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 12,
+    "psalm": 12,
+    "part": 1,
+    "parts": 1,
     "theme": "Num mundo de palavras manipuladas, a verdade ainda pode ser refúgio",
     "date": "Salmo 12",
     "verse": {
@@ -959,6 +996,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 13,
+    "psalm": 13,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode dizer 'até quando?' e ainda terminar a oração em confiança",
     "date": "Salmo 13",
     "verse": {
@@ -1017,6 +1057,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 14,
+    "psalm": 14,
+    "part": 1,
+    "parts": 1,
     "theme": "Ver a corrupção do mundo não precisa transformar você em cinismo",
     "date": "Salmo 14",
     "verse": {
@@ -1079,6 +1122,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 15,
+    "psalm": 15,
+    "part": 1,
+    "parts": 1,
     "theme": "Integridade aparece no modo como tratamos pessoas quando ninguém está vendo",
     "date": "Salmo 15",
     "verse": {
@@ -1133,6 +1179,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 16,
+    "psalm": 16,
+    "part": 1,
+    "parts": 1,
     "theme": "Sua porção pode ser Deus antes de qualquer outra segurança",
     "date": "Salmo 16",
     "verse": {
@@ -1211,6 +1260,9 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 17,
+    "psalm": 17,
+    "part": 1,
+    "parts": 1,
     "theme": "Pedir exame a Deus é diferente de viver sob acusação constante",
     "date": "Salmo 17",
     "verse": {
@@ -1305,22 +1357,25 @@ window.SALMOS_CARTA = [
   },
   {
     "day": 18,
-    "theme": "Olhar para trás pode revelar quantos perigos não tiveram a última palavra",
-    "date": "Salmo 18",
+    "psalm": 18,
+    "part": 1,
+    "parts": 3,
+    "theme": "Deus ouve do templo e desce até o seu aperto",
+    "date": "Salmo 18 · 1–19",
     "verse": {
-      "text": "Ore e leia o Salmo 18 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 18"
+      "text": "Na minha aflição clamei ao Senhor; gritei por socorro ao meu Deus. Do seu templo ele ouviu a minha voz; meu grito chegou à sua presença, aos seus ouvidos.",
+      "ref": "Salmo 18.6"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "יָשַׁע",
+      "translit": "yashá‘",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "No arquivo, tehil·lâ aparece com o sentido de “louvor”. Neste salmo, essa palavra pode ser recebida como uma lente para autoridade, segurança e governo de Deus: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que olhar para trás pode revelar quantos perigos não tiveram a última palavra."
+      "meaning": "salvar, libertar",
+      "note": "A raiz yasha aparece no salmo como livramento concreto: sair do aperto para a liberdade. Salvar, aqui, tem cheiro de chão firme sob os pés."
     },
-    "context": "O Salmo 18 atravessa autoridade, segurança e governo de Deus e usa imagens como escudo e rocha para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que olhar para trás pode revelar quantos perigos não tiveram a última palavra.",
+    "context": "Davi abre o salmo declarando amor ao Senhor e lembrando um resgate. Os laços da morte o cercam, ele clama, e Deus responde com imagens de terremoto, fogo e tempestade, para no fim lhe dar “total libertação”. É poesia de quem viu de perto o perigo e o livramento.",
     "passage": {
-      "ref": "Salmo 18 · capítulo completo (NVI)",
+      "ref": "Salmo 18 · versículos 1–19 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -1397,7 +1452,44 @@ window.SALMOS_CARTA = [
         {
           "n": 19,
           "text": "Ele me deu total libertação; livrou-me porque me quer bem."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O salmo não começa com o resgate, mas com o amor: “Eu te amo, ó Senhor, minha força”. A gratidão vem antes da narrativa porque a lembrança do livramento aquece o relacionamento.",
+      "Repare que o grito sai da angústia e chega “aos ouvidos” de Deus. A distância entre a sua voz e o trono não é obstáculo para quem ouve.",
+      "Deus não é apresentado como observador tranquilo. Ele se move, treme a terra, desce. A “total libertação” do verso 19 é a resposta de um Deus que se envolve."
+    ],
+    "questions": [
+      "Que aperto você viveu que hoje pode ser lembrado como livramento?",
+      "O que muda na oração quando você começa por amor e não por pedido?",
+      "Onde você precisa de “total libertação” agora?"
+    ],
+    "application": "Escreva em duas linhas um livramento do passado e agradeça por ele em voz alta hoje.",
+    "prayer": "Senhor, minha força, eu te amo. Ouve o meu grito no aperto e dá-me, no teu tempo, total libertação. Amém."
+  },
+  {
+    "day": 19,
+    "psalm": 18,
+    "part": 2,
+    "parts": 3,
+    "theme": "Um Deus que ensina suas mãos e fortalece seus passos",
+    "date": "Salmo 18 · 20–36",
+    "verse": {
+      "text": "Este é o Deus cujo caminho é perfeito; a palavra do Senhor é comprovadamente genuína. Ele é um escudo para todos os que nele se refugiam.",
+      "ref": "Salmo 18.30"
+    },
+    "word": {
+      "original": "צֶדֶק",
+      "translit": "tsedeq",
+      "lang": "hebraico",
+      "meaning": "justiça, retidão",
+      "note": "Tsedeq é a retidão que Deus vê e recompensa; aqui ela não é autopromoção, mas fidelidade à aliança diante de um Deus fiel."
+    },
+    "context": "Davi descreve como Deus trata cada um conforme a sua conduta: fiel com o fiel, íntegro com o íntegro. No centro está o verso 30: o caminho de Deus é perfeito e a sua palavra é comprovadamente genuína. Ele é escudo, e é ele quem prepara as mãos para a batalha e os pés para o terreno difícil.",
+    "passage": {
+      "ref": "Salmo 18 · versículos 20–36 (NVI)",
+      "verses": [
         {
           "n": 20,
           "text": "O Senhor me tratou conforme a minha justiça; conforme a pureza das minhas mãos recompensou-me."
@@ -1465,7 +1557,44 @@ window.SALMOS_CARTA = [
         {
           "n": 36,
           "text": "Deixaste livre o meu caminho, para que não se torçam os meus tornozelos."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "Quando Davi fala da “pureza das minhas mãos”, não alega perfeição; fala de quem se mantém na aliança e se refugia em Deus. A retidão que ele descreve é resposta ao caminho de Deus, não sua origem.",
+      "O escudo não elimina a batalha. Ele protege quem está nela. O salmo é honesto: há inimigos, muralhas, terrenos difíceis, e Deus está ali.",
+      "Os pés “como os da corça” falam de firmeza em lugares altos. Deus dá equilíbrio, não isenção de caminho."
+    ],
+    "questions": [
+      "Em que área você precisa lembrar que o caminho de Deus é perfeito, mesmo sem entendê-lo?",
+      "Que “muralha” você tenta escalar com as próprias forças?",
+      "O que significa se refugiar nele, na prática desta semana?"
+    ],
+    "application": "Identifique um desafio deste dia e diga, em oração: “Tu és o meu escudo nisto”.",
+    "prayer": "Senhor, teu caminho é perfeito e tua palavra é fiel. Sê escudo para mim e firma os meus passos no que hoje me parece íngreme. Amém."
+  },
+  {
+    "day": 20,
+    "psalm": 18,
+    "part": 3,
+    "parts": 3,
+    "theme": "O Rochedo vive, e você não precisa vencer sozinho",
+    "date": "Salmo 18 · 37–50",
+    "verse": {
+      "text": "O Senhor vive! Bendita seja a minha Rocha! Exaltado seja Deus, o meu Salvador!",
+      "ref": "Salmo 18.46"
+    },
+    "word": {
+      "original": "חֶסֶד",
+      "translit": "hesed",
+      "lang": "hebraico",
+      "meaning": "amor leal",
+      "note": "O salmo termina falando do hesed de Deus ao seu ungido: amor que se mantém fiel, mesmo quando o poder do rei parece grande."
+    },
+    "context": "A última parte tem linguagem de guerra: perseguir, esmagar, derrotar. É o testemunho de um rei que atribui a vitória inteiramente a Deus. Termina em louvor entre as nações e na menção ao “amor leal” de Deus ao seu ungido e à sua descendência. Lida à luz cristã, essa esperança aponta ao Rei que vence pelo serviço.",
+    "passage": {
+      "ref": "Salmo 18 · versículos 37–50 (NVI)",
+      "verses": [
         {
           "n": 37,
           "text": "Persegui os meus inimigos e os alcancei; e não voltei enquanto não foram destruídos."
@@ -1525,20 +1654,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Talvez você precise ouvir isto devagar hoje: olhar para trás pode revelar quantos perigos não tiveram a última palavra.",
-      "O salmo usa imagens como escudo e rocha para colocar sentimentos concretos diante de Deus, sem transformar vulnerabilidade em fracasso.",
-      "Há movimento dentro da oração: o poder humano é recolocado debaixo de uma autoridade maior. Essa mudança pode ser pequena, mas já é caminho."
+      "Linguagem de vitória pode ser mal usada. Aqui ela existe dentro de uma dependência declarada. Quem vence reconhece de onde vem a força.",
+      "“O Senhor vive!” é uma confissão, não um slogan. Diante de tudo o que morre, o Rochedo permanece.",
+      "O hesed do final lembra que a história do rei não é sobre mérito, mas sobre um Deus que se prende por aliança."
     ],
     "questions": [
-      "Que poder humano ganhou em seu coração um tamanho que não deveria ter?",
-      "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
-      "Como viver com coragem sem tentar controlar tudo?"
+      "Onde você tem atribuído a si mesmo o que na verdade foi dom?",
+      "O que “o Senhor vive” significa para o que você está enfrentando?",
+      "Como agradecer publicamente por uma vitória sem se exaltar?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: olhar para trás pode revelar quantos perigos não tiveram a última palavra. Amém."
+    "application": "Compartilhe com alguém, hoje, uma bênção recente dizendo claramente de onde ela veio.",
+    "prayer": "O Senhor vive! Louvado seja o meu Rochedo. Que eu receba toda vitória como dom e a ofereça de volta em gratidão. Amém."
   },
   {
-    "day": 19,
+    "day": 21,
+    "psalm": 19,
+    "part": 1,
+    "parts": 1,
     "theme": "A criação pode lembrar seu coração de que a voz de Deus ainda alcança você",
     "date": "Salmo 19",
     "verse": {
@@ -1628,7 +1760,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a criação pode lembrar seu coração de que a voz de Deus ainda alcança você. Amém."
   },
   {
-    "day": 20,
+    "day": 22,
+    "psalm": 20,
+    "part": 1,
+    "parts": 1,
     "theme": "Algumas batalhas pedem menos confiança em força e mais em quem sustenta",
     "date": "Salmo 20",
     "verse": {
@@ -1698,7 +1833,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: algumas batalhas pedem menos confiança em força e mais em quem sustenta. Amém."
   },
   {
-    "day": 21,
+    "day": 23,
+    "psalm": 21,
+    "part": 1,
+    "parts": 1,
     "theme": "É possível agradecer pela vitória sem esquecer quem a concedeu",
     "date": "Salmo 21",
     "verse": {
@@ -1784,23 +1922,26 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: é possível agradecer pela vitória sem esquecer quem a concedeu. Amém."
   },
   {
-    "day": 22,
-    "theme": "Mesmo o grito 'por que me abandonaste?' pode permanecer dentro da oração",
-    "date": "Salmo 22",
+    "day": 24,
+    "psalm": 22,
+    "part": 1,
+    "parts": 2,
+    "theme": "Um grito que ainda chama “meu Deus”",
+    "date": "Salmo 22 · 1–21",
     "verse": {
-      "text": "Ore e leia o Salmo 22 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 22"
+      "text": "Meu Deus! Meu Deus! Por que me abandonaste? Por que estás tão longe de salvar-me, tão longe dos meus gritos de angústia?",
+      "ref": "Salmo 22.1"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "נֶפֶשׁ",
+      "translit": "nefesh",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "No arquivo, tehil·lâ aparece com o sentido de “louvor”. Neste salmo, essa palavra pode ser recebida como uma lente para medo, ausência sentida e clamor: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que mesmo o grito 'por que me abandonaste?' pode permanecer dentro da oração."
+      "meaning": "vida, pessoa inteira",
+      "note": "Nefesh é a vida inteira, a pessoa toda. Quando o salmista pede que a sua nefesh seja livrada da espada (v. 20), é o seu ser inteiro que está em perigo."
     },
-    "context": "O Salmo 22 começa com sensação de abandono e passa por humilhação, medo e sofrimento corporal, mas continua falando diretamente com Deus. A oração atravessa a escuridão e, mais adiante, encontra linguagem de louvor e testemunho. O salmo mostra que um grito de abandono ainda pode ser dirigido a quem se deseja encontrar.",
+    "context": "O Salmo 22 começa com a frase que Jesus repetiu na cruz. Por vinte e um versículos o salmista descreve abandono, zombaria, corpo desfeito e cães ao redor. Mas cada queixa ainda é dirigida a Deus (“meu Deus”), e memória e clamor se alternam. A parte termina com pedido urgente por livramento.",
     "passage": {
-      "ref": "Salmo 22 · capítulo completo (NVI)",
+      "ref": "Salmo 22 · versículos 1–21 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -1885,7 +2026,44 @@ window.SALMOS_CARTA = [
         {
           "n": 21,
           "text": "Salva-me da boca dos leões, e dos chifres dos bois selvagens. E tu me respondeste."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "Perguntar “por que me abandonaste?” não é falta de fé; é fé sem verniz. O salmo dá permissão para dizer o que dói do jeito que dói.",
+      "O verso 3 faz uma virada silenciosa: “Tu, porém, és o Santo”. Ele não apaga o abandono, mas o coloca ao lado da fidelidade dos antepassados.",
+      "A imagem do verso 9 (“deste-me segurança junto ao seio de minha mãe”) lembra que a segurança começou antes da crise. Você foi sustentado antes de saber pedir."
+    ],
+    "questions": [
+      "Que pergunta a Deus você ainda não teve coragem de fazer?",
+      "Quem esteve perto de você quando a presença de Deus parecia distante?",
+      "Que lembrança de fidelidade passada ainda pode sustentar hoje?"
+    ],
+    "application": "Escreva, sem censura, a sua versão do verso 1 e leia-a a Deus em voz baixa. Não conclua nada: só diga.",
+    "prayer": "Deus meu, Deus meu, estou aqui com o meu grito. Não te afastes de mim: aproxima-te e sê minha força neste dia. Amém."
+  },
+  {
+    "day": 25,
+    "psalm": 22,
+    "part": 2,
+    "parts": 2,
+    "theme": "Ele não escondeu o rosto de quem sofre",
+    "date": "Salmo 22 · 22–31",
+    "verse": {
+      "text": "Pois não menosprezou nem repudiou o sofrimento do aflito; não escondeu dele o rosto, mas ouviu o seu grito de socorro.",
+      "ref": "Salmo 22.24"
+    },
+    "word": {
+      "original": "תְּהִלָּה",
+      "translit": "tehil·lâ",
+      "lang": "hebraico",
+      "meaning": "louvor",
+      "note": "Tehilla é louvor público. Aqui o louvor nasce como testemunho depois do clamor, na assembleia dos que ouviram a história."
+    },
+    "context": "A voz muda: o salmista promete falar do nome de Deus à congregação. O verso 24 é o centro: Deus não desprezou nem repudiou o sofrimento do aflito, nem escondeu dele o rosto, mas o ouviu quando clamou. O louvor se alarga em círculos: assembleia, nações, gerações que ainda não nasceram.",
+    "passage": {
+      "ref": "Salmo 22 · versículos 22–31 (NVI)",
+      "verses": [
         {
           "n": 22,
           "text": "Proclamarei o teu nome a meus irmãos; na assembléia te louvarei."
@@ -1929,20 +2107,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Dizer 'por que me abandonaste?' não encerra a relação; é justamente uma frase dirigida a Deus.",
-      "Você não precisa usar o final esperançoso para apagar o peso dos primeiros versos. O caminho entre lamento e louvor merece ser respeitado.",
-      "Quando sofrimento e vergonha se tornam públicos, lembrar que sua dignidade não depende da voz da multidão pode proteger o coração."
+      "Este salmo não “resolve” a dor dos primeiros versos com uma frase; ele mostra que o mesmo orador atravessa o vale e chega ao testemunho. O caminho merece ser respeitado, sem pressa.",
+      "“Não menosprezou nem repudiou o sofrimento do aflito” é uma promessa para quem se sente um peso. Sua dor tem valor aos olhos de Deus.",
+      "O final olha para gerações futuras: “ele agiu poderosamente”. Testemunhar é entregar a próxima geração à fidelidade de Deus."
     ],
     "questions": [
-      "Que sensação de abandono você tem medo de colocar em palavras?",
-      "Quem pode permanecer perto sem tentar apressar sua dor?",
-      "Que pequena esperança ainda consegue existir sem negar o sofrimento?"
+      "De que forma você já experimentou Deus ouvindo um clamor seu?",
+      "Que testemunho seu poderia ajudar alguém que hoje está no verso 1?",
+      "Como respeitar o tempo entre lamento e louvor sem forçá-lo?"
     ],
-    "application": "Se você se sente abandonado, escreva uma oração sem censura e compartilhe sua dor com alguém seguro. Não carregue sozinho aquilo que está ultrapassando suas forças.",
-    "prayer": "Senhor, recebe meu grito quando tua presença parece distante. Sustenta-me no caminho entre a pergunta e a esperança e aproxima de mim pessoas seguras. Amém."
+    "application": "Conte a alguém um momento em que Deus ouviu você. Sem enfeites, só o que aconteceu.",
+    "prayer": "Senhor, tu não desprezaste o meu sofrimento. Ensina-me a louvar sem pressa e a contar o que fizeste. Amém."
   },
   {
-    "day": 23,
+    "day": 26,
+    "psalm": 23,
+    "part": 1,
+    "parts": 1,
     "theme": "Você não precisa conhecer todo o caminho quando conhece o Pastor",
     "date": "Salmo 23",
     "verse": {
@@ -2000,7 +2181,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: você não precisa conhecer todo o caminho quando conhece o Pastor. Amém."
   },
   {
-    "day": 24,
+    "day": 27,
+    "psalm": 24,
+    "part": 1,
+    "parts": 1,
     "theme": "Há portas interiores que precisam se abrir para a presença de Deus",
     "date": "Salmo 24",
     "verse": {
@@ -2074,7 +2258,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: há portas interiores que precisam se abrir para a presença de Deus. Amém."
   },
   {
-    "day": 25,
+    "day": 28,
+    "psalm": 25,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando você não sabe a direção, pode pedir que Deus ensine o caminho",
     "date": "Salmo 25",
     "verse": {
@@ -2196,7 +2383,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando você não sabe a direção, pode pedir que Deus ensine o caminho. Amém."
   },
   {
-    "day": 26,
+    "day": 29,
+    "psalm": 26,
+    "part": 1,
+    "parts": 1,
     "theme": "Integridade não é perfeição; é disposição de ser examinado",
     "date": "Salmo 26",
     "verse": {
@@ -2278,7 +2468,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: integridade não é perfeição; é disposição de ser examinado. Amém."
   },
   {
-    "day": 27,
+    "day": 30,
+    "psalm": 27,
+    "part": 1,
+    "parts": 1,
     "theme": "Antes de pedir respostas, talvez seu coração queira apenas habitar perto de Deus",
     "date": "Salmo 27",
     "verse": {
@@ -2368,7 +2561,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: antes de pedir respostas, talvez seu coração queira apenas habitar perto de Deus. Amém."
   },
   {
-    "day": 28,
+    "day": 31,
+    "psalm": 28,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando Deus parece silencioso, você ainda pode levantar as mãos",
     "date": "Salmo 28",
     "verse": {
@@ -2438,7 +2634,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando Deus parece silencioso, você ainda pode levantar as mãos. Amém."
   },
   {
-    "day": 29,
+    "day": 32,
+    "psalm": 29,
+    "part": 1,
+    "parts": 1,
     "theme": "A voz de Deus continua maior que a tempestade",
     "date": "Salmo 29",
     "verse": {
@@ -2516,7 +2715,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a voz de Deus continua maior que a tempestade. Amém."
   },
   {
-    "day": 30,
+    "day": 33,
+    "psalm": 30,
+    "part": 1,
+    "parts": 1,
     "theme": "A noite pode durar, mas não recebe direito sobre toda a história",
     "date": "Salmo 30",
     "verse": {
@@ -2598,7 +2800,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: a noite pode durar, mas não recebe direito sobre toda a história. Amém."
   },
   {
-    "day": 31,
+    "day": 34,
+    "psalm": 31,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode entregar seu espírito a Deus antes de entender o desfecho",
     "date": "Salmo 31",
     "verse": {
@@ -2728,7 +2933,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode entregar seu espírito a Deus antes de entender o desfecho. Amém."
   },
   {
-    "day": 32,
+    "day": 35,
+    "psalm": 32,
+    "part": 1,
+    "parts": 1,
     "theme": "Confessar pode aliviar o peso que o silêncio tornou pesado",
     "date": "Salmo 32",
     "verse": {
@@ -2806,7 +3014,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus de misericórdia, dá-me coragem para viver na verdade sem me destruir pela culpa. Faz viver em mim esta verdade: confessar pode aliviar o peso que o silêncio tornou pesado. Amém."
   },
   {
-    "day": 33,
+    "day": 36,
+    "psalm": 33,
+    "part": 1,
+    "parts": 1,
     "theme": "Louvor também é aprender a perceber a fidelidade espalhada pela terra",
     "date": "Salmo 33",
     "verse": {
@@ -2928,7 +3139,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: louvor também é aprender a perceber a fidelidade espalhada pela terra. Amém."
   },
   {
-    "day": 34,
+    "day": 37,
+    "psalm": 34,
+    "part": 1,
+    "parts": 1,
     "theme": "Buscar Deus não exige fingir que o medo desapareceu",
     "date": "Salmo 34",
     "verse": {
@@ -3050,23 +3264,26 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: buscar Deus não exige fingir que o medo desapareceu. Amém."
   },
   {
-    "day": 35,
-    "theme": "Você pode levar o desejo de justiça a Deus sem executar a vingança com as próprias mãos",
-    "date": "Salmo 35",
+    "day": 38,
+    "psalm": 35,
+    "part": 1,
+    "parts": 2,
+    "theme": "Quando você é acusado sem motivo",
+    "date": "Salmo 35 · 1–16",
     "verse": {
-      "text": "Ore e leia o Salmo 35 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 35"
+      "text": "Defende-me, Senhor, dos que me acusam; luta contra os que lutam comigo.",
+      "ref": "Salmo 35.1"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "צֶדֶק",
+      "translit": "tsedeq",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "No arquivo, tehil·lâ aparece com o sentido de “louvor”. Neste salmo, essa palavra pode ser recebida como uma lente para injustiça, indignação e desejo de reparação: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que você pode levar o desejo de justiça a Deus sem executar a vingança com as próprias mãos."
+      "meaning": "justiça, retidão",
+      "note": "Tsedeq é justiça que defende o vulnerável. O salmista entrega a sua causa ao Justo em vez de fazer justiça com as próprias mãos."
     },
-    "context": "O Salmo 35 nasce de perseguição e traição e contém pedidos intensos para que Deus intervenha contra os adversários. Em vez de transformar essa linguagem em licença para ferir, a Carta ao Coração lê o salmo como espaço para entregar a Deus raiva, medo e desejo de justiça.",
+    "context": "Davi pede que o Senhor lute por ele, use escudo e lança, e faça de seus inimigos o que eles planejam. Ele descreve a dor de ser acusado injustamente por aqueles a quem cuidou: quando adoeciam, ele jejuava por eles; agora se alegram com a sua queda. Os pedidos de derrota dos inimigos são orações a Deus, não planos de vingança.",
     "passage": {
-      "ref": "Salmo 35 · capítulo completo (NVI)",
+      "ref": "Salmo 35 · versículos 1–16 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -3131,7 +3348,44 @@ window.SALMOS_CARTA = [
         {
           "n": 16,
           "text": "Como ímpios caçoando do meu refúgio, rosnaram contra mim."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O ponto de partida do salmo é Deus como defensor. A luta é entregue a ele, e a linguagem de guerra passa a ser oração, não ação.",
+      "Os versos 13 e 14 revelam alguém que orou pelos que agora o atacam. A dor maior aqui é a ingratidão de quem foi cuidado.",
+      "Orar sobre injustiça pode ser um ato de fé: em vez de retribuir, você entrega a Deus o que só ele pode julgar."
+    ],
+    "questions": [
+      "Quem o feriu injustamente e o que você ainda não entregou a Deus a respeito?",
+      "Como orar por alguém que o feriu sem desejar vingança?",
+      "O que significa confiar que Deus é justo quando você não vê justiça?"
+    ],
+    "application": "Nomeie diante de Deus uma injustiça recente. Ore para que ele a julgue, e escolha não retaliar hoje.",
+    "prayer": "Senhor, defende a minha causa. Guarda o meu coração de vingança e ensina-me a entregar a ti o que não me cabe julgar. Amém."
+  },
+  {
+    "day": 39,
+    "psalm": 35,
+    "part": 2,
+    "parts": 2,
+    "theme": "Ficar em silêncio não é o fim da história",
+    "date": "Salmo 35 · 17–28",
+    "verse": {
+      "text": "Senhor, até quando ficarás olhando? Livra-me dos ataques deles, livra a minha vida preciosa desses leões.",
+      "ref": "Salmo 35.17"
+    },
+    "word": {
+      "original": "שָׁלוֹם",
+      "translit": "shalom",
+      "lang": "hebraico",
+      "meaning": "paz, inteireza",
+      "note": "Shalom é bem-estar reconciliado. O verso 27 diz que Deus se agrada do shalom do seu servo: Deus quer a inteireza de quem o serve."
+    },
+    "context": "O salmista pergunta “até quando ficarás olhando?” e recorda que louvará na grande assembleia. Os inimigos falam com falsidade contra os pacíficos. O salmo termina com a expectativa de que Deus se alegra com o bem-estar (shalom) do seu servo, e com a língua do salmista falando da sua justiça o dia todo.",
+    "passage": {
+      "ref": "Salmo 35 · versículos 17–28 (NVI)",
+      "verses": [
         {
           "n": 17,
           "text": "Senhor, até quando ficarás olhando? Livra-me dos ataques deles, livra a minha vida preciosa desses leões."
@@ -3183,20 +3437,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Você pode contar a Deus exatamente o que gostaria que acontecesse sem transformar cada desejo de raiva em ação.",
-      "Entregar a causa a Deus pode interromper o ciclo em que a injustiça começa a moldar você à imagem dela.",
-      "Buscar proteção, justiça e limites continua sendo compatível com uma oração que se recusa a fazer da vingança uma vocação."
+      "“Até quando?” é uma das perguntas mais frequentes dos Salmos, e Deus a acolhe. Você pode perguntar sem estar duvidando de tudo.",
+      "A comunidade dos “pacíficos” (v. 20) mostra que a verdade humilde às vezes é a mais atacada. Manter a paz não é sinal de fraqueza.",
+      "O final devolve o foco: Deus se alegra com o shalom do seu servo. A sua inteireza importa para ele, não apenas a derrota dos que o ferem."
     ],
     "questions": [
-      "Que injustiça despertou em você desejos que tem vergonha de admitir?",
-      "O que precisa ser entregue a Deus e o que precisa ser encaminhado por meios responsáveis?",
-      "Que limite pode proteger você sem transformar o agressor no centro da sua vida?"
+      "Onde você está pedindo “até quando?” hoje?",
+      "O que significaria para você sentir que Deus se alegra com o seu shalom?",
+      "Qual pequeno louvor ainda cabe no meio da espera?"
     ],
-    "application": "Escreva o que sua raiva gostaria de fazer e, em seguida, separe o que é emoção do que é uma ação justa e segura. Procure apoio se houver risco ou violência real.",
-    "prayer": "Deus justo, recebe minha raiva antes que ela me governe. Protege-me, guia-me em caminhos de justiça e livra-me de reproduzir a violência que me feriu. Amém."
+    "application": "Diga a Deus a pergunta “até quando” do seu momento e depois agradeça por uma coisa pequena que ele já fez.",
+    "prayer": "Senhor, tu vês. Não fiques calado. Cuida da minha paz e ensina-me a esperar louvando. Amém."
   },
   {
-    "day": 36,
+    "day": 40,
+    "psalm": 36,
+    "part": 1,
+    "parts": 1,
     "theme": "A maldade pode parecer profunda, mas o amor leal de Deus vai mais longe",
     "date": "Salmo 36",
     "verse": {
@@ -3278,23 +3535,26 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: a maldade pode parecer profunda, mas o amor leal de Deus vai mais longe. Amém."
   },
   {
-    "day": 37,
-    "theme": "Não se irrite até perder a paz por causa de quem parece prosperar injustamente",
-    "date": "Salmo 37",
+    "day": 41,
+    "psalm": 37,
+    "part": 1,
+    "parts": 3,
+    "theme": "Descansar no Senhor quando o mal parece prosperar",
+    "date": "Salmo 37 · 1–11",
     "verse": {
-      "text": "Ore e leia o Salmo 37 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 37"
+      "text": "Descanse no Senhor e aguarde por ele com paciência; não se aborreça com o sucesso dos outros, nem com aqueles que maquinam o mal.",
+      "ref": "Salmo 37.7"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "בָּטַח",
+      "translit": "batach",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "No arquivo, tehil·lâ aparece com o sentido de “louvor”. Neste salmo, essa palavra pode ser recebida como uma lente para injustiça, indignação e desejo de reparação: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que não se irrite até perder a paz por causa de quem parece prosperar injustamente."
+      "meaning": "confiar, apoiar-se em Deus",
+      "note": "Batach é confiar apoiando todo o peso. O verso 3 (“confie no Senhor e faça o bem”) mostra que confiar caminha junto com agir."
     },
-    "context": "O Salmo 37 atravessa injustiça, indignação e desejo de reparação e usa imagens como árvore e caminho para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que não se irrite até perder a paz por causa de quem parece prosperar injustamente.",
+    "context": "O Salmo 37 é sabedoria em forma de acróstico hebraico. Repete: não se aborreça com os maus, confie, deleite-se, entregue o caminho, descanse e espere. A promessa de que os humildes “receberão a terra por herança” é a promessa da aliança, não uma fórmula de prosperidade pessoal.",
     "passage": {
-      "ref": "Salmo 37 · capítulo completo (NVI)",
+      "ref": "Salmo 37 · versículos 1–11 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -3339,7 +3599,44 @@ window.SALMOS_CARTA = [
         {
           "n": 11,
           "text": "Mas os humildes receberão a terra por herança e desfrutarão pleno bem-estar."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O aborrecimento com a injustiça é humano, mas o salmo alerta: ele consome. Tire os olhos do que o irrita e coloque-os em quem cuida.",
+      "“Deleite-se no Senhor” antecede “ele atenderá aos desejos do seu coração”: primeiro a companhia, depois o desejo transformado. Não é uma barganha.",
+      "“Descanse no Senhor e aguarde por ele com paciência” (v. 7) é o coração do trecho. Esperar em Deus não é passividade, é confiar que ele está agindo mesmo quando não parece."
+    ],
+    "questions": [
+      "O que mais o irrita hoje e o afasta da paz?",
+      "Como seria entregar o seu caminho a Deus nesta semana?",
+      "Onde você confunde esperar com desistir?"
+    ],
+    "application": "Escolha uma preocupação e diga: “Entrego a ti e não vou insistir em resolver hoje”. Depois faça o bem que estiver ao seu alcance.",
+    "prayer": "Senhor, acalma o meu coração. Ensina-me a descansar em ti e a esperar sem me consumir. Amém."
+  },
+  {
+    "day": 42,
+    "psalm": 37,
+    "part": 2,
+    "parts": 3,
+    "theme": "Melhor o pouco com Deus do que a riqueza sem ele",
+    "date": "Salmo 37 · 12–26",
+    "verse": {
+      "text": "Melhor é o pouco do justo do que a riqueza de muitos ímpios;",
+      "ref": "Salmo 37.16"
+    },
+    "word": {
+      "original": "צֶדֶק",
+      "translit": "tsedeq",
+      "lang": "hebraico",
+      "meaning": "justiça, retidão",
+      "note": "O justo (tsaddiq) não é o perfeito, mas quem vive em fidelidade e generosidade, como o verso 21 descreve."
+    },
+    "context": "O salmo contrasta os que planejam contra os justos e os justos que, com pouco, permanecem firmes. Diz que quem tropeça não cairá, pois o Senhor o toma pela mão (v. 24). Cuidado: os versos sobre “nunca vi o justo desamparado” são observação sapiencial geral, não garantia de que o justo nunca passará necessidade.",
+    "passage": {
+      "ref": "Salmo 37 · versículos 12–26 (NVI)",
+      "verses": [
         {
           "n": 12,
           "text": "Os ímpios tramam contra os justos e rosnam contra eles;"
@@ -3399,7 +3696,44 @@ window.SALMOS_CARTA = [
         {
           "n": 26,
           "text": "Ele é sempre generoso e empresta com boa vontade; seus filhos serão abençoados."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O verso 16 desmonta a lógica do mundo: o pouco do justo vale mais do que a fartura injusta. O valor não está no tamanho da posse, mas em como ela foi obtida e vivida.",
+      "“O Senhor o toma pela mão” (v. 24): tropeçar não é o fim para quem tem a mão de Deus segurando.",
+      "Os justos são generosos (v. 21, 26). A confiança em Deus se mostra numa mão aberta, mesmo quando há pouco."
+    ],
+    "questions": [
+      "Onde você mede seu valor pelo que tem?",
+      "Que “queda” você teme e o que significa ser sustentado nela?",
+      "Como praticar generosidade mesmo com pouco?"
+    ],
+    "application": "Dê algo pequeno hoje (tempo, dinheiro, atenção) a alguém, sem esperar retorno.",
+    "prayer": "Senhor, ensina-me a valorizar o que tu valorizas. Sustenta-me quando eu cair e abre a minha mão. Amém."
+  },
+  {
+    "day": 43,
+    "psalm": 37,
+    "part": 3,
+    "parts": 3,
+    "theme": "Ele é a sua fortaleza na hora da adversidade",
+    "date": "Salmo 37 · 27–40",
+    "verse": {
+      "text": "Do Senhor vem a salvação dos justos; ele é a sua fortaleza na hora da adversidade.",
+      "ref": "Salmo 37.39"
+    },
+    "word": {
+      "original": "שָׁלוֹם",
+      "translit": "shalom",
+      "lang": "hebraico",
+      "meaning": "paz, inteireza",
+      "note": "No verso 37, o “homem de paz” tem futuro. O shalom aqui é inteireza que vem de viver na justiça de Deus."
+    },
+    "context": "O trecho final insiste em afastar-se do mal e fazer o bem, com a lei de Deus no coração, e observa que os justos permanecem enquanto o ímpio some. O salmo termina no verso 39, com a afirmação de que a salvação dos justos vem do Senhor, sua fortaleza na hora da angústia.",
+    "passage": {
+      "ref": "Salmo 37 · versículos 27–40 (NVI)",
+      "verses": [
         {
           "n": 27,
           "text": "Desvie-se do mal e faça o bem; e você terá sempre onde morar."
@@ -3459,20 +3793,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Este salmo dá espaço para uma verdade que o coração nem sempre consegue dizer em voz alta: não se irrite até perder a paz por causa de quem parece prosperar injustamente.",
-      "As imagens de árvore e caminho lembram que a fé bíblica não acontece fora da vida real; ela atravessa injustiça, indignação e desejo de reparação.",
-      "Você não precisa terminar a oração exatamente como começou. O próprio salmo mostra que a causa é colocada diante de Deus para que a raiva não precise virar vingança pessoal."
+      "“Ele traz no coração a lei do seu Deus” (v. 31): não é apenas regra, é o que orienta os passos desde dentro.",
+      "O salmista olha para o “há futuro para o homem de paz” e vê o que não se vê agora. Esperança é ver o fim a partir de Deus.",
+      "O ponto final não é o seu esforço, e sim: “Do Senhor vem a salvação dos justos”. Você não precisa se salvar."
     ],
     "questions": [
-      "Que injustiça está ocupando espaço demais dentro de você?",
-      "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
-      "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
+      "O que da lei de Deus já está no seu coração e o que ainda está só na cabeça?",
+      "Que futuro de paz você consegue imaginar?",
+      "Quem é a sua fortaleza quando a angústia chega?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: não se irrite até perder a paz por causa de quem parece prosperar injustamente. Amém."
+    "application": "Decore o verso 39 e repita-o quando a ansiedade vier hoje.",
+    "prayer": "Senhor, tu és a minha fortaleza na adversidade. Guarda a tua lei no meu coração e leva-me pelo caminho da paz. Amém."
   },
   {
-    "day": 38,
+    "day": 44,
+    "psalm": 38,
+    "part": 1,
+    "parts": 1,
     "theme": "Há dores que precisam ser confessadas, cuidadas e acompanhadas, não escondidas",
     "date": "Salmo 38",
     "verse": {
@@ -3594,7 +3931,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus de misericórdia, dá-me coragem para viver na verdade sem me destruir pela culpa. Faz viver em mim esta verdade: há dores que precisam ser confessadas, cuidadas e acompanhadas, não escondidas. Amém."
   },
   {
-    "day": 39,
+    "day": 45,
+    "psalm": 39,
+    "part": 1,
+    "parts": 1,
     "theme": "Lembrar que a vida é breve pode devolver peso ao que realmente importa",
     "date": "Salmo 39",
     "verse": {
@@ -3680,7 +4020,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: lembrar que a vida é breve pode devolver peso ao que realmente importa. Amém."
   },
   {
-    "day": 40,
+    "day": 46,
+    "psalm": 40,
+    "part": 1,
+    "parts": 1,
     "theme": "Esperar pode ser uma história de lama, rocha e uma nova canção",
     "date": "Salmo 40",
     "verse": {
@@ -3782,7 +4125,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: esperar pode ser uma história de lama, rocha e uma nova canção. Amém."
   },
   {
-    "day": 41,
+    "day": 47,
+    "psalm": 41,
+    "part": 1,
+    "parts": 1,
     "theme": "Cuidar do vulnerável também faz parte de uma vida lembrada por Deus",
     "date": "Salmo 41",
     "verse": {
@@ -3868,7 +4214,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: cuidar do vulnerável também faz parte de uma vida lembrada por Deus. Amém."
   },
   {
-    "day": 42,
+    "day": 48,
+    "psalm": 42,
+    "part": 1,
+    "parts": 1,
     "theme": "Sua alma pode ter sede sem que isso signifique que Deus desapareceu",
     "date": "Salmo 42",
     "verse": {
@@ -3946,7 +4295,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: sua alma pode ter sede sem que isso signifique que Deus desapareceu. Amém."
   },
   {
-    "day": 43,
+    "day": 49,
+    "psalm": 43,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode pedir luz quando seus sentimentos não conseguem conduzir você",
     "date": "Salmo 43",
     "verse": {
@@ -4000,23 +4352,26 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode pedir luz quando seus sentimentos não conseguem conduzir você. Amém."
   },
   {
-    "day": 44,
-    "theme": "Há dias em que a memória das antigas vitórias torna a crise atual ainda mais dolorosa",
-    "date": "Salmo 44",
+    "day": 50,
+    "psalm": 44,
+    "part": 1,
+    "parts": 2,
+    "theme": "A memória das obras de Deus e o peso do presente",
+    "date": "Salmo 44 · 1–16",
     "verse": {
-      "text": "Ore e leia o Salmo 44 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 44"
+      "text": "Não foi pela espada que conquistaram a terra, nem pela força do braço que alcançaram a vitória; foi pela tua mão direita, pelo teu braço, e pela luz do teu rosto, por causa do teu amor para com eles.",
+      "ref": "Salmo 44.3"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "יָשַׁע",
+      "translit": "yashá‘",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "No arquivo, nefesh aparece com o sentido de “vida, pessoa inteira”. Neste salmo, essa palavra pode ser recebida como uma lente para medo, ausência sentida e clamor: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que há dias em que a memória das antigas vitórias torna a crise atual ainda mais dolorosa."
+      "meaning": "salvar, libertar",
+      "note": "Yasha (salvar) aparece no verso 3: não foi a espada, mas a mão de Deus que deu a vitória. Agora o povo pergunta por que a salvação parece ausente."
     },
-    "context": "O Salmo 44 atravessa medo, ausência sentida e clamor e usa imagens como luz e coração para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que há dias em que a memória das antigas vitórias torna a crise atual ainda mais dolorosa.",
+    "context": "O salmo é um lamento comunitário. Começa lembrando o que os pais contaram sobre as obras de Deus na conquista da terra e passa, no verso 9, a um “mas agora”: derrota, dispersão, zombaria. O povo não confessa pecado específico; sente que Deus os rejeitou embora estejam sendo fiéis.",
     "passage": {
-      "ref": "Salmo 44 · capítulo completo (NVI)",
+      "ref": "Salmo 44 · versículos 1–16 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -4081,7 +4436,44 @@ window.SALMOS_CARTA = [
         {
           "n": 16,
           "text": "por causa da zombaria dos que me censuram e me provocam, por causa do inimigo, que busca vingança."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "Lembrar o passado de Deus é um ato de coragem quando o presente contradiz. O salmo não esconde a contradição.",
+      "O “mas agora” do verso 9 é honesto: nem toda dor tem explicação visível. A fé aqui não fecha a pergunta.",
+      "Há uma comunidade falando junto (“nós”). Sofrer juntos e orar juntos é parte da resposta."
+    ],
+    "questions": [
+      "O que da história de Deus com você o sustenta quando o presente não faz sentido?",
+      "Você tem alguém com quem lamentar em conjunto?",
+      "Que “mas agora” você está vivendo?"
+    ],
+    "application": "Escreva duas lembranças de fidelidade de Deus e uma queixa honesta, lado a lado.",
+    "prayer": "Senhor, lembro o que fizeste. Diante do que hoje vivo, não me deixes calar. Ouve o nosso “mas agora”. Amém."
+  },
+  {
+    "day": 51,
+    "psalm": 44,
+    "part": 2,
+    "parts": 2,
+    "theme": "Levanta-te, socorre-nos, por causa da tua fidelidade",
+    "date": "Salmo 44 · 17–26",
+    "verse": {
+      "text": "Levanta-te! Socorre-nos! Resgata-nos por causa da tua fidelidade.",
+      "ref": "Salmo 44.26"
+    },
+    "word": {
+      "original": "חֶסֶד",
+      "translit": "hesed",
+      "lang": "hebraico",
+      "meaning": "amor leal",
+      "note": "O salmo termina apelando ao hesed: não aos méritos do povo, mas ao amor fiel de Deus."
+    },
+    "context": "O povo afirma não ter esquecido a aliança, e ainda assim sofre “por amor de ti” (v. 22, citado por Paulo em Romanos 8.36). Pergunta por que Deus dorme, esconde o rosto, esquece a aflição. Termina sem resposta: apenas o pedido de que Deus se levante, “por causa do teu amor”.",
+    "passage": {
+      "ref": "Salmo 44 · versículos 17–26 (NVI)",
+      "verses": [
         {
           "n": 17,
           "text": "Tudo isso aconteceu conosco, sem que nos tivéssemos esquecido de ti, nem tivéssemos traído a tua aliança."
@@ -4125,20 +4517,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Uma das dádivas deste salmo é lembrar que há dias em que a memória das antigas vitórias torna a crise atual ainda mais dolorosa.",
-      "Entre luz e coração, aparece uma fé que conversa com Deus dentro de medo, ausência sentida e clamor, não apenas depois que tudo passa.",
-      "Talvez hoje a resposta não seja resolver o cenário, mas permitir que o salmista leva sua dor a Deus sem precisar maquiá-la."
+      "O salmo permite afirmar fidelidade sem que isso seja arrogância. Existem sofrimentos sem causa direta no pecado.",
+      "“Desperta, Senhor!” é linguagem ousada. Deus a acolhe: ele prefere um povo que insiste a um que se cala.",
+      "O último apelo é ao hesed. Quando não há mérito a apresentar, resta a fidelidade de Deus como única base."
     ],
     "questions": [
-      "Que parte da sua dor você ainda tenta deixar do lado de fora da oração?",
-      "O que muda quando você fala com Deus antes de tentar explicar tudo?",
-      "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
+      "Você já sofreu sem entender a causa? Como Deus esteve nisso?",
+      "Que ousadia na oração você tem evitado?",
+      "O que significa apelar ao amor de Deus, e não aos seus méritos?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: há dias em que a memória das antigas vitórias torna a crise atual ainda mais dolorosa. Amém."
+    "application": "Ore o verso 26 três vezes hoje, especialmente em um momento de cansaço.",
+    "prayer": "Levanta-te! Socorre-nos! Resgata-nos por causa da tua fidelidade. Amém."
   },
   {
-    "day": 45,
+    "day": 52,
+    "psalm": 45,
+    "part": 1,
+    "parts": 1,
     "theme": "Beleza e justiça não precisam viver separadas",
     "date": "Salmo 45",
     "verse": {
@@ -4240,7 +4635,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: beleza e justiça não precisam viver separadas. Amém."
   },
   {
-    "day": 46,
+    "day": 53,
+    "psalm": 46,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando tudo se move, existe um refúgio que não precisa se mover",
     "date": "Salmo 46",
     "verse": {
@@ -4318,7 +4716,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: quando tudo se move, existe um refúgio que não precisa se mover. Amém."
   },
   {
-    "day": 47,
+    "day": 54,
+    "psalm": 47,
+    "part": 1,
+    "parts": 1,
     "theme": "O governo de Deus é maior que as fronteiras que nós desenhamos",
     "date": "Salmo 47",
     "verse": {
@@ -4388,7 +4789,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: o governo de Deus é maior que as fronteiras que nós desenhamos. Amém."
   },
   {
-    "day": 48,
+    "day": 55,
+    "psalm": 48,
+    "part": 1,
+    "parts": 1,
     "theme": "Algumas cidades se tornam memória porque pessoas aprendem a contar fidelidade",
     "date": "Salmo 48",
     "verse": {
@@ -4478,7 +4882,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: algumas cidades se tornam memória porque pessoas aprendem a contar fidelidade. Amém."
   },
   {
-    "day": 49,
+    "day": 56,
+    "psalm": 49,
+    "part": 1,
+    "parts": 1,
     "theme": "Riqueza pode comprar muita coisa, menos a vida que termina",
     "date": "Salmo 49",
     "verse": {
@@ -4592,7 +4999,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: riqueza pode comprar muita coisa, menos a vida que termina. Amém."
   },
   {
-    "day": 50,
+    "day": 57,
+    "psalm": 50,
+    "part": 1,
+    "parts": 1,
     "theme": "Deus não precisa de performance religiosa para saber se seu coração é verdadeiro",
     "date": "Salmo 50",
     "verse": {
@@ -4718,7 +5128,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: deus não precisa de performance religiosa para saber se seu coração é verdadeiro. Amém."
   },
   {
-    "day": 51,
+    "day": 58,
+    "psalm": 51,
+    "part": 1,
+    "parts": 1,
     "theme": "Arrependimento não pede que você se odeie; pede um coração que aceite ser renovado",
     "date": "Salmo 51",
     "verse": {
@@ -4828,7 +5241,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus de misericórdia, cria em mim um coração puro e firme. Dá-me coragem para admitir, reparar e mudar sem fazer da culpa meu nome. Amém."
   },
   {
-    "day": 52,
+    "day": 59,
+    "psalm": 52,
+    "part": 1,
+    "parts": 1,
     "theme": "Palavras destrutivas podem parecer fortes, mas não são uma casa segura",
     "date": "Salmo 52",
     "verse": {
@@ -4898,7 +5314,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: palavras destrutivas podem parecer fortes, mas não são uma casa segura. Amém."
   },
   {
-    "day": 53,
+    "day": 60,
+    "psalm": 53,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando a corrupção parece universal, Deus ainda enxerga quem busca refúgio",
     "date": "Salmo 53",
     "verse": {
@@ -4956,7 +5375,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: quando a corrupção parece universal, Deus ainda enxerga quem busca refúgio. Amém."
   },
   {
-    "day": 54,
+    "day": 61,
+    "psalm": 54,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode pedir socorro sem vergonha de precisar dele",
     "date": "Salmo 54",
     "verse": {
@@ -5018,7 +5440,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode pedir socorro sem vergonha de precisar dele. Amém."
   },
   {
-    "day": 55,
+    "day": 62,
+    "psalm": 55,
+    "part": 1,
+    "parts": 1,
     "theme": "A ferida de um amigo pode doer de um jeito que inimigos nunca conseguiriam",
     "date": "Salmo 55",
     "verse": {
@@ -5144,7 +5569,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: a ferida de um amigo pode doer de um jeito que inimigos nunca conseguiriam. Amém."
   },
   {
-    "day": 56,
+    "day": 63,
+    "psalm": 56,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando o medo vier, você pode colocá-lo ao lado da confiança, não escondê-lo",
     "date": "Salmo 56",
     "verse": {
@@ -5230,7 +5658,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando o medo vier, você pode colocá-lo ao lado da confiança, não escondê-lo. Amém."
   },
   {
-    "day": 57,
+    "day": 64,
+    "psalm": 57,
+    "part": 1,
+    "parts": 1,
     "theme": "Há cavernas onde seu coração ainda pode escolher despertar para o louvor",
     "date": "Salmo 57",
     "verse": {
@@ -5308,7 +5739,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: há cavernas onde seu coração ainda pode escolher despertar para o louvor. Amém."
   },
   {
-    "day": 58,
+    "day": 65,
+    "psalm": 58,
+    "part": 1,
+    "parts": 1,
     "theme": "Raiva diante da injustiça precisa de um lugar seguro para ser entregue",
     "date": "Salmo 58",
     "verse": {
@@ -5386,7 +5820,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus justo, vê aquilo que o poder tenta esconder. Dá-me coragem para defender o vulnerável sem fazer da violência meu caminho. Amém."
   },
   {
-    "day": 59,
+    "day": 66,
+    "psalm": 59,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando pessoas armam emboscadas, você pode esperar por Deus sem se transformar numa emboscada",
     "date": "Salmo 59",
     "verse": {
@@ -5488,7 +5925,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando pessoas armam emboscadas, você pode esperar por Deus sem se transformar numa emboscada. Amém."
   },
   {
-    "day": 60,
+    "day": 67,
+    "psalm": 60,
+    "part": 1,
+    "parts": 1,
     "theme": "Depois de uma derrota, ainda existe caminho para pedir restauração",
     "date": "Salmo 60",
     "verse": {
@@ -5570,7 +6010,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: depois de uma derrota, ainda existe caminho para pedir restauração. Amém."
   },
   {
-    "day": 61,
+    "day": 68,
+    "psalm": 61,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando o coração está no limite, ele ainda pode pedir uma rocha mais alta",
     "date": "Salmo 61",
     "verse": {
@@ -5636,7 +6079,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando o coração está no limite, ele ainda pode pedir uma rocha mais alta. Amém."
   },
   {
-    "day": 62,
+    "day": 69,
+    "psalm": 62,
+    "part": 1,
+    "parts": 1,
     "theme": "Sua alma não precisa oscilar na mesma velocidade das ameaças",
     "date": "Salmo 62",
     "verse": {
@@ -5718,7 +6164,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe minha vida como ela está e transforma este salmo em conversa verdadeira contigo. Faz viver em mim esta verdade: sua alma não precisa oscilar na mesma velocidade das ameaças. Amém."
   },
   {
-    "day": 63,
+    "day": 70,
+    "psalm": 63,
+    "part": 1,
+    "parts": 1,
     "theme": "A sede por Deus pode atravessar até os desertos mais secos",
     "date": "Salmo 63",
     "verse": {
@@ -5796,7 +6245,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: a sede por Deus pode atravessar até os desertos mais secos. Amém."
   },
   {
-    "day": 64,
+    "day": 71,
+    "psalm": 64,
+    "part": 1,
+    "parts": 1,
     "theme": "Há palavras escondidas contra você que Deus não precisa esconder de si",
     "date": "Salmo 64",
     "verse": {
@@ -5870,7 +6322,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: há palavras escondidas contra você que Deus não precisa esconder de si. Amém."
   },
   {
-    "day": 65,
+    "day": 72,
+    "psalm": 65,
+    "part": 1,
+    "parts": 1,
     "theme": "Perdão e abundância podem nascer do mesmo Deus que escuta oração",
     "date": "Salmo 65",
     "verse": {
@@ -5956,7 +6411,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: perdão e abundância podem nascer do mesmo Deus que escuta oração. Amém."
   },
   {
-    "day": 66,
+    "day": 73,
+    "psalm": 66,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode transformar livramento em testemunho sem fingir que a travessia foi fácil",
     "date": "Salmo 66",
     "verse": {
@@ -6070,7 +6528,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: você pode transformar livramento em testemunho sem fingir que a travessia foi fácil. Amém."
   },
   {
-    "day": 67,
+    "day": 74,
+    "psalm": 67,
+    "part": 1,
+    "parts": 1,
     "theme": "A bênção recebida nunca foi feita para terminar só em você",
     "date": "Salmo 67",
     "verse": {
@@ -6132,23 +6593,26 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a bênção recebida nunca foi feita para terminar só em você. Amém."
   },
   {
-    "day": 68,
-    "theme": "Deus se apresenta como defensor de quem o poder costuma esquecer",
-    "date": "Salmo 68",
+    "day": 75,
+    "psalm": 68,
+    "part": 1,
+    "parts": 3,
+    "theme": "O Deus que dá lar aos solitários",
+    "date": "Salmo 68 · 1–10",
     "verse": {
-      "text": "Ore e leia o Salmo 68 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 68"
+      "text": "Pai para os órfãos e defensor das viúvas é Deus em sua santa habitação.",
+      "ref": "Salmo 68.5"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "צֶדֶק",
+      "translit": "tsedeq",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "No arquivo, nefesh aparece com o sentido de “vida, pessoa inteira”. Neste salmo, essa palavra pode ser recebida como uma lente para memória, livramento e resposta: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que deus se apresenta como defensor de quem o poder costuma esquecer."
+      "meaning": "justiça, retidão",
+      "note": "A justiça de Deus (tsedeq) inclui cuidado concreto: pai dos órfãos, lar aos solitários, liberdade aos presos."
     },
-    "context": "O Salmo 68 atravessa memória, livramento e resposta e usa imagens como luz e mar para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que deus se apresenta como defensor de quem o poder costuma esquecer.",
+    "context": "O Salmo 68 é um hino de procissão: Deus se levanta e os inimigos se dispersam. Na parte inicial, o coração é o verso 5-6: Deus é pai dos órfãos, defensor das viúvas, dá lar aos solitários e liberta os presos. O poder de Deus aparece como cuidado.",
     "passage": {
-      "ref": "Salmo 68 · capítulo completo (NVI)",
+      "ref": "Salmo 68 · versículos 1–10 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -6189,7 +6653,44 @@ window.SALMOS_CARTA = [
         {
           "n": 10,
           "text": "O teu povo nela se instalou, e da tua bondade, ó Deus, supriste os pobres."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "Um Deus que se levanta e faz tremer a terra é o mesmo que se inclina sobre órfãos e viúvas. A força de Deus está a serviço dos frágeis.",
+      "“Deus dá um lar aos solitários” diz muito sobre a igreja: comunidade é obra de Deus, e cabe a nós participar dela.",
+      "O verso 9 fala de chuva abundante que revigora a herança cansada. Deus refresca o que está exausto."
+    ],
+    "questions": [
+      "Onde você se sente órfão ou solitário?",
+      "A quem você pode ser “lar” esta semana?",
+      "O que precisa ser refrescado em você?"
+    ],
+    "application": "Procure hoje alguém que esteja só e ofereça companhia, uma ligação, uma refeição, uma visita.",
+    "prayer": "Pai dos órfãos e defensor das viúvas, dá lar aos solitários, começando por mim. Faz de mim instrumento do teu cuidado. Amém."
+  },
+  {
+    "day": 76,
+    "psalm": 68,
+    "part": 2,
+    "parts": 3,
+    "theme": "A cada dia, ele carrega você",
+    "date": "Salmo 68 · 11–23",
+    "verse": {
+      "text": "Bendito seja o Senhor, Deus, nosso Salvador, que cada dia suporta as nossas cargas. Pausa",
+      "ref": "Salmo 68.19"
+    },
+    "word": {
+      "original": "יָשַׁע",
+      "translit": "yashá‘",
+      "lang": "hebraico",
+      "meaning": "salvar, libertar",
+      "note": "A palavra salvação (yeshu‘ah) aparece aqui: o Deus que carrega o dia a dia é também o Deus que salva."
+    },
+    "context": "A parte central relembra vitórias e a subida ao monte de Deus. O centro afetivo está no verso 19: “Bendito seja o Senhor, Deus, nosso Salvador, que cada dia suporta as nossas cargas.”. Os versos 21-23 têm linguagem forte contra os inimigos de Deus, uma imagem de justiça, não permissão para violência.",
+    "passage": {
+      "ref": "Salmo 68 · versículos 11–23 (NVI)",
+      "verses": [
         {
           "n": 11,
           "text": "O Senhor anunciou a palavra, e muitos mensageiros a proclamavam:"
@@ -6241,7 +6742,44 @@ window.SALMOS_CARTA = [
         {
           "n": 23,
           "text": "para que você encharque os pés no sangue dos inimigos, sangue do qual a língua dos cães terá a sua porção. \""
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O Deus que carrega é diferente do que apenas ordena. “A cada dia” significa que a graça é diária, não uma provisão única.",
+      "“Deus, nosso Salvador” (v. 19) vem colado à imagem do fardo. Salvação também é ser aliviado do peso que nunca deveria ser carregado sozinho.",
+      "Os versos duros lembram que o mal tem consequência. Deixe a justiça a Deus e você poderá caminhar mais leve."
+    ],
+    "questions": [
+      "Que carga você tem tentado levar sozinho?",
+      "O que significa receber a graça “a cada dia”?",
+      "Como lidar com raiva sem se tornar violento?"
+    ],
+    "application": "Nomeie a carga de hoje em voz alta e entregue-a a Deus com o verso 19.",
+    "prayer": "Bendito sejas, Senhor, que cada dia suportas as minhas cargas. Aceito o teu alívio e confio em ti. Amém."
+  },
+  {
+    "day": 77,
+    "psalm": 68,
+    "part": 3,
+    "parts": 3,
+    "theme": "Cantar ao Deus que dá força ao seu povo",
+    "date": "Salmo 68 · 24–35",
+    "verse": {
+      "text": "Tu és temível no teu santuário, ó Deus; é o Deus de Israel que dá poder e força ao seu povo. Bendito seja Deus!",
+      "ref": "Salmo 68.35"
+    },
+    "word": {
+      "original": "תְּהִלָּה",
+      "translit": "tehil·lâ",
+      "lang": "hebraico",
+      "meaning": "louvor",
+      "note": "Tehilla é o louvor público: aqui cantores, músicos e reis se juntam numa procissão a Deus."
+    },
+    "context": "Chegamos ao santuário: cantores à frente, músicos atrás, jovens com tamborins. O salmo convida os reinos da terra a cantar a Deus, que cavalga os céus e dá poder e força ao seu povo. O verso 35 encerra com bênção.",
+    "passage": {
+      "ref": "Salmo 68 · versículos 24–35 (NVI)",
+      "verses": [
         {
           "n": 24,
           "text": "Já se vê a tua marcha triunfal, ó Deus, a marcha do meu Deus e Rei adentrando o santuário."
@@ -6293,36 +6831,39 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Uma das dádivas deste salmo é lembrar que deus se apresenta como defensor de quem o poder costuma esquecer.",
-      "Entre luz e mar, aparece uma fé que conversa com Deus dentro de memória, livramento e resposta, não apenas depois que tudo passa.",
-      "Talvez hoje a resposta não seja resolver o cenário, mas permitir que lembrar o que Deus fez se transforma em confiança para continuar."
+      "O louvor aqui é coletivo e sensorial: procissão, música, dança. Adoração não é somente interior.",
+      "O verso 28 pede: “Mostra, ó Deus, o poder que já tens operado para conosco”. O louvor sabe pedir. Cantar e pedir andam juntos.",
+      "“Dá poder e força ao seu povo”: a força que você tem hoje é doada. Vale reconhecer, dizer obrigado."
     ],
     "questions": [
-      "Que livramento ou cuidado você corre o risco de esquecer?",
-      "Quem participou dessa história e merece sua gratidão?",
-      "Como transformar memória em confiança para o próximo passo?"
+      "Como o louvor da comunidade o ajuda?",
+      "Que tipo de louvor lhe faz falta?",
+      "Onde você precisa reconhecer que a sua força foi dada?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: deus se apresenta como defensor de quem o poder costuma esquecer. Amém."
+    "application": "Cante ou escute uma música de louvor hoje. Deixe-a ser oração.",
+    "prayer": "Bendito seja Deus! Tu dás poder e força ao teu povo. Recebe o meu louvor. Amém."
   },
   {
-    "day": 69,
-    "theme": "Quando a água chega ao pescoço, sua oração ainda pode dizer toda a verdade",
-    "date": "Salmo 69",
+    "day": 78,
+    "psalm": 69,
+    "part": 1,
+    "parts": 2,
+    "theme": "Quando a água chega à sua alma",
+    "date": "Salmo 69 · 1–18",
     "verse": {
-      "text": "Ore e leia o Salmo 69 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 69"
+      "text": "Salva-me, ó Deus!, pois as águas subiram até o meu pescoço.",
+      "ref": "Salmo 69.1"
     },
     "word": {
       "original": "נֶפֶשׁ",
       "translit": "nefesh",
       "lang": "hebraico",
       "meaning": "vida, pessoa inteira",
-      "note": "No arquivo, nefesh aparece com o sentido de “vida, pessoa inteira”. Neste salmo, essa palavra pode ser recebida como uma lente para medo, ausência sentida e clamor: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que quando a água chega ao pescoço, sua oração ainda pode dizer toda a verdade."
+      "note": "Nefesh, aqui traduzida como “pescoço”, também é “vida” ou “alma”: a água sobe até o centro do ser."
     },
-    "context": "O Salmo 69 descreve alguém submerso por vergonha, hostilidade e sensação de abandono. A linguagem é extrema, inclusive nos pedidos contra adversários. A Carta ao Coração mantém a honestidade do salmo sem transformar esses pedidos em instruções de vingança.",
+    "context": "O Salmo 69 é um dos mais citados no Novo Testamento. O salmista descreve atolamento, água profunda e cansaço de gritar. Odiado sem motivo, carrega zombaria por causa do zelo pela casa de Deus. Os primeiros versos são lamento, e o pedido do verso 13 é feito “no tempo oportuno”, com apelo ao amor de Deus.",
     "passage": {
-      "ref": "Salmo 69 · capítulo completo (NVI)",
+      "ref": "Salmo 69 · versículos 1–18 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -6395,7 +6936,44 @@ window.SALMOS_CARTA = [
         {
           "n": 18,
           "text": "Aproxima-te e resgata-me; livra-me por causa dos meus inimigos."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "A imagem do atolamento diz o que às vezes não dizemos: não há onde firmar os pés. O salmo deixa você falar assim.",
+      "O salmista sofre por causa da sua fidelidade. Nem toda dor é castigo: às vezes é o preço de ser fiel.",
+      "O verso 13 diz: “Mas eu, Senhor, no tempo oportuno, elevo a ti minha oração”. Mesmo no fundo, a oração continua sendo direção."
+    ],
+    "questions": [
+      "Em que área da vida você sente que não há onde firmar os pés?",
+      "Você já sofreu por ser fiel a algo?",
+      "Como orar “no tempo oportuno” sem forçar respostas?"
+    ],
+    "application": "Diga a Deus, com suas palavras, qual é a “água” em que você está. Ele não precisa de introdução.",
+    "prayer": "Salva-me, ó Deus, pois as águas chegaram à minha vida. Responde-me por causa do teu grande amor. Amém."
+  },
+  {
+    "day": 79,
+    "psalm": 69,
+    "part": 2,
+    "parts": 2,
+    "theme": "Deus ouve o pobre",
+    "date": "Salmo 69 · 19–36",
+    "verse": {
+      "text": "O Senhor ouve o pobre e não despreza o seu povo aprisionado.",
+      "ref": "Salmo 69.33"
+    },
+    "word": {
+      "original": "תְּהִלָּה",
+      "translit": "tehil·lâ",
+      "lang": "hebraico",
+      "meaning": "louvor",
+      "note": "O salmo termina em tehilla: louvor que nasce de quem foi ouvido no sofrimento."
+    },
+    "context": "A parte final descreve a humilhação, com o verso 21 (“Puseram fel na minha comida… deram-me vinagre”), citado nos relatos da paixão, e traz uma oração de julgamento (v. 22-28), típica dos salmos imprecatórios: pede-se que Deus faça justiça. Lida com cuidado, é entrega da justiça a Deus, não permissão para vingança. O salmo termina em louvor e esperança para os pobres e para Sião.",
+    "passage": {
+      "ref": "Salmo 69 · versículos 19–36 (NVI)",
+      "verses": [
         {
           "n": 19,
           "text": "Tu bem sabes como sofro zombaria, humilhação e vergonha; conheces todos os meus adversários."
@@ -6471,20 +7049,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Quando a água chega ao pescoço, talvez você não consiga formular uma oração equilibrada — e Deus ainda pode receber sua verdade.",
-      "Vergonha pública e rejeição podem ferir profundamente; você não precisa tratar essa dor como fraqueza.",
-      "A raiva pode ser levada a Deus sem virar autorização para causar dano."
+      "A imagem de sede e vinagre é dolorosa e ainda assim Deus está ali. A cruz mostra até onde ele aceitou descer.",
+      "Os versos duros não são um roteiro para a conduta pessoal. São a linguagem de quem, sem poder, entrega tudo ao Juiz.",
+      "O verso 33 dá o tom final: “O Senhor ouve o pobre e não despreza o seu povo aprisionado”. Não desprezar é o gesto mais humano de Deus."
     ],
     "questions": [
-      "Onde você se sente emocionalmente submerso?",
-      "Que vergonha precisa ser dividida com alguém seguro em vez de carregada sozinho?",
-      "Como separar o desejo de ser protegido do desejo de destruir quem feriu você?"
+      "Que dor sua ainda não foi dita a Deus?",
+      "Como entregar a justiça a Deus sem ficar amargo?",
+      "O que significa saber que você não é desprezado?"
     ],
-    "application": "Se você está se sentindo submerso, escolha hoje uma ação de apoio real: converse com alguém confiável, reduza exposição ao que agrava a dor e peça ajuda.",
-    "prayer": "Senhor, as águas parecem altas. Escuta meu clamor, protege meu coração e conduz minha raiva para caminhos que não produzam novas feridas. Amém."
+    "application": "Escolha alguém que o feriu e ore por justiça e misericórdia, deixando o resultado nas mãos de Deus.",
+    "prayer": "Senhor, tu ouves os necessitados. Recebe a minha dor e a minha raiva e ensina-me a esperar o teu julgamento. Amém."
   },
   {
-    "day": 70,
+    "day": 80,
+    "psalm": 70,
+    "part": 1,
+    "parts": 1,
     "theme": "Há momentos em que a oração mais espiritual é simplesmente: vem depressa",
     "date": "Salmo 70",
     "verse": {
@@ -6538,7 +7119,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: há momentos em que a oração mais espiritual é simplesmente: vem depressa. Amém."
   },
   {
-    "day": 71,
+    "day": 81,
+    "psalm": 71,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode envelhecer sem aposentar a esperança",
     "date": "Salmo 71",
     "verse": {
@@ -6668,7 +7252,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode envelhecer sem aposentar a esperança. Amém."
   },
   {
-    "day": 72,
+    "day": 82,
+    "psalm": 72,
+    "part": 1,
+    "parts": 1,
     "theme": "Um rei justo é reconhecido pelo modo como trata o pobre",
     "date": "Salmo 72",
     "verse": {
@@ -6782,23 +7369,26 @@ window.SALMOS_CARTA = [
     "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: um rei justo é reconhecido pelo modo como trata o pobre. Amém."
   },
   {
-    "day": 73,
-    "theme": "A inveja perde parte do poder quando você volta a enxergar o fim da história",
-    "date": "Salmo 73",
+    "day": 83,
+    "psalm": 73,
+    "part": 1,
+    "parts": 2,
+    "theme": "Quando os ímpios parecem estar bem",
+    "date": "Salmo 73 · 1–14",
     "verse": {
-      "text": "Ore e leia o Salmo 73 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 73"
+      "text": "Certamente Deus é bom para Israel, para os puros de coração.",
+      "ref": "Salmo 73.1"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "שָׁלוֹם",
+      "translit": "shalom",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "No arquivo, hesed aparece com o sentido de “amor leal”. Neste salmo, essa palavra pode ser recebida como uma lente para escolhas, caráter e direção: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que a inveja perde parte do poder quando você volta a enxergar o fim da história."
+      "meaning": "paz, inteireza",
+      "note": "No verso 3, “prosperidade” é shalom: o salmista via a paz e o bem-estar dos ímpios e quase perdeu o equilíbrio."
     },
-    "context": "O Salmo 73 atravessa escolhas, caráter e direção e usa imagens como mar e coração para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que a inveja perde parte do poder quando você volta a enxergar o fim da história.",
+    "context": "O Salmo 73 abre o Livro III com uma confissão: “Certamente Deus é bom para Israel”, mas os meus pés quase escorregaram. Ele viu a arrogância e a prosperidade dos ímpios, e concluiu que manter o coração puro fora em vão. É uma das crises de fé mais honestas do Saltério.",
     "passage": {
-      "ref": "Salmo 73 · capítulo completo (NVI)",
+      "ref": "Salmo 73 · versículos 1–14 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -6855,7 +7445,44 @@ window.SALMOS_CARTA = [
         {
           "n": 14,
           "text": "pois o dia inteiro sou afligido, e todas as manhãs sou castigado."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O salmo começa pela confissão de que quase caiu. Falar do quase-tropeço é mais útil do que fingir que nunca houve crise.",
+      "A inveja nasce quando comparamos a nossa vida por dentro com a dos outros por fora. O texto mostra esse mecanismo.",
+      "Repare que o salmista guardou a queixa para si (v. 15) para não ferir a comunidade. Prudência não é silêncio diante de Deus."
+    ],
+    "questions": [
+      "Com quem ou com o quê você tem se comparado?",
+      "Quando foi a última vez que seus pés quase escorregaram?",
+      "Que dúvida você precisa levar a Deus, e não a outra pessoa?"
+    ],
+    "application": "Escreva a sua “comparação” do momento e ofereça-a a Deus como confissão.",
+    "prayer": "Senhor, tu és bom, mesmo quando não parece. Guarda os meus pés e cura a minha inveja. Amém."
+  },
+  {
+    "day": 84,
+    "psalm": 73,
+    "part": 2,
+    "parts": 2,
+    "theme": "Tu és a força do meu coração",
+    "date": "Salmo 73 · 15–28",
+    "verse": {
+      "text": "O meu corpo e o meu coração poderão fraquejar, mas Deus é a força do meu coração e a minha herança para sempre.",
+      "ref": "Salmo 73.26"
+    },
+    "word": {
+      "original": "חָסָה",
+      "translit": "chasah",
+      "lang": "hebraico",
+      "meaning": "refugiar-se",
+      "note": "Chasah é buscar refúgio. O salmo termina com a decisão de fazer do Senhor o seu abrigo (v. 28)."
+    },
+    "context": "O ponto de virada está no verso 17: “até que entrei no santuário de Deus”. Lá, a perspectiva muda: os ímpios estão em terreno escorregadio. O salmista se reconhece, em sua amargura, como “um animal irracional” e confessa: “Contudo, sempre estou contigo”. Termina dizendo que a proximidade de Deus é o seu bem.",
+    "passage": {
+      "ref": "Salmo 73 · versículos 15–28 (NVI)",
+      "verses": [
         {
           "n": 15,
           "text": "Se eu tivesse dito \"falarei com eles\", teria traído os teus filhos."
@@ -6915,20 +7542,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Este salmo dá espaço para uma verdade que o coração nem sempre consegue dizer em voz alta: a inveja perde parte do poder quando você volta a enxergar o fim da história.",
-      "As imagens de mar e coração lembram que a fé bíblica não acontece fora da vida real; ela atravessa escolhas, caráter e direção.",
-      "Você não precisa terminar a oração exatamente como começou. O próprio salmo mostra que o salmo convida a perceber que pequenos caminhos formam destinos maiores."
+      "Não foi uma resposta intelectual que mudou o salmista, foi a presença. Alguns nós só se desatam diante de Deus.",
+      "O verso 22 é raro em honestidade: “agi como insensato e ignorante”. Reconhecer a própria amargura é começo de cura.",
+      "“Deus é a força do meu coração e a minha herança para sempre” (v. 26): mesmo o corpo e o coração falhando, ele permanece."
     ],
     "questions": [
-      "Que escolha pequena está formando uma direção maior em sua vida?",
-      "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
-      "Qual hábito simples pode criar raízes mais profundas?"
+      "O que mudaria em você se entrasse hoje no “santuário” da sua dúvida?",
+      "Que amargura você precisa reconhecer diante de Deus?",
+      "O que significa Deus ser a sua herança?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: a inveja perde parte do poder quando você volta a enxergar o fim da história. Amém."
+    "application": "Reserve dez minutos em silêncio hoje, sem pedidos: apenas “estou contigo”.",
+    "prayer": "Senhor, tu és a minha herança. Quando o meu coração fraquejar, sê a minha força. Amém."
   },
   {
-    "day": 74,
+    "day": 85,
+    "psalm": 74,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando lugares sagrados viram ruínas, a memória ainda pode perguntar onde Deus está",
     "date": "Salmo 74",
     "verse": {
@@ -7054,7 +7684,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando lugares sagrados viram ruínas, a memória ainda pode perguntar onde Deus está. Amém."
   },
   {
-    "day": 75,
+    "day": 86,
+    "psalm": 75,
+    "part": 1,
+    "parts": 1,
     "theme": "Não precisamos empurrar a nós mesmos para cima; Deus sabe o tempo de levantar",
     "date": "Salmo 75",
     "verse": {
@@ -7128,7 +7761,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: não precisamos empurrar a nós mesmos para cima; Deus sabe o tempo de levantar. Amém."
   },
   {
-    "day": 76,
+    "day": 87,
+    "psalm": 76,
+    "part": 1,
+    "parts": 1,
     "theme": "O poder que realmente merece temor não depende de armas humanas",
     "date": "Salmo 76",
     "verse": {
@@ -7210,7 +7846,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: o poder que realmente merece temor não depende de armas humanas. Amém."
   },
   {
-    "day": 77,
+    "day": 88,
+    "psalm": 77,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando você não consegue dormir, pode transformar a memória em caminho de oração",
     "date": "Salmo 77",
     "verse": {
@@ -7324,23 +7963,26 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando você não consegue dormir, pode transformar a memória em caminho de oração. Amém."
   },
   {
-    "day": 78,
-    "theme": "Contar a história inteira ajuda a próxima geração a não viver apenas de fragmentos",
-    "date": "Salmo 78",
+    "day": 89,
+    "psalm": 78,
+    "part": 1,
+    "parts": 4,
+    "theme": "A história que precisa ser contada de novo",
+    "date": "Salmo 78 · 1–16",
     "verse": {
-      "text": "Ore e leia o Salmo 78 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 78"
+      "text": "Não os esconderemos dos nossos filhos; contaremos à próxima geração os louváveis feitos do Senhor, o seu poder e as maravilhas que fez.",
+      "ref": "Salmo 78.4"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "תְּהִלָּה",
+      "translit": "tehil·lâ",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "No arquivo, hesed aparece com o sentido de “amor leal”. Neste salmo, essa palavra pode ser recebida como uma lente para vida real, confiança e busca por Deus: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que contar a história inteira ajuda a próxima geração a não viver apenas de fragmentos."
+      "meaning": "louvor",
+      "note": "Tehilla: os “louváveis feitos do Senhor” (v. 4) são contados de geração em geração, junto com os seus feitos poderosos."
     },
-    "context": "O Salmo 78 atravessa vida real, confiança e busca por Deus e usa imagens como pastor e rocha para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que contar a história inteira ajuda a próxima geração a não viver apenas de fragmentos.",
+    "context": "O Salmo 78 é um “maskil”, um ensino poético de 72 versos que recapitula a história de Israel do Egito a Davi. Na primeira parte, o propósito: transmitir a próxima geração para que ponham a confiança em Deus. Depois, a infidelidade de Efraim e a memória das maravilhas do êxodo.",
     "passage": {
-      "ref": "Salmo 78 · capítulo completo (NVI)",
+      "ref": "Salmo 78 · versículos 1–16 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -7405,7 +8047,44 @@ window.SALMOS_CARTA = [
         {
           "n": 16,
           "text": "da pedra fez sair regatos e fluir água como um rio."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "A transmissão da fé é intencional: “Não os esconderemos dos nossos filhos”. Memória compartilhada forma um povo.",
+      "O propósito (v. 7) é que confiem em Deus e guardem os seus mandamentos. A história é contada para produzir confiança.",
+      "O salmo é honesto sobre falhas: parte da história é vergonhosa. Mesmo assim ela é contada, porque nela também há fidelidade divina."
+    ],
+    "questions": [
+      "Quem lhe contou a história de Deus? Quem a ouvirá de você?",
+      "Que parte da sua história você tem escondido dos outros?",
+      "Que maravilha de Deus você precisa recordar?"
+    ],
+    "application": "Conte a uma pessoa mais nova uma história de como Deus foi fiel a você ou à sua família.",
+    "prayer": "Senhor, ensina-me a contar as tuas obras sem esconder nada. Que a próxima geração ponha a esperança em ti. Amém."
+  },
+  {
+    "day": 90,
+    "psalm": 78,
+    "part": 2,
+    "parts": 4,
+    "theme": "Ele se lembrou de que somos apenas um sopro",
+    "date": "Salmo 78 · 17–39",
+    "verse": {
+      "text": "Lembrou-se de que eram meros mortais, brisa passageira que não retorna.",
+      "ref": "Salmo 78.39"
+    },
+    "word": {
+      "original": "רוּחַ",
+      "translit": "ruach",
+      "lang": "hebraico",
+      "meaning": "sopro, espírito",
+      "note": "Ruach é sopro. O verso 39 diz que Deus se lembrou de que eram “meros mortais, brisa passageira que não retorna”."
+    },
+    "context": "A parte central descreve o ciclo do deserto: Deus dá, o povo pede mais, murmura, é disciplinado, busca a Deus por medo e logo volta a esquecer. Mas o texto insiste em outro ciclo: Deus, compassivo, perdoa e não desperta toda a sua ira, porque lembrou que somos frágeis.",
+    "passage": {
+      "ref": "Salmo 78 · versículos 17–39 (NVI)",
+      "verses": [
         {
           "n": 17,
           "text": "Mas contra ele continuaram a pecar, revoltando-se no deserto contra o Altíssimo."
@@ -7497,7 +8176,44 @@ window.SALMOS_CARTA = [
         {
           "n": 39,
           "text": "Lembrou-se de que eram meros mortais, brisa passageira que não retorna."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O ciclo de esquecer e voltar é familiar. O salmo não elogia a inconstância, mas mostra que a paciência de Deus é maior.",
+      "A oração por medo (v. 34-37) não convenceu Deus de nada, mas ele foi compassivo mesmo assim. Sua misericórdia não depende da qualidade da nossa fé.",
+      "“Lembrou-se de que eram meros mortais”: Deus conhece a nossa fragilidade e não a usa contra nós."
+    ],
+    "questions": [
+      "Em que você tem um ciclo de esquecer e voltar?",
+      "Como você se sente ao saber que Deus se lembra da sua fragilidade?",
+      "Que “provisão” de Deus você tem tratado como ordinária?"
+    ],
+    "application": "Agradeça hoje por três coisas que recebeu e às quais talvez tenha se acostumado.",
+    "prayer": "Senhor, tu te lembras de que sou pó. Perdoa o meu esquecimento e traz-me de volta a ti. Amém."
+  },
+  {
+    "day": 91,
+    "psalm": 78,
+    "part": 3,
+    "parts": 4,
+    "theme": "Ele guiou o seu povo como ovelhas",
+    "date": "Salmo 78 · 40–55",
+    "verse": {
+      "text": "Mas tirou o seu povo como ovelhas e o conduziu como a um rebanho pelo deserto.",
+      "ref": "Salmo 78.52"
+    },
+    "word": {
+      "original": "יָשַׁע",
+      "translit": "yashá‘",
+      "lang": "hebraico",
+      "meaning": "salvar, libertar",
+      "note": "Yasha, salvar, aparece na história do êxodo: Deus conduz e livra, do Egito até a terra prometida."
+    },
+    "context": "O salmo revisita o Egito: as pragas, a Páscoa, a passagem pelo mar. O verso 52 traz a imagem central: Deus guiou o seu povo “como ovelhas”. O trecho inclui linguagem sobre o julgamento do Egito, lembrando o contexto do êxodo como libertação de escravos.",
+    "passage": {
+      "ref": "Salmo 78 · versículos 40–55 (NVI)",
+      "verses": [
         {
           "n": 40,
           "text": "Quantas vezes mostraram-se rebeldes contra ele no deserto e o entristeceram na terra solitária!"
@@ -7561,7 +8277,44 @@ window.SALMOS_CARTA = [
         {
           "n": 55,
           "text": "Expulsou nações que lá estavam, distribuiu-lhes as terras por herança e deu suas tendas às tribos de Israel para que nelas habitassem."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O êxodo foi ato de Deus, não de Israel. Ele libertou um povo que não conseguia libertar a si mesmo.",
+      "“Tirou o seu povo como ovelhas e o conduziu como a um rebanho”: a liderança de Deus é pastoral. Ele conhece o ritmo do rebanho.",
+      "A memória do êxodo alimenta a confiança de que Deus continuará agindo."
+    ],
+    "questions": [
+      "De que escravidão Deus já o tirou?",
+      "Você se deixa guiar como ovelha ou prefere conduzir sozinho?",
+      "Como lembrar o que Deus fez sem cair na nostalgia?"
+    ],
+    "application": "Registre por escrito uma libertação que Deus fez em sua vida e leia-a em oração.",
+    "prayer": "Pastor de Israel, conduz-me como ovelha. Eu confio na tua mão que já me libertou antes. Amém."
+  },
+  {
+    "day": 92,
+    "psalm": 78,
+    "part": 4,
+    "parts": 4,
+    "theme": "Deus escolhe um pastor para o seu povo",
+    "date": "Salmo 78 · 56–72",
+    "verse": {
+      "text": "E de coração íntegro Davi os pastoreou, com mãos experientes os conduziu.",
+      "ref": "Salmo 78.72"
+    },
+    "word": {
+      "original": "תָּם",
+      "translit": "tam",
+      "lang": "hebraico",
+      "meaning": "integridade, inteireza",
+      "note": "Tam, integridade: Davi pastoreou o povo com “coração íntegro” (v. 72), e não por perfeição."
+    },
+    "context": "O trecho final mostra o ciclo de infidelidade do povo na terra prometida, a queda de Siló e a rejeição de Efraim. Deus, então, escolhe Judá, o monte Sião e Davi, tirado “do pastoreio de ovelhas”, para conduzir o povo. Termina com um pastor que guia com integridade e mãos habilidosas.",
+    "passage": {
+      "ref": "Salmo 78 · versículos 56–72 (NVI)",
+      "verses": [
         {
           "n": 56,
           "text": "Mas eles puseram Deus à prova e foram rebeldes contra o Altíssimo; não obedeceram aos seus testemunhos."
@@ -7633,20 +8386,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Talvez você precise ouvir isto devagar hoje: contar a história inteira ajuda a próxima geração a não viver apenas de fragmentos.",
-      "O salmo usa imagens como pastor e rocha para colocar sentimentos concretos diante de Deus, sem transformar vulnerabilidade em fracasso.",
-      "Há movimento dentro da oração: o salmo transforma experiência humana em conversa sincera com Deus. Essa mudança pode ser pequena, mas já é caminho."
+      "Quando o povo falha, Deus continua a agir: ele levanta um pastor. A história de Israel é, em parte, a história de líderes imperfeitos e de um Deus fiel.",
+      "Davi vem “do pastoreio de ovelhas”. Deus escolhe quem está no ordinário, cuidando de tarefas pequenas.",
+      "A integridade do coração e a habilidade das mãos andam juntas: o caráter e a competência servem ao povo. Em Jesus, cristãos veem o Pastor perfeito."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo encontra seu momento atual?",
-      "O que você precisa dizer a Deus sem editar demais?",
-      "Que pequeno passo pode transformar leitura em resposta?"
+      "Quem cuida de você como pastor? A quem você é chamado a pastorear?",
+      "Onde você tem desprezado o ordinário?",
+      "Como integrar caráter e competência no seu serviço?"
     ],
-    "application": "Escolha uma frase ou imagem do salmo e use-a como ponto de partida para uma oração pessoal de hoje.",
-    "prayer": "Senhor, recebe minha vida como ela está e transforma este salmo em conversa verdadeira contigo. Faz viver em mim esta verdade: contar a história inteira ajuda a próxima geração a não viver apenas de fragmentos. Amém."
+    "application": "Ore hoje por um líder da sua comunidade, por integridade e sabedoria.",
+    "prayer": "Senhor, tu és o bom pastor. Levanta pastores de coração íntegro e faz de mim um cuidador fiel. Amém."
   },
   {
-    "day": 79,
+    "day": 93,
+    "psalm": 79,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando a comunidade sofre, o lamento pode ser coletivo",
     "date": "Salmo 79",
     "verse": {
@@ -7732,7 +8488,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando a comunidade sofre, o lamento pode ser coletivo. Amém."
   },
   {
-    "day": 80,
+    "day": 94,
+    "psalm": 80,
+    "part": 1,
+    "parts": 1,
     "theme": "Às vezes a oração precisa repetir 'restaura-nos' até o coração acreditar de novo",
     "date": "Salmo 80",
     "verse": {
@@ -7842,7 +8601,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: às vezes a oração precisa repetir 'restaura-nos' até o coração acreditar de novo. Amém."
   },
   {
-    "day": 81,
+    "day": 95,
+    "psalm": 81,
+    "part": 1,
+    "parts": 1,
     "theme": "A voz que liberta também continua chamando para escutar",
     "date": "Salmo 81",
     "verse": {
@@ -7940,7 +8702,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: a voz que liberta também continua chamando para escutar. Amém."
   },
   {
-    "day": 82,
+    "day": 96,
+    "psalm": 82,
+    "part": 1,
+    "parts": 1,
     "theme": "Deus leva a sério a justiça de quem governa",
     "date": "Salmo 82",
     "verse": {
@@ -8006,7 +8771,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: deus leva a sério a justiça de quem governa. Amém."
   },
   {
-    "day": 83,
+    "day": 97,
+    "psalm": 83,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando muitos se unem contra você, sua oração ainda pode recusar o pânico",
     "date": "Salmo 83",
     "verse": {
@@ -8112,7 +8880,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando muitos se unem contra você, sua oração ainda pode recusar o pânico. Amém."
   },
   {
-    "day": 84,
+    "day": 98,
+    "psalm": 84,
+    "part": 1,
+    "parts": 1,
     "theme": "Sentir saudade da presença de Deus também é uma forma de amor",
     "date": "Salmo 84",
     "verse": {
@@ -8194,7 +8965,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: sentir saudade da presença de Deus também é uma forma de amor. Amém."
   },
   {
-    "day": 85,
+    "day": 99,
+    "psalm": 85,
+    "part": 1,
+    "parts": 1,
     "theme": "Misericórdia e verdade não precisam disputar espaço",
     "date": "Salmo 85",
     "verse": {
@@ -8280,7 +9054,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: misericórdia e verdade não precisam disputar espaço. Amém."
   },
   {
-    "day": 86,
+    "day": 100,
+    "psalm": 86,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode pedir um coração inteiro quando se sente dividido",
     "date": "Salmo 86",
     "verse": {
@@ -8382,7 +9159,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode pedir um coração inteiro quando se sente dividido. Amém."
   },
   {
-    "day": 87,
+    "day": 101,
+    "psalm": 87,
+    "part": 1,
+    "parts": 1,
     "theme": "Pertencer a Deus pode incluir pessoas que você nunca imaginou no mesmo mapa",
     "date": "Salmo 87",
     "verse": {
@@ -8444,7 +9224,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe minha vida como ela está e transforma este salmo em conversa verdadeira contigo. Faz viver em mim esta verdade: pertencer a Deus pode incluir pessoas que você nunca imaginou no mesmo mapa. Amém."
   },
   {
-    "day": 88,
+    "day": 102,
+    "psalm": 88,
+    "part": 1,
+    "parts": 1,
     "theme": "Há noites que terminam sem solução — e ainda assim a oração pode permanecer",
     "date": "Salmo 88",
     "verse": {
@@ -8550,23 +9333,26 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, eu te falo também da escuridão. Quando não consigo enxergar saída, sustenta-me por meio da tua presença e de pessoas capazes de caminhar comigo. Amém."
   },
   {
-    "day": 89,
-    "theme": "Quando uma promessa parece quebrada, você pode lembrar Deus dela sem medo",
-    "date": "Salmo 89",
+    "day": 103,
+    "psalm": 89,
+    "part": 1,
+    "parts": 3,
+    "theme": "Cantar o amor leal mesmo antes de entender tudo",
+    "date": "Salmo 89 · 1–18",
     "verse": {
-      "text": "Ore e leia o Salmo 89 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 89"
+      "text": "Cantarei para sempre o amor do Senhor; com minha boca anunciarei a tua fidelidade por todas as gerações.",
+      "ref": "Salmo 89.1"
     },
     "word": {
       "original": "חֶסֶד",
       "translit": "hesed",
       "lang": "hebraico",
       "meaning": "amor leal",
-      "note": "No arquivo, hesed aparece com o sentido de “amor leal”. Neste salmo, essa palavra pode ser recebida como uma lente para medo, ausência sentida e clamor: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que quando uma promessa parece quebrada, você pode lembrar Deus dela sem medo."
+      "note": "Hesed abre o salmo: “Cantarei para sempre o amor do Senhor”. É a palavra que sustenta todo o poema."
     },
-    "context": "O Salmo 89 atravessa medo, ausência sentida e clamor e usa imagens como escudo e rocha para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que quando uma promessa parece quebrada, você pode lembrar Deus dela sem medo.",
+    "context": "O Salmo 89 encerra o Livro III e é um dos mais tensos do Saltério. A abertura é louvor: o amor e a fidelidade de Deus estão firmados para sempre, como os céus, e ele fez aliança com Davi. Mas a última parte do salmo virá em lamento. A primeira é a base da qual o lamento vai reclamar.",
     "passage": {
-      "ref": "Salmo 89 · capítulo completo (NVI)",
+      "ref": "Salmo 89 · versículos 1–18 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -8639,7 +9425,44 @@ window.SALMOS_CARTA = [
         {
           "n": 18,
           "text": "Sim, Senhor, tu és o nosso escudo, ó Santo de Israel, tu és o nosso rei."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "Começar por louvor antes de reclamar dá um ponto de apoio: o que Deus prometeu vale mais que o que vemos.",
+      "A criação (mar, céus, Norte e Sul) é lembrada como sinal de que Deus tem poder e ordem, e que não perde o controle.",
+      "“Feliz o povo que aprendeu a aclamar-te” (v. 15): a alegria vem de conhecer o som do louvor e andar na luz do rosto de Deus."
+    ],
+    "questions": [
+      "O que sustenta o seu louvor quando o presente é difícil?",
+      "Em que você vê a ordem e a fidelidade de Deus na criação?",
+      "Como seria cantar o amor de Deus “por todas as gerações”?"
+    ],
+    "application": "Cante ou leia em voz alta o verso 1 pela manhã e à noite.",
+    "prayer": "Senhor, cantarei para sempre o teu amor. Sustenta a minha confiança na tua fidelidade. Amém."
+  },
+  {
+    "day": 104,
+    "psalm": 89,
+    "part": 2,
+    "parts": 3,
+    "theme": "A palavra que Deus jurou",
+    "date": "Salmo 89 · 19–37",
+    "verse": {
+      "text": "A minha fidelidade e o meu amor o acompanharão, e pelo meu nome aumentará o seu poder.",
+      "ref": "Salmo 89.24"
+    },
+    "word": {
+      "original": "אֱמוּנָה",
+      "translit": "emunah",
+      "lang": "hebraico",
+      "meaning": "fidelidade",
+      "note": "Emunah é fidelidade firme. O verso 24 diz: “A minha fidelidade e o meu amor o acompanharão”."
+    },
+    "context": "O oráculo a Davi ocupa o centro do salmo: Deus escolheu, ungiu, fortaleceu e prometeu que a linhagem dele permaneceria. Mesmo que os descendentes falhem, Deus diz: “Manterei o meu amor por ele para sempre”. Os cristãos leem nesta promessa a expectativa do Rei que vem de Davi.",
+    "passage": {
+      "ref": "Salmo 89 · versículos 19–37 (NVI)",
+      "verses": [
         {
           "n": 19,
           "text": "Numa visão falaste um dia, e aos teus fiéis disseste: \"Cobri de forças um guerreiro, exaltei um homem escolhido dentre o povo."
@@ -8715,7 +9538,44 @@ window.SALMOS_CARTA = [
         {
           "n": 37,
           "text": "e será estabelecido para sempre como a lua, a fiel testemunha no céu\". Pausa"
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "A promessa é ancorada em Deus, não no rei: “eu o achei”, “eu o ungi”. A confiança de Davi repousa na iniciativa divina.",
+      "Deus antecipa a falha dos filhos e mesmo assim promete fidelidade. Disciplina não é o mesmo que abandono.",
+      "“Não violarei a minha aliança” (v. 34): este é o verso a que o lamento, logo adiante, vai recorrer."
+    ],
+    "questions": [
+      "Que promessa de Deus você tem guardado no coração?",
+      "O que significa saber que a fidelidade de Deus não depende da sua?",
+      "Como a disciplina de Deus difere do abandono?"
+    ],
+    "application": "Escolha uma promessa de Deus e coloque-a onde você a veja hoje.",
+    "prayer": "Senhor, tu és fiel à tua aliança. Guarda-me nela mesmo quando eu falhar. Amém."
+  },
+  {
+    "day": 105,
+    "psalm": 89,
+    "part": 3,
+    "parts": 3,
+    "theme": "Lembra-te, Senhor",
+    "date": "Salmo 89 · 38–52",
+    "verse": {
+      "text": "Ó Senhor, onde está o teu antigo amor, que com fidelidade juraste a Davi?",
+      "ref": "Salmo 89.49"
+    },
+    "word": {
+      "original": "זָכַר",
+      "translit": "zakar",
+      "lang": "hebraico",
+      "meaning": "lembrar, trazer à memória",
+      "note": "Zakar, lembrar: o salmo pede que Deus se lembre (v. 47, 50), e a memória de Deus é ação."
+    },
+    "context": "A virada é abrupta: “Mas tu o rejeitaste”. A coroa foi jogada no pó e os muros caíram. O salmista pergunta “até quando?” e “onde está o teu antigo amor?”. Este é o fim do Livro III sem consolo imediato; só o verso 52, uma doxologia curta que marca o fim do livro: “Bendito seja o Senhor para sempre!”.",
+    "passage": {
+      "ref": "Salmo 89 · versículos 38–52 (NVI)",
+      "verses": [
         {
           "n": 38,
           "text": "Mas tu o rejeitaste, recusaste-o e te enfureceste com o teu ungido."
@@ -8779,20 +9639,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Este salmo dá espaço para uma verdade que o coração nem sempre consegue dizer em voz alta: quando uma promessa parece quebrada, você pode lembrar Deus dela sem medo.",
-      "As imagens de escudo e rocha lembram que a fé bíblica não acontece fora da vida real; ela atravessa medo, ausência sentida e clamor.",
-      "Você não precisa terminar a oração exatamente como começou. O próprio salmo mostra que o salmista leva sua dor a Deus sem precisar maquiá-la."
+      "O salmo tem coragem de citar as promessas de Deus de volta a ele. A oração não é só aceitar, é também argumentar com base no que Deus disse.",
+      "Ele não “fecha” a tensão. Há salmos que terminam na pergunta, e eles têm lugar na Escritura.",
+      "A doxologia do verso 52 não resolve o problema, mas afirma que o louvor continua. É louvor sem tudo entendido."
     ],
     "questions": [
-      "Que parte da sua dor você ainda tenta deixar do lado de fora da oração?",
-      "O que muda quando você fala com Deus antes de tentar explicar tudo?",
-      "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
+      "Que promessa de Deus parece não se cumprir na sua vida?",
+      "Você tem coragem de lembrar a Deus o que ele prometeu?",
+      "Como louvar mesmo com a pergunta aberta?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando uma promessa parece quebrada, você pode lembrar Deus dela sem medo. Amém."
+    "application": "Reze a pergunta “onde está…?” e depois termine com o verso 52.",
+    "prayer": "Lembra-te, Senhor, do teu amor. E mesmo assim, bendito seja o teu nome para sempre. Amém e amém."
   },
   {
-    "day": 90,
+    "day": 106,
+    "psalm": 90,
+    "part": 1,
+    "parts": 1,
     "theme": "Contar os dias não é pessimismo; é aprender a investir a vida com sabedoria",
     "date": "Salmo 90",
     "verse": {
@@ -8894,7 +9757,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: contar os dias não é pessimismo; é aprender a investir a vida com sabedoria. Amém."
   },
   {
-    "day": 91,
+    "day": 107,
+    "psalm": 91,
+    "part": 1,
+    "parts": 1,
     "theme": "Refúgio não significa que nada ruim tocará você; significa que você não atravessa sozinho",
     "date": "Salmo 91",
     "verse": {
@@ -8992,7 +9858,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: refúgio não significa que nada ruim tocará você; significa que você não atravessa sozinho. Amém."
   },
   {
-    "day": 92,
+    "day": 108,
+    "psalm": 92,
+    "part": 1,
+    "parts": 1,
     "theme": "Há fidelidade que continua florescendo mesmo quando ninguém aplaude",
     "date": "Salmo 92",
     "verse": {
@@ -9086,7 +9955,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: há fidelidade que continua florescendo mesmo quando ninguém aplaude. Amém."
   },
   {
-    "day": 93,
+    "day": 109,
+    "psalm": 93,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando as águas levantam a voz, Deus continua acima delas",
     "date": "Salmo 93",
     "verse": {
@@ -9140,7 +10012,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: quando as águas levantam a voz, Deus continua acima delas. Amém."
   },
   {
-    "day": 94,
+    "day": 110,
+    "psalm": 94,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode desejar justiça sem entregar o coração à vingança",
     "date": "Salmo 94",
     "verse": {
@@ -9266,7 +10141,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: você pode desejar justiça sem entregar o coração à vingança. Amém."
   },
   {
-    "day": 95,
+    "day": 111,
+    "psalm": 95,
+    "part": 1,
+    "parts": 1,
     "theme": "Adoração também é não endurecer o coração depois de ouvir",
     "date": "Salmo 95",
     "verse": {
@@ -9344,7 +10222,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: adoração também é não endurecer o coração depois de ouvir. Amém."
   },
   {
-    "day": 96,
+    "day": 112,
+    "psalm": 96,
+    "part": 1,
+    "parts": 1,
     "theme": "O louvor fica maior quando inclui as nações e a criação",
     "date": "Salmo 96",
     "verse": {
@@ -9430,7 +10311,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: o louvor fica maior quando inclui as nações e a criação. Amém."
   },
   {
-    "day": 97,
+    "day": 113,
+    "psalm": 97,
+    "part": 1,
+    "parts": 1,
     "theme": "A alegria dos justos não precisa vir da queda de alguém, mas da presença de Deus",
     "date": "Salmo 97",
     "verse": {
@@ -9512,7 +10396,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: a alegria dos justos não precisa vir da queda de alguém, mas da presença de Deus. Amém."
   },
   {
-    "day": 98,
+    "day": 114,
+    "psalm": 98,
+    "part": 1,
+    "parts": 1,
     "theme": "Deus pode fazer uma coisa nova diante de quem já perdeu expectativa",
     "date": "Salmo 98",
     "verse": {
@@ -9582,7 +10469,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: deus pode fazer uma coisa nova diante de quem já perdeu expectativa. Amém."
   },
   {
-    "day": 99,
+    "day": 115,
+    "psalm": 99,
+    "part": 1,
+    "parts": 1,
     "theme": "Santidade e misericórdia podem habitar no mesmo trono",
     "date": "Salmo 99",
     "verse": {
@@ -9652,7 +10542,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: santidade e misericórdia podem habitar no mesmo trono. Amém."
   },
   {
-    "day": 100,
+    "day": 116,
+    "psalm": 100,
+    "part": 1,
+    "parts": 1,
     "theme": "Gratidão começa quando você percebe de quem realmente é",
     "date": "Salmo 100",
     "verse": {
@@ -9706,7 +10599,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: gratidão começa quando você percebe de quem realmente é. Amém."
   },
   {
-    "day": 101,
+    "day": 117,
+    "psalm": 101,
+    "part": 1,
+    "parts": 1,
     "theme": "Integridade pública começa nas decisões privadas",
     "date": "Salmo 101",
     "verse": {
@@ -9772,23 +10668,26 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: integridade pública começa nas decisões privadas. Amém."
   },
   {
-    "day": 102,
-    "theme": "Uma oração cansada ainda é oração",
-    "date": "Salmo 102",
+    "day": 118,
+    "psalm": 102,
+    "part": 1,
+    "parts": 2,
+    "theme": "Quando a vida parece se desfazer",
+    "date": "Salmo 102 · 1–11",
     "verse": {
-      "text": "Ore e leia o Salmo 102 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 102"
+      "text": "Ouve a minha oração, Senhor! Chegue a ti o meu grito de socorro!",
+      "ref": "Salmo 102.1"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "שָׁמַע",
+      "translit": "shamá‘",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "No arquivo, batach aparece com o sentido de “confiar, apoiar-se em Deus”. Neste salmo, essa palavra pode ser recebida como uma lente para medo, ausência sentida e clamor: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que uma oração cansada ainda é oração."
+      "meaning": "ouvir, escutar",
+      "note": "Shamá‘, ouvir: “Ouve a minha oração, Senhor!”. O salmo começa pedindo ser ouvido."
     },
-    "context": "O Salmo 102 atravessa medo, ausência sentida e clamor e usa imagens como mar e lágrimas para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que uma oração cansada ainda é oração.",
+    "context": "O Salmo 102 é uma oração de aflição. O salmista descreve dias que somem como fumaça, ossos ardendo, insônia e solidão, como pássaro solitário no telhado. Nada é embelezado: perde o apetite, come cinzas, sente-se como sombra que se alonga.",
     "passage": {
-      "ref": "Salmo 102 · capítulo completo (NVI)",
+      "ref": "Salmo 102 · versículos 1–11 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -9833,7 +10732,44 @@ window.SALMOS_CARTA = [
         {
           "n": 11,
           "text": "Meus dias são como sombras crescentes; sou como a relva que vai murchando."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O título do salmo é honesto: oração de um aflito que desfalece e derrama diante do Senhor a sua queixa. Deus quer receber queixas inteiras.",
+      "As imagens (fumaça, cinzas, pássaro só) descrevem depressão e solidão com precisão. Não é falta de fé descrever assim.",
+      "O primeiro pedido é simples: “não escondas de mim o teu rosto”. Sentir-se visto por Deus é já um início de alívio."
+    ],
+    "questions": [
+      "Que imagem descreve como você está hoje?",
+      "Há alguém a quem você pode contar sem fingir?",
+      "O que significa pedir que Deus não esconda o rosto?"
+    ],
+    "application": "Se estiver cansado, escreva a sua “fumaça” em poucas palavras e ore com elas. Se houver sofrimento intenso, procure ajuda.",
+    "prayer": "Ouve, Senhor, a minha oração. Não escondas o rosto de mim no dia da minha angústia. Amém."
+  },
+  {
+    "day": 119,
+    "psalm": 102,
+    "part": 2,
+    "parts": 2,
+    "theme": "Tudo passa, mas ele continua",
+    "date": "Salmo 102 · 12–28",
+    "verse": {
+      "text": "Mas tu permaneces o mesmo, e os teus dias jamais terão fim.",
+      "ref": "Salmo 102.27"
+    },
+    "word": {
+      "original": "זָכַר",
+      "translit": "zakar",
+      "lang": "hebraico",
+      "meaning": "lembrar, trazer à memória",
+      "note": "Zakar, lembrar: o nome de Deus é lembrado “de geração em geração” (v. 12), diferentemente dos dias humanos."
+    },
+    "context": "A virada acontece com um “Tu, porém, Senhor”: Deus reina para sempre, terá compaixão de Sião, e o seu nome será lembrado. A criação envelhece como roupa, mas ele permanece. O texto é retomado em Hebreus 1 em referência a Cristo.",
+    "passage": {
+      "ref": "Salmo 102 · versículos 12–28 (NVI)",
+      "verses": [
         {
           "n": 12,
           "text": "Tu, porém, Senhor, no trono reinarás para sempre; o teu nome será lembrado de geração em geração."
@@ -9905,20 +10841,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Talvez você precise ouvir isto devagar hoje: uma oração cansada ainda é oração.",
-      "O salmo usa imagens como mar e lágrimas para colocar sentimentos concretos diante de Deus, sem transformar vulnerabilidade em fracasso.",
-      "Há movimento dentro da oração: o salmista leva sua dor a Deus sem precisar maquiá-la. Essa mudança pode ser pequena, mas já é caminho."
+      "O contraste entre meus dias que somem e um Deus que permanece não elimina a dor, mas a coloca num quadro maior: sua vida está nas mãos de quem não passa.",
+      "O verso 17 diz que Deus atende a oração dos desamparados e não a despreza. Sua oração fraca conta.",
+      "O verso 28 abre para a próxima geração: “Os filhos dos teus servos terão uma habitação”. A esperança se estende além do eu."
     ],
     "questions": [
-      "Que parte da sua dor você ainda tenta deixar do lado de fora da oração?",
-      "O que muda quando você fala com Deus antes de tentar explicar tudo?",
-      "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
+      "O que você desejaria que permanecesse quando tudo passa?",
+      "Como o Deus que não muda lhe dá segurança?",
+      "Que esperança você gostaria de deixar às próximas gerações?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: uma oração cansada ainda é oração. Amém."
+    "application": "Leia o verso 27 diante de algo que está mudando na sua vida e agradeça pela constância de Deus.",
+    "prayer": "Senhor, tu permaneces o mesmo. Guarda-me na tua constância e faz dos meus dias uma oferta a ti. Amém."
   },
   {
-    "day": 103,
+    "day": 120,
+    "psalm": 103,
+    "part": 1,
+    "parts": 1,
     "theme": "Não se esqueça dos benefícios quando sua memória só quer guardar as feridas",
     "date": "Salmo 103",
     "verse": {
@@ -10040,23 +10979,26 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: não se esqueça dos benefícios quando sua memória só quer guardar as feridas. Amém."
   },
   {
-    "day": 104,
-    "theme": "A criação não é cenário descartável; ela é casa cheia de sabedoria",
-    "date": "Salmo 104",
+    "day": 121,
+    "psalm": 104,
+    "part": 1,
+    "parts": 2,
+    "theme": "Bendize, ó minha alma",
+    "date": "Salmo 104 · 1–18",
     "verse": {
-      "text": "Ore e leia o Salmo 104 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 104"
+      "text": "Bendiga ao Senhor a minha alma! Ó Senhor, meu Deus, tu és tão grandioso! Estás vestido de majestade e esplendor!",
+      "ref": "Salmo 104.1"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "נֶפֶשׁ",
+      "translit": "nefesh",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "No arquivo, batach aparece com o sentido de “confiar, apoiar-se em Deus”. Neste salmo, essa palavra pode ser recebida como uma lente para admiração, criação e grandeza de Deus: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que a criação não é cenário descartável; ela é casa cheia de sabedoria."
+      "meaning": "vida, pessoa inteira",
+      "note": "Nefesh: “Bendiga ao Senhor a minha alma”. O salmista convoca o seu ser inteiro a louvar."
     },
-    "context": "O Salmo 104 atravessa admiração, criação e grandeza de Deus e usa imagens como árvore e luz para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que a criação não é cenário descartável; ela é casa cheia de sabedoria.",
+    "context": "O Salmo 104 é um poema da criação. Deus veste-se de luz, estende os céus como tenda, faz nuvens de carruagem e ventos de mensageiros. Ele estabelece a terra, faz brotar fontes nos vales e dá de beber a todos os animais. Cada criatura tem seu lugar.",
     "passage": {
-      "ref": "Salmo 104 · capítulo completo (NVI)",
+      "ref": "Salmo 104 · versículos 1–18 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -10129,7 +11071,44 @@ window.SALMOS_CARTA = [
         {
           "n": 18,
           "text": "Os montes elevados pertencem aos bodes selvagens, e os penhascos são um refúgio para os coelhos."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O salmo começa com a alma sendo convocada. Antes de olhar a natureza, ele prepara o coração.",
+      "A criação aparece como casa provida: água, pasto, árvores para as aves, montes para as cabras. Tudo tem lugar, inclusive você.",
+      "Contemplar a criação não é substituto de Deus, é caminho até ele. A beleza é convite."
+    ],
+    "questions": [
+      "O que na criação faz você louvar a Deus?",
+      "Como cuidar do que Deus provê para todos?",
+      "Que “lugar” você tem recebido de Deus?"
+    ],
+    "application": "Passe alguns minutos ao ar livre observando algo criado e agradeça por ele.",
+    "prayer": "Bendiz ao Senhor, ó minha alma! Que eu veja a tua mão nas tuas obras e cuide do que me confiaste. Amém."
+  },
+  {
+    "day": 122,
+    "psalm": 104,
+    "part": 2,
+    "parts": 2,
+    "theme": "Quando ele sopra o seu fôlego, tudo é criado",
+    "date": "Salmo 104 · 19–35",
+    "verse": {
+      "text": "Quando sopras o teu fôlego, eles são criados, e renovas a face da terra.",
+      "ref": "Salmo 104.30"
+    },
+    "word": {
+      "original": "רוּחַ",
+      "translit": "ruach",
+      "lang": "hebraico",
+      "meaning": "sopro, espírito",
+      "note": "Ruach: sopro, fôlego. “Quando sopras o teu fôlego, eles são criados”: o sopro de Deus sustenta e renova a vida."
+    },
+    "context": "O poema continua: a lua marca as estações, o sol traça o dia, os leões buscam alimento. O ser humano sai para o trabalho. O mar abriga o Leviatã. Todos dependem de Deus para o alimento. O verso 29-30 trata da respiração: quando ele retira o fôlego, morrem; quando sopra o seu fôlego (ruach), são criados. O verso 35 tem um pedido de que o mal desapareça.",
+    "passage": {
+      "ref": "Salmo 104 · versículos 19–35 (NVI)",
+      "verses": [
         {
           "n": 19,
           "text": "Ele fez a lua para marcar estações; o sol sabe quando deve se pôr."
@@ -10201,36 +11180,39 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Uma das dádivas deste salmo é lembrar que a criação não é cenário descartável; ela é casa cheia de sabedoria.",
-      "Entre árvore e luz, aparece uma fé que conversa com Deus dentro de admiração, criação e grandeza de Deus, não apenas depois que tudo passa.",
-      "Talvez hoje a resposta não seja resolver o cenário, mas permitir que a oração se abre para além dos próprios problemas e aprende a contemplar."
+      "A dependência é de todos: “Todos eles esperam em ti”. Não há criatura autossuficiente.",
+      "“Quando sopras o teu fôlego, eles são criados, e renovas a face da terra.” A renovação é obra contínua de Deus.",
+      "O salmista pede: “Perdure para sempre a glória do Senhor!”. Ele quer que sua própria meditação seja agradável a Deus."
     ],
     "questions": [
-      "O que neste salmo amplia seu olhar para além dos próprios problemas?",
-      "Que aspecto do caráter de Deus desperta admiração em você hoje?",
-      "Como sua gratidão pode ganhar uma forma concreta?"
+      "De que você depende sem perceber?",
+      "O que precisa ser renovado em você pelo Espírito?",
+      "Como sua meditação hoje pode agradar a Deus?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a criação não é cenário descartável; ela é casa cheia de sabedoria. Amém."
+    "application": "Respire lentamente três vezes, agradecendo o fôlego que Deus concede.",
+    "prayer": "Senhor, tu sustentas todas as coisas. Envia o teu Espírito e renova a minha vida e a face da terra. Amém."
   },
   {
-    "day": 105,
-    "theme": "Recontar a história pode impedir que você atribua tudo ao acaso",
-    "date": "Salmo 105",
+    "day": 123,
+    "psalm": 105,
+    "part": 1,
+    "parts": 3,
+    "theme": "Ele se lembra da sua aliança para sempre",
+    "date": "Salmo 105 · 1–15",
     "verse": {
-      "text": "Ore e leia o Salmo 105 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 105"
+      "text": "Ele se lembra para sempre da sua aliança, por mil gerações, da palavra que ordenou,",
+      "ref": "Salmo 105.8"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "זָכַר",
+      "translit": "zakar",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "No arquivo, batach aparece com o sentido de “confiar, apoiar-se em Deus”. Neste salmo, essa palavra pode ser recebida como uma lente para admiração, criação e grandeza de Deus: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que recontar a história pode impedir que você atribua tudo ao acaso."
+      "meaning": "lembrar, trazer à memória",
+      "note": "Zakar: “ele se lembra para sempre da sua aliança” (v. 8). Lembrar, em Deus, é agir por fidelidade."
     },
-    "context": "O Salmo 105 atravessa admiração, criação e grandeza de Deus e usa imagens como árvore e rocha para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que recontar a história pode impedir que você atribua tudo ao acaso.",
+    "context": "O Salmo 105 recapitula a história desde os patriarcas, com o tom de gratidão (em contraste com o 106, que recorda os fracassos). A abertura convida a dar graças, cantar e buscar o Senhor. O núcleo é a aliança feita com Abraão, Isaque e Jacó, protegida enquanto eram poucos e peregrinos.",
     "passage": {
-      "ref": "Salmo 105 · capítulo completo (NVI)",
+      "ref": "Salmo 105 · versículos 1–15 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -10291,7 +11273,44 @@ window.SALMOS_CARTA = [
         {
           "n": 15,
           "text": "\"Não toquem nos meus ungidos; não maltratem os meus profetas\"."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "A gratidão começa como convite ativo: deem graças, invoquem, cantem, contem. É um verbo, não um sentimento passivo.",
+      "“busquem sempre a sua presença”: a fé é uma busca continuada, não uma conquista final.",
+      "Deus protegeu os patriarcas quando eram poucos e estrangeiros. A vulnerabilidade não impediu o cuidado dele."
+    ],
+    "questions": [
+      "Que fase de fragilidade você viveu e em que Deus a protegeu?",
+      "O que significa buscar “sempre a sua presença”?",
+      "Como manter a gratidão como hábito?"
+    ],
+    "application": "Escreva três motivos de gratidão e leia-os em voz alta.",
+    "prayer": "Senhor, tu te lembras da tua aliança para sempre. Ensina-me a agradecer e a buscar o teu rosto. Amém."
+  },
+  {
+    "day": 124,
+    "psalm": 105,
+    "part": 2,
+    "parts": 3,
+    "theme": "Deus vai adiante de você, mesmo por caminhos difíceis",
+    "date": "Salmo 105 · 16–36",
+    "verse": {
+      "text": "até cumprir-se a sua predição, e a palavra do Senhor confirmar o que dissera.",
+      "ref": "Salmo 105.19"
+    },
+    "word": {
+      "original": "דָּבָר",
+      "translit": "dabar",
+      "lang": "hebraico",
+      "meaning": "palavra",
+      "note": "Dabar, palavra: a palavra do Senhor confirmou o que havia dito sobre José (v. 19)."
+    },
+    "context": "Deus manda fome, envia José, vendido como escravo, com grilhões. Até que se cumpre o que Deus dissera e a palavra do Senhor o confirma. Depois, Moisés e Arão realizam sinais, as pragas caem sobre o Egito e Israel sai com prata e ouro. O trecho relembra o Egito como cenário de libertação.",
+    "passage": {
+      "ref": "Salmo 105 · versículos 16–36 (NVI)",
+      "verses": [
         {
           "n": 16,
           "text": "Ele mandou vir fome sobre a terra e destruiu todo o seu sustento;"
@@ -10375,7 +11394,44 @@ window.SALMOS_CARTA = [
         {
           "n": 36,
           "text": "Depois matou todos os primogênitos da terra deles, todas as primícias da virilidade deles."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O verso 17 diz: “enviou um homem adiante deles”. Deus estava adiante de José, mesmo na cova e na prisão.",
+      "A palavra de Deus “confirmou o que dissera”: o tempo de espera moldou José. Nem sempre entendemos por que passamos por certos caminhos.",
+      "A libertação do Egito é apresentada como ato de graça. O povo sai enriquecido e sem fraqueza (v. 37)."
+    ],
+    "questions": [
+      "Onde você sente que passou por uma “cova” e Deus estava adiante?",
+      "Que palavra de Deus tem provado você?",
+      "Como confiar quando os caminhos parecem ao contrário?"
+    ],
+    "application": "Releia um período difícil da sua vida procurando sinais de que Deus estava preparando algo.",
+    "prayer": "Senhor, tu foste adiante de mim mesmo quando eu não via. Prova-me e sustenta-me com a tua palavra. Amém."
+  },
+  {
+    "day": 125,
+    "psalm": 105,
+    "part": 3,
+    "parts": 3,
+    "theme": "Ele libertou para que vivamos em obediência alegre",
+    "date": "Salmo 105 · 37–45",
+    "verse": {
+      "text": "para que obedecessem aos seus decretos e guardassem as suas leis. Aleluia!",
+      "ref": "Salmo 105.45"
+    },
+    "word": {
+      "original": "תּוֹרָה",
+      "translit": "torah",
+      "lang": "hebraico",
+      "meaning": "instrução, ensino",
+      "note": "Torah, instrução: o objetivo final da libertação é que guardem os seus preceitos (v. 45)."
+    },
+    "context": "Deus guia o povo no deserto com nuvem e fogo, dá pão do céu, água da rocha, “Pois ele se lembrou da santa promessa que fizera ao seu servo Abraão”. Entrega as terras das nações. O fim: “para que obedecessem aos seus decretos e guardassem as suas leis. Aleluia!” A lei é o propósito da graça, não um preço.",
+    "passage": {
+      "ref": "Salmo 105 · versículos 37–45 (NVI)",
+      "verses": [
         {
           "n": 37,
           "text": "Ele tirou de lá Israel, que saiu cheio de prata e ouro. Não havia em suas tribos quem fraquejasse."
@@ -10415,36 +11471,39 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Este salmo dá espaço para uma verdade que o coração nem sempre consegue dizer em voz alta: recontar a história pode impedir que você atribua tudo ao acaso.",
-      "As imagens de árvore e rocha lembram que a fé bíblica não acontece fora da vida real; ela atravessa admiração, criação e grandeza de Deus.",
-      "Você não precisa terminar a oração exatamente como começou. O próprio salmo mostra que a oração se abre para além dos próprios problemas e aprende a contemplar."
+      "A libertação leva a uma vida ordenada: viver na lei de Deus é usar a liberdade para o bem.",
+      "Note que a lei vem depois da libertação. Deus salva primeiro, depois ensina como viver livre.",
+      "O salmo termina com “Aleluia”. Obedecer com gratidão é uma forma de louvor."
     ],
     "questions": [
-      "O que neste salmo amplia seu olhar para além dos próprios problemas?",
-      "Que aspecto do caráter de Deus desperta admiração em você hoje?",
-      "Como sua gratidão pode ganhar uma forma concreta?"
+      "Você vê a obediência como peso ou como resposta de gratidão?",
+      "Que “preceito” de Deus você precisa redescobrir?",
+      "Como a memória do que Deus fez muda a sua obediência?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: recontar a história pode impedir que você atribua tudo ao acaso. Amém."
+    "application": "Escolha um mandamento simples (por exemplo, amar o próximo) e pratique-o hoje intencionalmente.",
+    "prayer": "Senhor, libertaste-me para viver contigo. Ensina-me a guardar os teus preceitos com alegria. Aleluia! Amém."
   },
   {
-    "day": 106,
-    "theme": "Confessar a falha coletiva é uma forma de interromper ciclos antigos",
-    "date": "Salmo 106",
+    "day": 126,
+    "psalm": 106,
+    "part": 1,
+    "parts": 3,
+    "theme": "Confessar junto com quem veio antes",
+    "date": "Salmo 106 · 1–12",
     "verse": {
-      "text": "Ore e leia o Salmo 106 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 106"
+      "text": "Pecamos como os nossos antepassados; fizemos o mal e fomos rebeldes.",
+      "ref": "Salmo 106.6"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "חֶסֶד",
+      "translit": "hesed",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "No arquivo, batach aparece com o sentido de “confiar, apoiar-se em Deus”. Neste salmo, essa palavra pode ser recebida como uma lente para culpa, verdade interior e restauração: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que confessar a falha coletiva é uma forma de interromper ciclos antigos."
+      "meaning": "amor leal",
+      "note": "Hesed abre o salmo (“o seu amor dura para sempre”) e sustenta a confissão: a esperança está no amor de Deus, não na retidão do povo."
     },
-    "context": "O Salmo 106 atravessa culpa, verdade interior e restauração e usa imagens como águas e água para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que confessar a falha coletiva é uma forma de interromper ciclos antigos.",
+    "context": "O Salmo 106, o espelho do 105, conta a mesma história pelos fracassos do povo. Começa com “Aleluia!” e o louvor ao amor leal de Deus. No verso 6 vem a confissão coletiva: “Pecamos como os nossos antepassados”. Recorda o Egito, onde os pais não entenderam as maravilhas, e o mar Vermelho, onde Deus os salvou “por causa do seu nome”.",
     "passage": {
-      "ref": "Salmo 106 · capítulo completo (NVI)",
+      "ref": "Salmo 106 · versículos 1–12 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -10493,7 +11552,44 @@ window.SALMOS_CARTA = [
         {
           "n": 12,
           "text": "Então creram nas suas promessas e a ele cantaram louvores."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "Confessar junto com os antepassados é uma forma de humildade: nossa história é parte de uma história maior de graça e falha.",
+      "Deus os salvou “por causa do seu nome” (v. 8): a salvação não vem do mérito do povo, mas do caráter de Deus.",
+      "O povo creu e cantou (v. 12), mas por pouco tempo. Não desanime com a curta memória: reconheça-a e volte."
+    ],
+    "questions": [
+      "Que padrões de falha você reconhece que vieram dos antepassados?",
+      "Como confessar sem afundar em culpa?",
+      "O que significa ser salvo “por causa do seu nome”?"
+    ],
+    "application": "Faça uma oração de confissão curta, começando com o verso 6, e receba o perdão.",
+    "prayer": "Senhor, pecamos. Salva-nos por causa do teu nome e do teu amor que dura para sempre. Amém."
+  },
+  {
+    "day": 127,
+    "psalm": 106,
+    "part": 2,
+    "parts": 3,
+    "theme": "Quando a memória é curta",
+    "date": "Salmo 106 · 13–33",
+    "verse": {
+      "text": "Mas logo se esqueceram do que ele tinha feito e não esperaram para saber o seu plano.",
+      "ref": "Salmo 106.13"
+    },
+    "word": {
+      "original": "זָכַר",
+      "translit": "zakar",
+      "lang": "hebraico",
+      "meaning": "lembrar, trazer à memória",
+      "note": "Zakar: “logo se esqueceram do que ele tinha feito” (v. 13). O oposto de lembrar não é ignorância, é ingratidão."
+    },
+    "context": "O salmo lista os episódios: a cobiça no deserto, a inveja de Moisés e Arão, o bezerro de ouro em Horebe e a rebelião em Meribá. Cada vez, o povo troca a glória de Deus por algo menor. Cada vez, a intercessão de Moisés (“intercedeu diante dele”, v. 23) faz diferença.",
+    "passage": {
+      "ref": "Salmo 106 · versículos 13–33 (NVI)",
+      "verses": [
         {
           "n": 13,
           "text": "Mas logo se esqueceram do que ele tinha feito e não esperaram para saber o seu plano."
@@ -10577,7 +11673,44 @@ window.SALMOS_CARTA = [
         {
           "n": 33,
           "text": "rebelaram-se contra o Espírito de Deus, e Moisés falou sem refletir."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "“Logo se esqueceram”: a ingratidão começa pequena. A memória precisa ser cultivada.",
+      "Moisés “intercedeu diante dele”. Intercessão é ficar entre as pessoas e a ruína. Em Cristo, vemos o intercessor maior.",
+      "Trocar a glória de Deus por algo que come capim (v. 20) é o retrato da idolatria: reduzir o infinito ao manejável."
+    ],
+    "questions": [
+      "O que você tende a esquecer com rapidez?",
+      "Por quem você pode interceder diante de Deus?",
+      "O que ocupa hoje o lugar da glória de Deus?"
+    ],
+    "application": "Interceda hoje por alguém que está se afastando, sem discursos, apenas com oração.",
+    "prayer": "Senhor, não me deixes esquecer as tuas obras. Faz-me intercessor fiel. Amém."
+  },
+  {
+    "day": 128,
+    "psalm": 106,
+    "part": 3,
+    "parts": 3,
+    "theme": "Ele viu a angústia e ouviu o clamor",
+    "date": "Salmo 106 · 34–48",
+    "verse": {
+      "text": "Lembrou-se da sua aliança com eles, e arrependeu-se, por causa do seu imenso amor leal.",
+      "ref": "Salmo 106.45"
+    },
+    "word": {
+      "original": "שָׁמַע",
+      "translit": "shamá‘",
+      "lang": "hebraico",
+      "meaning": "ouvir, escutar",
+      "note": "Shamá‘, ouvir: “ouviu o seu clamor” (v. 44). Ouvir, em Deus, leva à ação de compaixão."
+    },
+    "context": "O povo entra na terra e se mistura com as nações, adotando seus ídolos, com consequências trágicas, inclusive o sacrifício dos próprios filhos (v. 37-38). Deus disciplina, mas “atentou para o sofrimento deles quando ouviu o seu clamor. Lembrou-se da sua aliança com eles, e arrependeu-se, por causa do seu imenso amor leal”. Termina com pedido de reunião e a doxologia que fecha o Livro IV.",
+    "passage": {
+      "ref": "Salmo 106 · versículos 34–48 (NVI)",
+      "verses": [
         {
           "n": 34,
           "text": "Eles não destruíram os povos, como o Senhor tinha ordenado,"
@@ -10641,36 +11774,39 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Talvez você precise ouvir isto devagar hoje: confessar a falha coletiva é uma forma de interromper ciclos antigos.",
-      "O salmo usa imagens como águas e água para colocar sentimentos concretos diante de Deus, sem transformar vulnerabilidade em fracasso.",
-      "Há movimento dentro da oração: a oração nomeia o que precisa mudar sem transformar culpa em identidade permanente. Essa mudança pode ser pequena, mas já é caminho."
+      "A história é sombria. O salmo não a suaviza, mas mostra que a última palavra é da compaixão de Deus.",
+      "Ele “arrependeu-se, por causa do seu imenso amor leal” (v. 45): o movimento de Deus em direção à nossa ruína é compaixão.",
+      "O pedido final (“salva-nos, Senhor, nosso Deus”) é o que resta a um povo que reconheceu o seu fracasso."
     ],
     "questions": [
-      "O que precisa ser nomeado com verdade sem que você transforme o erro em identidade?",
-      "Existe alguma reparação ou pedido de perdão que já pode começar?",
-      "Como receber misericórdia sem usar graça como desculpa para permanecer igual?"
+      "Onde você viu Deus se compadecer depois de uma falha sua?",
+      "Que angústia você tem trazido a ele?",
+      "Como você poderia mostrar compaixão a quem falhou?"
     ],
-    "application": "Nomeie diante de Deus uma falha concreta e escolha uma atitude de reparação possível, sem usar vergonha como método de mudança.",
-    "prayer": "Deus de misericórdia, dá-me coragem para viver na verdade sem me destruir pela culpa. Faz viver em mim esta verdade: confessar a falha coletiva é uma forma de interromper ciclos antigos. Amém."
+    "application": "Ore o verso 47 (“Salva-nos, Senhor, nosso Deus”) por você e pelas pessoas ao seu redor.",
+    "prayer": "Salva-nos, Senhor, nosso Deus. Lembra-te da aliança e compadece-te de nós. Amém."
   },
   {
-    "day": 107,
-    "theme": "Há pessoas perdidas em desertos diferentes, mas o mesmo Deus sabe trazê-las para casa",
-    "date": "Salmo 107",
+    "day": 129,
+    "psalm": 107,
+    "part": 1,
+    "parts": 3,
+    "theme": "Ele os tirou das trevas",
+    "date": "Salmo 107 · 1–16",
     "verse": {
-      "text": "Ore e leia o Salmo 107 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 107"
+      "text": "Que eles dêem graças ao Senhor por seu amor leal e por suas maravilhas em favor dos homens,",
+      "ref": "Salmo 107.8"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חֶסֶד",
+      "translit": "hesed",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "No arquivo, shalom aparece com o sentido de “paz, inteireza”. Neste salmo, essa palavra pode ser recebida como uma lente para memória, livramento e resposta: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que há pessoas perdidas em desertos diferentes, mas o mesmo Deus sabe trazê-las para casa."
+      "meaning": "amor leal",
+      "note": "Hesed é o refrão do salmo: “agradeçam ao Senhor por seu amor leal” (v. 8, 15, 21, 31)."
     },
-    "context": "O Salmo 107 atravessa memória, livramento e resposta e usa imagens como águas e água para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que há pessoas perdidas em desertos diferentes, mas o mesmo Deus sabe trazê-las para casa.",
+    "context": "O Salmo 107 abre o Livro V. Os que o Senhor “resgatou” (v. 2) são reunidos de todos os cantos. Quatro cenas de aflição estão no salmo, cada uma com o mesmo padrão: aflição, clamor, livramento, gratidão. As duas primeiras: viajantes perdidos no deserto, e prisioneiros em trevas por se rebelarem contra a palavra de Deus.",
     "passage": {
-      "ref": "Salmo 107 · capítulo completo (NVI)",
+      "ref": "Salmo 107 · versículos 1–16 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -10735,7 +11871,44 @@ window.SALMOS_CARTA = [
         {
           "n": 16,
           "text": "porque despedaçou as portas de bronze e rompeu as trancas de ferro."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O padrão “clamaram ao Senhor, e ele os livrou” se repete. Deus é fiel ao clamor, seja qual for a causa da aflição.",
+      "Alguns sofrem por circunstâncias (deserto), outros pelas próprias escolhas (correntes). O clamor funciona nos dois casos.",
+      "O refrão “agradeçam” convida a transformar a experiência em gratidão pública."
+    ],
+    "questions": [
+      "Em que “deserto” ou “prisão” você já clamou?",
+      "Como Deus respondeu?",
+      "De quem você precisa agradecer publicamente?"
+    ],
+    "application": "Envie uma mensagem de gratidão a alguém que Deus usou para ajudá-lo.",
+    "prayer": "Senhor, tu me tiraste da aflição. Agradeço pelo teu amor leal e pelas tuas maravilhas. Amém."
+  },
+  {
+    "day": 130,
+    "psalm": 107,
+    "part": 2,
+    "parts": 3,
+    "theme": "Ele acalmou a tempestade",
+    "date": "Salmo 107 · 17–32",
+    "verse": {
+      "text": "Reduziu a tempestade a uma brisa e serenou as ondas.",
+      "ref": "Salmo 107.29"
+    },
+    "word": {
+      "original": "תּוֹדָה",
+      "translit": "todah",
+      "lang": "hebraico",
+      "meaning": "ação de graças",
+      "note": "Todah, ação de graças: o verso 22 pede “sacrifícios de ação de graças” como resposta a livramentos."
+    },
+    "context": "Terceira cena: os que adoeceram por seus caminhos e chegaram às portas da morte. Deus “enviou a sua palavra e os curou”. Quarta cena: marinheiros surpreendidos por tempestade; Deus “reduziu a tempestade a uma brisa”. O salmo termina o trecho com o chamado a exaltá-lo na assembleia.",
+    "passage": {
+      "ref": "Salmo 107 · versículos 17–32 (NVI)",
+      "verses": [
         {
           "n": 17,
           "text": "Tornaram-se tolos por causa dos seus caminhos rebeldes, e sofreram por causa das suas maldades."
@@ -10799,7 +11972,44 @@ window.SALMOS_CARTA = [
         {
           "n": 32,
           "text": "Que o exaltem na assembléia do povo e o louvem na reunião dos líderes."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "“Enviou a sua palavra e os curou”: a palavra de Deus tem força de cura. Não é fórmula, é presença.",
+      "O medo dos marinheiros é real: “perderam a coragem”. Deus não julga o medo, escuta o clamor.",
+      "A gratidão é dita na assembleia do povo (v. 32): o que Deus faz por um, edifica muitos."
+    ],
+    "questions": [
+      "Que tempestade você viu Deus acalmar?",
+      "Como agradecer sem esquecer?",
+      "Você tem contado seus livramentos à sua comunidade?"
+    ],
+    "application": "Compartilhe um livramento em seu grupo de oração ou família.",
+    "prayer": "Senhor, tu acalmas a tempestade. Recebe a minha gratidão e cura o que está doente em mim. Amém."
+  },
+  {
+    "day": 131,
+    "psalm": 107,
+    "part": 3,
+    "parts": 3,
+    "theme": "Ele transforma desertos em fontes",
+    "date": "Salmo 107 · 33–43",
+    "verse": {
+      "text": "Reflitam nisso os sábios e considerem a bondade do Senhor.",
+      "ref": "Salmo 107.43"
+    },
+    "word": {
+      "original": "חָכְמָה",
+      "translit": "chokmah",
+      "lang": "hebraico",
+      "meaning": "sabedoria",
+      "note": "Chokmah, sabedoria: o salmo termina convidando quem é sábio a considerar a bondade do Senhor."
+    },
+    "context": "O último trecho descreve a soberania de Deus sobre as reviravoltas: transforma rios em deserto e deserto em lagos, exalta os pobres e humilha os poderosos. O verso 43 é a conclusão: “Reflitam nisso os sábios e considerem a bondade do Senhor.”",
+    "passage": {
+      "ref": "Salmo 107 · versículos 33–43 (NVI)",
+      "verses": [
         {
           "n": 33,
           "text": "Ele transforma os rios em deserto e as fontes em terra seca,"
@@ -10847,20 +12057,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Este texto não exige que você chegue com tudo resolvido. Ele permite reconhecer que há pessoas perdidas em desertos diferentes, mas o mesmo Deus sabe trazê-las para casa.",
-      "Preste atenção em águas e água; o Saltério costuma ensinar através de imagens que podem permanecer quando faltam explicações.",
-      "Na Carta ao Coração, lembrar o que Deus fez se transforma em confiança para continuar. Você pode fazer o mesmo sem apressar o que ainda está doendo."
+      "Deus muda cenários. O que parece definitivo (deserto ou fartura) está sob a sua mão.",
+      "Ele “tira os pobres da miséria” (v. 41). A soberania de Deus se inclina aos pobres.",
+      "Sabedoria é observar e considerar. Uma vida atenta às ações de Deus aprende a confiar."
     ],
     "questions": [
-      "Que livramento ou cuidado você corre o risco de esquecer?",
-      "Quem participou dessa história e merece sua gratidão?",
-      "Como transformar memória em confiança para o próximo passo?"
+      "Que reviravolta você viu na sua vida que só Deus explica?",
+      "Como praticar a atenção às obras de Deus?",
+      "Quem hoje é levantado por Deus e precisa do seu apoio?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: há pessoas perdidas em desertos diferentes, mas o mesmo Deus sabe trazê-las para casa. Amém."
+    "application": "Ao fim do dia, anote onde viu a mão de Deus em ações pequenas.",
+    "prayer": "Senhor, dá-me sabedoria para observar as tuas obras e considerar a tua bondade. Amém."
   },
   {
-    "day": 108,
+    "day": 132,
+    "psalm": 108,
+    "part": 1,
+    "parts": 1,
     "theme": "Seu coração pode ficar firme antes que a batalha termine",
     "date": "Salmo 108",
     "verse": {
@@ -10946,23 +12159,26 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: seu coração pode ficar firme antes que a batalha termine. Amém."
   },
   {
-    "day": 109,
-    "theme": "Quando acusações ferem, entregue a causa a Deus sem transformar ódio em vocação",
-    "date": "Salmo 109",
+    "day": 133,
+    "psalm": 109,
+    "part": 1,
+    "parts": 2,
+    "theme": "Quando a única coisa que resta é orar",
+    "date": "Salmo 109 · 1–20",
     "verse": {
-      "text": "Ore e leia o Salmo 109 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 109"
+      "text": "Em troca da minha amizade eles me acusam, mas eu permaneço em oração.",
+      "ref": "Salmo 109.4"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "תְּפִלָּה",
+      "translit": "tefillah",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "No arquivo, shalom aparece com o sentido de “paz, inteireza”. Neste salmo, essa palavra pode ser recebida como uma lente para injustiça, indignação e desejo de reparação: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que quando acusações ferem, entregue a causa a Deus sem transformar ódio em vocação."
+      "meaning": "oração",
+      "note": "Tefillah, oração: “eu permaneço em oração” (v. 4). Em hebraico, literalmente, “eu [sou] oração”."
     },
-    "context": "O Salmo 109 nasce de acusações, hostilidade e desejo intenso de que o mal seja julgado. Algumas de suas frases são severas. Elas podem ser lidas como entrega da fúria a Deus, não como autorização para amaldiçoar, perseguir ou ferir pessoas.",
+    "context": "O Salmo 109 é um dos mais difíceis do Saltério. Davi é acusado com mentiras por quem ele havia amado. Os versos 6-19 trazem maldições pesadas, que muitos leitores entendem como as palavras dos acusadores citadas por Davi, e outros como o pedido dele. Em qualquer leitura, o texto entrega a justiça a Deus; não autoriza o cristão à vingança (Mt 5.44).",
     "passage": {
-      "ref": "Salmo 109 · capítulo completo (NVI)",
+      "ref": "Salmo 109 · versículos 1–20 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -11043,7 +12259,44 @@ window.SALMOS_CARTA = [
         {
           "n": 20,
           "text": "Assim retribua o Senhor aos meus acusadores, aos que me caluniam."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "Literalmente, “eu [sou] oração”: em meio ao ódio, a identidade do salmista se resume a orar. Talvez seja tudo que você tem hoje, e é suficiente.",
+      "A raiva bíblica é dirigida a Deus. O salmo mostra que é possível dizer o pior a Deus sem agir contra o outro.",
+      "Jesus, o maior orador de bênção sobre inimigos, dá a lente cristã: entregar o julgamento ao Pai e orar pelos que nos ferem."
+    ],
+    "questions": [
+      "Como você lida com raiva de quem lhe fez mal?",
+      "O que significa ser oração hoje?",
+      "Como abençoar quem o feriu sem negar a dor?"
+    ],
+    "application": "Escreva a raiva que você sente e entregue-a a Deus. Em seguida, ore por bênção sobre essa pessoa, mesmo que seja difícil.",
+    "prayer": "Senhor, tu ouves a minha raiva. Entrego-te a justiça e peço que me livres da vingança. Amém."
+  },
+  {
+    "day": 134,
+    "psalm": 109,
+    "part": 2,
+    "parts": 2,
+    "theme": "Ele se põe ao lado do pobre",
+    "date": "Salmo 109 · 21–31",
+    "verse": {
+      "text": "Socorro, Senhor, meu Deus! Salva-me pelo teu amor leal!",
+      "ref": "Salmo 109.26"
+    },
+    "word": {
+      "original": "חֶסֶד",
+      "translit": "hesed",
+      "lang": "hebraico",
+      "meaning": "amor leal",
+      "note": "Hesed: “Salva-me pelo teu amor leal!” (v. 26). O pedido do necessitado se apoia no amor fiel de Deus."
+    },
+    "context": "A segunda parte muda o tom: o salmista se descreve pobre, necessitado, com o coração ferido, definhando como sombra. Ele pede ajuda a Deus, “pelo teu amor leal”, e promete louvar em voz alta. O último verso diz que Deus “se põe ao lado do pobre para salvá-lo daqueles que o condenam”.",
+    "passage": {
+      "ref": "Salmo 109 · versículos 21–31 (NVI)",
+      "verses": [
         {
           "n": 21,
           "text": "Mas tu, Soberano Senhor, intervém em meu favor, por causa do teu nome. Livra-me, pois é sublime o teu amor leal!"
@@ -11091,20 +12344,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Ser falsamente acusado pode despertar desejos de retribuição muito fortes.",
-      "O salmo oferece um lugar para dizer esses desejos diante de Deus em vez de transformá-los automaticamente em comportamento.",
-      "Sua defesa pode incluir verdade, limites e justiça responsável sem fazer do ódio sua identidade."
+      "Depois da raiva, aparece a fragilidade: “Sou pobre e necessitado e, no íntimo, o meu coração está abatido”. Sob a raiva costuma haver dor.",
+      "A fórmula “pelo teu amor leal” tira o foco de mérito e o coloca em Deus.",
+      "Deus “se põe ao lado do pobre”, o lugar do defensor no tribunal. Você não está só diante de quem o acusa."
     ],
     "questions": [
-      "Que acusação ou injustiça ainda repete discussões dentro da sua cabeça?",
-      "O que precisa de defesa concreta e o que precisa ser entregue?",
-      "Como proteger sua reputação ou segurança sem construir sua vida em torno do adversário?"
+      "O que existe sob a sua raiva?",
+      "Como receber o amor de Deus quando se sente condenado?",
+      "Quem precisa da sua presença ao lado, como defensor?"
     ],
-    "application": "Organize fatos, limites e próximos passos de uma injustiça real. Evite retaliação impulsiva e procure ajuda adequada quando necessário.",
-    "prayer": "Senhor, recebe meu desejo de defesa e justiça. Guarda-me da retaliação que me aprisiona e conduz-me em verdade, proteção e paz. Amém."
+    "application": "Esteja ao lado de alguém que está sendo julgado injustamente, com uma palavra ou presença.",
+    "prayer": "Senhor, tu ficas ao lado do necessitado. Salva-me pelo teu amor leal e cura o meu coração ferido. Amém."
   },
   {
-    "day": 110,
+    "day": 135,
+    "psalm": 110,
+    "part": 1,
+    "parts": 1,
     "theme": "O reinado de Deus combina autoridade e serviço de um jeito que nenhum poder humano copia perfeitamente",
     "date": "Salmo 110",
     "verse": {
@@ -11166,7 +12422,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: o reinado de Deus combina autoridade e serviço de um jeito que nenhum poder humano copia perfeitamente. Amém."
   },
   {
-    "day": 111,
+    "day": 136,
+    "psalm": 111,
+    "part": 1,
+    "parts": 1,
     "theme": "Lembrar as obras de Deus pode reorganizar aquilo que hoje parece caótico",
     "date": "Salmo 111",
     "verse": {
@@ -11240,7 +12499,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: lembrar as obras de Deus pode reorganizar aquilo que hoje parece caótico. Amém."
   },
   {
-    "day": 112,
+    "day": 137,
+    "psalm": 112,
+    "part": 1,
+    "parts": 1,
     "theme": "Uma vida justa pode ser firme sem precisar ser rígida",
     "date": "Salmo 112",
     "verse": {
@@ -11314,7 +12576,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: uma vida justa pode ser firme sem precisar ser rígida. Amém."
   },
   {
-    "day": 113,
+    "day": 138,
+    "psalm": 113,
+    "part": 1,
+    "parts": 1,
     "theme": "O Deus alto o bastante para governar é também baixo o bastante para levantar o pobre",
     "date": "Salmo 113",
     "verse": {
@@ -11384,7 +12649,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: o Deus alto o bastante para governar é também baixo o bastante para levantar o pobre. Amém."
   },
   {
-    "day": 114,
+    "day": 139,
+    "psalm": 114,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando Deus conduz um povo, até o mar aprende a abrir caminho",
     "date": "Salmo 114",
     "verse": {
@@ -11450,7 +12718,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: quando Deus conduz um povo, até o mar aprende a abrir caminho. Amém."
   },
   {
-    "day": 115,
+    "day": 140,
+    "psalm": 115,
+    "part": 1,
+    "parts": 1,
     "theme": "Você se torna parecido com aquilo em que deposita sua confiança",
     "date": "Salmo 115",
     "verse": {
@@ -11556,7 +12827,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe minha vida como ela está e transforma este salmo em conversa verdadeira contigo. Faz viver em mim esta verdade: você se torna parecido com aquilo em que deposita sua confiança. Amém."
   },
   {
-    "day": 116,
+    "day": 141,
+    "psalm": 116,
+    "part": 1,
+    "parts": 1,
     "theme": "Amar a Deus também pode nascer do dia em que você percebeu que foi ouvido",
     "date": "Salmo 116",
     "verse": {
@@ -11666,7 +12940,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: amar a Deus também pode nascer do dia em que você percebeu que foi ouvido. Amém."
   },
   {
-    "day": 117,
+    "day": 142,
+    "psalm": 117,
+    "part": 1,
+    "parts": 1,
     "theme": "Às vezes dois versículos bastam para lembrar que a fidelidade de Deus alcança todos",
     "date": "Salmo 117",
     "verse": {
@@ -11708,23 +12985,26 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: às vezes dois versículos bastam para lembrar que a fidelidade de Deus alcança todos. Amém."
   },
   {
-    "day": 118,
-    "theme": "A pedra rejeitada ainda pode se tornar parte central da construção",
-    "date": "Salmo 118",
+    "day": 143,
+    "psalm": 118,
+    "part": 1,
+    "parts": 2,
+    "theme": "O amor dele dura para sempre",
+    "date": "Salmo 118 · 1–18",
     "verse": {
-      "text": "Ore e leia o Salmo 118 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 118"
+      "text": "O Senhor está comigo, não temerei. O que me podem fazer os homens?",
+      "ref": "Salmo 118.6"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חֶסֶד",
+      "translit": "hesed",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "No arquivo, shalom aparece com o sentido de “paz, inteireza”. Neste salmo, essa palavra pode ser recebida como uma lente para memória, livramento e resposta: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que a pedra rejeitada ainda pode se tornar parte central da construção."
+      "meaning": "amor leal",
+      "note": "Hesed é o refrão de abertura e fechamento (v. 1-4, 29): “o seu amor dura para sempre”."
     },
-    "context": "O Salmo 118 atravessa memória, livramento e resposta e usa imagens como luz e mar para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que a pedra rejeitada ainda pode se tornar parte central da construção.",
+    "context": "O Salmo 118 é o último dos salmos do Hallel (113-118), cantados na Páscoa. Começa com convite a Israel, aos sacerdotes e aos que temem o Senhor: digam “o seu amor dura para sempre”. O salmista conta um aperto, um cerco de nações, e como Deus o ajudou. “É melhor buscar refúgio no Senhor do que confiar nos homens.”",
     "passage": {
-      "ref": "Salmo 118 · capítulo completo (NVI)",
+      "ref": "Salmo 118 · versículos 1–18 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -11797,7 +13077,44 @@ window.SALMOS_CARTA = [
         {
           "n": 18,
           "text": "O Senhor me castigou com severidade, mas não me entregou à morte."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O refrão repetido educa o coração: a verdade dita muitas vezes cria raiz. Repetir que o amor dele dura para sempre é disciplina de fé.",
+      "“O Senhor está comigo; não temerei” (v. 6) é a confiança de quem já esteve cercado. A presença é a resposta ao medo.",
+      "O verso 18 admite: “O Senhor me castigou com severidade, mas não me entregou à morte”. A disciplina de Deus não é rejeição."
+    ],
+    "questions": [
+      "Que verdade você precisa repetir para acreditar de novo?",
+      "O que significa preferir refugiar-se em Deus a confiar em pessoas?",
+      "Como a disciplina de Deus revelou seu amor a você?"
+    ],
+    "application": "Repita o verso 1 ao acordar e antes de dormir.",
+    "prayer": "Dou-te graças, Senhor, porque és bom e o teu amor dura para sempre. Quando eu temer, lembra-me de que estás comigo. Amém."
+  },
+  {
+    "day": 144,
+    "psalm": 118,
+    "part": 2,
+    "parts": 2,
+    "theme": "Este é o dia em que o Senhor agiu",
+    "date": "Salmo 118 · 19–29",
+    "verse": {
+      "text": "A pedra que os construtores rejeitaram tornou-se a pedra angular.",
+      "ref": "Salmo 118.22"
+    },
+    "word": {
+      "original": "יָשַׁע",
+      "translit": "yashá‘",
+      "lang": "hebraico",
+      "meaning": "salvar, libertar",
+      "note": "Yasha: no verso 25, “Salva-nos” (hoshia na) é o clamor que os judeus chamavam “hosana”, dito na entrada de Jesus em Jerusalém."
+    },
+    "context": "A procissão chega às portas do templo. O verso 22 (“a pedra que os construtores rejeitaram tornou-se a pedra angular”) é retomado por Jesus e pelos apóstolos como referência a ele. O verso 24, “Este é o dia em que o Senhor agiu; alegremo-nos e exultemos”, e o clamor do verso 25 (“Salva-nos!”) fecham a liturgia.",
+    "passage": {
+      "ref": "Salmo 118 · versículos 19–29 (NVI)",
+      "verses": [
         {
           "n": 19,
           "text": "Abram as portas da justiça para mim, pois quero entrar para dar graças ao Senhor."
@@ -11845,36 +13162,39 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Talvez você precise ouvir isto devagar hoje: a pedra rejeitada ainda pode se tornar parte central da construção.",
-      "O salmo usa imagens como luz e mar para colocar sentimentos concretos diante de Deus, sem transformar vulnerabilidade em fracasso.",
-      "Há movimento dentro da oração: lembrar o que Deus fez se transforma em confiança para continuar. Essa mudança pode ser pequena, mas já é caminho."
+      "Ser rejeitado por quem constrói não é o fim: Deus pode usar o que os outros descartam.",
+      "“Este é o dia”: a alegria não espera condições ideais, começa com o reconhecimento da ação de Deus hoje.",
+      "“Salva-nos, Senhor!” é um pedido de quem já foi ajudado e continua precisando. A fé cristã vê aqui o “Hosana” e o Messias."
     ],
     "questions": [
-      "Que livramento ou cuidado você corre o risco de esquecer?",
-      "Quem participou dessa história e merece sua gratidão?",
-      "Como transformar memória em confiança para o próximo passo?"
+      "Em que ponto você se sentiu rejeitado e depois foi acolhido por Deus?",
+      "O que torna “este dia” especial para você?",
+      "Como misturar pedido e louvor na mesma oração?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: a pedra rejeitada ainda pode se tornar parte central da construção. Amém."
+    "application": "Comece o dia dizendo em voz alta: “Este é o dia em que o Senhor agiu”.",
+    "prayer": "Hosana, Senhor! Salva-nos. Que eu me alegre neste dia que tu fizeste. Amém."
   },
   {
-    "day": 119,
-    "theme": "A Palavra pode ser companhia para cada curva longa da estrada",
-    "date": "Salmo 119",
+    "day": 145,
+    "psalm": 119,
+    "part": 1,
+    "parts": 8,
+    "theme": "Abre os meus olhos para as maravilhas da tua lei",
+    "date": "Salmo 119 · 1–24",
     "verse": {
-      "text": "Ore e leia o Salmo 119 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 119"
+      "text": "Abre os meus olhos para que eu veja as maravilhas da tua lei.",
+      "ref": "Salmo 119.18"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "תּוֹרָה",
+      "translit": "torah",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "No arquivo, shalom aparece com o sentido de “paz, inteireza”. Neste salmo, essa palavra pode ser recebida como uma lente para escolhas, caráter e direção: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que a Palavra pode ser companhia para cada curva longa da estrada."
+      "meaning": "instrução, ensino",
+      "note": "Torah, instrução: o Salmo 119 usa oito palavras para a lei de Deus (torah, testemunhos, preceitos, decretos, mandamentos, juízos, palavra, promessa)."
     },
-    "context": "O Salmo 119 atravessa escolhas, caráter e direção e usa imagens como escudo e luz para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que a Palavra pode ser companhia para cada curva longa da estrada.",
+    "context": "O Salmo 119 é um acróstico: 22 estrofes de 8 versos, cada uma iniciando com uma letra hebraica, do aleph ao taw. Hoje lemos as três primeiras: Aleph (felizes os que andam na lei), Beth (como o jovem mantém puro o seu caminho? Guardando a palavra) e Gimel (abre os meus olhos).",
     "passage": {
-      "ref": "Salmo 119 · capítulo completo (NVI)",
+      "ref": "Salmo 119 · versículos 1–24 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -11971,7 +13291,44 @@ window.SALMOS_CARTA = [
         {
           "n": 24,
           "text": "Sim, os teus testemunhos são o meu prazer; eles são os meus conselheiros."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "A alegria (“felizes”) vem de andar no caminho de Deus, não de cumprir tabelas. A lei é apresentada como dom.",
+      "A pergunta do verso 9 é sincera: como o jovem se mantém puro? A resposta é guardar a palavra e escondê-la no coração.",
+      "O pedido “Abre os meus olhos” (v. 18) supõe que a lei já está diante de nós, mas precisamos de luz para vê-la. Ler a Bíblia é também pedir visão."
+    ],
+    "questions": [
+      "O que você ama na palavra de Deus?",
+      "Que versículo você guardaria no coração hoje?",
+      "Como pedir a Deus que abra os seus olhos ao ler?"
+    ],
+    "application": "Antes de ler a Bíblia hoje, pare e ore o verso 18.",
+    "prayer": "Senhor, abre os meus olhos para ver as maravilhas da tua lei. Guarda a tua palavra no meu coração. Amém."
+  },
+  {
+    "day": 146,
+    "psalm": 119,
+    "part": 2,
+    "parts": 8,
+    "theme": "Preserva a minha vida conforme a tua palavra",
+    "date": "Salmo 119 · 25–48",
+    "verse": {
+      "text": "Corro pelo caminho que os teus mandamentos apontam, pois me deste maior entendimento.",
+      "ref": "Salmo 119.32"
+    },
+    "word": {
+      "original": "דָּבָר",
+      "translit": "dabar",
+      "lang": "hebraico",
+      "meaning": "palavra",
+      "note": "Dabar, palavra: “Agora estou prostrado no pó; preserva a minha vida conforme a tua promessa” (v. 25). A palavra é fonte de vida."
+    },
+    "context": "Daleth começa no pó: “estou prostrado no pó”. He é um pedido de instrução: “ensina-me, Senhor”. Waw traz confiança para falar em público da palavra sem vergonha. O verso 32 resume: “Corro pelo caminho que os teus mandamentos apontam, pois me deste maior entendimento”.",
+    "passage": {
+      "ref": "Salmo 119 · versículos 25–48 (NVI)",
+      "verses": [
         {
           "n": 25,
           "text": "Agora estou prostrado no pó; preserva a minha vida conforme a tua promessa."
@@ -12067,7 +13424,44 @@ window.SALMOS_CARTA = [
         {
           "n": 48,
           "text": "A ti levanto minhas mãos e medito nos teus decretos."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O salmista não começa forte: começa no pó. E é dali que pede vida, e não outra coisa.",
+      "“Ensina-me” aparece várias vezes: quem ama a lei sabe que precisa de professor. A humildade é sinal de maturidade.",
+      "Correr pelo caminho dos mandamentos é imagem de liberdade: vividos diante de Deus, eles abrem espaço, não apertam."
+    ],
+    "questions": [
+      "Onde você sente que sua vida está “no pó”?",
+      "O que você pediria a Deus que lhe ensinasse?",
+      "O que significa correr no caminho dos mandamentos?"
+    ],
+    "application": "Escolha um pedido do trecho (“ensina-me”, “vivifica-me”) e ore-o em suas palavras.",
+    "prayer": "Senhor, vivifica-me conforme a tua palavra. Ensina-me e dá-me entendimento para correr no teu caminho. Amém."
+  },
+  {
+    "day": 147,
+    "psalm": 119,
+    "part": 3,
+    "parts": 8,
+    "theme": "A tua promessa me dá vida",
+    "date": "Salmo 119 · 49–72",
+    "verse": {
+      "text": "Este é o meu consolo no meu sofrimento: A tua promessa dá-me vida.",
+      "ref": "Salmo 119.50"
+    },
+    "word": {
+      "original": "זָכַר",
+      "translit": "zakar",
+      "lang": "hebraico",
+      "meaning": "lembrar, trazer à memória",
+      "note": "Zakar: “Lembra-te da tua palavra ao teu servo” (v. 49). O salmista pede a Deus que se lembre, e ele mesmo se lembra das leis antigas."
+    },
+    "context": "Zayin fala de esperança e consolo no sofrimento. Heth declara: “Tu és a minha herança, Senhor” e relata a meia-noite em que se levanta para louvar. Teth diz “Foi bom para mim ter sido castigado”, um verso delicado: fala de ter aprendido com uma correção, e não deve ser usado para justificar o sofrimento de ninguém.",
+    "passage": {
+      "ref": "Salmo 119 · versículos 49–72 (NVI)",
+      "verses": [
         {
           "n": 49,
           "text": "Lembra-te da tua palavra ao teu servo, pela qual me deste esperança."
@@ -12163,7 +13557,44 @@ window.SALMOS_CARTA = [
         {
           "n": 72,
           "text": "Para mim vale mais a lei que decretaste do que milhares de peças de prata e ouro."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "O consolo aqui (v. 50) é a promessa de Deus. Ela funciona como colo na aflição.",
+      "“Tu és a minha herança, Senhor” (v. 57): a gente pode escolher, mesmo em dor, ter Deus como a parte que nos cabe.",
+      "Aprender com uma correção não é o mesmo que desejá-la. O salmista testemunha o que descobriu, sem mandar ninguém sofrer."
+    ],
+    "questions": [
+      "Que promessa de Deus tem sido consolo?",
+      "O que você aprendeu num período doloroso, sem justificá-lo?",
+      "O que significa ter Deus como “herança”?"
+    ],
+    "application": "Memorize o verso 50 e ofereça-o a alguém que esteja sofrendo, sem explicar a dor dela.",
+    "prayer": "Senhor, tu és a minha herança. Consola-me com a tua promessa e ensina-me a viver nela. Amém."
+  },
+  {
+    "day": 148,
+    "psalm": 119,
+    "part": 4,
+    "parts": 8,
+    "theme": "A tua palavra está firmada nos céus",
+    "date": "Salmo 119 · 73–96",
+    "verse": {
+      "text": "A tua palavra, Senhor, para sempre está firmada nos céus.",
+      "ref": "Salmo 119.89"
+    },
+    "word": {
+      "original": "אֱמוּנָה",
+      "translit": "emunah",
+      "lang": "hebraico",
+      "meaning": "fidelidade",
+      "note": "Emunah, fidelidade: “A tua fidelidade é constante por todas as gerações” (v. 90). A palavra de Deus é firme como a terra que ele fundou."
+    },
+    "context": "Yodh: “as tuas mãos me fizeram e me formaram”. Kaph traz uma alma que desfalece de esperar: “até quando?”. O salmista está como odre na fumaça, mas não esquece os decretos. Lamedh proclama: “A tua palavra, Senhor, para sempre está firmada nos céus”.",
+    "passage": {
+      "ref": "Salmo 119 · versículos 73–96 (NVI)",
+      "verses": [
         {
           "n": 73,
           "text": "As tuas mãos me fizeram e me formaram; dá-me entendimento para aprender os teus mandamentos."
@@ -12259,7 +13690,44 @@ window.SALMOS_CARTA = [
         {
           "n": 96,
           "text": "Tenho constatado que toda perfeição tem limite; mas não há limite para o teu mandamento."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "Ser feito pelas mãos de Deus dá identidade: você não é acidente. O pedido de entendimento parte dessa base.",
+      "A estrofe Kaph é de quem espera e fraqueja. A fé não elimina o cansaço, mas o sustenta.",
+      "No fim, a firmeza da palavra e da criação anda junto (v. 89-91). O que Deus disse não é volátil."
+    ],
+    "questions": [
+      "O que significa para você ter sido formado pelas mãos de Deus?",
+      "Em que você está esperando e se sentindo como odre na fumaça?",
+      "O que na palavra de Deus é firme para você?"
+    ],
+    "application": "Diga a si mesmo, em voz alta, o verso 73, agradecendo pela vida que você tem.",
+    "prayer": "Senhor, tuas mãos me fizeram. Firma em mim a tua palavra, que é eterna, e sustenta-me na espera. Amém."
+  },
+  {
+    "day": 149,
+    "psalm": 119,
+    "part": 5,
+    "parts": 8,
+    "theme": "A tua palavra ilumina o passo seguinte",
+    "date": "Salmo 119 · 97–120",
+    "verse": {
+      "text": "A tua palavra é lâmpada que ilumina os meus passos e luz que clareia o meu caminho.",
+      "ref": "Salmo 119.105"
+    },
+    "word": {
+      "original": "דֶּרֶךְ",
+      "translit": "derekh",
+      "lang": "hebraico",
+      "meaning": "caminho",
+      "note": "Derekh, caminho: a palavra é “lâmpada que ilumina os meus passos e luz que clareia o meu caminho” (v. 105). Ilumina o passo, não o mapa inteiro."
+    },
+    "context": "Mem: “Como eu amo a tua lei!”, mais doce que o mel. Nun traz o verso mais conhecido: a palavra como lâmpada, e o juramento de guardá-la, mesmo sob aflição. Samekh diz: “Odeio os que são inconstantes” e reafirma o refúgio em Deus.",
+    "passage": {
+      "ref": "Salmo 119 · versículos 97–120 (NVI)",
+      "verses": [
         {
           "n": 97,
           "text": "Como eu amo a tua lei! Medito nela o dia inteiro."
@@ -12355,7 +13823,44 @@ window.SALMOS_CARTA = [
         {
           "n": 120,
           "text": "O meu corpo estremece diante de ti; as tuas ordenanças enchem-me de temor."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "A lâmpada dos pés ilumina um passo por vez. Deus costuma dar luz suficiente para o próximo passo, não para a estrada inteira.",
+      "“Mais doce que o mel”: a palavra é prazer, não só dever. O amor por ela cresce meditando.",
+      "Os “inconstantes” lembram que a fé exige inteireza. Você não precisa ser perfeito, mas é chamado a ser inteiro."
+    ],
+    "questions": [
+      "Qual é o próximo passo que você precisa que Deus ilumine?",
+      "Como a palavra de Deus tem sido “doce” para você?",
+      "Onde você tem sido inconstante?"
+    ],
+    "application": "Peça a Deus luz para uma decisão desta semana e dê apenas o passo que ele mostrar.",
+    "prayer": "Senhor, a tua palavra é lâmpada que ilumina os meus passos. Ilumina o meu próximo passo e une o meu coração. Amém."
+  },
+  {
+    "day": 150,
+    "psalm": 119,
+    "part": 6,
+    "parts": 8,
+    "theme": "A explicação da tua palavra dá luz",
+    "date": "Salmo 119 · 121–144",
+    "verse": {
+      "text": "A explicação das tuas palavras ilumina e dá discernimento aos inexperientes.",
+      "ref": "Salmo 119.130"
+    },
+    "word": {
+      "original": "צֶדֶק",
+      "translit": "tsedeq",
+      "lang": "hebraico",
+      "meaning": "justiça, retidão",
+      "note": "Tsedeq, justiça: “Justo és, Senhor, e retas são as tuas ordenanças” (v. 137). A justiça de Deus é motivo de confiança."
+    },
+    "context": "Ayin pede proteção contra os opressores. Pe traz a bela imagem: “A explicação das tuas palavras ilumina e dá discernimento aos inexperientes”, e também as lágrimas de quem vê a lei desobedecida. Tsadhe exalta a justiça de Deus e diz que o zelo o consome.",
+    "passage": {
+      "ref": "Salmo 119 · versículos 121–144 (NVI)",
+      "verses": [
         {
           "n": 121,
           "text": "Tenho vivido com justiça e retidão; não me abandones nas mãos dos meus opressores."
@@ -12451,7 +13956,44 @@ window.SALMOS_CARTA = [
         {
           "n": 144,
           "text": "Os teus testemunhos são eternamente justos, dá-me discernimento para que eu tenha vida."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "A palavra “ilumina” e dá entendimento aos simples. A sabedoria de Deus é para quem se reconhece necessitado.",
+      "As lágrimas (v. 136) mostram que amar a lei é sofrer com o mundo quebrado. Empatia e zelo caminham juntos.",
+      "Confiar na justiça de Deus (v. 137-144) é descansar de ter que fazer justiça sozinho."
+    ],
+    "questions": [
+      "O que na sociedade faz você chorar como o salmista?",
+      "Como a palavra de Deus tem iluminado suas dúvidas?",
+      "O que significa confiar na justiça de Deus?"
+    ],
+    "application": "Ore hoje por uma injustiça que você vê ao seu redor e faça uma ação concreta, ainda que pequena.",
+    "prayer": "Senhor, tu és justo. Ilumina-me com a tua palavra e faz do meu zelo um cuidado que sirva ao próximo. Amém."
+  },
+  {
+    "day": 151,
+    "psalm": 119,
+    "part": 7,
+    "parts": 8,
+    "theme": "Ouve o meu clamor, Senhor",
+    "date": "Salmo 119 · 145–160",
+    "verse": {
+      "text": "Eu clamo de todo o coração; responde-me, Senhor, e obedecerei aos teus testemunhos!",
+      "ref": "Salmo 119.145"
+    },
+    "word": {
+      "original": "שָׁמַע",
+      "translit": "shamá‘",
+      "lang": "hebraico",
+      "meaning": "ouvir, escutar",
+      "note": "Shamá‘, ouvir: “Ouve a minha voz pelo teu amor leal” (v. 149). O clamor do salmista é para ser ouvido."
+    },
+    "context": "Qoph (Q) é a oração da madrugada: “Clamo de todo o coração; responde-me, Senhor”. O salmista se antecipa ao amanhecer, e antes da vigília da noite, para meditar. Resh pede: “Olha para o meu sofrimento e livra-me”, e defende a sua causa, “pois não me esqueço da tua lei”.",
+    "passage": {
+      "ref": "Salmo 119 · versículos 145–160 (NVI)",
+      "verses": [
         {
           "n": 145,
           "text": "Eu clamo de todo o coração; responde-me, Senhor, e obedecerei aos teus testemunhos!"
@@ -12515,7 +14057,44 @@ window.SALMOS_CARTA = [
         {
           "n": 160,
           "text": "A verdade é a essência da tua palavra, e todas as tuas justas ordenanças são eternas."
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "Orar “de todo o coração” é orar inteiro, sem partes escondidas.",
+      "Levantar antes da aurora (v. 147) mostra como o desejo por Deus mexe com a rotina.",
+      "“Olha para o meu sofrimento” (v. 153) é oração de quem confia que Deus olha. Ser visto é parte da cura."
+    ],
+    "questions": [
+      "Você ora de todo o coração ou por dever?",
+      "Em que hora do dia é mais fácil buscar a Deus?",
+      "O que você gostaria que Deus visse hoje?"
+    ],
+    "application": "Separe alguns minutos ao amanhecer ou antes de dormir para ficar em silêncio diante de Deus.",
+    "prayer": "Senhor, clamo de todo o coração. Ouve a minha voz por causa do teu amor. Amém."
+  },
+  {
+    "day": 152,
+    "psalm": 119,
+    "part": 8,
+    "parts": 8,
+    "theme": "Procura o teu servo, pois não esqueci a tua palavra",
+    "date": "Salmo 119 · 161–176",
+    "verse": {
+      "text": "Andei vagando como ovelha perdida; vem em busca do teu servo, pois não me esqueci dos teus mandamentos.",
+      "ref": "Salmo 119.176"
+    },
+    "word": {
+      "original": "שָׁלוֹם",
+      "translit": "shalom",
+      "lang": "hebraico",
+      "meaning": "paz, inteireza",
+      "note": "Shalom: “Os que amam a tua lei desfrutam paz, e nada há que os faça tropeçar” (v. 165). A paz de Deus é inteireza."
+    },
+    "context": "Shin é a estrofe do temor e do amor: príncipes perseguem sem causa, mas o coração trema diante da palavra; há paz para quem ama a lei. Taw fecha o acróstico com clamor por ajuda e por louvor. O último verso surpreende: “Andei vagando como ovelha perdida; vem em busca do teu servo”.",
+    "passage": {
+      "ref": "Salmo 119 · versículos 161–176 (NVI)",
+      "verses": [
         {
           "n": 161,
           "text": "Os poderosos perseguem-me sem motivo, mas é diante da tua palavra que o meu coração treme."
@@ -12583,20 +14162,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Este texto não exige que você chegue com tudo resolvido. Ele permite reconhecer que a Palavra pode ser companhia para cada curva longa da estrada.",
-      "Preste atenção em escudo e luz; o Saltério costuma ensinar através de imagens que podem permanecer quando faltam explicações.",
-      "Na Carta ao Coração, o salmo convida a perceber que pequenos caminhos formam destinos maiores. Você pode fazer o mesmo sem apressar o que ainda está doendo."
+      "A paz do verso 165 não é ausência de problemas, é firmeza para não tropeçar neles.",
+      "O louvor sete vezes ao dia (v. 164) sugere uma vida pontuada por pausas de gratidão.",
+      "Depois de 175 versos de amor pela lei, o salmista confessa que anda perdido. Amar a palavra não é ser perfeito, é voltar sempre ao Pastor."
     ],
     "questions": [
-      "Que escolha pequena está formando uma direção maior em sua vida?",
-      "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
-      "Qual hábito simples pode criar raízes mais profundas?"
+      "Onde você encontra paz na palavra de Deus?",
+      "Em que pontos você se sente uma “ovelha perdida”?",
+      "Como voltar ao Pastor hoje?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: a Palavra pode ser companhia para cada curva longa da estrada. Amém."
+    "application": "Ao terminar a leitura, ore o verso 176 e receba a busca de Deus por você.",
+    "prayer": "Senhor, andei vagando como ovelha perdida. Vem em busca do teu servo, pois não me esqueci dos teus mandamentos. Amém."
   },
   {
-    "day": 120,
+    "day": 153,
+    "psalm": 120,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando você vive cercado de mentira, ainda pode pedir uma língua e um coração verdadeiros",
     "date": "Salmo 120",
     "verse": {
@@ -12658,7 +14240,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando você vive cercado de mentira, ainda pode pedir uma língua e um coração verdadeiros. Amém."
   },
   {
-    "day": 121,
+    "day": 154,
+    "psalm": 121,
+    "part": 1,
+    "parts": 1,
     "theme": "Seu socorro não depende de você vigiar tudo",
     "date": "Salmo 121",
     "verse": {
@@ -12724,7 +14309,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: seu socorro não depende de você vigiar tudo. Amém."
   },
   {
-    "day": 122,
+    "day": 155,
+    "psalm": 122,
+    "part": 1,
+    "parts": 1,
     "theme": "A alegria de chegar também pode se transformar em oração pela paz da cidade",
     "date": "Salmo 122",
     "verse": {
@@ -12794,7 +14382,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: a alegria de chegar também pode se transformar em oração pela paz da cidade. Amém."
   },
   {
-    "day": 123,
+    "day": 156,
+    "psalm": 123,
+    "part": 1,
+    "parts": 1,
     "theme": "Levantar os olhos é diferente de negar a humilhação",
     "date": "Salmo 123",
     "verse": {
@@ -12844,7 +14435,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: levantar os olhos é diferente de negar a humilhação. Amém."
   },
   {
-    "day": 124,
+    "day": 157,
+    "psalm": 124,
+    "part": 1,
+    "parts": 1,
     "theme": "Às vezes olhar para trás revela que você só não foi engolido porque houve ajuda",
     "date": "Salmo 124",
     "verse": {
@@ -12910,7 +14504,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: às vezes olhar para trás revela que você só não foi engolido porque houve ajuda. Amém."
   },
   {
-    "day": 125,
+    "day": 158,
+    "psalm": 125,
+    "part": 1,
+    "parts": 1,
     "theme": "Quem confia em Deus pode aprender uma estabilidade que não depende do terreno",
     "date": "Salmo 125",
     "verse": {
@@ -12964,7 +14561,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: quem confia em Deus pode aprender uma estabilidade que não depende do terreno. Amém."
   },
   {
-    "day": 126,
+    "day": 159,
+    "psalm": 126,
+    "part": 1,
+    "parts": 1,
     "theme": "Há lágrimas que carregam sementes sem saber ainda como será a colheita",
     "date": "Salmo 126",
     "verse": {
@@ -13022,7 +14622,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: há lágrimas que carregam sementes sem saber ainda como será a colheita. Amém."
   },
   {
-    "day": 127,
+    "day": 160,
+    "psalm": 127,
+    "part": 1,
+    "parts": 1,
     "theme": "Nem toda construção precisa ser sustentada por ansiedade",
     "date": "Salmo 127",
     "verse": {
@@ -13076,7 +14679,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: nem toda construção precisa ser sustentada por ansiedade. Amém."
   },
   {
-    "day": 128,
+    "day": 161,
+    "psalm": 128,
+    "part": 1,
+    "parts": 1,
     "theme": "Bênção pode parecer uma mesa simples, trabalho honesto e paz em casa",
     "date": "Salmo 128",
     "verse": {
@@ -13134,7 +14740,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: bênção pode parecer uma mesa simples, trabalho honesto e paz em casa. Amém."
   },
   {
-    "day": 129,
+    "day": 162,
+    "psalm": 129,
+    "part": 1,
+    "parts": 1,
     "theme": "Ter sido ferido muitas vezes não significa ter sido destruído",
     "date": "Salmo 129",
     "verse": {
@@ -13200,7 +14809,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: ter sido ferido muitas vezes não significa ter sido destruído. Amém."
   },
   {
-    "day": 130,
+    "day": 163,
+    "psalm": 130,
+    "part": 1,
+    "parts": 1,
     "theme": "Do fundo ainda existe uma direção para a voz",
     "date": "Salmo 130",
     "verse": {
@@ -13266,7 +14878,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus de misericórdia, dá-me coragem para viver na verdade sem me destruir pela culpa. Faz viver em mim esta verdade: do fundo ainda existe uma direção para a voz. Amém."
   },
   {
-    "day": 131,
+    "day": 164,
+    "psalm": 131,
+    "part": 1,
+    "parts": 1,
     "theme": "Maturidade também é aprender a aquietar desejos que queriam dominar tudo",
     "date": "Salmo 131",
     "verse": {
@@ -13312,7 +14927,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: maturidade também é aprender a aquietar desejos que queriam dominar tudo. Amém."
   },
   {
-    "day": 132,
+    "day": 165,
+    "psalm": 132,
+    "part": 1,
+    "parts": 1,
     "theme": "Promessas antigas podem continuar dando forma ao futuro",
     "date": "Salmo 132",
     "verse": {
@@ -13418,7 +15036,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: promessas antigas podem continuar dando forma ao futuro. Amém."
   },
   {
-    "day": 133,
+    "day": 166,
+    "psalm": 133,
+    "part": 1,
+    "parts": 1,
     "theme": "A unidade é preciosa demais para ser tratada como detalhe",
     "date": "Salmo 133",
     "verse": {
@@ -13464,7 +15085,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: a unidade é preciosa demais para ser tratada como detalhe. Amém."
   },
   {
-    "day": 134,
+    "day": 167,
+    "psalm": 134,
+    "part": 1,
+    "parts": 1,
     "theme": "Há louvor que acontece no turno da noite",
     "date": "Salmo 134",
     "verse": {
@@ -13510,7 +15134,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: há louvor que acontece no turno da noite. Amém."
   },
   {
-    "day": 135,
+    "day": 168,
+    "psalm": 135,
+    "part": 1,
+    "parts": 1,
     "theme": "Lembrar quem Deus é ajuda a não se ajoelhar diante do que nossas mãos fabricaram",
     "date": "Salmo 135",
     "verse": {
@@ -13628,23 +15255,26 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: lembrar quem Deus é ajuda a não se ajoelhar diante do que nossas mãos fabricaram. Amém."
   },
   {
-    "day": 136,
-    "theme": "A repetição 'seu amor dura para sempre' pode ensinar um coração esquecido",
-    "date": "Salmo 136",
+    "day": 169,
+    "psalm": 136,
+    "part": 1,
+    "parts": 2,
+    "theme": "Um refrão que ensina o coração",
+    "date": "Salmo 136 · 1–16",
     "verse": {
-      "text": "Ore e leia o Salmo 136 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 136"
+      "text": "Dêem graças ao Senhor, porque ele é bom. O seu amor dura para sempre!",
+      "ref": "Salmo 136.1"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חֶסֶד",
+      "translit": "hesed",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "No arquivo, shalom aparece com o sentido de “paz, inteireza”. Neste salmo, essa palavra pode ser recebida como uma lente para admiração, criação e grandeza de Deus: não como definição abstrata, mas como linguagem que acompanha a oração e ajuda o coração a lembrar que a repetição 'seu amor dura para sempre' pode ensinar um coração esquecido."
+      "meaning": "amor leal",
+      "note": "Hesed, amor leal: é o refrão de todos os 26 versos. O salmo é uma ladainha de gratidão."
     },
-    "context": "O Salmo 136 atravessa admiração, criação e grandeza de Deus e usa imagens como águas e água para colocar a vida diante de Deus. Seu movimento não precisa ser reduzido a uma frase de efeito: ele permite que a experiência humana apareça com verdade e, ao mesmo tempo, abre espaço para lembrar que a repetição 'seu amor dura para sempre' pode ensinar um coração esquecido.",
+    "context": "O Salmo 136 é uma ladainha: cada verso termina com “o seu amor dura para sempre”. Começa agradecendo a Deus como Senhor dos senhores, depois passa pela criação (céus, terra, luzes) e pelo êxodo (pragas, o mar dividido). O verso sobre a morte dos primogênitos é a lembrança do êxodo, não convite à violência.",
     "passage": {
-      "ref": "Salmo 136 · capítulo completo (NVI)",
+      "ref": "Salmo 136 · versículos 1–16 (NVI)",
       "verses": [
         {
           "n": 1,
@@ -13709,7 +15339,44 @@ window.SALMOS_CARTA = [
         {
           "n": 16,
           "text": "Àquele que conduziu seu povo pelo deserto, O seu amor dura para sempre!"
-        },
+        }
+      ]
+    },
+    "meditation": [
+      "A repetição do refrão treina a memória. Alguns hábitos de fé se formam repetindo.",
+      "Criação e libertação estão juntas: o Deus que fez o mundo é o que livra os escravos.",
+      "O “seu amor dura para sempre” está ligado aos atos concretos, não é abstração."
+    ],
+    "questions": [
+      "Que refrão de fé você repete quando tudo está difícil?",
+      "O que você agradeceria de criação e de libertação?",
+      "Como o refrão muda a sua leitura da história?"
+    ],
+    "application": "Leia o salmo em voz alta, respondendo a cada verso com o refrão.",
+    "prayer": "Dou-te graças, Senhor, porque és bom. O teu amor dura para sempre. Amém."
+  },
+  {
+    "day": 170,
+    "psalm": 136,
+    "part": 2,
+    "parts": 2,
+    "theme": "Ele se lembrou de nós quando estávamos por baixo",
+    "date": "Salmo 136 · 17–26",
+    "verse": {
+      "text": "Àquele que se lembrou de nós quando fomos humilhados O seu amor dura para sempre!",
+      "ref": "Salmo 136.23"
+    },
+    "word": {
+      "original": "זָכַר",
+      "translit": "zakar",
+      "lang": "hebraico",
+      "meaning": "lembrar, trazer à memória",
+      "note": "Zakar: “Àquele que se lembrou de nós quando fomos humilhados” (v. 23). A lembrança de Deus é cuidado ativo."
+    },
+    "context": "A segunda parte relembra a entrada na terra, incluindo a derrota de reis, história de conquista que a tradição bíblica coloca no contexto de julgamento e de promessa, sem servir de modelo para violência atual. O centro emocional está no verso 23: Deus se lembrou dos humilhados e os libertou dos adversários. O salmo termina dando alimento a todas as criaturas e convidando ao agradecimento ao “Deus dos céus”.",
+    "passage": {
+      "ref": "Salmo 136 · versículos 17–26 (NVI)",
+      "verses": [
         {
           "n": 17,
           "text": "que feriu grandes reis O seu amor dura para sempre!"
@@ -13753,20 +15420,23 @@ window.SALMOS_CARTA = [
       ]
     },
     "meditation": [
-      "Uma das dádivas deste salmo é lembrar que a repetição 'seu amor dura para sempre' pode ensinar um coração esquecido.",
-      "Entre águas e água, aparece uma fé que conversa com Deus dentro de admiração, criação e grandeza de Deus, não apenas depois que tudo passa.",
-      "Talvez hoje a resposta não seja resolver o cenário, mas permitir que a oração se abre para além dos próprios problemas e aprende a contemplar."
+      "“Àquele que se lembrou de nós quando fomos humilhados”: a memória de Deus vai atrás de quem está por baixo.",
+      "O final amplia o cuidado: “dá alimento a todos os seres vivos”. O Deus da história também põe o pão na mesa.",
+      "Terminar em gratidão (“Dêem graças ao Deus dos céus”) fecha o círculo: história, criação e provisão diária são um só dom."
     ],
     "questions": [
-      "O que neste salmo amplia seu olhar para além dos próprios problemas?",
-      "Que aspecto do caráter de Deus desperta admiração em você hoje?",
-      "Como sua gratidão pode ganhar uma forma concreta?"
+      "Quando você se sentiu esquecido e depois lembrado por Deus?",
+      "Onde você vê o cuidado dele no pão de cada dia?",
+      "Como transformar a gratidão em rotina?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a repetição 'seu amor dura para sempre' pode ensinar um coração esquecido. Amém."
+    "application": "Agradeça hoje, antes da refeição, pelo alimento e por quem o proveu.",
+    "prayer": "Deus dos céus, tu te lembraste de nós e nos alimentas. Recebe a nossa gratidão, pois o teu amor dura para sempre. Amém."
   },
   {
-    "day": 137,
+    "day": 171,
+    "psalm": 137,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode lamentar o exílio e a raiva sem transformar violência em mandamento",
     "date": "Salmo 137",
     "verse": {
@@ -13836,7 +15506,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe a memória, a dor e até a raiva que eu não sei organizar. Cura o que a violência deixou em mim e impede que eu a transmita adiante. Amém."
   },
   {
-    "day": 138,
+    "day": 172,
+    "psalm": 138,
+    "part": 1,
+    "parts": 1,
     "theme": "Mesmo entre poderes grandes, sua oração pode permanecer inteira",
     "date": "Salmo 138",
     "verse": {
@@ -13902,7 +15575,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: mesmo entre poderes grandes, sua oração pode permanecer inteira. Amém."
   },
   {
-    "day": 139,
+    "day": 173,
+    "psalm": 139,
+    "part": 1,
+    "parts": 1,
     "theme": "Ser completamente conhecido por Deus não precisa ser motivo de medo",
     "date": "Salmo 139",
     "verse": {
@@ -14032,7 +15708,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, tu me conheces por inteiro. Faz desse conhecimento um lugar de verdade e segurança e guia-me pelo caminho que conduz à vida. Amém."
   },
   {
-    "day": 140,
+    "day": 174,
+    "psalm": 140,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode pedir proteção contra pessoas violentas sem aprender a amar a violência",
     "date": "Salmo 140",
     "verse": {
@@ -14118,7 +15797,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: você pode pedir proteção contra pessoas violentas sem aprender a amar a violência. Amém."
   },
   {
-    "day": 141,
+    "day": 175,
+    "psalm": 141,
+    "part": 1,
+    "parts": 1,
     "theme": "Antes de controlar o mundo ao redor, peça ajuda para guardar sua própria boca",
     "date": "Salmo 141",
     "verse": {
@@ -14192,7 +15874,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: antes de controlar o mundo ao redor, peça ajuda para guardar sua própria boca. Amém."
   },
   {
-    "day": 142,
+    "day": 176,
+    "psalm": 142,
+    "part": 1,
+    "parts": 1,
     "theme": "Quando você se sente sozinho numa caverna, ainda existe alguém a quem derramar a queixa",
     "date": "Salmo 142",
     "verse": {
@@ -14254,7 +15939,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando você se sente sozinho numa caverna, ainda existe alguém a quem derramar a queixa. Amém."
   },
   {
-    "day": 143,
+    "day": 177,
+    "psalm": 143,
+    "part": 1,
+    "parts": 1,
     "theme": "Pedir direção pode ser mais urgente do que pedir vitória",
     "date": "Salmo 143",
     "verse": {
@@ -14336,7 +16024,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus de misericórdia, dá-me coragem para viver na verdade sem me destruir pela culpa. Faz viver em mim esta verdade: pedir direção pode ser mais urgente do que pedir vitória. Amém."
   },
   {
-    "day": 144,
+    "day": 178,
+    "psalm": 144,
+    "part": 1,
+    "parts": 1,
     "theme": "Você pode reconhecer fragilidade sem esquecer que Deus treina suas mãos para servir",
     "date": "Salmo 144",
     "verse": {
@@ -14430,7 +16121,10 @@ window.SALMOS_CARTA = [
     "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: você pode reconhecer fragilidade sem esquecer que Deus treina suas mãos para servir. Amém."
   },
   {
-    "day": 145,
+    "day": 179,
+    "psalm": 145,
+    "part": 1,
+    "parts": 1,
     "theme": "A grandeza de Deus aparece também na sua ternura com quem cai",
     "date": "Salmo 145",
     "verse": {
@@ -14548,7 +16242,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a grandeza de Deus aparece também na sua ternura com quem cai. Amém."
   },
   {
-    "day": 146,
+    "day": 180,
+    "psalm": 146,
+    "part": 1,
+    "parts": 1,
     "theme": "Não coloque esperança final em pessoas poderosas, por melhores que pareçam",
     "date": "Salmo 146",
     "verse": {
@@ -14622,7 +16319,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: não coloque esperança final em pessoas poderosas, por melhores que pareçam. Amém."
   },
   {
-    "day": 147,
+    "day": 181,
+    "psalm": 147,
+    "part": 1,
+    "parts": 1,
     "theme": "O Deus que conta estrelas também cuida de corações quebrantados",
     "date": "Salmo 147",
     "verse": {
@@ -14736,7 +16436,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: o Deus que conta estrelas também cuida de corações quebrantados. Amém."
   },
   {
-    "day": 148,
+    "day": 182,
+    "psalm": 148,
+    "part": 1,
+    "parts": 1,
     "theme": "Toda a criação pode participar de um louvor que não gira ao redor de nós",
     "date": "Salmo 148",
     "verse": {
@@ -14826,7 +16529,10 @@ window.SALMOS_CARTA = [
     "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: toda a criação pode participar de um louvor que não gira ao redor de nós. Amém."
   },
   {
-    "day": 149,
+    "day": 183,
+    "psalm": 149,
+    "part": 1,
+    "parts": 1,
     "theme": "Louvor e justiça precisam caminhar com responsabilidade, não com violência religiosa",
     "date": "Salmo 149",
     "verse": {
@@ -14896,7 +16602,10 @@ window.SALMOS_CARTA = [
     "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: louvor e justiça precisam caminhar com responsabilidade, não com violência religiosa. Amém."
   },
   {
-    "day": 150,
+    "day": 184,
+    "psalm": 150,
+    "part": 1,
+    "parts": 1,
     "theme": "No fim, tudo que respira é convidado a transformar vida em louvor",
     "date": "Salmo 150",
     "verse": {

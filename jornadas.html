@@ -48,12 +48,12 @@
 <a class="journey-choice" href="index.html"><div class="journey-choice-title">Provérbios + Tiago</div><div class="journey-choice-meta">41 dias · NVI</div></a>
 <a class="journey-choice" href="romanos.html"><div class="journey-choice-title">Romanos</div><div class="journey-choice-meta">18 dias · NVI</div></a>
 <a class="journey-choice" href="rute-ester-canticos.html"><div class="journey-choice-title">Rute + Ester + Cânticos</div><div class="journey-choice-meta">22 dias · NVI</div></a>
-<a class="journey-choice" href="salmos.html"><div class="journey-choice-title">Salmos</div><div class="journey-choice-meta">150 dias · NVI</div></a>
+<a class="journey-choice" href="salmos.html"><div class="journey-choice-title">Salmos</div><div class="journey-choice-meta">150 salmos · 184 leituras · NVI</div></a>
 <a class="journey-choice" href="sinoticos.html"><div class="journey-choice-title">Sinóticos (Mt · Mc · Lc)</div><div class="journey-choice-meta">35 dias · NVI</div></a>
 <a class="journey-choice" href="tito-filemom-judas.html"><div class="journey-choice-title">Tito + Filemom + Judas</div><div class="journey-choice-meta">6 dias · NVI</div></a>
 <a class="journey-choice" href="zacarias-malaquias.html"><div class="journey-choice-title">Zacarias + Malaquias</div><div class="journey-choice-meta">18 dias · NVI</div></a>
 <div class="journey-choice journey-choice-stat" id="bibleProgressCard"><div class="journey-choice-title">Bíblia toda</div><div class="journey-choice-meta">capítulos lidos</div></div>
-</div></main><script>
+</div></main><script src="salmos-layout.js"></script><script>
 (() => {
   const progress = {
     'apocalipse.html': ['lectio-apocalipse-v1', 14], 'atos.html': ['lectio-atos-v1', 20],
@@ -80,7 +80,7 @@
     'tessalonicenses.html': ['lectio-tessalonicenses-v1', 13], 'timoteo.html': ['lectio-timoteo-v1', 11],
     'index.html': ['lectio-v2', 41], 'romanos.html': ['lectio-romanos-v1', 18],
     'rute-ester-canticos.html': ['lectio-rute-ester-canticos-v1', 22],
-    'salmos.html': ['lectio-salmos-v1', 150], 'sinoticos.html': ['lectio-sinoticos-v1', 35],
+    'salmos.html': ['lectio-salmos-v1', window.SALMOS_LAYOUT.total], 'sinoticos.html': ['lectio-sinoticos-v1', 35],
     'tito-filemom-judas.html': ['lectio-tito-filemom-judas-v1', 6],
     'zacarias-malaquias.html': ['lectio-zacarias-malaquias-v1', 18]
   };
@@ -288,7 +288,8 @@
     let state = {};
     try { state = JSON.parse(localStorage.getItem(key) || '{}'); } catch {}
     const readDays = Object.keys(state.read || {});
-    totalChaptersRead += readDays.length;
+    // Salmos longos ocupam várias leituras: conta cada salmo lido por inteiro como um capítulo.
+    totalChaptersRead += href === 'salmos.html' && window.SALMOS_LAYOUT ? window.SALMOS_LAYOUT.psalmsRead(state.read) : readDays.length;
     Object.values(state.highlights || {}).forEach(arr => { totalHighlighted += (arr || []).length; });
     if (readDays.length > 0) journeysWithProgress.push({ href, readDays });
   });
