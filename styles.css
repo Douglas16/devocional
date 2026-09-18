@@ -1486,3 +1486,37 @@ body::before {
   .meditation-text p { font-size: 1rem; }
   .meditation-text p:first-child::first-letter { font-size: 2.75rem; }
 }
+
+/* ============ BUSCA NA ABA JORNADAS ============ */
+.jsearch { max-width: 720px; margin: 0 0 36px; }
+.jsearch-box { display: flex; align-items: center; gap: 10px; padding: 0 16px; border: 1px solid var(--line-strong); border-radius: 100px; background: var(--bg-elev); transition: border-color .15s, box-shadow .15s; }
+.jsearch-box:focus-within { border-color: var(--accent); box-shadow: 0 0 0 3px color-mix(in oklch, var(--accent) 18%, transparent); }
+.jsearch-box svg { width: 18px; height: 18px; flex-shrink: 0; color: var(--ink-3); }
+.jsearch-box input { flex: 1; min-width: 0; padding: 14px 0; border: 0; outline: 0; background: transparent; color: var(--ink); font-family: var(--font-serif); font-size: 1rem; }
+.jsearch-box input::placeholder { color: var(--ink-3); font-style: italic; }
+.jsearch-box input::-webkit-search-cancel-button { cursor: pointer; }
+.jsearch-topics { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.jsearch-chip { display: inline-flex; align-items: center; justify-content: center; min-width: 34px; padding: 5px 11px; border: 1px solid var(--line); border-radius: 100px; background: transparent; color: var(--ink-2); font-family: var(--font-mono); font-size: 0.6875rem; letter-spacing: .02em; text-decoration: none; cursor: pointer; transition: border-color .15s, color .15s, background .15s; }
+.jsearch-chip:hover { border-color: var(--accent); color: var(--accent); }
+.jsearch-chip.is-off { color: var(--ink-4, var(--ink-3)); opacity: .45; cursor: default; border-style: dashed; }
+.jsearch-chip.is-off:hover { border-color: var(--line); color: var(--ink-4, var(--ink-3)); }
+.jsearch-results { margin-top: 18px; }
+.jsearch-results[hidden] { display: none; }
+.jsearch-group { margin-bottom: 22px; }
+.jsearch-group-title { font-family: var(--font-mono); font-size: 0.6875rem; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); margin-bottom: 8px; }
+.jsearch-group-title span { color: var(--ink-3); letter-spacing: .04em; text-transform: none; margin-left: 6px; }
+.jsearch-row { display: block; padding: 12px 14px; margin-bottom: 6px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg-elev); color: var(--ink); text-decoration: none; transition: border-color .15s, transform .15s; }
+.jsearch-row:hover, .jsearch-row:focus-visible { border-color: var(--accent); transform: translateY(-1px); outline: 0; }
+.jsearch-row-ref { display: block; font-family: var(--font-mono); font-size: 0.6875rem; letter-spacing: .06em; color: var(--accent); margin-bottom: 3px; }
+.jsearch-row-title { display: block; font-family: var(--font-serif); font-size: 1rem; line-height: 1.35; }
+.jsearch-row-snippet { display: block; margin-top: 5px; font-family: var(--font-serif); font-style: italic; font-size: 0.875rem; line-height: 1.45; color: var(--ink-2); }
+.jsearch-row-meta { display: block; margin-top: 6px; font-family: var(--font-mono); font-size: 0.625rem; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-3); }
+.jsearch-row-meta b { color: var(--accent); font-weight: 600; }
+.jsearch-chapters { display: flex; flex-wrap: wrap; gap: 6px; }
+.jsearch-empty { color: var(--ink-3); font-family: var(--font-serif); font-style: italic; font-size: 0.875rem; margin: 4px 0 12px; }
+.passage-verses .verse.verse-flash { animation: verseFlash 3s ease-out; }
+@keyframes verseFlash { 0%, 55% { background: color-mix(in oklch, var(--accent) 28%, transparent); } 100% { background: transparent; } }
+@media (max-width: 600px) { .jsearch { margin-bottom: 28px; } .jsearch-row { padding: 11px 12px; } }
+.jsearch-more[hidden] { display: none; }
+.jsearch-showmore { width: 100%; padding: 10px; border: 1px dashed var(--line-strong); border-radius: 10px; background: transparent; color: var(--ink-2); font-family: var(--font-mono); font-size: 0.6875rem; letter-spacing: .08em; text-transform: uppercase; cursor: pointer; transition: border-color .15s, color .15s; }
+.jsearch-showmore:hover { border-color: var(--accent); color: var(--accent); }

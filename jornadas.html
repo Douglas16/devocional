@@ -13,7 +13,16 @@
     <div id="resetModalBody"></div>
   </div>
 </div>
-<main class="journeys-page"><div class="journeys-kicker">Lectio · NVI</div><h1 class="journeys-title">Escolha uma jornada</h1><p class="journeys-intro">Estudos devocionais em ordem alfabética. Seu progresso fica salvo separadamente em cada jornada.</p><p class="journeys-stats" id="journeysStats" aria-live="polite"></p><div class="journeys-grid">
+<main class="journeys-page"><div class="journeys-kicker">Lectio · NVI</div><h1 class="journeys-title">Escolha uma jornada</h1><p class="journeys-intro">Estudos devocionais em ordem alfabética. Seu progresso fica salvo separadamente em cada jornada.</p><p class="journeys-stats" id="journeysStats" aria-live="polite"></p>
+<section class="jsearch" aria-label="Buscar passagem ou assunto">
+  <label class="jsearch-box">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+    <input id="jsearchInput" type="search" placeholder="Buscar passagem ou assunto — Salmo 119, Jo 3.16, sofrimento…" autocomplete="off" spellcheck="false" enterkeyhint="search">
+  </label>
+  <div class="jsearch-topics" id="jsearchTopics"></div>
+  <div class="jsearch-results" id="jsearchResults" aria-live="polite" hidden></div>
+</section>
+<div class="journeys-grid">
 <a class="journey-choice" href="apocalipse.html"><div class="journey-choice-title">Apocalipse</div><div class="journey-choice-meta">14 dias · NVI</div></a>
 <a class="journey-choice" href="atos.html"><div class="journey-choice-title">Atos dos Apóstolos</div><div class="journey-choice-meta">20 dias · NVI</div></a>
 <a class="journey-choice" href="daniel.html"><div class="journey-choice-title">Daniel</div><div class="journey-choice-meta">12 dias · NVI</div></a>
@@ -53,7 +62,7 @@
 <a class="journey-choice" href="tito-filemom-judas.html"><div class="journey-choice-title">Tito + Filemom + Judas</div><div class="journey-choice-meta">6 dias · NVI</div></a>
 <a class="journey-choice" href="zacarias-malaquias.html"><div class="journey-choice-title">Zacarias + Malaquias</div><div class="journey-choice-meta">18 dias · NVI</div></a>
 <div class="journey-choice journey-choice-stat" id="bibleProgressCard"><div class="journey-choice-title">Bíblia toda</div><div class="journey-choice-meta">capítulos lidos</div></div>
-</div></main><script src="salmos-layout.js"></script><script>
+</div></main><script src="salmos-layout.js"></script><script src="bible-books.js"></script><script src="jornadas-search.js"></script><script>
 (() => {
   const progress = {
     'apocalipse.html': ['lectio-apocalipse-v1', 14], 'atos.html': ['lectio-atos-v1', 20],

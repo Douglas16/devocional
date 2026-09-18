@@ -27,9 +27,11 @@ const Icon = {
 function App() {
   const [state, setState] = useState(loadState);
   const [tab, setTab] = useState('today'); // today | journey | notes
+  // Link direto (?dia=N, ver deeplink.js) tem prioridade sobre o dia salvo
+  const deepLinkDay = window.LectioDeepLink && window.LectioDeepLink.day;
   const [currentDay, setCurrentDay] = useState(() => {
     const s = loadState();
-    return s.currentDay || 1;
+    return deepLinkDay || s.currentDay || 1;
   });
 
   // Tipo de devocional — global, compartilhado entre todos os livros (window.LectioMode)
@@ -52,6 +54,7 @@ function App() {
 
   // Ao reabrir, avança automaticamente para o próximo dia após os já lidos
   useEffect(() => {
+    if (deepLinkDay) return;
     setCurrentDay(d => {
       let next = d;
       while (next < total && state.read && state.read[next]) next++;
