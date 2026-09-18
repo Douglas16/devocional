@@ -108,6 +108,8 @@
       value.setAttribute('aria-label', `${percent}% lido`);
       card.style.setProperty('--journey-progress', `${percent}%`);
       card.classList.toggle('is-complete', percent === 100);
+      card.classList.toggle('is-filled', percent >= 55);
+      card.classList.toggle('is-filled-end', percent >= 85);
     });
   };
   window.__lectioRenderProgress();
@@ -305,6 +307,8 @@
     bibleValue.setAttribute('aria-label', `${biblePercent}% da Bíblia lida`);
     bibleCard.style.setProperty('--journey-progress', `${biblePercent}%`);
     bibleCard.classList.toggle('is-complete', biblePercent === 100);
+    bibleCard.classList.toggle('is-filled', biblePercent >= 55);
+    bibleCard.classList.toggle('is-filled-end', biblePercent >= 85);
   }
 
   if (totalChaptersRead === 0) {
