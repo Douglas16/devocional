@@ -27,11 +27,13 @@ const Icon = {
 function App() {
   const [state, setState] = useState(loadState);
   const [tab, setTab] = useState('today'); // today | journey | notes
-  // Link direto (?dia=N, ver deeplink.js) tem prioridade sobre o dia salvo
+  // Link direto (?dia=N, ver deeplink.js)
   const deepLinkDay = window.LectioDeepLink && window.LectioDeepLink.day;
-  const [currentDay, setCurrentDay] = useState(() => {
-    const s = loadState();
-    return deepLinkDay || s.currentDay || 1;
+  // Ao abrir, vai para o dia seguinte ao último marcado como lido (ou dia 1). O link direto vale só para essa visita.
+  const [openDay, setCurrentDay] = useState(() => {
+    if (deepLinkDay) return deepLinkDay;
+    const readDays = Object.keys(loadState().read || {}).map(Number).filter(n => n > 0);
+    return readDays.length ? Math.max(...readDays) + 1 : 1;
   });
 
   // Tipo de devocional — global, compartilhado entre todos os livros (window.LectioMode)
@@ -51,15 +53,8 @@ function App() {
   const days = window.buildJoao(mode);
   const total = days.length;
 
-  // Ao reabrir, avança automaticamente para o próximo dia após os já lidos
-  useEffect(() => {
-    if (deepLinkDay) return;
-    setCurrentDay(d => {
-      let next = d;
-      while (next < total && state.read && state.read[next]) next++;
-      return next;
-    });
-  }, []);
+  // Se tudo já foi lido, fica no último dia
+  const currentDay = Math.min(openDay, total);
 
   // Persist state changes
   useEffect(() => { saveState({ ...state, currentDay }); }, [state, currentDay]);

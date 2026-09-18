@@ -1,4 +1,4 @@
-// Busca da aba Jornadas: passagem bíblica (ex.: "Salmo 119", "Jo 3.16") ou assunto (ex.: "sofrimento").
+// Busca da aba Jornadas: passagem bíblica (ex.: "Salmo 119", "Jo 3.16"). A busca por assunto (ex.: "sofrimento") está em standby (TOPICS_ENABLED).
 // O índice (search-index.js, gerado por scripts/build-search-index.mjs) só é baixado no primeiro uso.
 (function () {
   var input = document.getElementById('jsearchInput');
@@ -8,6 +8,8 @@
 
   var BOOKS = window.LECTIO_BOOKS || [];
   var MODE_KEY = 'lectio-devotional-mode-v1';
+  // Busca por assunto (chips + texto livre) implementada mas desligada: mude para true para reativar.
+  var TOPICS_ENABLED = false;
   var index = null, loading = null, timer = null;
 
   var norm = function (s) { return String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); };
@@ -175,7 +177,9 @@
     loadIndex().then(function () {
       if (input.value.trim() !== q) return;
       var ref = parseRef(q);
-      box.innerHTML = ref ? renderRef(ref) : renderText(q);
+      if (ref) box.innerHTML = renderRef(ref);
+      else if (TOPICS_ENABLED) box.innerHTML = renderText(q);
+      else box.innerHTML = '<p class="jsearch-empty">Livro não encontrado. Tente o nome ou a abreviatura, como “Salmo 119”, “Mc 13” ou “1 Co 13”.</p>';
     }).catch(function () { box.innerHTML = '<p class="jsearch-empty">Não foi possível carregar o índice de busca.</p>'; });
   };
   var schedule = function () { clearTimeout(timer); timer = setTimeout(run, 120); };
@@ -198,7 +202,7 @@
 
   // chips de assuntos (lista fixa, espelha TOPICS do gerador)
   var SUBJECTS = ['Sofrimento', 'Ansiedade e medo', 'Perdão', 'Esperança', 'Fé e confiança', 'Oração', 'Gratidão', 'Sabedoria', 'Justiça', 'Solidão e abandono', 'Culpa e arrependimento', 'Graça', 'Família', 'Trabalho e descanso', 'Dinheiro e generosidade', 'Humildade e orgulho', 'Paciência e espera', 'Luto e morte', 'Ira e conflito', 'Cura e restauração', 'Coragem', 'Proteção e refúgio', 'Louvor e adoração', 'Identidade'];
-  topicsEl.innerHTML = SUBJECTS.map(function (s) { return '<button type="button" class="jsearch-chip is-topic" data-q="' + esc(s) + '">' + esc(s) + '</button>'; }).join('');
+  if (TOPICS_ENABLED) topicsEl.innerHTML = SUBJECTS.map(function (s) { return '<button type="button" class="jsearch-chip is-topic" data-q="' + esc(s) + '">' + esc(s) + '</button>'; }).join('');
   topicsEl.addEventListener('click', function (e) {
     var b = e.target.closest('[data-q]');
     if (b) { setQuery(b.getAttribute('data-q')); input.focus({ preventScroll: true }); }
