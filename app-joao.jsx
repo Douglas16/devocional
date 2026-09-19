@@ -322,6 +322,12 @@ function Reader({ day, total, isRead, onToggleRead, note, onNoteChange, highligh
         <div className="share-row center">
           <window.LectioShareButton text={window.LectioShare.formatPrayer(day)} label="Compartilhar oração no WhatsApp" />
         </div>
+        <div className="share-row center">
+          <button className={`read-status ${isRead ? 'is-read' : ''}`} onClick={onToggleRead}>
+            <span className="dot" />
+            {isRead ? 'Lido' : 'Marcar como lido'}
+          </button>
+        </div>
       </section>
 
       {/* Anotações */}

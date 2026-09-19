@@ -15,6 +15,8 @@
   var norm = function (s) { return String(s).toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); };
   var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
   var bookKeys = BOOKS.map(function (b) { return norm(b.n).replace(/\s+/g, ''); });
+  // nome sem o numeral ('1 Coríntios' -> 'corintios'), para achar o livro sem digitar o número
+  var nameKeys = bookKeys.map(function (k) { return k.replace(/^\d+/, ''); });
 
   var mode = function () { try { return localStorage.getItem(MODE_KEY) || 'classico'; } catch (e) { return 'classico'; } };
 
@@ -59,12 +61,14 @@
     var m = norm(q).replace(/[\s.]+$/, '').match(/^\s*([1-3])?\s*([a-z]+)\s*(?:(\d+)(?:\s*[:.,\s]\s*(\d+)(?:\s*-\s*(\d+))?)?)?\s*$/);
     if (!m) return null;
     var key = (m[1] || '') + m[2];
-    var exact = [], prefix = [];
+    var exact = [], prefix = [], inside = [];
     BOOKS.forEach(function (b, i) {
+      var alts = [bookKeys[i], nameKeys[i]].concat((b.r || []).map(function (r) { return norm(r).replace(/\s+/g, ''); }));
       if (bookKeys[i] === key || b.a.indexOf(key) >= 0) exact.push(i);
-      else if (bookKeys[i].indexOf(key) === 0 || (b.r || []).some(function (r) { return norm(r).indexOf(key) === 0; })) prefix.push(i);
+      else if (alts.some(function (k) { return k.indexOf(key) === 0; })) prefix.push(i);
+      else if (alts.some(function (k) { return k.indexOf(key) > 0; })) inside.push(i);
     });
-    var books = exact.length ? exact : prefix;
+    var books = exact.length ? exact : prefix.concat(inside);
     if (!books.length) return null;
     return { books: books, chapter: m[3] ? +m[3] : 0, verse: m[4] ? +m[4] : 0 };
   };
@@ -84,7 +88,7 @@
 
   var renderRef = function (ref) {
     var html = '';
-    ref.books.slice(0, 6).forEach(function (b) {
+    ref.books.slice(0, 10).forEach(function (b) {
       var name = BOOKS[b].n;
       if (!ref.chapter) {
         var any = false;
