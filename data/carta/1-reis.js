@@ -287,6 +287,1634 @@ window.REIS_1_CARTA = [
   },
   {
     "day": 3,
+    "theme": "Quando o fim de uma história começa muito antes do último capítulo",
+    "date": "1 Crônicas 10",
+    "verse": {
+      "text": "Saul morreu porque foi infiel ao Senhor; não guardou a palavra do Senhor e chegou a consultar uma médiun em busca de orientação, em vez de consultar o Senhor.",
+      "ref": "1 Crônicas 10.13-14"
+    },
+    "word": {
+      "original": "מַעַל",
+      "translit": "ma'al",
+      "lang": "hebraico",
+      "meaning": "infidelidade, quebra de confiança",
+      "note": "ma'al carrega a ideia de infidelidade, quebra de confiança. Ma'al não é um deslize qualquer: descreve a traição de quem tinha acesso a algo sagrado e o desviou. A mesma palavra aparece para o sacerdote que se apropria da oferta e para o cônjuge infiel. O Cronista não diz que Saul perdeu uma batalha; diz que quebrou uma confiança. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 10. O Cronista abre a narrativa de Davi de um jeito surpreendente: nove capítulos de genealogia e, de repente, um campo de batalha com quatro cadáveres. Ele não conta o reinado de Saul — só a morte dele, em Gilboa, e o veredicto teológico dos v.13-14. É uma escolha editorial deliberada. Para quem lia isso depois do exílio, a pergunta não era \"quem ganhou a guerra?\", mas \"por que um reino cai?\". A resposta oferecida é uma só palavra. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: O Cronista resume um reinado inteiro em um versículo de diagnóstico, lembrando que o que determina um legado não é a extensão dele, mas a fidelidade que o sustentou.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: Saul não parou de buscar orientação — apenas passou a buscá-la em outro lugar, e é aí que a infidelidade costuma começar, não no ateísmo, mas na consulta trocada de endereço.",
+      "E, no meio da sua própria história, guarde isto com carinho: Começar a história de Davi por um túmulo é dizer que todo início recebido tem um custo pago por outro, e que nenhum reino começa do zero."
+    ],
+    "questions": [
+      "Com sinceridade: Existe alguma área em que você continua buscando orientação, mas já não a busca em Deus?",
+      "Sem se cobrar uma resposta perfeita: O que você chamaria de \"infidelidade\" na sua vida hoje, se usasse a definição do Cronista: desviar algo que lhe foi confiado?",
+      "Diante de Deus: Que herança você recebeu que custou caro a outra pessoa, e que talvez você trate como óbvia?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, identifique uma decisão pendente na qual você já sabe a quem tem recorrido primeiro. Antes de qualquer outra consulta hoje, leve essa decisão a Deus em oração.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. guarda-me da infidelidade silenciosa, aquela que não nega a tua existência mas deixa de te consultar. Que eu te procure primeiro, e não por último. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 10 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "E aconteceu que, em combate com os filisteus, os israelitas foram postos em fuga, e muitos caíram mortos no monte Gilboa."
+        },
+        {
+          "n": 2,
+          "text": "Os filisteus perseguiram Saul e seus filhos, e mataram Jônatas, Abinadabe e Malquisua, filhos de Saul."
+        },
+        {
+          "n": 3,
+          "text": "O combate foi se tornando cada vez mais violento em torno de Saul, até que os flecheiros o alcançaram e o feriram gravemente."
+        },
+        {
+          "n": 4,
+          "text": "Então Saul ordenou ao seu escudeiro: \"Tire sua espada e mate-me com ela, senão sofrerei a vergonha de cair nas mãos desses incircuncisos\". Mas o seu escudeiro estava apavorado e não quis fazê-lo. Saul, então, apanhou a própria espada e jogou-se sobre ela."
+        },
+        {
+          "n": 5,
+          "text": "Quando o escudeiro viu que Saul estava morto, jogou-se também sobre sua espada e morreu."
+        },
+        {
+          "n": 6,
+          "text": "Dessa maneira Saul e seus três filhos morreram, e, assim, toda a descendência real."
+        },
+        {
+          "n": 7,
+          "text": "Quando os israelitas que habitavam no vale viram que o exército tinha fugido e que Saul e seus filhos estavam mortos, fugiram abandonando suas cidades. Depois os filisteus foram ocupá-las."
+        },
+        {
+          "n": 8,
+          "text": "No dia seguinte, quando os filisteus foram saquear os mortos, encontraram Saul e seus filhos caídos no monte Gilboa."
+        },
+        {
+          "n": 9,
+          "text": "Cortaram a cabeça de Saul, pegaram suas armas e enviaram mensageiros por toda a terra dos filisteus proclamando a notícia entre os seus ídolos e o seu povo."
+        },
+        {
+          "n": 10,
+          "text": "Expuseram suas armas num dos templos dos seus deuses e penduraram sua cabeça no templo de Dagom."
+        },
+        {
+          "n": 11,
+          "text": "Quando os habitantes de Jabes-Gileade ficaram sabendo o que os filisteus haviam feito com Saul,"
+        },
+        {
+          "n": 12,
+          "text": "os mais corajosos dentre eles foram e apanharam os corpos de Saul e de seus filhos e os levaram a Jabes. Lá sepultaram seus ossos sob a Grande Árvore, e jejuaram por sete dias."
+        },
+        {
+          "n": 13,
+          "text": "Saul morreu porque foi infiel ao Senhor; não guardou a palavra do Senhor e chegou a consultar uma médiun em busca de orientação,"
+        },
+        {
+          "n": 14,
+          "text": "em vez de consultar o Senhor. Por isso o Senhor o entregou à morte e deu o reino a Davi, filho de Jessé."
+        }
+      ]
+    }
+  },
+  {
+    "day": 4,
+    "theme": "Crescer sem deixar de reconhecer o que o seu crescimento custa aos outros",
+    "date": "1 Crônicas 11",
+    "verse": {
+      "text": "E Davi foi se tornando cada vez mais poderoso, pois o Senhor dos Exércitos estava com ele.",
+      "ref": "1 Crônicas 11.9"
+    },
+    "word": {
+      "original": "גָּדַל",
+      "translit": "gadal",
+      "lang": "hebraico",
+      "meaning": "crescer, tornar-se grande",
+      "note": "gadal carrega a ideia de crescer, tornar-se grande. O texto usa uma construção que indica crescimento contínuo — \"ia indo e crescendo\". Não é um salto, é uma subida. E a frase seguinte dá o motivo fora de Davi: o crescimento é descrito como consequência de uma presença, não de um talento. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 11. Todo o Israel se reúne em Hebrom e unge Davi rei. Ele toma a fortaleza de Sião, que passa a se chamar Cidade de Davi, e o capítulo se enche de nomes: a lista dos seus guerreiros. No meio dela, uma cena estranha — três deles atravessam o acampamento filisteu para buscar água da cisterna de Belém, e Davi se recusa a beber, derramando a água diante do Senhor. O capítulo que celebra o poder de Davi guarda, no centro, o momento em que ele abre mão de um privilégio. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: O Cronista atribui o crescimento de Davi à presença do Senhor, e não à sua competência militar, o que desloca a pergunta de \"o que eu consegui?\" para \"quem estava comigo?\".",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: Ao recusar a água que três homens arriscaram a vida para trazer, Davi reconhece que há privilégios cujo preço foi pago por outros e que não deveriam ser consumidos com naturalidade.",
+      "E, no meio da sua própria história, guarde isto com carinho: A lista de nomes ao lado do nome do rei sugere que nenhum reinado é individual, ainda que apenas um nome apareça no título."
+    ],
+    "questions": [
+      "Com sinceridade: Você tem lido seu próprio crescimento como mérito ou como presença de Deus somada ao trabalho de outros?",
+      "Sem se cobrar uma resposta perfeita: Que \"água de Belém\" chegou até você sem que você medisse o que custou a quem a trouxe?",
+      "Diante de Deus: Quais nomes deveriam aparecer na lista ao lado do seu, e quando foi a última vez que você os disse em voz alta?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, escreva o nome de três pessoas sem as quais algo que você conquistou não teria acontecido. Agradeça a pelo menos uma delas ainda hoje, dizendo especificamente o que ela fez.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. que eu nunca confunda o teu acompanhamento com a minha capacidade. Ensina-me a reconhecer o preço que outros pagaram pelo que hoje me parece normal. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 11 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Todo o Israel reuniu-se com Davi em Hebrom e disse: \"Somos sangue do teu sangue."
+        },
+        {
+          "n": 2,
+          "text": "No passado, mesmo quando Saul era rei, eras tu quem liderava Israel em suas batalhas. E o Senhor, o teu Deus, te disse: ‘Você pastoreará o meu povo Israel, e será o seu governante’ \"."
+        },
+        {
+          "n": 3,
+          "text": "Então todas as autoridades de Israel foram ao encontro do rei Davi em Hebrom, e ele fez um acordo com eles em Hebrom perante o Senhor, e eles ungiram Davi rei de Israel, conforme o Senhor havia anunciado por meio de Samuel."
+        },
+        {
+          "n": 4,
+          "text": "Davi e todos os israelitas marcharam para Jerusalém, que é Jebus. Os jebuseus, habitantes da cidade,"
+        },
+        {
+          "n": 5,
+          "text": "disseram a Davi: \"Você não entrará aqui\". No entanto, Davi conquistou a fortaleza de Sião, a cidade de Davi."
+        },
+        {
+          "n": 6,
+          "text": "Naquele dia Davi tinha dito: \"O primeiro que atacar os jebuseus se tornará o comandante do exército\". Joabe, filho de Zeruia, foi o primeiro, e por isso recebeu o comando do exército."
+        },
+        {
+          "n": 7,
+          "text": "Davi passou a morar na fortaleza, e por isso ela foi chamada cidade de Davi."
+        },
+        {
+          "n": 8,
+          "text": "Ele reconstruiu a cidade ao redor da fortaleza, desde os muros de arrimo até os muros ao redor, e Joabe restaurou o restante da cidade."
+        },
+        {
+          "n": 9,
+          "text": "E Davi foi se tornando cada vez mais poderoso, pois o Senhor dos Exércitos estava com ele."
+        },
+        {
+          "n": 10,
+          "text": "Estes foram os chefes dos principais guerreiros de Davi, que junto com todo Israel, deram um grande apoio para estender o seu reinado a todo o país, conforme o Senhor havia prometido."
+        },
+        {
+          "n": 11,
+          "text": "Esta é a lista deles: Jasobeão, um hacmonita, era o chefe dos oficiais; foi ele que, empunhando sua lança, matou trezentos homens numa mesma batalha."
+        },
+        {
+          "n": 12,
+          "text": "Depois, Eleazar, filho de Dodô, de Aoí, um dos três principais guerreiros."
+        },
+        {
+          "n": 13,
+          "text": "Ele estava com Davi na plantação de cevada de Pas-Damim, onde os filisteus se reuniram para a guerra. As tropas israelitas fugiram dos filisteus,"
+        },
+        {
+          "n": 14,
+          "text": "mas eles mantiveram sua posição no meio da plantação. Eles o defenderam e feriram os filisteus, e o Senhor lhes deu uma grande vitória."
+        },
+        {
+          "n": 15,
+          "text": "Quando um grupo de filisteus estava acampado no vale de Refaim, três chefes do pelotão dos trinta foram encontrar Davi na rocha que há perto da caverna de Adulão."
+        },
+        {
+          "n": 16,
+          "text": "Estando Davi nessa fortaleza, e o destacamento filisteu em Belém,"
+        },
+        {
+          "n": 17,
+          "text": "Davi expressou seu desejo: \"Quem me dera me trouxessem água da cisterna que fica junto à porta de Belém! \""
+        },
+        {
+          "n": 18,
+          "text": "Então aqueles três infiltraram-se no acampamento filisteu, tiraram água daquela cisterna e a trouxeram a Davi. Mas ele se recusou a beber; em vez disso, derramou-a como uma oferta ao Senhor."
+        },
+        {
+          "n": 19,
+          "text": "\"Longe de mim fazer isso, ó meu Deus! \", disse Davi. \"Esta água representa o sangue desses homens que arriscaram a própria vida! \" Eles arriscaram a vida para trazê-la. E não quis bebê-la. Foram essas as proezas dos três principais guerreiros."
+        },
+        {
+          "n": 20,
+          "text": "Abisai, o irmão de Joabe, era o chefe do batalhão dos trinta. Com uma lança enfrentou trezentos homens e os matou, tornando-se tão famoso quanto os três."
+        },
+        {
+          "n": 21,
+          "text": "Foi honrado duas vezes mais do que o batalhão dos trinta, e se tornou chefe deles, mas nunca igualou-se aos três principais guerreiros."
+        },
+        {
+          "n": 22,
+          "text": "Benaia, filho de Joiada, era um corajoso soldado de Cabzeel, e realizou grandes feitos. Matou dois dos melhores guerreiros de Moabe e, num dia de neve, desceu em uma cova e matou um leão."
+        },
+        {
+          "n": 23,
+          "text": "Também matou um egípcio de dois metros e vinte e cinco centímetros de altura. Embora o egípcio tivesse na mão uma lança parecida com uma lançadeira de tecelão, Benaia o enfrentou com um cajado. Arrancou a lança da mão do egípcio e com ela o matou."
+        },
+        {
+          "n": 24,
+          "text": "Esses foram os grandes feitos de Benaia, filho de Joiada, que também foi tão famoso quanto os três principais guerreiros de Davi."
+        },
+        {
+          "n": 25,
+          "text": "Foi mais honrado do que qualquer dos trinta, mas nunca igualou-se aos três. E Davi lhe deu o comando da sua guarda pessoal."
+        },
+        {
+          "n": 26,
+          "text": "Os outros guerreiros foram: Asael, irmão de Joabe; Elanã, filho de Dodô, de Belém;"
+        },
+        {
+          "n": 27,
+          "text": "Samote, de Haror; Helez, de Pelom;"
+        },
+        {
+          "n": 28,
+          "text": "Ira, filho de Iques, de Tecoa; Abiezer, de Anatote;"
+        },
+        {
+          "n": 29,
+          "text": "Sibecai, de Husate; Ilai, de Aoí;"
+        },
+        {
+          "n": 30,
+          "text": "Maarai, de Netofate; Helede, filho de Baaná, de Netofate;"
+        },
+        {
+          "n": 31,
+          "text": "Itai, filho de Ribai, de Gibeá de Benjamim; Benaia, de Piratom;"
+        },
+        {
+          "n": 32,
+          "text": "Hurai, dos riachos de Gaás; Abiel, de Arbate;"
+        },
+        {
+          "n": 33,
+          "text": "Azmavete, de Baarum; Eliaba, de Saalbom;"
+        },
+        {
+          "n": 34,
+          "text": "os filhos de Hasém, de Gizom; Jônatas, filho de Sage, de Harar;"
+        },
+        {
+          "n": 35,
+          "text": "Aião, filho de Sacar, de Harar; Elifal, filho de Ur;"
+        },
+        {
+          "n": 36,
+          "text": "Héfer, de Mequerate; Aías, de Pelom;"
+        },
+        {
+          "n": 37,
+          "text": "Hezro, de Carmelo; Naarai, filho de Ezbai;"
+        },
+        {
+          "n": 38,
+          "text": "Joel, irmão de Natã; Mibar, filho de Hagri;"
+        },
+        {
+          "n": 39,
+          "text": "o amonita Zeleque; Naarai, de Beerote, escudeiro de Joabe, filho de Zeruia;"
+        },
+        {
+          "n": 40,
+          "text": "Ira e Garebe, de Jatir;"
+        },
+        {
+          "n": 41,
+          "text": "Urias, o hitita; Zabade, filho de Alai;"
+        },
+        {
+          "n": 42,
+          "text": "Adina, filho de Siza, de Rúben, chefe dos rubenitas e do grupo dos trinta;"
+        },
+        {
+          "n": 43,
+          "text": "Hanã, filho de Maaca; Josafá, de Mitene;"
+        },
+        {
+          "n": 44,
+          "text": "Uzia, de Asterate; Sama e Jeiel, filhos de Hotão, de Aroer;"
+        },
+        {
+          "n": 45,
+          "text": "Jediael, filho de Sinri; seu irmão, Joá, de Tiz;"
+        },
+        {
+          "n": 46,
+          "text": "Eliel, de Maave; Jeribai e Josavias, filhos de Elnaão; Itma, um moabita,"
+        },
+        {
+          "n": 47,
+          "text": "e Eliel, Obede e Jaasiel, de Mezoba."
+        }
+      ]
+    }
+  },
+  {
+    "day": 5,
+    "theme": "Saber o que fazer agora é diferente de saber o que é certo em tese",
+    "date": "1 Crônicas 12",
+    "verse": {
+      "text": "Da tribo de Issacar, 200 chefes que sabiam como Israel devia agir em qualquer circunstância.",
+      "ref": "1 Crônicas 12.32"
+    },
+    "word": {
+      "original": "עֵת",
+      "translit": "et",
+      "lang": "hebraico",
+      "meaning": "tempo, momento oportuno",
+      "note": "et carrega a ideia de tempo, momento oportuno. O hebraico descreve os homens de Issacar como \"entendidos nos tempos\" (yod'ei binah la-ittim). Et não é o tempo do relógio, e sim o momento carregado de significado — a hora em que uma coisa deve ser feita. Discernir o et é diferente de saber o certo em tese: é saber o certo agora. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 12. O capítulo cataloga quem se juntou a Davi, desde os dias de Ziclague, quando ele ainda era fugitivo, até a grande assembleia de Hebrom. Há benjamitas — parentes de Saul —, gaditas com rosto de leão, homens que atravessaram o Jordão na cheia. O Cronista faz questão de registrar que muitos apostaram em Davi antes de a aposta ser segura. E destaca, entre tantos guerreiros, um grupo cuja arma era outra: entender o tempo. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: Entre listas de homens armados, o Cronista reserva um lugar de honra para os que sabiam ler o momento, sugerindo que discernimento é uma forma de força.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: Muitos dos que aparecem nessa lista se aliaram a Davi quando ele ainda estava em Ziclague, o que significa que lealdade tem mais valor quando ainda é arriscada.",
+      "E, no meio da sua própria história, guarde isto com carinho: Havia benjamitas entre eles, parentes da casa de Saul, e isso mostra que a adesão a um novo caminho pode custar o rompimento com a própria origem."
+    ],
+    "questions": [
+      "Com sinceridade: Você sabe o que é certo em geral, mas tem dificuldade de discernir o que é certo agora?",
+      "Sem se cobrar uma resposta perfeita: Existe alguém ou alguma causa em que você só vai apostar depois que for seguro apostar?",
+      "Diante de Deus: Que lealdade sua hoje custa algum desconforto com o seu próprio grupo de origem?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, escolha uma decisão que você vem adiando à espera do momento perfeito. Defina hoje um prazo concreto para ela, mesmo que curto.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me o entendimento dos tempos: não apenas saber o que é certo, mas reconhecer a hora de fazê-lo. E coragem para me comprometer antes que seja confortável. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 12 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Estes são os que se juntaram a Davi em Ziclague, onde se escondia de Saul, filho de Quis. Eles estavam entre os combatentes que o ajudaram na guerra;"
+        },
+        {
+          "n": 2,
+          "text": "utilizavam arco e flecha e a funda para atirar pedras tanto com a mão direita como com a esquerda; pertenciam à tribo de Benjamim e eram parentes de Saul:"
+        },
+        {
+          "n": 3,
+          "text": "Aiezer, o chefe deles, e Joás, filhos de Semaá, de Gibeate; Jeziel e Pelete, filhos de Azmavete; Beraca, Jeú, de Anatote,"
+        },
+        {
+          "n": 4,
+          "text": "e Ismaías, de Gibeom, um grande guerreiro do pelotão dos trinta, e chefe deles; Jeremias, Jaaziel, Joanã, Jozabade, de Gederate,"
+        },
+        {
+          "n": 5,
+          "text": "Eluzai, Jeremote, Bealías, Semarias e Sefatias, de Harufe;"
+        },
+        {
+          "n": 6,
+          "text": "os coreítas Elcana, Issias, Azareel, Joezer e Jasobeão;"
+        },
+        {
+          "n": 7,
+          "text": "e Joela e Zebadias, filhos de Jeroão de Gedor."
+        },
+        {
+          "n": 8,
+          "text": "Da tribo de Gade alguns aliaram-se a Davi em sua fortaleza no deserto. Eram guerreiros corajosos, prontos para o combate, e sabiam lutar com escudo e com lança. Tinham a bravura de um leão, e eram ágeis como gazelas nos montes."
+        },
+        {
+          "n": 9,
+          "text": "Ézer era o primeiro; Obadias, o segundo; Eliabe, o terceiro;"
+        },
+        {
+          "n": 10,
+          "text": "Mismana, o quarto; Jeremias, o quinto;"
+        },
+        {
+          "n": 11,
+          "text": "Atai, o sexto; Eliel, o sétimo;"
+        },
+        {
+          "n": 12,
+          "text": "Joanã, o oitavo; Elzabade, o nono;"
+        },
+        {
+          "n": 13,
+          "text": "Jeremias, o décimo; e Macbanai era o décimo primeiro."
+        },
+        {
+          "n": 14,
+          "text": "Todos esses de Gade eram chefes de exército; o menor valia por cem, e o maior enfrentava mil."
+        },
+        {
+          "n": 15,
+          "text": "Foram eles que atravessaram o Jordão no primeiro mês do ano, quando o rio transborda em todas as suas margens, e puseram em fuga todos os que moravam nos vales, a leste e a oeste."
+        },
+        {
+          "n": 16,
+          "text": "Alguns outros benjamitas e certos homens de Judá também vieram a Davi em sua fortaleza."
+        },
+        {
+          "n": 17,
+          "text": "Davi saiu ao encontro deles e lhes disse: \"Se vocês vieram em paz, para me ajudarem, estou pronto para recebê-los. Mas, se querem trair-me e entregar-me aos meus inimigos quando minhas mãos não cometeram violência, que o Deus de nossos antepassados veja isso e julgue vocês\"."
+        },
+        {
+          "n": 18,
+          "text": "Então o Espírito veio sobre Amasai, chefe do pelotão dos trinta, e ele disse: \"Somos teus, ó Davi! Estamos contigo, ó filho de Jessé! Paz, paz seja contigo, e aos teus aliados, pois o teu Deus te ajudará\". Davi os recebeu e os nomeou chefes de seus grupos de ataque."
+        },
+        {
+          "n": 19,
+          "text": "Alguns soldados de Manassés desertaram para Davi quando ele foi com os filisteus guerrear contra Saul. Mas eles não ajudaram os filisteus, porque os seus chefes os aconselharam e os mandaram embora, dizendo: \"Pagaremos com a vida, caso Davi deserte e passe para Saul, seu senhor\"."
+        },
+        {
+          "n": 20,
+          "text": "Estes foram os homens de Manassés que desertaram para Davi quando ele foi a Ziclague: Adna, Jozabade, Jediael, Micael, Jozabade, Eliú e Ziletai, chefes de batalhões de mil em Manassés."
+        },
+        {
+          "n": 21,
+          "text": "Eles ajudaram Davi contra grupos de ataque, pois todos eles eram guerreiros valentes, e eram líderes no exército dele."
+        },
+        {
+          "n": 22,
+          "text": "De fato, diariamente chegavam soldados para ajudar Davi, até que seu exército tornou-se tão grande como o exército de Deus."
+        },
+        {
+          "n": 23,
+          "text": "Este é o número dos soldados armados para a guerra que vieram a Davi em Hebrom para entregar a ele o reino de Saul, conforme o Senhor tinha dito:"
+        },
+        {
+          "n": 24,
+          "text": "Da tribo de Judá, 6. 800 armados para a guerra, com escudo e lança;"
+        },
+        {
+          "n": 25,
+          "text": "Da tribo de Simeão, 7. 100 guerreiros prontos para o combate;"
+        },
+        {
+          "n": 26,
+          "text": "Da tribo de Levi, 4. 600,"
+        },
+        {
+          "n": 27,
+          "text": "inclusive Joiada, líder da família de Arão, com 3. 700 homens,"
+        },
+        {
+          "n": 28,
+          "text": "e Zadoque, um jovem e valente guerreiro, com 22 oficiais de sua família;"
+        },
+        {
+          "n": 29,
+          "text": "Da tribo de Benjamim, parentes de Saul, 3. 000, a maioria dos quais era até então fiel à família de Saul;"
+        },
+        {
+          "n": 30,
+          "text": "Da tribo de Efraim, 20. 800 soldados valentes, famosos em seus próprios clãs;"
+        },
+        {
+          "n": 31,
+          "text": "Da metade da tribo de Manassés, 18. 000, indicados por nome para fazerem Davi rei;"
+        },
+        {
+          "n": 32,
+          "text": "Da tribo de Issacar, 200 chefes que sabiam como Israel devia agir em qualquer circunstância. Comandavam todos os seus parentes;"
+        },
+        {
+          "n": 33,
+          "text": "Da tribo de Zebulom, 50. 000 soldados experientes, preparados para guerrear com qualquer tipo de arma, totalmente decididos a ajudar Davi;"
+        },
+        {
+          "n": 34,
+          "text": "Da tribo de Naftali, 1. 000 líderes com 37. 000 homens armados de escudos e lanças;"
+        },
+        {
+          "n": 35,
+          "text": "Da tribo de Dã, 28. 600 prontos para o combate;"
+        },
+        {
+          "n": 36,
+          "text": "Da tribo de Aser, 40. 000 soldados experientes, preparados para o combate;"
+        },
+        {
+          "n": 37,
+          "text": "e do leste do Jordão, das tribos de Rúben e de Gade, e da metade da tribo de Manassés, 120. 000 completamente armados."
+        },
+        {
+          "n": 38,
+          "text": "Todos esses eram homens de combate que se apresentaram voluntariamente para servirem nas fileiras. Foram a Hebrom totalmente decididos a fazerem de Davi rei sobre todo o Israel. E todos os outros israelitas tinham esse mesmo propósito."
+        },
+        {
+          "n": 39,
+          "text": "Ficaram com Davi três dias, comendo e bebendo, pois as suas famílias haviam fornecido provisões para eles."
+        },
+        {
+          "n": 40,
+          "text": "Os habitantes das tribos vizinhas e também de lugares distantes como Issacar, Zebulom e Naftali, trouxeram-lhes muitas provisões em jumentos, camelos, mulas e bois: farinha, bolos de figo, bolos de uvas passas, vinho, azeite, bois e ovelhas, pois havia grande alegria em Israel."
+        }
+      ]
+    }
+  },
+  {
+    "day": 6,
+    "theme": "Quando algo dá errado mesmo tendo sido feito com boa intenção",
+    "date": "1 Crônicas 13",
+    "verse": {
+      "text": "Davi ficou contrariado porque o Senhor, em sua ira, havia fulminado Uzá. Até hoje aquele lugar é chamado Perez-Uzá.",
+      "ref": "1 Crônicas 13.11"
+    },
+    "word": {
+      "original": "פֶּרֶץ",
+      "translit": "perets",
+      "lang": "hebraico",
+      "meaning": "rompimento, brecha aberta à força",
+      "note": "perets carrega a ideia de rompimento, brecha aberta à força. Perets é a brecha no muro, o rompimento de uma barragem. O mesmo substantivo aparece em Baal-Perazim no capítulo seguinte, onde o rompimento é a favor de Davi. O Cronista usa a mesma palavra para a bênção e para o juízo: o que rompe pode abrir caminho ou abrir ferida. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 13. Davi consulta todo o Israel e decide trazer a arca de volta. A intenção é boa, a consulta é ampla, a festa é grande — e o método é emprestado dos filisteus: um carro novo, puxado por bois. Quando os bois tropeçam, Uzá estende a mão para firmar a arca e morre ali. Davi fica contrariado e com medo, e a arca passa três meses na casa de Obede-Edom. O capítulo termina sem resolução, e é isso que prepara o capítulo 15. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: Davi consultou o povo inteiro e não consultou a Deus sobre o modo, o que mostra que consenso amplo não é o mesmo que direção certa.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: O carro novo era a solução dos filisteus, e adotar o método de fora sem perguntar se ele cabe é um erro que costuma parecer eficiência.",
+      "E, no meio da sua própria história, guarde isto com carinho: O texto registra que Davi ficou contrariado e com medo, sem corrigir esses sentimentos, o que sugere que há espaço para reagir mal a Deus antes de entender."
+    ],
+    "questions": [
+      "Com sinceridade: Em que área você tem buscado consenso quando o que falta é direção?",
+      "Sem se cobrar uma resposta perfeita: Que \"carro novo\" você importou de fora por parecer eficiente, sem perguntar se era o caminho?",
+      "Diante de Deus: Há alguma contrariedade sua com Deus que você não tem permitido a si mesmo admitir?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, pense em um projeto em andamento e pergunte não \"isto é bom?\", mas \"isto está sendo feito do jeito certo?\". Escreva uma resposta honesta.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. perdoa as vezes em que a minha boa intenção me dispensou de te perguntar como. Recebe também a minha contrariedade quando eu não entendo, e ensina-me no caminho. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 13 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Depois de consultar todos os seus oficiais, os comandantes de mil e de cem,"
+        },
+        {
+          "n": 2,
+          "text": "Davi disse a toda a assembléia de Israel: \"Se vocês estão de acordo e se esta é a vontade do Senhor nosso Deus, enviemos uma mensagem a nossos irmãos em todo o território de Israel, e também aos sacerdotes e aos levitas que estão com eles em suas cidades, para virem unir-se a nós."
+        },
+        {
+          "n": 3,
+          "text": "Vamos trazer de volta a arca de nosso Deus, pois não nos importamos com ela durante o reinado de Saul\"."
+        },
+        {
+          "n": 4,
+          "text": "Toda a assembléia concordou, pois isso pareceu bem a todo o povo."
+        },
+        {
+          "n": 5,
+          "text": "Então Davi reuniu todos os israelitas, desde o rio Sior, no Egito, até Lebo-Hamate, para trazerem de Quiriate-Jearim a arca de Deus."
+        },
+        {
+          "n": 6,
+          "text": "Davi e todos os israelitas foram a Baalá, que é Quiriate-Jearim, em Judá, para buscar a arca de Deus, o Senhor, entronizado entre os querubins; a arca sobre a qual seu nome é invocado."
+        },
+        {
+          "n": 7,
+          "text": "Da casa de Abinadabe levaram a arca de Deus num carroção novo, conduzido por Uzá e Aiô."
+        },
+        {
+          "n": 8,
+          "text": "Davi e todos os israelitas iam dançando e cantando com todo o vigor diante de Deus, ao som de harpas, liras, tamborins, címbalos e cornetas."
+        },
+        {
+          "n": 9,
+          "text": "Quando chegaram à eira de Quidom, Uzá esticou o braço e segurou a arca, porque os bois haviam tropeçado."
+        },
+        {
+          "n": 10,
+          "text": "A ira do Senhor acendeu-se contra Uzá, e ele o feriu por ter tocado na arca. Uzá morreu ali mesmo, diante de Deus."
+        },
+        {
+          "n": 11,
+          "text": "Davi ficou contrariado porque o Senhor, em sua ira, havia fulminado Uzá. Até hoje aquele lugar é chamado Perez-Uzá."
+        },
+        {
+          "n": 12,
+          "text": "Naquele dia, Davi teve medo de Deus e se perguntou: \"Como vou conseguir levar a arca de Deus? \""
+        },
+        {
+          "n": 13,
+          "text": "Por isso desistiu de levar a arca para a cidade de Davi. Em vez disso, levou-a para a casa de Obede-Edom, de Gate."
+        },
+        {
+          "n": 14,
+          "text": "A arca de Deus ficou na casa dele por três meses, e o Senhor abençoou sua família e tudo o que possuía."
+        }
+      ]
+    }
+  },
+  {
+    "day": 7,
+    "theme": "A resposta de ontem não é automaticamente a resposta de hoje",
+    "date": "1 Crônicas 14",
+    "verse": {
+      "text": "Davi perguntou a Deus: \"Devo atacar os filisteus? Tu os entregarás nas minhas mãos?\" O Senhor lhe respondeu: \"Vá, eu os entregarei nas suas mãos\".",
+      "ref": "1 Crônicas 14.10"
+    },
+    "word": {
+      "original": "שָׁאַל",
+      "translit": "sha'al",
+      "lang": "hebraico",
+      "meaning": "perguntar, consultar, pedir",
+      "note": "sha'al carrega a ideia de perguntar, consultar, pedir. Sha'al é a raiz do nome de Saul — Sha'ul, literalmente \"o pedido\". O Cronista acabou de dizer que Saul morreu por consultar a médium em vez do Senhor. Agora mostra Davi consultando duas vezes seguidas, e recebendo na segunda uma resposta diferente da primeira. O contraste entre os dois reis está montado sobre um mesmo verbo. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 14. Hirão de Tiro manda material e operários, Davi constrói seu palácio e o texto diz que ele teve certeza de que o Senhor o confirmara como rei. Então os filisteus atacam duas vezes. Davi pergunta a Deus antes da primeira e vence. Pergunta de novo antes da segunda — e a resposta muda: desta vez, dê a volta e espere o som de passos no alto das amoreiras. A mesma pergunta, dois métodos diferentes. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: Davi pergunta de novo diante de uma situação aparentemente idêntica, e Deus responde de modo diferente, o que impede que a obediência vire fórmula.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: A confirmação de que Deus o estabelecera como rei não dispensou Davi de consultar, mostrando que segurança na vocação e dependência diária convivem.",
+      "E, no meio da sua própria história, guarde isto com carinho: O Cronista coloca esse capítulo logo depois do fracasso com a arca, sugerindo que aprender a perguntar é o fruto de ter errado o método uma vez."
+    ],
+    "questions": [
+      "Com sinceridade: Que resposta antiga de Deus você tem aplicado a uma situação nova sem voltar a perguntar?",
+      "Sem se cobrar uma resposta perfeita: Sua segurança sobre o chamado tem alimentado dependência ou autossuficiência?",
+      "Diante de Deus: Que erro recente poderia estar te ensinando a perguntar melhor, em vez de só te envergonhar?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, identifique uma situação em que você está repetindo o que funcionou antes. Pare hoje e pergunte a Deus se o caminho desta vez é o mesmo.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. livra-me de transformar tuas respostas em fórmulas. Ensina-me a perguntar de novo, mesmo quando tudo parece igual ao que já vivi. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 14 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Hirão, rei de Tiro, enviou a Davi uma delegação, que lhe trouxe toras de cedro, e também pedreiros e carpinteiros, para lhe construírem um palácio."
+        },
+        {
+          "n": 2,
+          "text": "Então Davi teve certeza de que o Senhor o confirmara como rei de Israel e que seu reino estava prosperando por amor de seu povo Israel."
+        },
+        {
+          "n": 3,
+          "text": "Em Jerusalém Davi tomou para si mais mulheres e gerou mais filhos e filhas."
+        },
+        {
+          "n": 4,
+          "text": "Estes são os nomes dos que lhe nasceram ali: Samua, Sobabe, Natã, Salomão,"
+        },
+        {
+          "n": 5,
+          "text": "Ibar, Elisua, Elpelete,"
+        },
+        {
+          "n": 6,
+          "text": "Nogá, Nefegue, Jafia,"
+        },
+        {
+          "n": 7,
+          "text": "Elisama, Beeliada e Elifelete."
+        },
+        {
+          "n": 8,
+          "text": "Quando os filisteus ficaram sabendo que Davi tinha sido ungido rei de todo o Israel, foram com todo o exército prendê-lo, mas Davi soube disso e saiu para enfrentá-los."
+        },
+        {
+          "n": 9,
+          "text": "Tendo os filisteus invadido o vale de Refaim,"
+        },
+        {
+          "n": 10,
+          "text": "Davi perguntou a Deus: \"Devo atacar os filisteus? Tu os entregarás nas minhas mãos? \" O Senhor lhe respondeu: \"Vá, eu os entregarei nas suas mãos\"."
+        },
+        {
+          "n": 11,
+          "text": "Então Davi e seus soldados foram a Baal-Perazim, e Davi os derrotou e disse: \"Assim como as águas de uma enchente causam destruição, pelas minhas mãos Deus destruiu os meus inimigos\". Então, aquele lugar passou a ser chamado Baal-Perazim."
+        },
+        {
+          "n": 12,
+          "text": "Como os filisteus haviam abandonado os seus ídolos ali, Davi ordenou que fossem queimados."
+        },
+        {
+          "n": 13,
+          "text": "Os filisteus voltaram a atacar o vale;"
+        },
+        {
+          "n": 14,
+          "text": "então Davi consultou Deus de novo, que lhe respondeu: \"Não ataque pela frente, mas dê a volta por trás deles e ataque-os em frente das amoreiras."
+        },
+        {
+          "n": 15,
+          "text": "Assim que você ouvir um som de passos por cima das amoreiras, saia para o combate, pois este é o sinal de que Deus saiu à sua frente para ferir o exército filisteu\"."
+        },
+        {
+          "n": 16,
+          "text": "E Davi fez como Deus lhe tinha ordenado, e eles derrotaram o exército filisteu, por todo o caminho, desde Gibeom até Gezer."
+        },
+        {
+          "n": 17,
+          "text": "Assim, a fama de Davi espalhou-se por todas as terras, e o Senhor fez com que todas as nações o temessem."
+        }
+      ]
+    }
+  },
+  {
+    "day": 8,
+    "theme": "Recomeçar é diferente de repetir: dá para voltar fazendo do jeito certo",
+    "date": "1 Crônicas 15",
+    "verse": {
+      "text": "Pelo fato de vocês não terem carregado a arca na primeira vez, a ira do Senhor nosso Deus causou destruição entre nós. Nós não o tínhamos consultado sobre como proceder.",
+      "ref": "1 Crônicas 15.13"
+    },
+    "word": {
+      "original": "קָדַשׁ",
+      "translit": "qadash",
+      "lang": "hebraico",
+      "meaning": "consagrar, separar para um uso",
+      "note": "qadash carrega a ideia de consagrar, separar para um uso. Qadash não significa \"ficar bom\"; significa ser separado para um propósito. Davi ordena que os levitas se consagrem antes de tocar na arca. A santidade aqui é menos sobre mérito moral e mais sobre estar designado — a pessoa certa, no lugar certo, para a função certa. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 15. Três meses depois de Perez-Uzá, Davi tenta de novo. Desta vez prepara um lugar para a arca, convoca os levitas e diz em voz alta o que errou: ninguém consultou o Senhor sobre como proceder. Os levitas se consagram, carregam a arca nos ombros com varas, como a Lei mandava, e a subida vira festa com música organizada. No fim do capítulo, Mical vê Davi dançando e o despreza — a alegria do rei não agrada a todos. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: Davi nomeia publicamente o próprio erro antes de tentar de novo, e reconhecer o que falhou é parte do método correto, não um constrangimento a ser pulado.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: A consagração dos levitas acontece antes do carregamento, indicando que quem faz a obra precisa ser preparado antes da obra começar.",
+      "E, no meio da sua própria história, guarde isto com carinho: A mesma alegria que Davi expressa diante de Deus é desprezada por alguém de dentro de casa, lembrando que adoração sincera nem sempre encontra plateia simpática."
+    ],
+    "questions": [
+      "Com sinceridade: Existe algo que você quer tentar de novo, mas ainda não nomeou o que deu errado da primeira vez?",
+      "Sem se cobrar uma resposta perfeita: Você tem se preparado para a tarefa ou apenas se apressado para executá-la?",
+      "Diante de Deus: Que expressão sincera sua já foi desprezada por alguém próximo, e como isso afetou sua liberdade?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, escolha um fracasso recente e escreva em uma frase o que exatamente falhou no método, não no resultado. Guarde essa frase antes de tentar de novo.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me a humildade de dizer em voz alta onde errei, e a paciência de me preparar antes de agir. Que a minha alegria diante de ti não dependa da aprovação de quem olha. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 15 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Depois de Davi ter construído casas para si na cidade de Davi, ele preparou um lugar para a arca de Deus e armou uma tenda para ela."
+        },
+        {
+          "n": 2,
+          "text": "Então Davi disse: \"Somente os levitas poderão carregar a arca de Deus, pois o Senhor os escolheu para transportarem a arca do Senhor e para ficarem sempre ao seu serviço\"."
+        },
+        {
+          "n": 3,
+          "text": "Davi reuniu todo o Israel em Jerusalém para levar a arca do Senhor para o lugar que ele lhe havia preparado."
+        },
+        {
+          "n": 4,
+          "text": "Reuniu também os descendentes de Arão e os levitas:"
+        },
+        {
+          "n": 5,
+          "text": "Dos descendentes de Coate, Uriel, liderando outros 120;"
+        },
+        {
+          "n": 6,
+          "text": "dos descendentes de Merari, Asaías, liderando outros 220;"
+        },
+        {
+          "n": 7,
+          "text": "dos descendentes de Gérson, Joel, liderando outros 130;"
+        },
+        {
+          "n": 8,
+          "text": "dos descendentes de Elisafã, Semaías, liderando outros 200;"
+        },
+        {
+          "n": 9,
+          "text": "dos descendentes de Hebrom, Eliel, liderando outros 80;"
+        },
+        {
+          "n": 10,
+          "text": "dos descendentes de Uziel, Aminadabe, liderando outros 112."
+        },
+        {
+          "n": 11,
+          "text": "Então Davi convocou os sacerdotes Zadoque e Abiatar, e os levitas Uriel, Asaías, Joel, Semaías, Eliel e Aminadabe, e"
+        },
+        {
+          "n": 12,
+          "text": "lhes disse: \"Vocês são os chefes das famílias levitas; vocês e seus companheiros levitas deverão consagrar-se e levar a arca do Senhor, o Deus de Israel, para o local que preparei para ela."
+        },
+        {
+          "n": 13,
+          "text": "Pelo fato de vocês não terem carregado a arca na primeira vez, a ira do Senhor nosso Deus causou destruição entre nós. Nós não o tínhamos consultado sobre como proceder\"."
+        },
+        {
+          "n": 14,
+          "text": "Então os sacerdotes e os levitas se consagraram para transportar a arca do Senhor, o Deus de Israel."
+        },
+        {
+          "n": 15,
+          "text": "E os levitas carregaram a arca de Deus apoiando as varas da arca sobre os ombros, conforme Moisés tinha ordenado, de acordo com a palavra do Senhor."
+        },
+        {
+          "n": 16,
+          "text": "Davi também ordenou aos líderes dos levitas que encarregassem os músicos que havia entre eles de cantar músicas alegres, acompanhados por instrumentos musicais: liras, harpas e címbalos sonoros."
+        },
+        {
+          "n": 17,
+          "text": "Assim, os levitas escolheram Hemã, filho de Joel, e Asafe, um parente dele; e dentre os meraritas, seus parentes, escolheram Etã, filho de Cuxaías;"
+        },
+        {
+          "n": 18,
+          "text": "e com eles seus parentes que estavam no segundo escalão: Zacarias, Jaaziel, Semiramote, Jeiel, Uni, Eliabe, Benaia, Maaséias, Matitias, Elifeleu, Micnéias, Obede-Edom e Jeiel, os porteiros."
+        },
+        {
+          "n": 19,
+          "text": "Os músicos Hemã, Asafe e Etã deviam tocar os címbalos de bronze;"
+        },
+        {
+          "n": 20,
+          "text": "Zacarias, Aziel, Semiramote, Jeiel, Uni, Eliabe, Maaséias e Benaia deviam tocar as liras, acompanhando o soprano,"
+        },
+        {
+          "n": 21,
+          "text": "e Matitias, Elifeleu, Micnéias, Obede-Edom, Jeiel e Azazias deviam tocar as harpas em oitava, marcando o ritmo."
+        },
+        {
+          "n": 22,
+          "text": "Quenanias, o chefe dos levitas, ficou encarregado dos cânticos; essa era sua responsabilidade, pois ele era capaz nisso."
+        },
+        {
+          "n": 23,
+          "text": "Berequias e Elcana seriam porteiros. Eles deveriam proteger a arca."
+        },
+        {
+          "n": 24,
+          "text": "Os sacerdotes Sebanias, Josafá, Natanael, Amasai, Zacarias, Benaia e Eliézer deviam tocar as cornetas diante da arca de Deus. Obede-Edom e Jeías também deviam ser porteiros, para vigiar a arca."
+        },
+        {
+          "n": 25,
+          "text": "Assim, com grande festa, foram Davi, as autoridades de Israel e os líderes de batalhões de mil buscar a arca da aliança do Senhor na casa de Obede-Edom."
+        },
+        {
+          "n": 26,
+          "text": "Como Deus havia poupado os levitas que carregavam a arca da aliança do Senhor, sete novilhos e sete carneiros foram sacrificados."
+        },
+        {
+          "n": 27,
+          "text": "E Davi vestia um manto de linho fino, assim como também todos os levitas que carregavam a arca, os músicos e Quenanias, chefe dos músicos. E Davi vestia também o colete sacerdotal de linho."
+        },
+        {
+          "n": 28,
+          "text": "E todo Israel acompanhou a arca da aliança do Senhor alegremente, ao som de trombetas, cornetas e címbalos, ao toque de liras e de harpas."
+        },
+        {
+          "n": 29,
+          "text": "Aconteceu que, entrando a arca da aliança do Senhor na cidade de Davi, Mical, filha de Saul, observava de uma janela. E, ao ver o rei Davi dançando e comemorando, ela o desprezou em seu coração."
+        }
+      ]
+    }
+  },
+  {
+    "day": 9,
+    "theme": "A gratidão que não é dita em voz alta costuma se dissolver",
+    "date": "1 Crônicas 16",
+    "verse": {
+      "text": "Dêem graças ao Senhor, clamem pelo seu nome, divulguem entre as nações o que ele tem feito.",
+      "ref": "1 Crônicas 16.8"
+    },
+    "word": {
+      "original": "יָדָה",
+      "translit": "yadah",
+      "lang": "hebraico",
+      "meaning": "dar graças, reconhecer publicamente",
+      "note": "yadah carrega a ideia de dar graças, reconhecer publicamente. Yadah vem da raiz de \"mão\" e carrega o gesto de estender a mão, apontar, confessar diante de outros. Dar graças, nesse sentido, não é um sentimento privado: é um reconhecimento dito em público. A mesma raiz serve para confessar pecado e para louvar — em ambos os casos, dizer a verdade em voz alta. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 16. A arca chega, e Davi entrega a Asafe e seus irmãos um salmo para ser cantado ali. O texto é uma costura de trechos que reaparecem nos Salmos 105, 96 e 106. O conteúdo começa com memória — lembrem-se das maravilhas —, passa por convocação às nações e termina com um pedido: reúne-nos e livra-nos. Depois da festa, Davi organiza o serviço permanente diante da arca, e a celebração vira rotina. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: O salmo manda buscar sempre a face do Senhor, e o advérbio importa: buscar não é um evento concluído, é uma prática que se repete.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: A ordem de divulgar entre as nações coloca a gratidão como algo que atravessa fronteiras, e não como assunto interno de uma comunidade.",
+      "E, no meio da sua própria história, guarde isto com carinho: Depois da celebração, Davi estabelece um serviço contínuo diante da arca, mostrando que a festa só se sustenta quando vira rotina organizada."
+    ],
+    "questions": [
+      "Com sinceridade: Quando foi a última vez que você disse a alguém, em voz alta, algo específico que Deus fez?",
+      "Sem se cobrar uma resposta perfeita: Sua gratidão tem sido um sentimento interno ou um reconhecimento público?",
+      "Diante de Deus: Que prática diária poderia sustentar aquilo que você só vive em momentos altos?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, conte a uma pessoa hoje, com detalhe, uma coisa concreta pela qual você é grato a Deus. Não generalize.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. tira a minha gratidão do campo do sentimento e coloca-a na boca. Que eu saiba contar o que fizeste e sustentar, na rotina, o que celebrei na festa. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 16 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Eles trouxeram a arca de Deus e a colocaram na tenda que Davi lhe havia preparado, e ofereceram holocaustos e sacrifícios de comunhão diante de Deus."
+        },
+        {
+          "n": 2,
+          "text": "Após oferecer os holocaustos e os sacrifícios de comunhão, Davi abençoou o povo em nome do Senhor,"
+        },
+        {
+          "n": 3,
+          "text": "e deu um pão, um bolo de tâmaras e um bolo de uvas passas a cada homem e a cada mulher israelita."
+        },
+        {
+          "n": 4,
+          "text": "Davi nomeou alguns dos levitas para ministrarem diante da arca do Senhor, fazendo petições, dando graças, e louvando o Senhor, o Deus de Israel."
+        },
+        {
+          "n": 5,
+          "text": "Desses, Asafe era o chefe, Zacarias vinha em seguida, e depois Jeiel, Semiramote, Jeiel, Matitias, Eliabe, Benaia, Obede-Edom e Jeiel. Eles deviam tocar lira e harpa, enquanto Asafe tocava os címbalos."
+        },
+        {
+          "n": 6,
+          "text": "Os sacerdotes Benaia e Jaaziel deviam tocar diariamente as trombetas diante da arca da aliança de Deus."
+        },
+        {
+          "n": 7,
+          "text": "Foi naquele dia que pela primeira vez Davi encarregou a Asafe e seus parentes de louvar ao Senhor com salmos de gratidão:"
+        },
+        {
+          "n": 8,
+          "text": "Dêem graças ao Senhor, clamem pelo seu nome, divulguem entre as nações o que ele tem feito."
+        },
+        {
+          "n": 9,
+          "text": "Cantem para ele, louvem-no; contem todos os seus atos maravilhosos."
+        },
+        {
+          "n": 10,
+          "text": "Gloriem-se no seu santo nome; alegrem-se os corações dos que buscam o Senhor."
+        },
+        {
+          "n": 11,
+          "text": "Olhem para o Senhor e para a sua força; busquem sempre a sua face."
+        },
+        {
+          "n": 12,
+          "text": "Lembrem-se das maravilhas que ele fez, dos seus prodígios e das ordenanças que pronunciou,"
+        },
+        {
+          "n": 13,
+          "text": "ó descendentes de Israel, seu servo, ó filhos de Jacó, seus escolhidos."
+        },
+        {
+          "n": 14,
+          "text": "Ele é o Senhor, o nosso Deus; seus domínio alcança toda a terra."
+        },
+        {
+          "n": 15,
+          "text": "Para sempre se lembra da sua aliança, da palavra que ordenou para mil gerações,"
+        },
+        {
+          "n": 16,
+          "text": "da aliança que fez com Abraão, do juramento que fez a Isaque,"
+        },
+        {
+          "n": 17,
+          "text": "que confirmou para Jacó como um decreto, e para Israel como uma aliança eterna, dizendo:"
+        },
+        {
+          "n": 18,
+          "text": "\"A vocês darei a terra de Canaã, a herança que possuirão\"."
+        },
+        {
+          "n": 19,
+          "text": "Quando eles ainda eram poucos, muito poucos, e estrangeiros nela,"
+        },
+        {
+          "n": 20,
+          "text": "e vagueavam de nação em nação, de um reino a outro,"
+        },
+        {
+          "n": 21,
+          "text": "ele não permitiu que ninguém os oprimisse; por causa deles repreendeu reis, ordenando:"
+        },
+        {
+          "n": 22,
+          "text": "\"Não maltratem os meus ungidos; não façam mal aos meus profetas\"."
+        },
+        {
+          "n": 23,
+          "text": "Cantem ao Senhor, todas as terras! Proclamem a sua salvação dia após dia!"
+        },
+        {
+          "n": 24,
+          "text": "Anunciem a sua glória entre as nações, seus feitos maravilhosos entre todos os povos!"
+        },
+        {
+          "n": 25,
+          "text": "Pois o Senhor é grande e muitíssimo digno de louvor; ele deve ser mais temido que todos os deuses."
+        },
+        {
+          "n": 26,
+          "text": "Pois todos os deuses das nações não passam de ídolos, mas o Senhor fez os céus."
+        },
+        {
+          "n": 27,
+          "text": "O esplendor e a majestade estão diante dele; força e alegria na sua habitação."
+        },
+        {
+          "n": 28,
+          "text": "Dêem ao Senhor, ó famílias das nações, dêem ao Senhor glória e força."
+        },
+        {
+          "n": 29,
+          "text": "Dêem ao Senhor a glória devida ao seu nome. Tragam ofertas e venham à sua presença. Adorem o Senhor no esplendor da sua santidade,"
+        },
+        {
+          "n": 30,
+          "text": "tremam diante dele, todas as nações! Firmou o mundo, que não se abalará!"
+        },
+        {
+          "n": 31,
+          "text": "Que os céus se alegrem e a terra exulte, e diga-se entre as nações: \"O Senhor reina! \""
+        },
+        {
+          "n": 32,
+          "text": "Ressoe o mar, e tudo o que nele existe; exultem os campos, e tudo o que neles há!"
+        },
+        {
+          "n": 33,
+          "text": "Então as árvores da floresta cantarão de alegria, cantarão diante do Senhor, pois ele vem julgar a terra."
+        },
+        {
+          "n": 34,
+          "text": "Rendam graças ao Senhor, pois ele é bom; o seu amor dura para sempre."
+        },
+        {
+          "n": 35,
+          "text": "Clamem: \"Salva-nos, ó Deus, nosso Salvador! Reúne-nos e livra-nos das nações, para que demos graças ao teu santo nome e façamos do teu louvor a nossa glória\"."
+        },
+        {
+          "n": 36,
+          "text": "Bendito seja o Senhor, o Deus de Israel, de eternidade a eternidade. Então todo o povo exclamou: \"Amém! \" e \"Louvado seja o Senhor! \""
+        },
+        {
+          "n": 37,
+          "text": "Então Davi deixou Asafe e seus parentes diante da arca da aliança do Senhor para ali ministrarem regularmente, de acordo com as prescrições para cada dia."
+        },
+        {
+          "n": 38,
+          "text": "Também deixou Obede-Edom e seus sessenta e oito parentes para ministrarem com eles. Obede-Edom, filho de Jedutum, e também Hosa foram porteiros."
+        },
+        {
+          "n": 39,
+          "text": "Davi deixou o sacerdote Zadoque e seus parentes sacerdotes diante do tabernáculo do Senhor em Gibeom"
+        },
+        {
+          "n": 40,
+          "text": "para regularmente, de manhã e à tarde, apresentarem holocaustos no altar de holocaustos, de acordo com tudo o que está escrito na Lei do Senhor, que ele deu a Israel."
+        },
+        {
+          "n": 41,
+          "text": "Com eles estavam Hemã e Jedutum e os outros designados para darem graças ao Senhor, exclamando: \"O seu amor dura para sempre\"."
+        },
+        {
+          "n": 42,
+          "text": "Hemã e Jedutum eram responsáveis pelas trombetas, pelos címbalos e pelos outros instrumentos musicais para o culto. Os filhos de Jedutum foram designados como porteiros."
+        },
+        {
+          "n": 43,
+          "text": "Então todo o povo partiu, cada um para a sua casa, e Davi voltou para casa para abençoar sua família."
+        }
+      ]
+    }
+  },
+  {
+    "day": 10,
+    "theme": "Você queria dar algo a Deus e descobriu que estava recebendo",
+    "date": "1 Crônicas 17",
+    "verse": {
+      "text": "Então o rei Davi entrou no tabernáculo, assentou-se diante do Senhor, e orou: \"Quem sou eu, ó Senhor Deus, e o que é a minha família, para que me trouxesses a este ponto?\"",
+      "ref": "1 Crônicas 17.16"
+    },
+    "word": {
+      "original": "בַּיִת",
+      "translit": "bayit",
+      "lang": "hebraico",
+      "meaning": "casa, família, dinastia",
+      "note": "bayit carrega a ideia de casa, família, dinastia. O capítulo inteiro gira em torno de um trocadilho: Davi quer construir um bayit (edifício) para Deus, e Deus responde que fará um bayit (dinastia) para Davi. A mesma palavra, dois sentidos, e a troca inverte quem é o construtor. Davi entra querendo dar e sai tendo recebido. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 17. Instalado no palácio de cedro, Davi percebe o desconforto: ele mora bem e a arca está sob uma tenda. Natã aprova de imediato — e naquela noite recebe a correção. Deus não pedira uma casa de cedro a ninguém. A resposta reverte os papéis e promete a Davi uma descendência e um trono firmado para sempre. O capítulo termina com a oração de Davi, que é quase toda feita de perguntas e de repetições do nome de Deus. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: Natã aprova o plano de Davi antes de consultar a Deus, o que mostra que até um conselheiro fiel pode acertar de intenção e errar de rumo.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: Deus recusa a casa que Davi queria construir e promete a casa que Davi não poderia construir, invertendo quem dá e quem recebe.",
+      "E, no meio da sua própria história, guarde isto com carinho: A oração de Davi não pede nada de novo: repete o que Deus disse e pergunta quem ele é, sugerindo que a resposta madura a uma promessa é o assombro."
+    ],
+    "questions": [
+      "Com sinceridade: Que projeto seu para Deus pode estar sendo, na verdade, uma tentativa de retribuir algo que só se recebe?",
+      "Sem se cobrar uma resposta perfeita: Você já recebeu de um conselheiro de confiança uma aprovação rápida demais, que depois precisou ser corrigida?",
+      "Diante de Deus: Se orasse hoje \"quem sou eu para que me trouxesses até aqui\", o que viria em seguida?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, liste o que você tem tentado construir para Deus. Ao lado de cada item, escreva o que, nele, você na verdade recebeu.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. quem sou eu para que me trouxesses até aqui. Livra-me de querer te pagar com edifícios e ensina-me a receber o que só tu constróis. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 17 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "O rei Davi já morava em seu palácio quando, certo dia disse ao profeta Natã: \"Aqui estou eu, morando num palácio de cedro, enquanto a arca da aliança do Senhor permanece numa simples tenda\"."
+        },
+        {
+          "n": 2,
+          "text": "Natã respondeu a Davi: \"Faze o que tiveres em mente, pois Deus está contigo\"."
+        },
+        {
+          "n": 3,
+          "text": "E naquela mesma noite Deus falou a Natã:"
+        },
+        {
+          "n": 4,
+          "text": "\"Vá dizer ao meu servo Davi que assim diz o Senhor: Não será você quem vai construir uma casa para eu morar."
+        },
+        {
+          "n": 5,
+          "text": "Não tenho morado em nenhuma casa, desde o dia em que tirei Israel do Egito, mas fui de uma tenda para outra, e de um tabernáculo para outro."
+        },
+        {
+          "n": 6,
+          "text": "Por onde tenho acompanhado todo o Israel, alguma vez perguntei a algum líder deles, a quem ordenei que pastoreasse o meu povo: Por que você não me construiu um templo de cedro? \""
+        },
+        {
+          "n": 7,
+          "text": "\"Agora pois, diga ao meu servo Davi: ‘Assim diz o Senhor dos Exércitos: Eu o tirei das pastagens, onde cuidava dos rebanhos, para ser o soberano do meu povo Israel."
+        },
+        {
+          "n": 8,
+          "text": "Sempre estive com você por onde você andou, e eliminei todos os seus inimigos. Agora eu o farei tão famoso quanto os homens mais importantes da terra."
+        },
+        {
+          "n": 9,
+          "text": "E providenciarei um lugar para o meu povo Israel e os plantarei lá, para que tenham o seu próprio lar; e não mais sejam incomodados. Povos ímpios não mais os oprimirão, como fizeram no início"
+        },
+        {
+          "n": 10,
+          "text": "e têm feito desde a época em que nomeei juízes sobre meu povo Israel. Também subjugarei todos os seus inimigos. Saiba também que eu, o Senhor, lhe estabelecerei uma dinastia."
+        },
+        {
+          "n": 11,
+          "text": "Quando a sua vida chegar ao fim e você se juntar aos seus antepassados, escolherei um dos seus filhos para sucedê-lo, e eu estabelecerei o reino dele."
+        },
+        {
+          "n": 12,
+          "text": "Será ele quem construirá um templo para mim, e eu firmarei o trono dele para sempre."
+        },
+        {
+          "n": 13,
+          "text": "Eu serei seu pai, e ele será meu filho. Nunca retirarei dele o meu amor, como retirei de Saul."
+        },
+        {
+          "n": 14,
+          "text": "Eu o farei líder do meu povo e do meu reino para sempre; seu reinado será estabelecido para sempre’. \""
+        },
+        {
+          "n": 15,
+          "text": "E Natã transmitiu a Davi tudo o que o Senhor lhe tinha falado e revelado."
+        },
+        {
+          "n": 16,
+          "text": "Então o rei Davi entrou no tabernáculo, assentou-se diante do Senhor, e orou: \"Quem sou eu, ó Senhor Deus, e o que é a minha família, para que me trouxesses a este ponto?"
+        },
+        {
+          "n": 17,
+          "text": "E, como se isso não bastasse para ti, ó Deus, tu falaste sobre o futuro da família deste teu servo. Tens me tratado como um homem de grande importância, ó Senhor Deus\"."
+        },
+        {
+          "n": 18,
+          "text": "\"O que mais Davi poderá dizer-te por honrares o teu servo? Tu conheces o teu servo,"
+        },
+        {
+          "n": 19,
+          "text": "ó Senhor. Por amor do teu servo e de acordo com tua vontade, realizaste este feito grandioso e tornaste conhecidas todas essas grandes promessas."
+        },
+        {
+          "n": 20,
+          "text": "\"Não há ninguém como tu, ó Senhor, nem há outro Deus além de ti, conforme tudo o que sabemos."
+        },
+        {
+          "n": 21,
+          "text": "E quem é como o teu povo Israel, a única nação da terra que tu, ó Deus, resgataste para ti mesmo, e assim tornaste o teu nome famoso, realizaste grandes e impressionantes maravilhas ao expulsar nações de diante do povo que libertaste do Egito?"
+        },
+        {
+          "n": 22,
+          "text": "Tu fizeste do teu povo Israel o teu povo particular para sempre, e tu, ó Senhor, te tornaste o seu Deus."
+        },
+        {
+          "n": 23,
+          "text": "\"Agora, Senhor, que a promessa que fizeste a respeito de teu servo e de sua descendência se confirme para sempre. Faze conforme prometeste,"
+        },
+        {
+          "n": 24,
+          "text": "para que tudo se confirme, para que o teu nome seja engrandecido para sempre e os homens digam: ‘O Senhor dos Exércitos, o Deus de Israel, é Deus para Israel! ’ E a descendência de teu servo Davi se manterá firme diante de ti."
+        },
+        {
+          "n": 25,
+          "text": "\"Tu, meu Deus, revelaste a teu servo que formarás uma dinastia para ele. Por isso teu servo achou coragem para orar a ti."
+        },
+        {
+          "n": 26,
+          "text": "Ó Senhor, tu és Deus! Tu fizeste essa boa promessa a teu servo."
+        },
+        {
+          "n": 27,
+          "text": "Agora, por tua bondade, abençoa a família de teu servo, para que ela continue para sempre na tua presença; pois o que tu, Senhor, abençoas, abençoado está para sempre\"."
+        }
+      ]
+    }
+  },
+  {
+    "day": 11,
+    "theme": "O que você faz com o que conquistou diz mais do que a conquista",
+    "date": "1 Crônicas 18",
+    "verse": {
+      "text": "Davi reinou sobre todo o Israel, administrando o direito e a justiça a todo o seu povo.",
+      "ref": "1 Crônicas 18.14"
+    },
+    "word": {
+      "original": "צְדָקָה",
+      "translit": "tsedaqah",
+      "lang": "hebraico",
+      "meaning": "justiça que restaura o vínculo",
+      "note": "tsedaqah carrega a ideia de justiça que restaura o vínculo. Tsedaqah costuma vir colada a mishpat, e as duas não são sinônimas. Mishpat é a decisão correta no caso concreto; tsedaqah é o estado de relações certas que a decisão deveria produzir. Não basta julgar bem: é preciso que, depois do julgamento, as pessoas voltem a caber juntas. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 18. Uma sequência rápida de campanhas: filisteus, moabitas, Hadadezer de Zobá, arameus de Damasco, edomitas. O Cronista lista o ouro, a prata e o bronze que Davi consagra ao Senhor — o metal das guerras vira material do templo. No fim, a lista dos oficiais do reino. E, entre as conquistas e a burocracia, uma frase sobre o modo de governar: direito e justiça para todo o povo, sem recorte. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: O Cronista registra que os despojos das guerras foram consagrados ao templo, indicando que o destino do ganho revela a intenção de quem ganhou.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: A expressão \"a todo o seu povo\" não admite exceção, e uma justiça que vale só para alguns deixa de ser justiça e vira privilégio.",
+      "E, no meio da sua própria história, guarde isto com carinho: Entre as vitórias e a lista dos funcionários, o texto coloca o modo de governar, sugerindo que a estrutura cotidiana importa tanto quanto os feitos memoráveis."
+    ],
+    "questions": [
+      "Com sinceridade: O que você tem feito com aquilo que conquistou recentemente?",
+      "Sem se cobrar uma resposta perfeita: Existe alguém que fica de fora quando você aplica os seus próprios critérios de justiça?",
+      "Diante de Deus: Sua rotina de trabalho reflete os mesmos valores que você defende nos momentos importantes?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, escolha uma decisão pequena da sua semana e verifique se ela trata igualmente quem não tem como cobrar de você. Ajuste o que for preciso.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. ensina-me a praticar direito e justiça sem recorte, também com quem não pode me cobrar. E que aquilo que eu conquisto encontre um destino digno de ti. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 18 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Depois disso, Davi derrotou os filisteus e os subjugou, e tirou do controle deles a cidade de Gate e seus povoados."
+        },
+        {
+          "n": 2,
+          "text": "Davi derrotou também os moabitas, que ficaram sujeitos a ele, pagando-lhe impostos."
+        },
+        {
+          "n": 3,
+          "text": "Além disso, Davi derrotou Hadadezer, rei de Zobá, nas proximidades de Hamate, quando Hadadezer tentava obter o controle na região do rio Eufrates."
+        },
+        {
+          "n": 4,
+          "text": "Davi se apossou de mil dos seus carros de guerra, sete mil cavaleiros e vinte mil soldados de infantaria. Ainda levou cem cavalos de carros de guerra, e aleijou todos os outros."
+        },
+        {
+          "n": 5,
+          "text": "Quando os arameus de Damasco vieram ajudar Hadadezer, rei de Zobá, Davi matou vinte e dois mil deles."
+        },
+        {
+          "n": 6,
+          "text": "Em seguida estabeleceu guarnições militares no reino dos arameus de Damasco, sujeitando-os a lhe pagarem impostos. E o Senhor dava vitórias a Davi aonde quer que ele fosse."
+        },
+        {
+          "n": 7,
+          "text": "Davi também levou para Jerusalém os escudos de ouro usados pelos oficiais de Hadadezer."
+        },
+        {
+          "n": 8,
+          "text": "De Tebá e Cum, cidades que pertenciam a Hadadezer, o rei Davi levou grande quantidade de bronze, que Salomão utilizou para fazer o tanque de bronze, as colunas e vários utensílios."
+        },
+        {
+          "n": 9,
+          "text": "Quando Toú, rei de Hamate, soube que Davi tinha derrotado todo o exército de Hadadezer, rei de Zobá,"
+        },
+        {
+          "n": 10,
+          "text": "enviou seu filho Hadorão ao rei Davi para saudá-lo e parabenizá-lo por sua vitória na batalha contra Hadadezer, que tinha estado em guerra com Toú. E, com Hadorão, mandou todo tipo de utensílios de ouro, de prata e de bronze."
+        },
+        {
+          "n": 11,
+          "text": "O rei Davi consagrou esses utensílios ao Senhor, como fizera com a prata e o ouro tomados de todas estas nações: Edom e Moabe, os amonitas e os filisteus, e Amaleque."
+        },
+        {
+          "n": 12,
+          "text": "Abisai, filho de Zeruia, derrotou dezoito mil edomitas no vale do Sal."
+        },
+        {
+          "n": 13,
+          "text": "Depois colocou guarnições militares em Edom, sujeitando todos os edomitas a Davi. O Senhor dava vitórias a Davi aonde quer que ele fosse."
+        },
+        {
+          "n": 14,
+          "text": "Davi reinou sobre todo o Israel, administrando o direito e a justiça a todo o seu povo."
+        },
+        {
+          "n": 15,
+          "text": "Joabe, filho de Zeruia, era comandante do exército; Josafá, filho de Ailude, era o arquivista real;"
+        },
+        {
+          "n": 16,
+          "text": "Zadoque, filho de Aitube, e Aimeleque, filho de Abiatar, eram sacerdotes; Sausa era secretário;"
+        },
+        {
+          "n": 17,
+          "text": "Benaia, filho de Joiada, comandava os queretitas e os peletitas; e os filhos do rei Davi eram seus principais oficiais."
+        }
+      ]
+    }
+  },
+  {
+    "day": 12,
+    "theme": "Nem todo gesto seu vai ser lido como você quis que fosse lido",
+    "date": "1 Crônicas 19",
+    "verse": {
+      "text": "Seja forte e lutemos com bravura pelo nosso povo e pelas cidades do nosso Deus. E que o Senhor faça o que for de sua vontade.",
+      "ref": "1 Crônicas 19.13"
+    },
+    "word": {
+      "original": "כָּלַם",
+      "translit": "kalam",
+      "lang": "hebraico",
+      "meaning": "humilhar, envergonhar publicamente",
+      "note": "kalam carrega a ideia de humilhar, envergonhar publicamente. Kalam descreve a vergonha imposta de fora, diante dos outros. Os mensageiros de Davi voltam com as barbas raspadas e as roupas cortadas — uma agressão feita para ser vista. Davi os manda esperar em Jericó até que as barbas cresçam, tratando o tempo de recuperação como parte do cuidado. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 19. Davi envia condolências pela morte do rei amonita, e os conselheiros de Hanum interpretam o gesto como espionagem. Humilham os mensageiros e transformam um ato de bondade em guerra. Segue-se uma campanha grande, com arameus contratados, e Joabe dividindo o exército com o irmão Abisai. A frase do v.13, dita por Joabe antes da batalha, junta coragem e entrega: lutemos com bravura, e que o Senhor faça o que quiser. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: A bondade de Davi é interpretada como ameaça, o que mostra que uma boa intenção não controla a leitura que o outro faz dela.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: Davi manda os homens humilhados esperarem até que as barbas cresçam, tratando o tempo de recuperação como cuidado devido e não como fraqueza.",
+      "E, no meio da sua própria história, guarde isto com carinho: Joabe combina esforço máximo e entrega do resultado na mesma frase, o que impede tanto a passividade quanto a ilusão de controle."
+    ],
+    "questions": [
+      "Com sinceridade: Que gesto seu foi mal interpretado recentemente, e como você reagiu a isso?",
+      "Sem se cobrar uma resposta perfeita: Você dá a si mesmo, ou a quem depende de você, tempo real para se recuperar de uma humilhação?",
+      "Diante de Deus: Em que situação você precisa agir com tudo e, ao mesmo tempo, soltar o resultado?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, pense em alguém que passou por um constrangimento público recente. Ofereça a essa pessoa algo concreto que respeite o tempo dela, sem exigir que já esteja bem.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. quando a minha bondade for mal lida, guarda-me do ressentimento. Dá-me coragem para fazer a minha parte e paz para deixar contigo o que não me cabe. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 19 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Algum tempo depois, Naás, rei dos amonitas, morreu, e seu filho foi o seu sucessor."
+        },
+        {
+          "n": 2,
+          "text": "Davi pensou: \"Serei bondoso com Hanum, filho de Naás, porque seu pai foi bondoso comigo\". Então Davi enviou uma delegação para transmitir a Hanum seu pesar pela morte do pai. Mas, quando os mensageiros de Davi chegaram à terra dos amonitas para expressar condolências a Hanum,"
+        },
+        {
+          "n": 3,
+          "text": "os líderes amonitas lhe disseram: \"Achas que Davi está honrando teu pai ao enviar mensageiros para expressar condolências? Não é nada disso! Davi os enviou como espiões para examinar o país e destruí-lo\"."
+        },
+        {
+          "n": 4,
+          "text": "Então Hanum prendeu os mensageiros de Davi, rapou-lhes a barba, cortou metade de suas roupas até as nádegas, e os mandou embora."
+        },
+        {
+          "n": 5,
+          "text": "Quando Davi soube disso, enviou mensageiros ao encontro deles, pois haviam sido profundamente humilhados, e lhes mandou dizer: \"Fiquem em Jericó até que a barba cresça, e então voltem para casa\"."
+        },
+        {
+          "n": 6,
+          "text": "Vendo Hanum e os amonitas que tinham atraído sobre si o ódio de Davi, alugaram da Mesopotâmia, de Arã Maaca e de Zobá, carros de guerra e condutores de carros, por trinta e cinco toneladas de prata."
+        },
+        {
+          "n": 7,
+          "text": "Alugaram trinta e dois mil carros e seus condutores, e contrataram o rei de Maaca com suas tropas, o qual veio e acampou perto de Medeba, e os amonitas foram convocados de suas cidades e partiram para a batalha."
+        },
+        {
+          "n": 8,
+          "text": "Ao saber disso, Davi ordenou a Joabe que marchasse com todo o exército."
+        },
+        {
+          "n": 9,
+          "text": "Os amonitas saíram e se puseram em posição de combate na entrada da cidade, e os reis que tinham vindo posicionaram-se em campo aberto."
+        },
+        {
+          "n": 10,
+          "text": "Vendo Joabe que estava cercado pelas linhas de combate, escolheu alguns dos melhores soldados de Israel e os posicionou contra os arameus."
+        },
+        {
+          "n": 11,
+          "text": "Pôs o restante dos homens sob o comando de seu irmão Abisai e os posicionou contra os amonitas."
+        },
+        {
+          "n": 12,
+          "text": "E Joabe disse a Abisai: \"Se os arameus forem fortes demais para mim, venha me ajudar; mas, se os amonitas forem fortes demais para você, eu irei ajudá-lo."
+        },
+        {
+          "n": 13,
+          "text": "Seja forte e lutemos com bravura pelo nosso povo e pelas cidades do nosso Deus. E que o Senhor faça o que for de sua vontade\"."
+        },
+        {
+          "n": 14,
+          "text": "Então Joabe e seus soldados avançaram contra os arameus, que fugiram dele."
+        },
+        {
+          "n": 15,
+          "text": "Quando os amonitas viram que os arameus estavam fugindo de Joabe, também fugiram de seu irmão Abisai e entraram na cidade. Assim, Joabe voltou para Jerusalém."
+        },
+        {
+          "n": 16,
+          "text": "Ao perceberem os arameus que haviam sido derrotados por Israel, enviaram mensageiros para trazer arameus que viviam do outro lado do Eufrates, e Sofaque, o comandante do exército de Hadadezer, veio à frente deles."
+        },
+        {
+          "n": 17,
+          "text": "Informado disso, Davi reuniu todo o Israel e atravessou o Jordão; avançou contra eles e formou linhas de combate defronte deles. Mas, começado o combate,"
+        },
+        {
+          "n": 18,
+          "text": "eles fugiram de diante de Israel, e Davi matou sete mil dos seus condutores de carros de guerra e quarenta mil dos seus soldados de infantaria. Também matou Sofaque, o comandante do exército deles."
+        },
+        {
+          "n": 19,
+          "text": "Quando os vassalos de Hadadezer viram que tinham sido derrotados por Israel, fizeram a paz com Davi e se sujeitaram a ele. E os arameus não quiseram mais ajudar os amonitas."
+        }
+      ]
+    }
+  },
+  {
+    "day": 13,
+    "theme": "Contar a sua história de novo não é o mesmo que apagá-la",
+    "date": "1 Crônicas 20",
+    "verse": {
+      "text": "Na primavera seguinte, na época em que os reis saem à guerra, Joabe conduziu o seu exército até a terra dos amonitas e a arrasou. Enquanto Davi ainda estava em Jerusalém, Joabe cercou Rabá.",
+      "ref": "1 Crônicas 20.1"
+    },
+    "word": {
+      "original": "רְפָאִים",
+      "translit": "refa'im",
+      "lang": "hebraico",
+      "meaning": "gigantes, os descendentes de Rafa",
+      "note": "refa'im carrega a ideia de gigantes, os descendentes de Rafa. Refa'im nomeia uma linhagem de guerreiros de estatura fora do comum, lembrada como ameaça antiga desde os dias de Josué. O capítulo registra que cada um deles caiu pela mão de um soldado comum, sem nome de rei. O gigante que atravessou gerações morre nas mãos de quem a história quase não guardou. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 20. Este é o capítulo em que o Cronista mais se cala. A frase de abertura — Davi permaneceu em Jerusalém enquanto Joabe cercava Rabá — é exatamente o ponto em que 2 Samuel 11 narra Bate-Seba e a morte de Urias. O Cronista conta o cerco, a coroa pesada de ouro, e segue direto para as batalhas contra os gigantes. A omissão não apaga o que aconteceu; ele escreve para um povo que volta do exílio e escolhe contar a história do trono que sobrevive, não a do rei que falhou. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: O silêncio do Cronista sobre Bate-Seba é uma escolha de recorte para um público específico, e não uma negação do que 2 Samuel já havia registrado.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: Gigantes temidos por gerações caem pelas mãos de soldados que quase ninguém lembra, sugerindo que ameaças antigas nem sempre exigem heróis famosos.",
+      "E, no meio da sua própria história, guarde isto com carinho: A coroa pesada transferida para a cabeça de Davi aparece logo depois da frase que o mostra ausente da batalha, deixando o contraste entre honra recebida e presença devida."
+    ],
+    "questions": [
+      "Com sinceridade: Que parte da sua história você tem omitido, e por qual motivo: vergonha ou recorte legítimo?",
+      "Sem se cobrar uma resposta perfeita: Que ameaça antiga na sua vida talvez já pudesse cair pelas mãos de alguém comum, sem solução heroica?",
+      "Diante de Deus: Onde você tem recebido honra por um lugar em que não esteve presente?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, escolha uma história sua que você costuma contar pela metade. Conte-a inteira a alguém de confiança, ou escreva-a inteira para si mesmo.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. tu conheces o que eu deixo de fora quando conto a minha história. Dá-me coragem para não esconder de ti o que omito dos outros. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 20 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Na primavera seguinte, na época em que os reis saem à guerra, Joabe conduziu o seu exército até a terra dos amonitas e a arrasou. Enquanto Davi ainda estava em Jerusalém, Joabe cercou Rabá, a capital, atacou-a e deixou-a em ruínas."
+        },
+        {
+          "n": 2,
+          "text": "Davi tirou a coroa da cabeça de Milcon, uma coroa de ouro de trinta e cinco quilos, ornamentada com pedras preciosas. E ela foi colocada na cabeça de Davi. Ele levou uma grande quantidade de bens da cidade,"
+        },
+        {
+          "n": 3,
+          "text": "e levou também os seus habitantes, designando-lhes trabalhos com serras, picaretas de ferro e machados. Davi fez assim com todas as cidades amonitas. Depois voltou com todo seu exército para Jerusalém."
+        },
+        {
+          "n": 4,
+          "text": "E houve depois disso uma guerra com os filisteus, em Gezer. Naquela época, Sibecai, de Husate, matou Sipai, um dos descendentes dos refains, e os filisteus foram subjugados."
+        },
+        {
+          "n": 5,
+          "text": "Noutra batalha contra os filisteus, Elanã, filho de Jair, matou Lami, irmão de Golias, de Gate, que possuía uma lança cuja haste parecia uma lançadeira de tecelão."
+        },
+        {
+          "n": 6,
+          "text": "Noutra batalha, em Gate, havia um homem de grande estatura e que tinha seis dedos em cada mão e seis dedos em cada pé; vinte e quatro dedos ao todo. Ele também era descendente de Rafa,"
+        },
+        {
+          "n": 7,
+          "text": "e ele desafiou Israel, mas Jônatas, filho de Siméia, irmão de Davi, o matou."
+        },
+        {
+          "n": 8,
+          "text": "Esses eram descendentes de Rafa, em Gate, e foram mortos por Davi e seus soldados."
+        }
+      ]
+    }
+  },
+  {
+    "day": 14,
+    "theme": "O que não custa nada tende a não significar muito",
+    "date": "1 Crônicas 21",
+    "verse": {
+      "text": "Não! Faço questão de pagar o preço justo. Não darei ao Senhor aquilo que pertence a você, nem oferecerei um holocausto que não me custe nada.",
+      "ref": "1 Crônicas 21.24"
+    },
+    "word": {
+      "original": "חִנָּם",
+      "translit": "chinnam",
+      "lang": "hebraico",
+      "meaning": "de graça, sem custo, à toa",
+      "note": "chinnam carrega a ideia de de graça, sem custo, à toa. Chinnam é a mesma palavra que aparece quando Satanás pergunta se Jó teme a Deus \"por nada\". Aqui, Davi recusa oferecer um holocausto chinnam. A graça é gratuita para quem recebe, mas o texto insiste que a oferta de quem responde não pode ser indolor. Nesta jornada, essa palavra não fica apenas no estudo: ela nos convida a perceber como Deus alcança escolhas concretas, relações e movimentos do coração."
+    },
+    "context": "Este dia nos encontra em 1 Crônicas 21. Davi ordena o recenseamento do povo, contra o conselho de Joabe. O erro é contar a própria força. Vem a peste, e o anjo é detido na eira de Ornã, o jebuseu. Ornã oferece a eira, os bois e o trigo de graça, e Davi recusa: paga o preço cheio. O capítulo fecha o arco que começou em Gilboa e prepara o seguinte — porque é exatamente nessa eira, comprada a peso de ouro, que o templo será construído. Lido como uma carta ao coração, o texto nos chama a enxergar não somente o acontecimento histórico, mas também o tipo de coração que está sendo formado no caminho.",
+    "meditation": [
+      "Talvez esta seja a verdade que seu coração precisa lembrar hoje: O pecado de Davi foi contar a própria força, e a contagem só vira problema quando a segurança passa a depender do número.",
+      "Sem pressa, deixe esta verdade chegar um pouco mais fundo: Davi recusa uma oferta gratuita não por orgulho, mas porque entende que um sacrifício indolor não representa o que ele quer dizer.",
+      "E, no meio da sua própria história, guarde isto com carinho: O lugar do juízo se torna o lugar do templo, indicando que o ponto onde a história quase terminou pode ser o alicerce do que vem depois."
+    ],
+    "questions": [
+      "Com sinceridade: Que \"números\" você tem contado para se sentir seguro, em vez de confiar em Deus?",
+      "Sem se cobrar uma resposta perfeita: Alguma das suas ofertas — de tempo, dinheiro ou atenção — tem sido escolhida justamente por não doer?",
+      "Diante de Deus: Existe um lugar de dor na sua história que talvez esteja se tornando alicerce de algo novo?"
+    ],
+    "application": "Hoje, sem transformar esta aplicação em peso, escolha uma oferta desta semana — de tempo, dinheiro ou atenção — e torne-a deliberadamente custosa o suficiente para você sentir.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. não quero te oferecer o que não me custa nada. Livra-me de confiar nos meus números e transforma em alicerce o lugar onde eu quase me perdi. Amém.",
+    "passage": {
+      "ref": "1 Crônicas 21 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Satanás levantou-se contra Israel e levou Davi a fazer um recenseamento do povo."
+        },
+        {
+          "n": 2,
+          "text": "Davi disse a Joabe e aos outros comandantes do exército: \"Vão e contem os israelitas desde Berseba até Dã e tragam-me um relatório para que eu saiba quantos são\"."
+        },
+        {
+          "n": 3,
+          "text": "Joabe, porém, respondeu: \"Que o Senhor multiplique o povo dele por cem. Ó rei, meu senhor, não são, porventura, todos eles súditos do meu senhor? Por que o meu senhor deseja fazer isso? Por que deveria trazer culpa sobre Israel? \""
+        },
+        {
+          "n": 4,
+          "text": "Mas a palavra do rei prevaleceu, de modo que Joabe partiu, percorreu todo o Israel e então voltou a Jerusalém."
+        },
+        {
+          "n": 5,
+          "text": "Joabe apresentou a Davi o relatório com o número dos homens de combate: Em todo o Israel havia um milhão e cem mil homens habilitados para o serviço militar, sendo quatrocentos e setenta mil de Judá."
+        },
+        {
+          "n": 6,
+          "text": "Mas Joabe não incluiu as tribos de Levi e de Benjamim na contagem, pois a ordem do rei lhe parecera absurda."
+        },
+        {
+          "n": 7,
+          "text": "Essa ordem foi reprovada por Deus, e por isso ele puniu Israel."
+        },
+        {
+          "n": 8,
+          "text": "Então Davi disse a Deus: \"Pequei gravemente com o que fiz. Agora eu te imploro que perdoes o pecado do teu servo, porque cometi uma grande loucura! \""
+        },
+        {
+          "n": 9,
+          "text": "O Senhor disse a Gade, o vidente de Davi:"
+        },
+        {
+          "n": 10,
+          "text": "\"Vá dizer a Davi: ‘Assim diz o Senhor: Estou lhe dando três opções. Escolha uma delas, e eu a executarei contra você’ \"."
+        },
+        {
+          "n": 11,
+          "text": "Então Gade foi a Davi e lhe disse: \"Assim diz o Senhor: ‘Escolha:"
+        },
+        {
+          "n": 12,
+          "text": "três anos de fome, três meses fugindo de seus adversários, perseguido pela espada deles, ou três dias da espada do Senhor, isto é, três dias de praga, com o anjo do Senhor assolando todas as regiões de Israel’. Decida agora como devo responder àquele que me enviou\"."
+        },
+        {
+          "n": 13,
+          "text": "Davi respondeu: \"É grande a minha angustia! Prefiro cair nas mãos do Senhor, pois é grande a sua misericórdia, e não nas mãos dos homens\"."
+        },
+        {
+          "n": 14,
+          "text": "Então o Senhor enviou uma praga sobre Israel, e setenta mil homens de Israel morreram."
+        },
+        {
+          "n": 15,
+          "text": "E Deus enviou um anjo para destruir Jerusalém. Mas, quando o anjo ia fazê-lo, o Senhor olhou e arrependeu-se de trazer a catástrofe, e ele disse ao anjo destruidor: \"Pare! Já basta! \" Naquele momento o anjo do Senhor estava perto da eira de Araúna, o jebuseu."
+        },
+        {
+          "n": 16,
+          "text": "Davi olhou para cima e viu o anjo do Senhor entre o céu e a terra, com uma espada na mão erguida sobre Jerusalém. Então Davi e as autoridades de Israel, vestidos de luto, prostraram-se, rosto em terra."
+        },
+        {
+          "n": 17,
+          "text": "Davi disse a Deus: \"Não fui eu que ordenei contar o povo? Fui eu que pequei e fiz o mal. Estes não passam de ovelhas. O que eles fizeram? Ó Senhor meu Deus, que o teu castigo caia sobre mim e sobre a minha família, mas não sobre o teu povo! \""
+        },
+        {
+          "n": 18,
+          "text": "Então o anjo do Senhor mandou Gade dizer a Davi que construísse um altar na eira de Araúna, o jebuseu."
+        },
+        {
+          "n": 19,
+          "text": "Davi foi para lá, em obediência à palavra que Gade havia falado em nome do Senhor."
+        },
+        {
+          "n": 20,
+          "text": "Araúna estava debulhando o trigo; virando-se, viu o anjo, e ele e seus quatro filhos que estavam com ele se esconderam."
+        },
+        {
+          "n": 21,
+          "text": "Nisso chegou Davi e, quando Araúna o viu, saiu da eira e prostrou-se diante de Davi, rosto em terra."
+        },
+        {
+          "n": 22,
+          "text": "E Davi lhe pediu: \"Ceda-me o terreno da sua eira para eu construir um altar em honra do Senhor, para que cesse a praga sobre o povo. Venda-me o terreno pelo preço justo\"."
+        },
+        {
+          "n": 23,
+          "text": "Mas Araúna disse a Davi: \"Considera-o teu! Que o meu rei e senhor faça dele o que desejar. Eu darei os bois para os holocaustos, o debulhador para servir de lenha, e o trigo para a oferta de cereal. Tudo isso eu dou a ti\"."
+        },
+        {
+          "n": 24,
+          "text": "O rei Davi, porém, respondeu a Araúna: \"Não! Faço questão de pagar o preço justo. Não darei ao Senhor aquilo que pertence a você, nem oferecerei um holocausto que não me custe nada\"."
+        },
+        {
+          "n": 25,
+          "text": "Então Davi pagou a Araúna sete quilos e duzentos gramas de ouro pelo terreno."
+        },
+        {
+          "n": 26,
+          "text": "E Davi edificou ali um altar ao Senhor e ofereceu holocaustos e sacrifícios de comunhão. Davi invocou o Senhor, e o Senhor lhe respondeu com fogo que veio do céu sobre o altar de holocaustos."
+        },
+        {
+          "n": 27,
+          "text": "E o Senhor ordenou ao anjo que pusesse a espada na bainha."
+        },
+        {
+          "n": 28,
+          "text": "Nessa ocasião viu Davi que o Senhor lhe havia respondido na eira de Araúna, o jebuseu, e passou a oferecer sacrifícios ali."
+        },
+        {
+          "n": 29,
+          "text": "Naquela época, o tabernáculo do Senhor que Moisés fizera no deserto, e o altar de holocaustos, estavam em Gibeom."
+        },
+        {
+          "n": 30,
+          "text": "Mas Davi não podia consultar a Deus lá, pois tinha medo da espada do anjo do Senhor."
+        }
+      ]
+    }
+  },
+  {
+    "day": 15,
     "theme": "Nem todo sonho precisa terminar nas suas mãos",
     "date": "1 Crônicas 22",
     "verse": {
@@ -396,7 +2024,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 4,
+    "day": 16,
     "theme": "Seu trabalho comum também pode se tornar adoração",
     "date": "1 Crônicas 23",
     "verse": {
@@ -558,7 +2186,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 5,
+    "day": 17,
     "theme": "Seu lugar de servir não precisa ser o mais visível",
     "date": "1 Crônicas 24",
     "verse": {
@@ -716,7 +2344,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 6,
+    "day": 18,
     "theme": "Deus também pode falar através da beleza que você cria",
     "date": "1 Crônicas 25",
     "verse": {
@@ -874,7 +2502,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 7,
+    "day": 19,
     "theme": "O que Deus confiou a você merece cuidado mesmo nos bastidores",
     "date": "1 Crônicas 26",
     "verse": {
@@ -1036,7 +2664,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 8,
+    "day": 20,
     "theme": "Você não precisa carregar tudo sozinho para ser responsável",
     "date": "1 Crônicas 27",
     "verse": {
@@ -1206,7 +2834,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 9,
+    "day": 21,
     "theme": "Quando tudo parece disputado, Deus ainda sabe conduzir a história",
     "date": "1 Reis 1",
     "verse": {
@@ -1452,7 +3080,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 10,
+    "day": 22,
     "theme": "Você pode preparar com amor aquilo que outra pessoa vai construir",
     "date": "1 Crônicas 28",
     "verse": {
@@ -1570,7 +3198,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 11,
+    "day": 23,
     "theme": "Até aquilo que você oferece primeiro veio das mãos de Deus",
     "date": "1 Crônicas 29",
     "verse": {
@@ -1724,7 +3352,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 12,
+    "day": 24,
     "theme": "Há decisões que pedem coragem e sabedoria ao mesmo tempo",
     "date": "1 Reis 2",
     "verse": {
@@ -1942,7 +3570,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 13,
+    "day": 25,
     "theme": "Você não precisa saber tudo; precisa de um coração que escute",
     "date": "1 Reis 3",
     "verse": {
@@ -2088,7 +3716,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 14,
+    "day": 26,
     "theme": "Peça sabedoria antes de pedir caminhos mais fáceis",
     "date": "2 Crônicas 1",
     "verse": {
@@ -2190,7 +3818,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 15,
+    "day": 27,
     "theme": "Paz também pode ser uma forma de cuidado de Deus",
     "date": "1 Reis 4",
     "verse": {
@@ -2360,7 +3988,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 16,
+    "day": 28,
     "theme": "Reconhecer o dom do outro também é sabedoria",
     "date": "2 Crônicas 2",
     "verse": {
@@ -2466,7 +4094,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 17,
+    "day": 29,
     "theme": "Grandes projetos também precisam cuidar de pessoas",
     "date": "1 Reis 5",
     "verse": {
@@ -2572,7 +4200,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 18,
+    "day": 30,
     "theme": "Deus deseja habitar antes de impressionar",
     "date": "1 Reis 6",
     "verse": {
@@ -2758,7 +4386,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 19,
+    "day": 31,
     "theme": "O lugar da prova também pode se tornar lugar de presença",
     "date": "2 Crônicas 3",
     "verse": {
@@ -2860,7 +4488,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 20,
+    "day": 32,
     "theme": "Você pode permanecer firme sem precisar parecer invencível",
     "date": "1 Reis 7",
     "verse": {
@@ -3098,7 +4726,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 21,
+    "day": 33,
     "theme": "Deus também se importa com os detalhes que sustentam a adoração",
     "date": "2 Crônicas 4",
     "verse": {
@@ -3220,7 +4848,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 22,
+    "day": 34,
     "theme": "Há momentos em que a presença de Deus é maior que nossos planos",
     "date": "1 Reis 8",
     "verse": {
@@ -3518,7 +5146,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 23,
+    "day": 35,
     "theme": "Quando muitos corações se voltam na mesma direção",
     "date": "2 Crônicas 5",
     "verse": {
@@ -3608,7 +5236,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 24,
+    "day": 36,
     "theme": "Você pode pedir: 'Ouve dos céus e perdoa'",
     "date": "2 Crônicas 6",
     "verse": {
@@ -3810,7 +5438,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 25,
+    "day": 37,
     "theme": "Sempre existe um caminho de volta quando o coração se humilha",
     "date": "2 Crônicas 7",
     "verse": {
@@ -3932,7 +5560,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 26,
+    "day": 38,
     "theme": "Bênçãos não substituem um coração que continua fiel",
     "date": "1 Reis 9",
     "verse": {
@@ -4078,7 +5706,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 27,
+    "day": 39,
     "theme": "Organização também pode servir à paz e à adoração",
     "date": "2 Crônicas 8",
     "verse": {
@@ -4184,7 +5812,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 28,
+    "day": 40,
     "theme": "A verdadeira sabedoria deixa marcas que outros conseguem perceber",
     "date": "1 Reis 10",
     "verse": {
@@ -4334,7 +5962,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 29,
+    "day": 41,
     "theme": "Nem toda glória visível conta a história inteira",
     "date": "2 Crônicas 9",
     "verse": {
@@ -4492,7 +6120,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 30,
+    "day": 42,
     "theme": "Um coração raramente se afasta de uma vez",
     "date": "1 Reis 11",
     "verse": {
@@ -4698,7 +6326,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 31,
+    "day": 43,
     "theme": "Palavras pesadas podem partir relações que ainda poderiam ser cuidadas",
     "date": "1 Reis 12",
     "verse": {
@@ -4864,7 +6492,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 32,
+    "day": 44,
     "theme": "Quando ninguém escuta, todos acabam perdendo",
     "date": "2 Crônicas 10",
     "verse": {
@@ -4974,7 +6602,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 33,
+    "day": 45,
     "theme": "Mesmo em tempos divididos, ainda é possível escolher buscar o Senhor",
     "date": "2 Crônicas 11",
     "verse": {
@@ -5100,7 +6728,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 34,
+    "day": 46,
     "theme": "Quando Deus já falou com clareza, nem toda voz nova merece autoridade",
     "date": "1 Reis 13",
     "verse": {
@@ -5270,7 +6898,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 35,
+    "day": 47,
     "theme": "Deus não ignora o que cresce escondido dentro de uma casa",
     "date": "1 Reis 14",
     "verse": {
@@ -5428,7 +7056,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 36,
+    "day": 48,
     "theme": "Humilhar-se pode ser o começo de não perder tudo",
     "date": "2 Crônicas 12",
     "verse": {
@@ -5526,7 +7154,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 37,
+    "day": 49,
     "theme": "Um coração inteiro não precisa ser um coração perfeito",
     "date": "1 Reis 15",
     "verse": {
@@ -5696,7 +7324,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 38,
+    "day": 50,
     "theme": "Você não vence porque é maior, mas porque sabe onde se apoiar",
     "date": "2 Crônicas 13",
     "verse": {
@@ -5818,7 +7446,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 39,
+    "day": 51,
     "theme": "Quando suas forças parecem pequenas, Deus continua sendo suficiente",
     "date": "2 Crônicas 14",
     "verse": {
@@ -5912,7 +7540,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 40,
+    "day": 52,
     "theme": "Buscar a Deus nunca é um gesto desperdiçado",
     "date": "2 Crônicas 15",
     "verse": {
@@ -6022,7 +7650,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 41,
+    "day": 53,
     "theme": "Deus procura corações inteiros, não performances perfeitas",
     "date": "2 Crônicas 16",
     "verse": {
@@ -6112,7 +7740,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 42,
+    "day": 54,
     "theme": "Aquilo que você constrói também pode formar quem você se torna",
     "date": "1 Reis 16",
     "verse": {
@@ -6282,7 +7910,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 43,
+    "day": 55,
     "theme": "Deus pode cuidar de você através de provisões muito pequenas",
     "date": "1 Reis 17",
     "verse": {
@@ -6412,7 +8040,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 44,
+    "day": 56,
     "theme": "Você não precisa viver dividido entre duas lealdades",
     "date": "1 Reis 18",
     "verse": {
@@ -6630,7 +8258,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 45,
+    "day": 57,
     "theme": "Depois de grandes batalhas, seu coração também precisa de cuidado",
     "date": "1 Reis 19",
     "verse": {
@@ -6748,7 +8376,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 46,
+    "day": 58,
     "theme": "Ensinar a verdade também é uma forma de cuidar de um povo",
     "date": "2 Crônicas 17",
     "verse": {
@@ -6858,7 +8486,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 47,
+    "day": 59,
     "theme": "Nem toda vitória significa que todas as escolhas foram certas",
     "date": "1 Reis 20",
     "verse": {
@@ -7064,7 +8692,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 48,
+    "day": 60,
     "theme": "Há coisas que valem mais do que aquilo que oferecem por elas",
     "date": "1 Reis 21",
     "verse": {
@@ -7214,7 +8842,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 49,
+    "day": 61,
     "theme": "Às vezes amar a verdade custa ficar sozinho",
     "date": "2 Crônicas 18",
     "verse": {
@@ -7384,7 +9012,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 50,
+    "day": 62,
     "theme": "Você não precisa se disfarçar diante de Deus",
     "date": "1 Reis 22",
     "verse": {
@@ -7630,7 +9258,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 51,
+    "day": 63,
     "theme": "Justiça também começa quando lembramos para quem estamos julgando",
     "date": "2 Crônicas 19",
     "verse": {
@@ -7708,7 +9336,7 @@ window.REIS_1_CARTA = [
     }
   },
   {
-    "day": 52,
+    "day": 64,
     "theme": "Quando você não sabe o que fazer, ainda pode voltar os olhos para Deus",
     "date": "2 Crônicas 20",
     "verse": {
