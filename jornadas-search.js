@@ -64,7 +64,7 @@
     var exact = [], prefix = [], inside = [];
     BOOKS.forEach(function (b, i) {
       var alts = [bookKeys[i], nameKeys[i]].concat((b.r || []).map(function (r) { return norm(r).replace(/\s+/g, ''); }));
-      if (bookKeys[i] === key || b.a.indexOf(key) >= 0) exact.push(i);
+      if (bookKeys[i] === key || nameKeys[i] === key || b.a.indexOf(key) >= 0) exact.push(i);
       else if (alts.some(function (k) { return k.indexOf(key) === 0; })) prefix.push(i);
       else if (alts.some(function (k) { return k.indexOf(key) > 0; })) inside.push(i);
     });
