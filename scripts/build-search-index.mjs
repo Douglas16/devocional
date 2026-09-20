@@ -63,7 +63,14 @@ const parseRef = (ref, verses) => {
   const ns = verses.map((v) => v.n);
   const partial = ref.match(/versículos (\d+)[-–](\d+)/);
   const out = [];
-  if (partial) return [[book, c1, +partial[1], +partial[2]]];
+  if (partial) return [[book, BOOKS[book].c === 1 ? 1 : c1, +partial[1], +partial[2]]];
+  // Livros de um capítulo só (Obadias, Filemom, 2/3 João, Judas): em "Judas 1-16"
+  // os números são versículos, não capítulos.
+  if (BOOKS[book].c === 1) {
+    if (v1) return [[book, 1, v1, x || v1]];
+    if (x) return [[book, 1, c1, x]];
+    return [[book, 1, ns.length ? Math.min(...ns) : 0, ns.length ? Math.max(...ns) : 0]];
+  }
   if (x && y) { // capítulo.verso-capítulo.verso: só a numeração do primeiro capítulo é confiável
     out.push([book, c1, 0, 0]);
     for (let c = c1 + 1; c <= x; c++) out.push([book, c, 0, 0]);
@@ -141,6 +148,10 @@ const phraseHits = (text, kws) => kws.filter((k) => k.includes(' ') && text.incl
 // ---------- monta o índice ----------
 const idx = { v: 1, journeys: journeys.map((j) => [j.href, j.title]), days: [], chapters: {}, stems: [], topics: [] };
 const cache = []; // por dia: campos normalizados de cada modo
+const dayChapters = []; // por dia: índices globais (0–1188) dos capítulos que o dia cobre
+const bookOffset = [];
+BOOKS.reduce((acc, b, i) => { bookOffset[i] = acc; return acc + b.c; }, 0);
+const TOTAL_CHAPTERS = BOOKS.reduce((s, b) => s + b.c, 0);
 journeys.forEach((j, ji) => {
   classic[ji].forEach((d, i) => {
     const c = carta[ji][i] || d;
@@ -149,7 +160,9 @@ journeys.forEach((j, ji) => {
     const label = range[1] ? `${refBase} · ${range[1]}–${range[2]}` : refBase;
     const di = idx.days.length;
     idx.days.push([ji, d.day, label, d.theme || '', c.theme && c.theme !== d.theme ? c.theme : '']);
-    for (const [b, ch, a, z] of parseRef(d.passage.ref, d.passage.verses)) (idx.chapters[b + ':' + ch] ||= []).push([di, a, z]);
+    const refs = parseRef(d.passage.ref, d.passage.verses);
+    for (const [b, ch, a, z] of refs) (idx.chapters[b + ':' + ch] ||= []).push([di, a, z]);
+    dayChapters[di] = [...new Set(refs.map(([b, ch]) => bookOffset[b] + ch - 1))].sort((a, b) => a - b);
     const fa = dayFields(d), fb = dayFields(c);
     cache.push({ fa, fb });
     const set = new Set();
@@ -183,5 +196,16 @@ TOPICS.forEach(([name, hint, rawKws], ti) => {
 
 const body = JSON.stringify(idx);
 fs.writeFileSync(ROOT + 'search-index.js', '// Gerado por scripts/build-search-index.mjs — não editar à mão.\nwindow.LECTIO_INDEX=' + body + ';\n');
+
+// ---------- mapa leve de capítulos ----------
+// jornadas.html carrega este arquivo (poucos KB) para o card "Bíblia toda" contar
+// capítulos distintos lidos. O search-index.js tem o mesmo dado, mas pesa 1,3MB.
+const chapMap = {};
+idx.days.forEach((d, di) => { (chapMap[journeys[d[0]].href] ||= {})[d[1]] = dayChapters[di]; });
+const covered = new Set(Object.values(chapMap).flatMap((days) => Object.values(days).flat()));
+const mapBody = JSON.stringify({ total: TOTAL_CHAPTERS, days: chapMap });
+fs.writeFileSync(ROOT + 'chapters-map.js', '// Gerado por scripts/build-search-index.mjs — não editar à mão.\nwindow.LECTIO_CHAPTERS=' + mapBody + ';\n');
+
 console.log('dias', idx.days.length, 'capítulos', Object.keys(idx.chapters).length, 'tamanho', (body.length / 1024).toFixed(0) + 'KB');
+console.log('mapa de capítulos', (mapBody.length / 1024).toFixed(0) + 'KB · cobertura', covered.size + '/' + TOTAL_CHAPTERS, ((covered.size / TOTAL_CHAPTERS) * 100).toFixed(1) + '%');
 console.log(idx.topics.map((t) => t.name + ':' + t.hits.length).join(' | '));

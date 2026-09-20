@@ -97,18 +97,22 @@
           (any ? chapterGrid(b) : '<p class="jsearch-empty">Este livro ainda não está em nenhuma jornada.</p>') + '</div>';
         return;
       }
-      var es = chapterEntries(b, ref.chapter).filter(function (e) {
-        return !ref.verse || (e[1] === 0 && e[2] === 0) || (ref.verse >= e[1] && ref.verse <= e[2]);
+      // Livros de um capítulo só (Obadias, Filemom, 2/3 João, Judas): em "Judas 5"
+      // o número é versículo, não capítulo.
+      var chap = ref.chapter, vrs = ref.verse;
+      if (BOOKS[b].c === 1 && !vrs) { vrs = chap; chap = 1; }
+      var es = chapterEntries(b, chap).filter(function (e) {
+        return !vrs || (e[1] === 0 && e[2] === 0) || (vrs >= e[1] && vrs <= e[2]);
       });
-      var title = name + ' ' + ref.chapter + (ref.verse ? ':' + ref.verse : '');
+      var title = name + ' ' + (BOOKS[b].c === 1 ? vrs : chap + (vrs ? ':' + vrs : ''));
       if (!es.length) {
         html += '<div class="jsearch-group"><div class="jsearch-group-title">' + esc(title) + '</div>' +
-          '<p class="jsearch-empty">' + (chapterEntries(b, ref.chapter).length ? 'Esse versículo não está nas leituras dessa jornada.' : 'Esse capítulo ainda não está em nenhuma jornada.') + '</p>' +
+          '<p class="jsearch-empty">' + (chapterEntries(b, chap).length ? 'Esse versículo não está nas leituras dessa jornada.' : 'Esse capítulo ainda não está em nenhuma jornada.') + '</p>' +
           (BOOKS[b].c > 1 ? chapterGrid(b) : '') + '</div>';
         return;
       }
       html += '<div class="jsearch-group"><div class="jsearch-group-title">' + esc(title) + '</div>' +
-        es.map(function (e) { var v = ref.verse && e[1] !== 0 ? ref.verse : 0; return row(e[0], v ? { verse: v, label: name + ' ' + ref.chapter } : {}); }).join('') + '</div>';
+        es.map(function (e) { var v = vrs && e[1] !== 0 ? vrs : 0; return row(e[0], v ? { verse: v, label: name + ' ' + chap } : {}); }).join('') + '</div>';
     });
     return html;
   };

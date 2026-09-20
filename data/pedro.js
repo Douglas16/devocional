@@ -638,6 +638,96 @@ window.PEDRO = [
   },
   {
     "day": 9,
+    "theme": "Lancem sobre ele toda a ansiedade",
+    "date": "1 Pedro 5",
+    "verse": {
+      "text": "Lancem sobre ele toda a sua ansiedade, porque ele tem cuidado de vocês.",
+      "ref": "1 Pedro 5.7"
+    },
+    "word": {
+      "original": "ἐπιρρίπτω",
+      "translit": "epirríptō",
+      "lang": "grego",
+      "meaning": "lançar sobre, arremessar em cima",
+      "note": "Epí (sobre) + rhíptō (atirar com força). Não é \"deixar escorregar\" nem \"ir soltando aos poucos\". É o mesmo verbo de Lucas 19.35, quando jogam os mantos sobre o jumentinho: um gesto único, decidido, que transfere o peso de um lugar para outro. Pedro não pede que você sinta menos. Pede que você mire e arremesse."
+    },
+    "context": "Última página da carta. Pedro se despede e ordena o essencial: primeiro os presbíteros, depois os jovens, depois todos. Escreve com a ajuda de Silvano e manda lembranças \"daquela que está em Babilônia\" — código para Roma, onde a perseguição de Nero se aproxima. O leão que ruge do v.8 não é metáfora abstrata para quem lia: era o império. E é justamente aí, no fim, que ele diz a frase mais doméstica da carta: ele tem cuidado de vocês.",
+    "meditation": [
+      "Pedro começa pelos líderes e a instrução é quase toda sobre o modo: \"não por obrigação, mas de livre vontade\", \"não por ganância, mas com o desejo de servir\", \"não como dominadores, mas como exemplos\" (v.2-3). Três vezes ele corrige o motivo antes de corrigir a tarefa. Dá para pastorear a coisa certa pela razão errada, e Pedro trata isso como problema, não como detalhe.",
+      "Os v.6 e 7 são uma frase só no grego: humilhar-se debaixo da mão de Deus e lançar a ansiedade sobre Ele são o mesmo movimento. Isso reorganiza a ideia de humildade. Carregar tudo sozinho não é força — é a versão religiosa do orgulho. Entregar o peso é o ato humilde. E a razão dada não é \"porque preocupação é pecado\", e sim \"porque ele tem cuidado de vocês\": o fundamento é o afeto de Deus, não a sua disciplina.",
+      "O v.10 tem quatro verbos e um prazo: \"depois de terem sofrido durante pouco de tempo, os restaurará, os confirmará, lhes dará forças e os porá sobre firmes alicerces\". Pedro não promete que o sofrimento não vem, nem que passa rápido no relógio. Promete que ele tem fim e que do outro lado há reconstrução. Escrever isso a quem vive sob Nero é apostar alto."
+    ],
+    "questions": [
+      "Que peso você vem carregando por achar que entregá-lo seria fraqueza?",
+      "Se lançar é um gesto decidido e não um sentimento, qual seria o seu gesto concreto hoje?",
+      "Onde você exerce alguma liderança — em casa, no trabalho, na igreja — e o motivo precisa ser corrigido antes da tarefa?"
+    ],
+    "application": "Escreva num papel a ansiedade que mais pesa esta semana. Leia em voz alta, acrescente \"porque ele tem cuidado de mim\", e guarde o papel num lugar que não seja o seu bolso. O gesto é bobo de propósito: lançar é externo.",
+    "prayer": "Senhor, tenho confundido carregar tudo com ser forte. Ensina-me o gesto de arremessar sobre ti o que não é meu para sustentar, e de fazê-lo confiando que me queres bem. Onde eu lidero, corrige primeiro o meu motivo. Amém.",
+    "passage": {
+      "ref": "1 Pedro 5 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Portanto, apelo para os presbíteros que há entre vocês, e o faço na qualidade de presbítero como eles e testemunha dos sofrimentos de Cristo, como alguém que participará da glória a ser revelada:"
+        },
+        {
+          "n": 2,
+          "text": "Pastoreiem o rebanho de Deus que está aos seus cuidados. Olhem por ele, não por obrigação, mas de livre vontade, como Deus quer. Não façam isso por ganância, mas com o desejo de servir."
+        },
+        {
+          "n": 3,
+          "text": "Não ajam como dominadores dos que lhes foram confiados, mas como exemplos para o rebanho."
+        },
+        {
+          "n": 4,
+          "text": "Quando se manifestar o Supremo Pastor, vocês receberão a imperecível coroa da glória."
+        },
+        {
+          "n": 5,
+          "text": "Da mesma forma jovens, sujeitem-se aos mais velhos. Sejam todos humildes uns para com os outros, porque \"Deus se opõe aos orgulhosos, mas concede graça aos humildes\"."
+        },
+        {
+          "n": 6,
+          "text": "Portanto, humilhem-se debaixo da poderosa mão de Deus, para que ele os exalte no tempo devido."
+        },
+        {
+          "n": 7,
+          "text": "Lancem sobre ele toda a sua ansiedade, porque ele tem cuidado de vocês."
+        },
+        {
+          "n": 8,
+          "text": "Sejam sóbrios e vigiem. O diabo, o inimigo de vocês, anda ao redor como leão, rugindo e procurando a quem possa devorar."
+        },
+        {
+          "n": 9,
+          "text": "Resistam-lhe, permanecendo firmes na fé, sabendo que os irmãos que vocês têm em todo o mundo estão passando pelos mesmos sofrimentos."
+        },
+        {
+          "n": 10,
+          "text": "O Deus de toda a graça, que os chamou para a sua glória eterna em Cristo Jesus, depois de terem sofrido durante pouco de tempo, os restaurará, os confirmará, lhes dará forças e os porá sobre firmes alicerces."
+        },
+        {
+          "n": 11,
+          "text": "A ele seja o poder para todo o sempre. Amém."
+        },
+        {
+          "n": 12,
+          "text": "Com a ajuda de Silvano, a quem considero irmão fiel, eu lhes escrevi resumidamente, encorajando-os e testemunhando que esta é a verdadeira graça de Deus. Mantenham-se firmes na graça de Deus."
+        },
+        {
+          "n": 13,
+          "text": "Aquela que está em Babilônia, também eleita, envia-lhes saudações, e também Marcos, meu filho."
+        },
+        {
+          "n": 14,
+          "text": "Saúdem uns aos outros com beijo de santo amor. Paz a todos vocês que estão em Cristo."
+        }
+      ]
+    }
+  },
+  {
+    "day": 10,
     "theme": "Fé, conhecimento, chamado firme",
     "date": "2 Pedro 1.1-11",
     "verse": {
@@ -715,7 +805,7 @@ window.PEDRO = [
     "prayer": "Senhor, tu já me deste tudo. Ensina-me a subir a escada: virtude, conhecimento, domínio próprio, perseverança, piedade, fraternidade, amor. Que a minha vida consolide o chamado. Amém."
   },
   {
-    "day": 10,
+    "day": 11,
     "theme": "A palavra profética confirmada",
     "date": "2 Pedro 1.12-21",
     "verse": {
@@ -789,7 +879,7 @@ window.PEDRO = [
     "prayer": "Senhor, tu falaste por meio de homens impelidos pelo teu Espírito. Que a tua Palavra brilhe em mim como luz em lugar escuro, até que o dia clareie. Amém."
   },
   {
-    "day": 11,
+    "day": 12,
     "theme": "Falsos mestres — aviso",
     "date": "2 Pedro 2.1-22",
     "verse": {
@@ -911,7 +1001,7 @@ window.PEDRO = [
     "prayer": "Senhor, guarda-me de fontes secas e névoas ilusórias. Ensina-me a discernir mestre verdadeiro de falso pelo fruto — e pela liberdade real que ele mesmo vive. Amém."
   },
   {
-    "day": 12,
+    "day": 13,
     "theme": "O Senhor não demora",
     "date": "2 Pedro 3.1-9",
     "verse": {
@@ -981,7 +1071,7 @@ window.PEDRO = [
     "prayer": "Senhor paciente, ensina-me tua makrothymia. Que eu não confunda tua espera com tua ausência. E que eu ore por aqueles por quem tu estás me pedindo para esperar. Amém."
   },
   {
-    "day": 13,
+    "day": 14,
     "theme": "Novos céus e nova terra",
     "date": "2 Pedro 3.10-18",
     "verse": {

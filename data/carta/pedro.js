@@ -1,10 +1,10 @@
 // 1 Pedro + 2 Pedro — Opção 2: Carta ao Coração
-// Escopo preservado exatamente como no arquivo original enviado.
-// 13 blocos:
+// Escopo preservado do arquivo original enviado, exceto pelo dia 9.
+// 14 blocos:
 //   Dias 1–8: 1 Pedro 1.1–4.19
-//   Dias 9–13: 2 Pedro 1.1–3.18
-// O arquivo original não contém bloco de 1 Pedro 5; nenhum bloco foi inventado.
-// Campo 'day' preservado.
+//   Dia 9: 1 Pedro 5 — bloco escrito depois, para fechar o livro (o arquivo
+//     original parava em 4.19 e o capítulo 5 não entrava em nenhuma jornada).
+//   Dias 10–14: 2 Pedro 1.1–3.18
 // Versículos, palavras gregas e passagens bíblicas preservados.
 // Tom devocional: caloroso, íntimo, pastoral e não acusatório.
 // Textos sobre submissão e sofrimento não são tratados como autorização
@@ -649,6 +649,96 @@ window.PEDRO_CARTA = [
   },
   {
     "day": 9,
+    "theme": "Entregar o peso não é desistir dele — e não é algo que se faça uma vez só",
+    "date": "1 Pedro 5",
+    "verse": {
+      "text": "Lancem sobre ele toda a sua ansiedade, porque ele tem cuidado de vocês.",
+      "ref": "1 Pedro 5.7"
+    },
+    "word": {
+      "original": "ἐπιρρίπτω",
+      "translit": "epirríptō",
+      "lang": "grego",
+      "meaning": "lançar sobre, transferir o peso",
+      "note": "Epirríptō descreve transferir algo pesado de si para outro ponto de apoio. O texto fala de confiar a Deus aquilo que preocupa. Não é promessa de que a ansiedade desaparece, nem indicação de que ansiedade seja falta de fé. Quadros de ansiedade podem pedir acompanhamento profissional, e procurar esse cuidado não contradiz o versículo."
+    },
+    "context": "Pedro encerra a carta orientando líderes e comunidade em um tempo de hostilidade. Fala de humildade, vigilância e cuidado mútuo. A imagem do inimigo que ronda descreve a pressão real que aquelas pessoas viviam; não é um convite a interpretar toda dificuldade como ataque espiritual.",
+    "meditation": [
+      "A orientação aos presbíteros insiste no modo: sem obrigação, sem ganância, sem dominar. Cuidar de pessoas não autoriza controlá-las. Vale para quem lidera uma comunidade e também para quem cuida dentro de casa.",
+      "Lançar a ansiedade não é um interruptor. Costuma ser algo que se refaz muitas vezes no mesmo dia, e precisar repetir o gesto não significa que ele não funcionou.",
+      "O motivo que o texto dá é o cuidado de Deus, não a sua performance. Você não precisa estar calmo para ser cuidado. E o versículo 10 fala em restauração depois do sofrimento, sem exigir que você finja que ele já passou."
+    ],
+    "questions": [
+      "Qual preocupação você tenta resolver sozinho por achar que dividir seria incomodar alguém?",
+      "O que mudaria se você pudesse entregar esse peso hoje e de novo amanhã, sem cobrar de si que fosse definitivo?",
+      "Há algum cuidado disponível — alguém de confiança, acompanhamento profissional, descanso real — que você tem adiado?"
+    ],
+    "application": "Escolha uma preocupação e diga a ela, em voz alta, o que você faria se ela fosse de outra pessoa que você ama. Depois avalie se alguma parte dessa resposta cabe para você hoje.",
+    "prayer": "Deus, recebe o que eu não consigo sustentar, hoje e quantas vezes for preciso. Ajuda-me a aceitar cuidado de ti e das pessoas ao meu redor, sem tratar isso como fraqueza. Amém.",
+    "passage": {
+      "ref": "1 Pedro 5 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Portanto, apelo para os presbíteros que há entre vocês, e o faço na qualidade de presbítero como eles e testemunha dos sofrimentos de Cristo, como alguém que participará da glória a ser revelada:"
+        },
+        {
+          "n": 2,
+          "text": "Pastoreiem o rebanho de Deus que está aos seus cuidados. Olhem por ele, não por obrigação, mas de livre vontade, como Deus quer. Não façam isso por ganância, mas com o desejo de servir."
+        },
+        {
+          "n": 3,
+          "text": "Não ajam como dominadores dos que lhes foram confiados, mas como exemplos para o rebanho."
+        },
+        {
+          "n": 4,
+          "text": "Quando se manifestar o Supremo Pastor, vocês receberão a imperecível coroa da glória."
+        },
+        {
+          "n": 5,
+          "text": "Da mesma forma jovens, sujeitem-se aos mais velhos. Sejam todos humildes uns para com os outros, porque \"Deus se opõe aos orgulhosos, mas concede graça aos humildes\"."
+        },
+        {
+          "n": 6,
+          "text": "Portanto, humilhem-se debaixo da poderosa mão de Deus, para que ele os exalte no tempo devido."
+        },
+        {
+          "n": 7,
+          "text": "Lancem sobre ele toda a sua ansiedade, porque ele tem cuidado de vocês."
+        },
+        {
+          "n": 8,
+          "text": "Sejam sóbrios e vigiem. O diabo, o inimigo de vocês, anda ao redor como leão, rugindo e procurando a quem possa devorar."
+        },
+        {
+          "n": 9,
+          "text": "Resistam-lhe, permanecendo firmes na fé, sabendo que os irmãos que vocês têm em todo o mundo estão passando pelos mesmos sofrimentos."
+        },
+        {
+          "n": 10,
+          "text": "O Deus de toda a graça, que os chamou para a sua glória eterna em Cristo Jesus, depois de terem sofrido durante pouco de tempo, os restaurará, os confirmará, lhes dará forças e os porá sobre firmes alicerces."
+        },
+        {
+          "n": 11,
+          "text": "A ele seja o poder para todo o sempre. Amém."
+        },
+        {
+          "n": 12,
+          "text": "Com a ajuda de Silvano, a quem considero irmão fiel, eu lhes escrevi resumidamente, encorajando-os e testemunhando que esta é a verdadeira graça de Deus. Mantenham-se firmes na graça de Deus."
+        },
+        {
+          "n": 13,
+          "text": "Aquela que está em Babilônia, também eleita, envia-lhes saudações, e também Marcos, meu filho."
+        },
+        {
+          "n": 14,
+          "text": "Saúdem uns aos outros com beijo de santo amor. Paz a todos vocês que estão em Cristo."
+        }
+      ]
+    }
+  },
+  {
+    "day": 10,
     "theme": "Crescer na fé não é correr para provar valor; é permitir que a graça forme caráter",
     "date": "2 Pedro 1.1-11",
     "verse": {
@@ -726,7 +816,7 @@ window.PEDRO_CARTA = [
     "prayer": "Jesus, faz meu conhecimento de ti chegar ao caráter. Que tua graça não produza passividade nem ansiedade, mas crescimento paciente e verdadeiro. Amém."
   },
   {
-    "day": 10,
+    "day": 11,
     "theme": "Quando tudo parece escuro, você pode voltar a uma palavra que não precisa oscilar com cada opinião",
     "date": "2 Pedro 1.12-21",
     "verse": {
@@ -800,7 +890,7 @@ window.PEDRO_CARTA = [
     "prayer": "Senhor, quando muitas vozes competirem, dá-me atenção para tua Palavra. Que ela seja luz suficiente para o próximo passo enquanto espero o amanhecer. Amém."
   },
   {
-    "day": 11,
+    "day": 12,
     "theme": "Discernimento protege você sem obrigá-lo a viver desconfiando de todo mundo",
     "date": "2 Pedro 2.1-22",
     "verse": {
@@ -922,7 +1012,7 @@ window.PEDRO_CARTA = [
     "prayer": "Senhor, dá-me discernimento sem cinismo. Protege-me de mensagens que usam tua verdade para explorar pessoas e mantém meu coração humilde o bastante para continuar aprendendo. Amém."
   },
   {
-    "day": 12,
+    "day": 13,
     "theme": "Aquilo que parece demora pode estar carregando uma paciência que você ainda não consegue medir",
     "date": "2 Pedro 3.1-9",
     "verse": {
@@ -992,7 +1082,7 @@ window.PEDRO_CARTA = [
     "prayer": "Senhor, dá-me paciência para aquilo que não posso apressar e prontidão para aquilo que não devo continuar adiando. Amém."
   },
   {
-    "day": 13,
+    "day": 14,
     "theme": "Sua esperança final não é apenas escapar deste mundo, mas ver a justiça finalmente habitá-lo",
     "date": "2 Pedro 3.10-18",
     "verse": {

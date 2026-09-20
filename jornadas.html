@@ -47,7 +47,7 @@
 <a class="journey-choice" href="numeros.html"><div class="journey-choice-title">Números</div><div class="journey-choice-meta">36 dias · NVI</div></a>
 <a class="journey-choice" href="profetas-menores-2.html"><div class="journey-choice-title">Obadias + Jonas + Miquéias + Naum + Habacuque + Sofonias + Ageu</div><div class="journey-choice-meta">23 dias · NVI</div></a>
 <a class="journey-choice" href="oseias.html"><div class="journey-choice-title">Oseias</div><div class="journey-choice-meta">14 dias · NVI</div></a>
-<a class="journey-choice" href="pedro.html"><div class="journey-choice-title">1 e 2 Pedro</div><div class="journey-choice-meta">13 dias · NVI</div></a>
+<a class="journey-choice" href="pedro.html"><div class="journey-choice-title">1 e 2 Pedro</div><div class="journey-choice-meta">14 dias · NVI</div></a>
 <a class="journey-choice" href="index.html"><div class="journey-choice-title">Provérbios + Tiago</div><div class="journey-choice-meta">41 dias · NVI</div></a>
 <a class="journey-choice" href="1-reis.html"><div class="journey-choice-title">1 Reis</div><div class="journey-choice-meta">52 dias · NVI</div></a>
 <a class="journey-choice" href="2-reis.html"><div class="journey-choice-title">2 Reis</div><div class="journey-choice-meta">41 dias · NVI</div></a>
@@ -62,7 +62,7 @@
 <a class="journey-choice" href="tito-filemom-judas.html"><div class="journey-choice-title">Tito + Filemom + Judas</div><div class="journey-choice-meta">6 dias · NVI</div></a>
 <a class="journey-choice" href="zacarias-malaquias.html"><div class="journey-choice-title">Zacarias + Malaquias</div><div class="journey-choice-meta">18 dias · NVI</div></a>
 <div class="journey-choice journey-choice-stat" id="bibleProgressCard"><div class="journey-choice-title">Bíblia toda</div><div class="journey-choice-meta">capítulos lidos</div></div>
-</div></main><script src="salmos-layout.js"></script><script src="bible-books.js"></script><script src="jornadas-search.js"></script><script>
+</div></main><script src="salmos-layout.js"></script><script src="progress-migrations.js"></script><script src="bible-books.js"></script><script src="chapters-map.js"></script><script src="jornadas-search.js"></script><script>
 (() => {
   const progress = {
     'apocalipse.html': ['lectio-apocalipse-v1', 14], 'atos.html': ['lectio-atos-v1', 20],
@@ -83,7 +83,7 @@
     'oseias.html': ['lectio-oseias-v1', 14],
     'profetas-menores-2.html': ['lectio-profetas-menores-2-v1', 23],
     '1-corintios.html': ['lectio-1-corintios-v1', 14],
-    '2-corintios.html': ['lectio-2-corintios-v1', 13], 'pedro.html': ['lectio-pedro-v1', 13],
+    '2-corintios.html': ['lectio-2-corintios-v1', 13], 'pedro.html': ['lectio-pedro-v1', 14],
     '1-reis.html': ['lectio-1-reis-v1', 52], '2-reis.html': ['lectio-2-reis-v1', 41],
     '1-samuel.html': ['lectio-1-samuel-v1', 31], '2-samuel.html': ['lectio-2-samuel-v1', 24],
     'tessalonicenses.html': ['lectio-tessalonicenses-v1', 13], 'timoteo.html': ['lectio-timoteo-v1', 11],
@@ -288,12 +288,15 @@
 
   const plural = (n, singular, pluralForm) => `${n} ${n === 1 ? singular : pluralForm}`;
 
-  // Total de capítulos da Bíblia (NVI, 66 livros) — soma fixa de docs/nvi.json,
-  // não carregado aqui para não baixar os 3,8MB do texto inteiro só para um total.
-  const TOTAL_BIBLE_CHAPTERS = 1189;
+  // Capítulos da Bíblia (NVI, 66 livros) e quais deles cada dia de jornada cobre —
+  // vem de chapters-map.js, gerado por scripts/build-search-index.mjs.
+  const CHAPTERS = window.LECTIO_CHAPTERS || { total: 1189, days: {} };
+  const TOTAL_BIBLE_CHAPTERS = CHAPTERS.total;
 
   let totalHighlighted = 0;
-  let totalChaptersRead = 0;
+  // Conjunto de capítulos distintos: um dia pode cobrir vários capítulos
+  // (Apocalipse 16-18) e vários dias podem cobrir o mesmo (1 Pedro 1.1-12 e 1.13-25).
+  const chaptersRead = new Set();
   const journeysWithProgress = [];
 
   Object.keys(progress).forEach(href => {
@@ -301,11 +304,13 @@
     let state = {};
     try { state = JSON.parse(localStorage.getItem(key) || '{}'); } catch {}
     const readDays = Object.keys(state.read || {});
-    // Salmos longos ocupam várias leituras: conta cada salmo lido por inteiro como um capítulo.
-    totalChaptersRead += href === 'salmos.html' && window.SALMOS_LAYOUT ? window.SALMOS_LAYOUT.psalmsRead(state.read) : readDays.length;
+    const dayChapters = CHAPTERS.days[href] || {};
+    readDays.forEach(day => (dayChapters[day] || []).forEach(c => chaptersRead.add(c)));
     Object.values(state.highlights || {}).forEach(arr => { totalHighlighted += (arr || []).length; });
     if (readDays.length > 0) journeysWithProgress.push({ href, readDays });
   });
+
+  const totalChaptersRead = chaptersRead.size;
 
   const bibleCard = document.getElementById('bibleProgressCard');
   if (bibleCard) {
@@ -325,7 +330,7 @@
     bibleCard.classList.toggle('is-filled-end', biblePercent >= 85);
   }
 
-  if (totalChaptersRead === 0) {
+  if (journeysWithProgress.length === 0) {
     statsEl.textContent = 'Comece uma jornada para acompanhar aqui suas estatísticas de leitura.';
     return;
   }
