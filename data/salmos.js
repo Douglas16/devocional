@@ -60,8 +60,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 1 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 1 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Identifique uma voz, hábito ou companhia que tem sido 'conselho dos ímpios' na sua rotina e substitua hoje esse espaço por alguns minutos de meditação na Palavra.",
+    "prayer": "Senhor, planta-me junto às águas correntes da tua lei. Afasta-me do conselho que me seca e faz que minha alegria esteja em ti, para que eu dê fruto no tempo certo. Amém."
   },
   {
     "day": 2,
@@ -145,8 +145,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 2 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 2 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Liste uma 'conspiração' do seu tempo — notícias, poderes ou ameaças — que tem tirado sua paz e declare sobre ela o versículo 4: 'Do seu trono nos céus o Senhor põe-se a rir'.",
+    "prayer": "Senhor, as nações se agitam, mas o teu Rei já está entronizado. Livra-me de temer os poderosos e ensina-me a servir-te com temor e a encontrar refúgio no teu Filho. Amém."
   },
   {
     "day": 3,
@@ -214,8 +214,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 3 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 3 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escreva o nome de algo que tem 'se levantado contra' você nesta fase e, ao lado, a frase do versículo 3: 'Tu, Senhor, és o escudo que me protege'. Durma hoje com essa confissão.",
+    "prayer": "Senhor, muitos dizem que não há livramento para mim, mas tu és meu escudo e minha glória. Faz-me deitar e dormir em paz, porque és tu quem me sustenta. Amém."
   },
   {
     "day": 4,
@@ -283,8 +283,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 4 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 4 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Antes de dormir hoje, faça o exercício do versículo 4: em silêncio no leito, examine o coração diante de Deus e entregue a ele uma inquietação específica.",
+    "prayer": "Deus da minha justiça, responde quando eu clamar. Tu me deste alegria maior que a fartura de trigo e vinho; faz-me deitar e dormir em paz, porque só tu me fazes viver em segurança. Amém."
   },
   {
     "day": 5,
@@ -368,8 +368,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 5 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 5 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Comece amanhã cedo como o versículo 3: apresente a Deus seu pedido pela manhã e, ao longo do dia, observe com expectativa onde ele responde.",
+    "prayer": "Senhor, de manhã ouves a minha voz; de manhã te apresento a minha oração e aguardo com esperança. Guia-me na tua justiça e endireita diante de mim o teu caminho. Amém."
   },
   {
     "day": 6,
@@ -445,8 +445,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 6 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 6 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Se há um cansaço ou tristeza que você tem escondido de Deus, diga-o hoje com as palavras do versículo 3: 'Até quando, Senhor?'. Não maquie a oração.",
+    "prayer": "Senhor, não me repreendas na tua ira. Estou exausto de tanto gemer e minhas lágrimas molham a cama. Volta-te para mim e salva-me por causa do teu amor leal. Amém."
   },
   {
     "day": 7,
@@ -550,8 +550,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 7 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 7 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pense em uma acusação injusta que você sofreu. Em vez de defender-se sozinho, entregue a causa ao 'justo juiz' (v. 11) e examine se há algo em você que precise ser corrigido.",
+    "prayer": "Senhor meu Deus, em ti me refugio. Sonda minha mente e meu coração; se há mal em mim, mostra-me. E onde fui acusado injustamente, sê tu o meu juiz e o meu escudo. Amém."
   },
   {
     "day": 8,
@@ -623,8 +623,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 8 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 8 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Saia hoje à noite e olhe o céu por alguns minutos. Repita o versículo 4 — 'Que é o homem, para que com ele te importes?' — e agradeça pelo cuidado específico de Deus com você.",
+    "prayer": "Senhor, nosso Senhor, como é majestoso o teu nome em toda a terra! Diante da obra dos teus dedos me sinto pequeno, e ainda assim tu te lembras de mim. Faz-me cuidar bem do que me confiaste. Amém."
   },
   {
     "day": 9,
@@ -740,8 +740,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 9 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 9 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça como o versículo 1: conte a alguém hoje uma 'maravilha' concreta que Deus fez na sua vida, e agradeça a ele por ser refúgio dos oprimidos.",
+    "prayer": "Senhor, quero dar-te graças de todo o coração e contar todas as tuas maravilhas. Tu és refúgio para os oprimidos e não abandonas os que te buscam. Lembra-te dos aflitos de hoje. Amém."
   },
   {
     "day": 10,
@@ -849,8 +849,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 10 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 10 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escolha uma injustiça concreta que você conhece — alguém explorado, enganado ou indefeso — e ore pelo nome dessa situação, pedindo também a Deus um passo prático de ajuda.",
+    "prayer": "Senhor, por que te manténs distante em tempos de angústia? Levanta-te e não te esqueças dos indefesos. Tu vês a desgraça e o sofrimento; sê o defensor do órfão e do oprimido. Amém."
   },
   {
     "day": 11,
@@ -914,8 +914,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 11 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 11 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Quando a vontade for 'fugir como um pássaro para os montes' (v. 1), pare e pergunte: em que estou confiando? Escreva uma decisão em que você vai permanecer firme em vez de fugir.",
+    "prayer": "Senhor, em ti me refugio. Quando os fundamentos parecem destruídos, lembra-me de que estás no teu santo templo e o teu trono está nos céus. Firma-me no lugar onde me puseste. Amém."
   },
   {
     "day": 12,
@@ -983,8 +983,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 12 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 12 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Observe suas palavras hoje: evite bajulação, exagero e meias-verdades. À noite, compare o que você falou com 'as palavras puras do Senhor' (v. 6).",
+    "prayer": "Senhor, as palavras humanas estão cheias de bajulação e engano, mas as tuas palavras são puras como prata refinada. Guarda os pobres da mentira e purifica a minha boca. Amém."
   },
   {
     "day": 13,
@@ -1044,8 +1044,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 13 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 13 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escreva sua própria pergunta 'Até quando?' (v. 1–2) sobre algo que se arrasta, e termine-a como o salmista: 'Eu, porém, confio em teu amor'.",
+    "prayer": "Até quando, Senhor? Até quando esconderás de mim o teu rosto? Ilumina os meus olhos. Mesmo sem respostas, confio no teu amor e cantarei porque tens sido bom para mim. Amém."
   },
   {
     "day": 14,
@@ -1109,8 +1109,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 14 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 14 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "O 'tolo' do versículo 1 vive como se Deus não existisse. Identifique uma área da sua rotina em que você age assim e convide Deus para dentro dela hoje.",
+    "prayer": "Senhor, não há quem faça o bem, nem um sequer — eu também preciso de ti. Olha desde os céus, encontra-me buscando-te e traz a salvação que vem de Sião. Amém."
   },
   {
     "day": 15,
@@ -1166,8 +1166,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 15 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 15 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Use o salmo como espelho: escolha um dos traços (falar a verdade, não difamar, cumprir a palavra mesmo com prejuízo) e pratique-o de forma concreta hoje.",
+    "prayer": "Senhor, quem poderá habitar no teu santo monte? Dá-me integridade, uma língua que não calunia e palavra que se cumpre mesmo quando custa. Que eu seja inabalável em ti. Amém."
   },
   {
     "day": 16,
@@ -1247,8 +1247,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 16 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 16 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça uma lista curta das 'divisas que caíram em lugares agradáveis' (v. 6) da sua vida e agradeça a Deus por cada uma, declarando que ele é sua porção.",
+    "prayer": "Senhor, tu és o meu Senhor; não tenho bem nenhum além de ti. Tu és a minha porção e o meu cálice. Mostra-me o caminho da vida e enche-me de alegria na tua presença. Amém."
   },
   {
     "day": 17,
@@ -1344,8 +1344,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 17 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 17 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Peça a Deus para examinar o seu coração à noite, como no versículo 3, e anote uma área que ele lhe mostrar. Depois descanse sob a 'sombra das suas asas' (v. 8).",
+    "prayer": "Senhor, ouve a minha causa justa. Guarda-me como a menina dos teus olhos e esconde-me à sombra das tuas asas. Quando eu acordar, ficarei satisfeito ao ver a tua face. Amém."
   },
   {
     "day": 18,
@@ -1748,8 +1748,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 19 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 19 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Hoje, observe o céu duas vezes (manhã e noite) e depois leia um trecho das Escrituras: reconheça que Deus fala pela criação e pela Palavra. Termine orando o versículo 14.",
+    "prayer": "Senhor, os céus declaram a tua glória e a tua lei restaura a alma. Purifica-me das faltas que desconheço e que as palavras da minha boca e a meditação do meu coração te agradem, minha Rocha e meu Redentor. Amém."
   },
   {
     "day": 22,
@@ -1821,8 +1821,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 20 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 20 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore pelo nome de alguém que está enfrentando um 'dia de angústia' (v. 1), usando as bênçãos do salmo. Depois, identifique seu próprio 'carro ou cavalo' (v. 7) e renuncie a confiar nele.",
+    "prayer": "Senhor, alguns confiam em carros e outros em cavalos, mas nós confiamos no teu nome. Responde no dia da angústia e concede o desejo do coração dos que te buscam. Amém."
   },
   {
     "day": 23,
@@ -1910,8 +1910,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 21 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 21 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Lembre-se de uma oração que Deus respondeu e escreva o que ele lhe deu (v. 2). Agradeça especificamente, reconhecendo que a força veio dele e não de você.",
+    "prayer": "Senhor, tu concedeste o desejo do coração e não negaste o pedido dos lábios. A vitória é tua; exalta-te, Senhor, na tua força, e nós cantaremos o teu poder. Amém."
   },
   {
     "day": 24,
@@ -2169,8 +2169,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 23 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 23 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escolha uma imagem do salmo — pastos verdes, águas tranquilas, vale escuro ou mesa preparada — que descreve seu momento e converse com o Pastor sobre ela hoje.",
+    "prayer": "Senhor, tu és o meu pastor; nada me faltará. Conduz-me a águas tranquilas, restaura a minha alma e, mesmo no vale da sombra da morte, faz-me sentir que estás comigo. Amém."
   },
   {
     "day": 27,
@@ -2246,8 +2246,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 24 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 24 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Antes de entrar em algum lugar hoje (trabalho, casa, igreja), ore o versículo 7: 'Abram-se, portais, para que o Rei da glória entre'. Leve conscientemente o Senhor com você.",
+    "prayer": "Senhor, ao Senhor pertencem a terra e tudo o que nela existe. Dá-me mãos limpas e coração puro para subir ao teu monte. Rei da glória, entra pelos portais da minha vida. Amém."
   },
   {
     "day": 28,
@@ -2371,8 +2371,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 25 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 25 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escolha uma decisão que você precisa tomar e ore o versículo 4: 'Mostra-me, Senhor, os teus caminhos'. Peça também perdão pelos 'pecados da juventude' (v. 7) que ainda o perseguem.",
+    "prayer": "Senhor, a ti elevo a minha alma; em ti confio. Mostra-me os teus caminhos, ensina-me as tuas veredas. Não te lembres dos pecados da minha juventude, mas lembra-te de mim segundo o teu amor. Amém."
   },
   {
     "day": 29,
@@ -2456,8 +2456,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 26 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 26 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore o versículo 2 — 'Sonda-me, Senhor, e prova-me' — e examine um compromisso desta semana: há alguma companhia ou prática com que você precise romper?",
+    "prayer": "Senhor, sonda-me e prova-me; examina o meu coração e a minha mente. Amo a casa onde habitas. Redime-me e tem misericórdia de mim, para que eu ande em integridade. Amém."
   },
   {
     "day": 30,
@@ -2549,8 +2549,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 27 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 27 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Nomeie o medo que mais o assombra hoje e responda a ele com o versículo 1. Depois separe um tempo para fazer 'a única coisa' do versículo 4: contemplar o Senhor.",
+    "prayer": "Senhor, tu és a minha luz e a minha salvação; de quem terei medo? Uma coisa peço: habitar na tua casa e contemplar a tua bondade. Ensina-me a esperar por ti com coragem. Amém."
   },
   {
     "day": 31,
@@ -2622,8 +2622,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 28 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 28 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pense em uma oração que parece cair no silêncio. Diga a Deus, como no versículo 1: 'Não fiques em silêncio'. Depois, leia o versículo 7 em voz alta como declaração de confiança.",
+    "prayer": "Senhor, a ti eu clamo; tu és a minha rocha, não fiques em silêncio. Ouve a minha súplica. O Senhor é a minha força e o meu escudo; nele o meu coração confia. Amém."
   },
   {
     "day": 32,
@@ -2703,8 +2703,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 29 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 29 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Na próxima chuva, trovão ou vento forte, pare por um minuto e reconheça a 'voz do Senhor' (v. 3–9). Peça a força e a paz prometidas no versículo 11.",
+    "prayer": "Senhor, tua voz é poderosa e majestosa; ela quebra os cedros e faz tremer o deserto. Tu reinas sobre o dilúvio. Dá força ao teu povo e abençoa-o com paz. Amém."
   },
   {
     "day": 33,
@@ -2788,8 +2788,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 30 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 30 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Recorde uma 'noite de choro' que terminou em 'alegria pela manhã' (v. 5) e conte essa história a alguém hoje, agradecendo a Deus por ter mudado seu lamento em dança.",
+    "prayer": "Senhor, eu te exaltarei, porque me tiraste do abismo. O choro pode durar uma noite, mas a alegria vem pela manhã. Mudaste o meu pranto em dança; para sempre te darei graças. Amém."
   },
   {
     "day": 34,
@@ -2921,8 +2921,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 31 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 31 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escreva o versículo 15 — 'O meu futuro está nas tuas mãos' — e coloque-o onde você verá ao longo do dia. Entregue a Deus um prazo, plano ou ameaça específica.",
+    "prayer": "Senhor, nas tuas mãos entrego o meu espírito. O meu futuro está nas tuas mãos; livra-me dos que me perseguem. Faz brilhar o teu rosto sobre o teu servo. Amém."
   },
   {
     "day": 35,
@@ -3002,8 +3002,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 32 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 32 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Confesse a Deus, de forma específica, um pecado que você vinha escondendo (v. 5). Experimente o alívio do perdão e, se necessário, procure alguém de confiança para conversar.",
+    "prayer": "Senhor, como é feliz aquele que tem suas transgressões perdoadas! Enquanto eu me calei, meus ossos definharam. Confesso a ti o meu pecado; sê o meu esconderijo e instrui-me no caminho. Amém."
   },
   {
     "day": 36,
@@ -3127,8 +3127,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 33 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 33 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Cante ou ouça hoje um 'cântico novo' (v. 3). Depois, liste um plano pessoal e entregue-o a Deus, lembrando que 'os planos do Senhor permanecem para sempre' (v. 11).",
+    "prayer": "Senhor, pela tua palavra foram feitos os céus. Os teus planos permanecem para sempre. O nosso coração se alegra em ti; esteja sobre nós o teu amor, como está em ti a nossa esperança. Amém."
   },
   {
     "day": 37,
@@ -3252,8 +3252,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 34 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 34 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça o teste do versículo 8: 'Provem e vejam como o Senhor é bom'. Registre hoje três momentos em que você percebeu a bondade de Deus, por menores que sejam.",
+    "prayer": "Senhor, bendirei o teu nome em todo o tempo. Busquei-te, e tu me respondeste e me livraste de todos os meus temores. Tu estás perto dos que têm o coração quebrantado. Amém."
   },
   {
     "day": 38,
@@ -3523,8 +3523,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 36 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 36 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Contraste o retrato do ímpio (v. 1–4) com o amor de Deus (v. 5–9). Escolha hoje uma atitude que o aproxime da 'fonte da vida' e beba dela com tempo de silêncio.",
+    "prayer": "Senhor, o teu amor chega até os céus e a tua fidelidade até as nuvens. Em ti está a fonte da vida; na tua luz vemos a luz. Abriga-me à sombra das tuas asas. Amém."
   },
   {
     "day": 41,
@@ -3919,8 +3919,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 38 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 38 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Se uma culpa tem pesado até no corpo (v. 3–8), diga isso a Deus sem rodeios e peça socorro. Considere também conversar com alguém de confiança sobre o que você carrega.",
+    "prayer": "Senhor, não me repreendas na tua ira. Minhas culpas me sobrecarregaram como fardo pesado. Todos os meus anseios estão diante de ti. Não me abandones; apressa-te a ajudar-me. Amém."
   },
   {
     "day": 45,
@@ -4008,8 +4008,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 39 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 39 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Calcule quantos dias você já viveu e ore o versículo 4: 'Mostra-me, Senhor, o fim da minha vida'. Escolha algo que você vem adiando e que realmente importa, e faça-o hoje.",
+    "prayer": "Senhor, a minha vida é um sopro diante de ti. Mostra-me quão passageira é a minha existência. E agora, Senhor, que hei de esperar? Minha esperança está em ti. Amém."
   },
   {
     "day": 46,
@@ -4113,8 +4113,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 40 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 40 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Lembre-se de um 'poço' de onde Deus o tirou (v. 2) e conte essa história a alguém hoje — o salmo diz que muitos verão e confiarão no Senhor (v. 3).",
+    "prayer": "Senhor, esperei com paciência, e tu te inclinaste e ouviste o meu clamor. Tiraste-me do poço da destruição e puseste meus pés sobre a rocha. Agrada-me fazer a tua vontade. Amém."
   },
   {
     "day": 47,
@@ -4202,8 +4202,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 41 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 41 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pense em alguém fraco ou doente que você conhece (v. 1) e faça hoje um gesto concreto de cuidado: uma visita, uma ligação ou uma refeição.",
+    "prayer": "Senhor, como é feliz quem se preocupa com o pobre. Sustenta-me no leito da enfermidade e cura-me. Mesmo quando o amigo íntimo me trai, tu me sustentas na minha integridade. Amém."
   },
   {
     "day": 48,
@@ -4283,8 +4283,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 42 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 42 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pergunte a si mesmo em voz alta, como o salmista: 'Por que você está assim tão triste, ó minha alma?' (v. 5). Nomeie o motivo e responda: 'Ponha a sua esperança em Deus'.",
+    "prayer": "Senhor, como a corça anseia por águas correntes, a minha alma anseia por ti. As lágrimas têm sido meu alimento. De dia, envia o teu amor; de noite, esteja comigo a tua canção. Amém."
   },
   {
     "day": 49,
@@ -4340,8 +4340,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 43 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 43 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore o versículo 3 antes de começar o dia: 'Envia a tua luz e a tua verdade'. Peça a Deus que o guie de volta ao lugar de adoração do qual você tem se afastado.",
+    "prayer": "Ó Deus, faz-me justiça e defende a minha causa. Envia a tua luz e a tua verdade; que elas me guiem ao teu santo monte, ao Deus da minha alegria. Amém."
   },
   {
     "day": 50,
@@ -4623,8 +4623,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 45 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 45 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Este cântico de casamento real aponta para Cristo e sua noiva. Escreva uma frase de admiração a Jesus como o Rei do versículo 2 — 'o mais belo dos homens'.",
+    "prayer": "Senhor Jesus, o teu trono permanece para sempre e o cetro do teu reino é cetro de justiça. Faz que eu te deseje como a noiva deseja o seu Rei, e esqueça o que me prende ao passado. Amém."
   },
   {
     "day": 53,
@@ -4704,8 +4704,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 46 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 46 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Separe cinco minutos de silêncio total, sem celular, e repita o versículo 10: 'Parem de lutar! Saibam que eu sou Deus'. Deixe que esse silêncio seja seu ato de confiança.",
+    "prayer": "Senhor, tu és o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade. Ainda que a terra trema, não temeremos. Aquieta-me e faz-me saber que tu és Deus. Amém."
   },
   {
     "day": 54,
@@ -4777,8 +4777,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 47 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 47 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Bata palmas ou cante em voz alta hoje, como o salmo convida (v. 1). Em seguida, ore pelas nações, lembrando que 'Deus reina sobre as nações' (v. 8).",
+    "prayer": "Senhor Altíssimo, tu és o grande Rei sobre toda a terra. Cantamos louvores com entendimento, porque reinas sobre as nações e estás assentado no teu santo trono. Amém."
   },
   {
     "day": 55,
@@ -4870,8 +4870,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 48 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 48 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça um 'passeio' pela sua história com Deus, como os peregrinos que contavam as torres de Sião (v. 12–13). Escreva três marcos da fidelidade dele para contar à próxima geração.",
+    "prayer": "Senhor, grande és tu e digno de todo louvor na tua cidade. Meditamos no teu amor dentro do teu templo. Este Deus é o nosso Deus para sempre; ele nos guiará até o fim. Amém."
   },
   {
     "day": 56,
@@ -4987,8 +4987,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 49 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 49 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça um inventário honesto: em que bens, conquistas ou seguranças você tem confiado? Lembre que 'ninguém pode redimir a vida do outro' (v. 7) e entregue isso a Deus.",
+    "prayer": "Senhor, o homem que vive em honra, mas sem entendimento, é como os animais que perecem. Mas tu redimirás a minha vida da sepultura e me levarás para junto de ti. Amém."
   },
   {
     "day": 57,
@@ -5116,8 +5116,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 50 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 50 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ofereça hoje a Deus um 'sacrifício de gratidão' (v. 14): escreva uma lista de agradecimentos e, se tiver feito alguma promessa a Deus, cumpra-a.",
+    "prayer": "Senhor, todos os animais da floresta são teus; não precisas de nada que eu possa dar. Recebe o meu sacrifício de gratidão. Invoco-te no dia da angústia; livra-me, e eu te honrarei. Amém."
   },
   {
     "day": 58,
@@ -5229,8 +5229,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 51 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 51 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore o versículo 10 — 'Cria em mim um coração puro, ó Deus' — sobre uma falha específica. Confesse-a sem desculpas e dê hoje um passo concreto de reparação.",
+    "prayer": "Tem misericórdia de mim, ó Deus, segundo o teu amor. Lava-me da minha culpa e purifica-me do meu pecado. Cria em mim um coração puro e devolve-me a alegria da tua salvação. Amém."
   },
   {
     "day": 59,
@@ -5302,8 +5302,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 52 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 52 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Observe suas palavras hoje: evite qualquer comentário que destrua alguém (v. 2–4). À noite, agradeça por estar 'como oliveira na casa de Deus' (v. 8).",
+    "prayer": "Senhor, não quero confiar na riqueza nem ferir com a língua. Planta-me como oliveira verdejante na tua casa; confio no teu amor para todo o sempre. Amém."
   },
   {
     "day": 60,
@@ -5363,8 +5363,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 53 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 53 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Reconheça em oração as áreas em que você vive como se 'não houvesse Deus' (v. 1). Peça perdão e agradeça pela restauração que ele promete trazer ao seu povo (v. 6).",
+    "prayer": "Senhor, olhaste dos céus e não encontraste um justo sequer. Eu também preciso da tua salvação. Restaura o teu povo e alegra-nos com a tua presença. Amém."
   },
   {
     "day": 61,
@@ -5428,8 +5428,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 54 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 54 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escreva o nome de quem o tem perseguido ou prejudicado e, ao lado, o versículo 4: 'Deus é o meu ajudador'. Entregue a ele sua defesa e ofereça-lhe gratidão.",
+    "prayer": "Ó Deus, salva-me pelo teu nome e defende-me pelo teu poder. Estranhos se levantam contra mim, mas tu és o meu ajudador; o Senhor sustenta a minha vida. Amém."
   },
   {
     "day": 62,
@@ -5557,8 +5557,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 55 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 55 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça o que diz o versículo 22: escreva o 'fardo' que mais pesa hoje e, simbolicamente, entregue-o a Deus em oração. Se houver uma traição envolvida, nomeie-a também.",
+    "prayer": "Senhor, ouve a minha oração; meu coração está angustiado. Quem dera eu tivesse asas de pomba para voar! Lanço sobre ti o meu fardo; sustenta-me e não me deixes vacilar. Amém."
   },
   {
     "day": 63,
@@ -5646,8 +5646,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 56 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 56 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escreva seu medo atual e, embaixo, o versículo 3: 'Mas eu, quando estiver com medo, confiarei em ti'. Repita-o sempre que esse medo voltar hoje.",
+    "prayer": "Senhor, quando eu tiver medo, confiarei em ti. Tu registras as minhas aflições e recolhes as minhas lágrimas no teu odre. Em Deus eu confio e não temerei. Amém."
   },
   {
     "day": 64,
@@ -5727,8 +5727,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 57 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 57 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Comece o dia com o versículo 8 — 'Acorda, harpa e lira! Vou despertar a alvorada!' — cantando ou dizendo um louvor antes de qualquer outra tarefa.",
+    "prayer": "Tem misericórdia de mim, ó Deus, pois em ti a minha alma se refugia. Refugio-me à sombra das tuas asas até que passe o perigo. Firme está o meu coração; cantarei louvores. Amém."
   },
   {
     "day": 65,
@@ -5808,8 +5808,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 58 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 58 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore por uma estrutura injusta que você conhece — um sistema, empresa ou governo que oprime. Clame pela justiça de Deus (v. 11) e veja se há um passo responsável que você pode dar.",
+    "prayer": "Senhor, há juízes que decretam o mal e governantes que tramam violência. Levanta-te e faz justiça. Que todos digam: 'De fato, há um Deus que julga a terra'. Amém."
   },
   {
     "day": 66,
@@ -5913,8 +5913,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 59 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 59 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "À noite, quando as preocupações 'voltarem como cães que rosnam' (v. 6), faça o que o salmo faz: declare em voz alta que Deus é sua fortaleza (v. 9) e cante pela manhã (v. 16).",
+    "prayer": "Ó Deus, livra-me dos meus inimigos; protege-me dos que se levantam contra mim. Tu és a minha força; por ti vigio. De manhã cantarei o teu amor, pois tu és o meu alto refúgio. Amém."
   },
   {
     "day": 67,
@@ -5998,8 +5998,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 60 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 60 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Leve a Deus uma derrota recente — sua ou da sua comunidade — com a honestidade do versículo 1. Depois declare o versículo 12: 'Com Deus faremos proezas'.",
+    "prayer": "Ó Deus, tu nos rejeitaste e nos fizeste ver dificuldades. Restaura-nos! Dá-nos ajuda contra o adversário, pois inútil é o socorro do homem. Com Deus faremos proezas. Amém."
   },
   {
     "day": 68,
@@ -6067,8 +6067,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 61 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 61 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Quando seu coração desfalecer hoje, ore o versículo 2: 'Leva-me para a rocha que é mais alta do que eu'. Identifique o que você precisa que Deus carregue por você.",
+    "prayer": "Ó Deus, ouve o meu clamor. Desde os confins da terra eu clamo quando meu coração desfalece. Leva-me para a rocha mais alta do que eu. Quero habitar na tua tenda para sempre. Amém."
   },
   {
     "day": 69,
@@ -6152,8 +6152,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 62 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 62 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Separe dez minutos de silêncio e ore o versículo 1: 'Somente em Deus a minha alma encontra descanso'. Derrame seu coração diante dele (v. 8) sem pressa.",
+    "prayer": "Senhor, somente em ti a minha alma encontra descanso; de ti vem a minha esperança. Só tu és a minha rocha e a minha salvação. Derramo diante de ti o meu coração. Amém."
   },
   {
     "day": 70,
@@ -6233,8 +6233,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 63 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 63 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Busque a Deus antes de qualquer outra coisa amanhã cedo (v. 1). Se acordar de madrugada, medite nele em vez de pegar o celular (v. 6).",
+    "prayer": "Ó Deus, tu és o meu Deus; eu te busco intensamente. A minha alma tem sede de ti numa terra seca e exausta. O teu amor é melhor do que a vida; por isso os meus lábios te exaltarão. Amém."
   },
   {
     "day": 71,
@@ -6310,8 +6310,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 64 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 64 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pense em palavras ou planos ocultos que têm sido 'flechas' contra você (v. 3–4). Entregue a Deus essa situação e evite revidar com as mesmas armas.",
+    "prayer": "Ó Deus, ouve a minha queixa; protege a minha vida do terror do inimigo. Esconde-me da conspiração dos ímpios. Que o justo se alegre no Senhor e nele se refugie. Amém."
   },
   {
     "day": 72,
@@ -6399,8 +6399,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 65 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 65 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Observe com atenção a natureza ao seu redor hoje — chuva, plantas, campos ou até uma árvore na rua — e agradeça a Deus que 'coroa o ano com a sua bondade' (v. 11).",
+    "prayer": "Ó Deus, o louvor te aguarda em Sião. Tu perdoas as nossas transgressões, cuidas da terra e a regas. Coroas o ano com a tua bondade, e por onde passas há fartura. Amém."
   },
   {
     "day": 73,
@@ -6516,8 +6516,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 66 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 66 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Siga o convite do versículo 16: 'Venham e ouçam... vou contar-lhes o que ele fez por mim'. Conte hoje a alguém, de forma concreta, uma prova pela qual Deus o fez passar.",
+    "prayer": "Ó Deus, tu nos provaste e nos refinaste como a prata. Passamos pelo fogo e pela água, mas tu nos trouxeste a um lugar de fartura. Bendito sejas, pois não rejeitaste a minha oração. Amém."
   },
   {
     "day": 74,
@@ -6581,8 +6581,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 67 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 67 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore por um povo ou nação específica que ainda não conhece a Cristo, usando o versículo 2: 'para que sejam conhecidos na terra os teus caminhos'.",
+    "prayer": "Ó Deus, tem misericórdia de nós e abençoa-nos; faz resplandecer o teu rosto sobre nós, para que sejam conhecidos na terra os teus caminhos e entre todas as nações a tua salvação. Amém."
   },
   {
     "day": 75,
@@ -7107,8 +7107,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 70 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 70 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça uma oração curta e urgente, como esta: 'Apressa-te, ó Deus, em me libertar!' (v. 1). Diga-a sempre que se sentir sobrecarregado hoje.",
+    "prayer": "Apressa-te, ó Deus, em me libertar! Apressa-te, Senhor, em me socorrer! Sou pobre e necessitado; tu és o meu socorro e o meu libertador. Não te demores. Amém."
   },
   {
     "day": 81,
@@ -7240,8 +7240,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 71 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 71 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escreva uma lembrança da fidelidade de Deus em cada fase da sua vida (infância, juventude, agora) e ore o versículo 18: 'Não me abandones na velhice'.",
+    "prayer": "Senhor, tu és a minha esperança desde a juventude. Não me rejeites na velhice nem me abandones quando as minhas forças se acabarem. Anunciarei o teu poder à próxima geração. Amém."
   },
   {
     "day": 82,
@@ -7357,8 +7357,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 72 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 72 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore por governantes do seu país, cidade ou trabalho usando os versículos 1–4. Peça que defendam os pobres e façam justiça, e procure um modo de você mesmo apoiar os necessitados.",
+    "prayer": "Ó Deus, dá ao rei a tua justiça. Que ele defenda os oprimidos, socorra os necessitados e esmague o opressor. Que o seu nome permaneça para sempre e toda a terra se encha da tua glória. Amém."
   },
   {
     "day": 83,
@@ -7672,8 +7672,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 74 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 74 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pense em algo de Deus que foi destruído ou profanado na sua comunidade ou na sua vida. Lamente diante dele e recorde, como nos versículos 12–17, as obras antigas do seu poder.",
+    "prayer": "Ó Deus, por que nos rejeitaste para sempre? Lembra-te do teu povo, que redimiste. Tu és o meu Rei desde a antiguidade; levanta-te e defende a tua causa. Amém."
   },
   {
     "day": 86,
@@ -7749,8 +7749,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 75 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 75 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Identifique uma área em que você tem se 'exaltado' ou confiado no próprio poder (v. 4–5). Humilhe-se diante de Deus, lembrando que ele é quem 'exalta um e humilha outro' (v. 7).",
+    "prayer": "Damos-te graças, ó Deus, porque o teu nome está perto. No tempo que determinares julgarás com justiça. Tu exaltas e humilhas; eu anunciarei isso para sempre. Amém."
   },
   {
     "day": 87,
@@ -7834,8 +7834,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 76 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 76 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça um voto simples a Deus hoje — um compromisso pequeno e realizável — e cumpra-o, como o salmo pede no versículo 11.",
+    "prayer": "Ó Deus, tu és resplandecente, mais majestoso que os montes. Até a ira humana se transforma em louvor a ti. Recebe os meus votos e ensina-me a temer-te. Amém."
   },
   {
     "day": 88,
@@ -7951,8 +7951,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 77 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 77 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Se a sua alma 'recusa ser consolada' (v. 2), escreva as perguntas que tem feito a Deus (v. 7–9). Depois, faça como o salmista: anote uma 'obra antiga' de Deus em sua vida (v. 11).",
+    "prayer": "Senhor, clamo a ti e não encontro consolo. Mas me lembrarei das tuas obras, recordarei os teus milagres do passado. O teu caminho passou pelo mar, ainda que as tuas pegadas não fossem vistas. Amém."
   },
   {
     "day": 89,
@@ -8476,8 +8476,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 79 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 79 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore pela igreja perseguida em algum lugar do mundo, usando os versículos 1–3. Pesquise um país específico e interceda por ele pelo nome.",
+    "prayer": "Ó Deus, as nações invadiram a tua herança. Não te lembres contra nós das culpas do passado; vem depressa ao nosso encontro com a tua misericórdia. Ajuda-nos, por amor do teu nome. Amém."
   },
   {
     "day": 94,
@@ -8589,8 +8589,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 80 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 80 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Repita três vezes ao longo do dia o refrão do salmo (v. 3, 7, 19): 'Restaura-nos, ó Deus! Faze resplandecer sobre nós o teu rosto'. Pense numa área em que você precisa ser restaurado.",
+    "prayer": "Ó Pastor de Israel, desperta o teu poder e vem salvar-nos. Tu trouxeste uma videira do Egito; olha dos céus e cuida dela. Restaura-nos, Senhor, e seremos salvos. Amém."
   },
   {
     "day": 95,
@@ -8690,8 +8690,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 81 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 81 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Identifique um 'deus estranho' (v. 9) — algo que compete com Deus pela sua atenção — e abra hoje a boca para que ele a encha (v. 10), dedicando-lhe tempo em vez disso.",
+    "prayer": "Senhor, tu me tiraste do Egito e disseste: 'Abra bem a boca, e eu a encherei'. Perdoa-me por não te ouvir. Quero andar nos teus caminhos e ser saciado por ti. Amém."
   },
   {
     "day": 96,
@@ -8759,8 +8759,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 82 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 82 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore pelos juízes, autoridades e líderes que você conhece, usando os versículos 3–4. Se você exerce alguma autoridade, examine se tem defendido o fraco e o órfão.",
+    "prayer": "Ó Deus, levanta-te e julga a terra, pois todas as nações te pertencem. Defende o fraco e o órfão; faz justiça ao pobre e ao oprimido. Amém."
   },
   {
     "day": 97,
@@ -8868,8 +8868,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 83 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 83 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Leve a Deus uma situação em que você se sente cercado por muitas pressões ao mesmo tempo (v. 5–8). Peça que ele se levante, para que os homens saibam que só ele é o Altíssimo (v. 18).",
+    "prayer": "Ó Deus, não te cales nem fiques inerte. Os teus inimigos se agitam. Que eles saibam que só tu, cujo nome é Senhor, és o Altíssimo sobre toda a terra. Amém."
   },
   {
     "day": 98,
@@ -8953,8 +8953,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 84 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 84 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Separe hoje um tempo especial na presença de Deus — no templo ou em casa — e ore o versículo 10: 'Melhor é um dia nos teus átrios do que mil noutro lugar'.",
+    "prayer": "Senhor dos Exércitos, como é amável o lugar da tua habitação! A minha alma anela pelos teus átrios. Melhor é um dia contigo do que mil em outro lugar. Feliz é quem confia em ti. Amém."
   },
   {
     "day": 99,
@@ -9042,8 +9042,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 85 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 85 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Identifique uma área em que você ou sua comunidade precisam de reavivamento e ore o versículo 6: 'Não voltarás a dar-nos vida, para que o teu povo se alegre em ti?'.",
+    "prayer": "Senhor, foste favorável à tua terra. Restaura-nos, Deus da nossa salvação. Mostra-nos o teu amor; o amor e a fidelidade se encontrarão, a justiça e a paz se beijarão. Amém."
   },
   {
     "day": 100,
@@ -9147,8 +9147,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 86 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 86 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça sua a oração do versículo 11: 'Ensina-me o teu caminho, Senhor... dá-me um coração inteiramente fiel'. Identifique onde seu coração está dividido e entregue essa área a ele.",
+    "prayer": "Senhor, inclina o teu ouvido e responde-me, pois sou pobre e necessitado. Ensina-me o teu caminho e dá-me um coração inteiramente fiel, para que eu tema o teu nome. Amém."
   },
   {
     "day": 101,
@@ -9212,8 +9212,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 87 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 87 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore por uma nação inimiga ou distante — como Egito e Babilônia no versículo 4 — e peça que, ali também, Deus registre muitos que 'nasceram em Sião'.",
+    "prayer": "Senhor, tu amas as portas de Sião. Registras os povos: 'Este nasceu ali'. Obrigado porque, em Cristo, pessoas de toda nação são filhas da tua cidade. Todas as minhas fontes estão em ti. Amém."
   },
   {
     "day": 102,
@@ -9321,8 +9321,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 88 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 88 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Não force este salmo a terminar bem. Se você está na escuridão, diga isso a Deus com a franqueza dos versículos 13–18 — e procure hoje uma pessoa segura com quem possa conversar.",
+    "prayer": "Senhor, Deus que me salva, dia e noite clamo a ti. A minha alma está cheia de aflições. Mesmo quando a escuridão parece ser minha única companheira, eu continuo clamando a ti. Amém."
   },
   {
     "day": 103,
@@ -9745,8 +9745,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 90 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 90 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça o exercício do versículo 12: 'Ensina-nos a contar os nossos dias'. Calcule quantos fins de semana você provavelmente ainda tem e escolha um uso sábio para o próximo.",
+    "prayer": "Senhor, tu tens sido o nosso refúgio de geração em geração. Ensina-nos a contar os nossos dias para que alcancemos coração sábio. Firma a obra das nossas mãos. Amém."
   },
   {
     "day": 107,
@@ -9846,8 +9846,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 91 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 91 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escolha um medo concreto (doença, violência, noite, futuro) e confronte-o com uma promessa específica do salmo. Repita-a antes de dormir hoje.",
+    "prayer": "Senhor, tu és o meu refúgio e a minha fortaleza, o meu Deus em quem confio. Cobre-me com as tuas penas, guarda-me sob as tuas asas. Responde quando eu clamar e mostra-me a tua salvação. Amém."
   },
   {
     "day": 108,
@@ -9943,8 +9943,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 92 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 92 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça o que o versículo 2 propõe: anuncie o amor de Deus pela manhã e a sua fidelidade à noite. Ao acordar e ao deitar hoje, diga em voz alta uma bondade dele.",
+    "prayer": "Senhor, como é bom render-te graças e cantar louvores ao teu nome! De manhã anuncio o teu amor e de noite a tua fidelidade. Planta-me na tua casa para que eu dê fruto até na velhice. Amém."
   },
   {
     "day": 109,
@@ -10000,8 +10000,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 93 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 93 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Diante de algo que parece um 'mar bravio' (v. 3–4) na sua vida, declare: 'Mais poderoso do que o estrondo das águas é o Senhor'. Escreva essa frase onde você a verá.",
+    "prayer": "Senhor, tu reinas, vestido de majestade. O teu trono está firme desde a antiguidade. Mais poderoso que o estrondo das águas és tu. Teus testemunhos são fidedignos. Amém."
   },
   {
     "day": 110,
@@ -10129,8 +10129,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 94 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 94 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Quando a ansiedade se multiplicar dentro de você hoje (v. 19), pare e peça que as consolações de Deus alegrem sua alma. Escreva também uma injustiça que você entrega a ele.",
+    "prayer": "Senhor, Deus da vingança, resplandece. Quando a ansiedade se multiplica dentro de mim, as tuas consolações alegram a minha alma. Tu és a minha torre alta e a rocha em que me refugio. Amém."
   },
   {
     "day": 111,
@@ -10210,8 +10210,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 95 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 95 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Antes de qualquer outra atividade hoje, ajoelhe-se (v. 6) e adore a Deus por alguns minutos. Pergunte-se também onde seu coração está 'endurecido' (v. 8).",
+    "prayer": "Senhor, tu és o grande Deus e o grande Rei acima de todos os deuses. Ajoelhamo-nos diante de ti, nosso Criador. Hoje, se ouvirmos a tua voz, não endureceremos o coração. Amém."
   },
   {
     "day": 112,
@@ -10299,8 +10299,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 96 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 96 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Cante hoje um 'cântico novo' (v. 1) e conte a alguém uma obra de Deus. Depois, olhe para a criação e imagine 'as árvores da floresta' cantando diante dele (v. 12).",
+    "prayer": "Senhor, cantem ao Senhor um cântico novo, toda a terra! Anunciem entre as nações a sua glória. Tu vens julgar a terra com justiça e os povos com a tua verdade. Amém."
   },
   {
     "day": 113,
@@ -10384,8 +10384,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 97 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 97 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pratique o versículo 10: 'Odeiem o mal, vocês que amam o Senhor'. Identifique hoje um mal que você tolera e dê um passo para se afastar dele.",
+    "prayer": "Senhor, tu reinas! Nuvens e densas trevas te cercam; justiça e retidão são a base do teu trono. A luz se derrama sobre o justo e a alegria sobre os retos de coração. Amém."
   },
   {
     "day": 114,
@@ -10457,8 +10457,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 98 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 98 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Celebre hoje a vitória de Deus com algo alegre: música, palmas ou um grito de louvor (v. 4–6). Escolha um feito concreto dele para celebrar.",
+    "prayer": "Senhor, tua mão direita e teu braço santo te deram a vitória. Tu te lembraste do teu amor e da tua fidelidade. Que os rios batam palmas e os montes cantem juntos diante de ti. Amém."
   },
   {
     "day": 115,
@@ -10530,8 +10530,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 99 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 99 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Exalte hoje a santidade de Deus, como faz o refrão do salmo (v. 3, 5, 9). Lembre-se de que ele respondeu a Moisés, Arão e Samuel — e ore como eles, por seu povo.",
+    "prayer": "Senhor, tu reinas; tremam os povos. Tu és santo! Respondeste aos que te invocaram e lhes perdoaste. Exaltamos o Senhor nosso Deus e o adoramos, pois ele é santo. Amém."
   },
   {
     "day": 116,
@@ -10587,8 +10587,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 100 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 100 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Entre hoje na presença de Deus 'com ações de graças' (v. 4): antes de qualquer pedido, agradeça por cinco coisas concretas.",
+    "prayer": "Senhor, aclamamos a ti com alegria e te servimos com júbilo. Tu nos fizeste e nós te pertencemos; somos o teu povo, ovelhas do teu pasto. Tu és bom e o teu amor dura para sempre. Amém."
   },
   {
     "day": 117,
@@ -10656,8 +10656,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 101 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 101 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Revise o que você coloca diante dos olhos (v. 3) — redes sociais, filmes, conversas. Escolha hoje algo a remover e alguma prática íntegra a acrescentar em casa (v. 2).",
+    "prayer": "Senhor, cantarei o amor e a justiça. Quero andar com integridade dentro da minha casa. Não porei coisa vil diante dos meus olhos. Ajuda-me a viver de forma íntegra. Amém."
   },
   {
     "day": 118,
@@ -10967,8 +10967,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 103 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 103 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Faça o que o versículo 2 manda: 'Não esqueça nenhuma de suas bênçãos'. Escreva cinco benefícios de Deus da sua vida, começando pelo perdão (v. 3).",
+    "prayer": "Bendiga o Senhor a minha alma! Tu perdoas todos os meus pecados, curas as minhas doenças, resgatas a minha vida da cova e me coroas de amor e compaixão. Como um pai, te compadeces de mim. Amém."
   },
   {
     "day": 121,
@@ -12147,8 +12147,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 108 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 108 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Comece o dia com o versículo 2: 'Acorde, harpa e lira! Despertarei a alvorada'. Antes de olhar notícias ou mensagens, louve a Deus por alguns minutos.",
+    "prayer": "Ó Deus, o meu coração está firme; cantarei louvores. O teu amor é maior que os céus. Dá-nos ajuda contra o adversário, pois inútil é o socorro do homem. Com Deus faremos proezas. Amém."
   },
   {
     "day": 133,
@@ -12410,8 +12410,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 110 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 110 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Este salmo é o mais citado no Novo Testamento sobre Jesus. Leia Hebreus 7.17 ou Atos 2.34–36 e adore a Cristo como Rei e Sacerdote eterno.",
+    "prayer": "Senhor Jesus, estás assentado à direita do Pai até que todos os teus inimigos sejam postos como estrado dos teus pés. Tu és sacerdote para sempre. Reina em mim e intercede por mim. Amém."
   },
   {
     "day": 136,
@@ -12487,8 +12487,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 111 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 111 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escolha uma 'obra do Senhor' (v. 2) — na criação, na história ou na sua vida — e dedique tempo a estudá-la e meditá-la hoje. Lembre: o temor do Senhor é o princípio da sabedoria (v. 10).",
+    "prayer": "Senhor, de todo o coração te darei graças. Grandes são as tuas obras e o teu amor é eterno. Tu enviaste redenção ao teu povo. Dá-me o temor que é o princípio da sabedoria. Amém."
   },
   {
     "day": 137,
@@ -12564,8 +12564,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 112 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 112 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pratique hoje uma das marcas do justo deste salmo: generosidade com os pobres (v. 9), empréstimo honesto (v. 5) ou coração firme diante de más notícias (v. 7).",
+    "prayer": "Senhor, feliz é quem te teme e tem grande prazer nos teus mandamentos. Que eu não tema más notícias, mas tenha o coração firme, confiante em ti. Faz-me generoso com os pobres. Amém."
   },
   {
     "day": 138,
@@ -12637,8 +12637,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 113 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 113 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pense em alguém 'humilde' ou 'necessitado' (v. 7) ao seu redor e faça hoje um gesto que levante essa pessoa, imitando o Deus que se inclina.",
+    "prayer": "Senhor, do nascente ao poente seja louvado o teu nome. Tu estás entronizado nas alturas, mas te inclinas para olhar a terra. Levantas do pó o necessitado e dás um lar à estéril. Amém."
   },
   {
     "day": 139,
@@ -12706,8 +12706,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 114 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 114 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Recorde um 'mar que fugiu' na sua vida (v. 3) — um obstáculo que Deus removeu — e conte isso a alguém hoje.",
+    "prayer": "Senhor, diante de ti o mar fugiu, o Jordão retrocedeu e os montes saltaram como carneiros. Treme, ó terra, diante do Deus que transforma a rocha em fonte de água. Amém."
   },
   {
     "day": 140,
@@ -12815,8 +12815,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 115 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 115 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Identifique um 'ídolo' moderno na sua vida — algo que tem boca mas não fala (v. 5) — e reconheça diante de Deus que ele não pode salvar. Dê hoje glória somente ao nome dele (v. 1).",
+    "prayer": "Não a nós, Senhor, nenhuma glória para nós, mas sim ao teu nome, por causa do teu amor e da tua fidelidade. Tu és o nosso socorro e o nosso escudo. Abençoa os que te temem. Amém."
   },
   {
     "day": 141,
@@ -12928,8 +12928,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 116 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 116 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escreva uma oração que Deus respondeu e cumpra hoje o versículo 12: pergunte 'Como posso retribuir ao Senhor?' e faça algo concreto de gratidão.",
+    "prayer": "Senhor, eu te amo, pois ouviste a minha voz. Tu livraste a minha alma da morte, os meus olhos das lágrimas e os meus pés de tropeçar. Como posso retribuir? Erguerei o cálice da salvação. Amém."
   },
   {
     "day": 142,
@@ -12973,8 +12973,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 117 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 117 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Este é o menor salmo da Bíblia, mas o mais amplo: convida todas as nações. Ore hoje por três povos diferentes do seu, pedindo que conheçam o amor de Deus.",
+    "prayer": "Louvem o Senhor, todas as nações; exaltem-no, todos os povos! Porque imenso é o teu amor por nós e a tua fidelidade dura para sempre. Aleluia! Amém."
   },
   {
     "day": 143,
@@ -14228,8 +14228,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 120 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 120 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Este é o primeiro 'cântico de peregrinação'. Identifique um ambiente de 'línguas enganadoras' (v. 2) do qual você precisa se afastar e dê hoje o primeiro passo em direção a Deus.",
+    "prayer": "Senhor, na minha angústia clamo a ti, e tu me respondes. Livra-me dos lábios mentirosos e da língua enganadora. Eu sou pela paz; guarda o meu coração em meio às contendas. Amém."
   },
   {
     "day": 154,
@@ -14297,8 +14297,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 121 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 121 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escreva o versículo 8 — 'O Senhor protegerá a sua saída e a sua chegada' — e ore-o cada vez que sair ou chegar em casa hoje.",
+    "prayer": "Senhor, levanto os olhos para os montes: de onde me vem o socorro? O meu socorro vem de ti, que fizeste os céus e a terra. Tu não dormes; guarda a minha vida, agora e para sempre. Amém."
   },
   {
     "day": 155,
@@ -14370,8 +14370,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 122 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 122 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore pela paz da sua igreja e da sua cidade (v. 6–8), mencionando pessoas e situações específicas. Procure também um modo concreto de buscar o bem delas (v. 9).",
+    "prayer": "Senhor, alegrei-me quando me disseram: 'Vamos à casa do Senhor!'. Que haja paz dentro dos teus muros. Por amor dos meus irmãos e amigos, buscarei o bem da tua casa. Amém."
   },
   {
     "day": 156,
@@ -14423,8 +14423,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 123 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 123 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Passe alguns minutos em silêncio com os olhos voltados para Deus, como 'os olhos dos servos voltados para a mão do seu senhor' (v. 2), esperando por sua misericórdia.",
+    "prayer": "A ti levanto os meus olhos, a ti que reinas nos céus. Como os olhos do servo para a mão do seu senhor, assim os meus olhos estão em ti até que tenhas misericórdia de mim. Amém."
   },
   {
     "day": 157,
@@ -14492,8 +14492,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 124 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 124 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Pense em uma situação em que, 'se não fosse o Senhor' (v. 1), você teria afundado. Escreva essa história e agradeça a Deus por ter quebrado o laço (v. 7).",
+    "prayer": "Senhor, se não fosses tu ao nosso lado, as águas nos teriam arrastado. Bendito seja o Senhor, que não nos entregou. O nosso socorro está no teu nome, Criador dos céus e da terra. Amém."
   },
   {
     "day": 158,
@@ -14549,8 +14549,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 125 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 125 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Identifique uma área instável da sua vida e declare o versículo 1: 'Os que confiam no Senhor são como o monte Sião, que não se abala'. Ore também pela sua família, que Deus cerca como montes (v. 2).",
+    "prayer": "Senhor, como os montes cercam Jerusalém, tu cercas o teu povo, desde agora e para sempre. Faz-me firme como o monte Sião e guarda-me de estender a mão à injustiça. Amém."
   },
   {
     "day": 159,
@@ -14610,8 +14610,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 126 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 126 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Se você está 'semeando com lágrimas' (v. 5), escreva qual é essa semente — um filho, um ministério, um sonho — e entregue-a a Deus na esperança de colher com alegria.",
+    "prayer": "Senhor, quando trouxeste de volta os cativos, éramos como os que sonham. Restaura-nos como as torrentes no deserto. Os que semeiam com lágrimas colherão com cânticos de alegria. Amém."
   },
   {
     "day": 160,
@@ -14667,8 +14667,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 127 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 127 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Identifique uma área em que você está 'edificando a casa' na sua própria força (v. 1–2) e entregue-a a Deus. Hoje, permita-se descansar sem culpa — ele dá o sono aos seus amados.",
+    "prayer": "Senhor, se tu não edificares a casa, em vão trabalham os que a constroem. Livra-me da ansiedade de quem acorda cedo e dorme tarde em vão. Tu dás o sono aos teus amados. Amém."
   },
   {
     "day": 161,
@@ -14728,8 +14728,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 128 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 128 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore por cada pessoa da sua casa pelo nome, usando as imagens do salmo: videira frutífera e brotos de oliveira ao redor da mesa (v. 3). Faça uma refeição em família com gratidão.",
+    "prayer": "Senhor, feliz é quem te teme e anda nos teus caminhos. Abençoa a minha casa, faz frutífera a minha família e dá-me ver a prosperidade de Jerusalém todos os dias da minha vida. Amém."
   },
   {
     "day": 162,
@@ -14797,8 +14797,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 129 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 129 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Lembre-se de uma época em que 'aradores araram sobre suas costas' (v. 3) e, ainda assim, você não foi vencido (v. 2). Agradeça a Deus por ter cortado as cordas dos ímpios.",
+    "prayer": "Senhor, muitas vezes me oprimiram desde a minha juventude, mas não prevaleceram contra mim. Tu és justo; cortaste as cordas dos ímpios. Obrigado porque continuo de pé. Amém."
   },
   {
     "day": 163,
@@ -14866,8 +14866,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 130 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 130 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Confesse a Deus algo específico 'das profundezas' (v. 1) e depois espere em silêncio por alguns minutos, como 'a sentinela espera pela manhã' (v. 6).",
+    "prayer": "Das profundezas clamo a ti, Senhor. Se tu tomasses nota das iniquidades, quem subsistiria? Mas contigo está o perdão. Espero no Senhor mais do que as sentinelas esperam pela manhã. Amém."
   },
   {
     "day": 164,
@@ -14915,8 +14915,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 131 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 131 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Escolha uma preocupação 'grande demais' para você (v. 1) e entregue-a a Deus. Depois, fique alguns minutos quieto, como uma criança desmamada no colo da mãe (v. 2).",
+    "prayer": "Senhor, o meu coração não é orgulhoso, nem os meus olhos arrogantes. Não me ocupo de coisas grandes demais para mim. Acalmei e aquietei a minha alma, como criança no colo de sua mãe. Amém."
   },
   {
     "day": 165,
@@ -15024,8 +15024,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 132 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 132 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Davi não descansou até encontrar um lugar para Deus (v. 3–5). Pense em como você pode 'abrir espaço' para Deus na sua agenda desta semana e marque esse tempo.",
+    "prayer": "Senhor, lembra-te de Davi e de todas as suas aflições. Entra no teu lugar de descanso. Cumpre a tua promessa ao filho de Davi e veste de salvação os teus sacerdotes. Amém."
   },
   {
     "day": 166,
@@ -15073,8 +15073,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 133 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 133 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Procure hoje reconciliar-se com um irmão ou irmã com quem você tem uma tensão (v. 1). Se não for possível, ore pela pessoa pelo nome e peça a Deus a bênção da união.",
+    "prayer": "Senhor, como é bom e agradável quando os irmãos convivem em união! Derrama sobre nós o óleo da unidade e o orvalho da tua bênção, a vida para sempre. Amém."
   },
   {
     "day": 167,
@@ -15122,8 +15122,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 134 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 134 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Antes de dormir, levante as mãos (v. 2) e bendiga a Deus por algo do dia. Peça também a bênção dele sobre alguém que trabalha à noite.",
+    "prayer": "Bendigam o Senhor, todos vocês, servos do Senhor, que ministram de noite na casa do Senhor. Levanto as mãos para o teu santuário e te bendigo. Que de Sião me abençoes. Amém."
   },
   {
     "day": 168,
@@ -15243,8 +15243,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 135 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 135 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Compare o Deus vivo com os ídolos que 'têm boca mas não falam' (v. 15–17). Identifique um ídolo seu e diga a Deus: 'Tu és maior que todos os deuses' (v. 5).",
+    "prayer": "Senhor, tu és bom; cantamos louvores ao teu nome. Sei que és grande, maior que todos os deuses. Fazes tudo o que te agrada nos céus e na terra. O teu nome permanece para sempre. Amém."
   },
   {
     "day": 169,
@@ -15494,8 +15494,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 137 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 137 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Se há uma dor ou violência do passado que ainda o revolta, escreva sobre ela e entregue a raiva a Deus, como o salmista faz. Não transforme essa dor em ação contra pessoas.",
+    "prayer": "Senhor, junto aos rios da Babilônia nos assentamos e choramos. Como cantar o teu cântico em terra estranha? Recebe a minha dor, cura o que a violência deixou em mim e faz justiça. Amém."
   },
   {
     "day": 172,
@@ -15563,8 +15563,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 138 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 138 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Entregue a Deus um projeto inacabado da sua vida e ore o versículo 8: 'O Senhor cumprirá o seu propósito para comigo'.",
+    "prayer": "Senhor, eu te louvarei de todo o coração. Quando clamei, tu me respondeste e fortaleceste a minha alma. Ainda que eu passe por angústias, tu preservas a minha vida. Cumpre o teu propósito para comigo. Amém."
   },
   {
     "day": 173,
@@ -15696,8 +15696,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 139 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 139 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore os versículos 23–24 — 'Sonda-me, ó Deus, e conhece o meu coração' — e anote o que ele mostrar. Agradeça também por ter sido 'feito de modo especial e admirável' (v. 14).",
+    "prayer": "Senhor, tu me sondas e me conheces. Não há lugar para onde eu possa fugir da tua presença. Eu te louvo porque me fizeste de modo especial e admirável. Sonda-me e guia-me pelo caminho eterno. Amém."
   },
   {
     "day": 174,
@@ -15785,8 +15785,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 140 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 140 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Leve a Deus uma situação em que palavras ou planos têm sido 'veneno' contra você (v. 3). Entregue a causa ao Senhor, que 'defende a causa do necessitado' (v. 12).",
+    "prayer": "Senhor, livra-me dos maus e protege-me dos violentos. Tu és o meu Deus; ouve o meu clamor. Sei que defendes a causa do necessitado e fazes justiça aos pobres. Amém."
   },
   {
     "day": 175,
@@ -15862,8 +15862,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 141 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 141 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore o versículo 3 antes de cada conversa difícil hoje: 'Coloca, Senhor, uma guarda à minha boca'. Esteja aberto também a receber correção de alguém justo (v. 5).",
+    "prayer": "Senhor, que a minha oração suba como incenso e o levantar das minhas mãos como oferta da tarde. Põe uma guarda à minha boca e não deixes o meu coração inclinar-se para o mal. Amém."
   },
   {
     "day": 176,
@@ -15927,8 +15927,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 142 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 142 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Se você se sente sem ninguém que se importe (v. 4), derrame sua queixa diante de Deus (v. 2) em voz alta ou por escrito. Depois procure uma pessoa de confiança e compartilhe seu fardo.",
+    "prayer": "Senhor, clamo a ti e digo: tu és o meu refúgio, a minha porção na terra dos viventes. Ouve o meu clamor, pois estou muito abatido. Liberta-me da prisão, e os justos se reunirão ao meu redor. Amém."
   },
   {
     "day": 177,
@@ -16012,8 +16012,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 143 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 143 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Quando sua alma estiver 'como terra árida' (v. 6), estenda as mãos a Deus em oração. Peça pela manhã que ele 'mostre o caminho por onde devo andar' (v. 8).",
+    "prayer": "Senhor, ouve a minha oração. Não entres em juízo com o teu servo, pois ninguém é justo diante de ti. De manhã faze-me ouvir do teu amor; mostra-me o caminho que devo seguir. Amém."
   },
   {
     "day": 178,
@@ -16109,8 +16109,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 144 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 144 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Ore pelos jovens da sua família ou igreja usando o versículo 12: 'que os nossos filhos sejam como plantas viçosas'. Reconheça também a brevidade da vida (v. 4) ao fazer seus planos.",
+    "prayer": "Bendito seja o Senhor, a minha rocha, que treina as minhas mãos para a batalha. Que é o homem para que te importes com ele? Feliz o povo cujo Deus é o Senhor. Amém."
   },
   {
     "day": 179,
@@ -16230,8 +16230,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 145 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 145 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Siga o versículo 4: conte a uma geração mais jovem uma obra de Deus. Depois, louve-o especificamente por ser 'bondoso para com todos' (v. 9).",
+    "prayer": "Eu te exaltarei, meu Deus e meu Rei; bendirei o teu nome para todo o sempre. Tu és misericordioso e compassivo, paciente e cheio de amor. Estás perto de todos os que te invocam. Amém."
   },
   {
     "day": 180,
@@ -16307,8 +16307,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 146 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 146 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Identifique em quem você tem depositado confiança excessiva — líderes, chefes, sistemas (v. 3). Transfira essa confiança para Deus e faça hoje algo por um estrangeiro, órfão ou viúva (v. 9).",
+    "prayer": "Aleluia! Louvarei o Senhor por toda a minha vida. Não confio em príncipes, mas no Deus que faz justiça aos oprimidos, dá pão aos famintos e liberta os presos. Amém."
   },
   {
     "day": 181,
@@ -16424,8 +16424,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 147 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 147 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Se você está de coração quebrantado, leia o versículo 3 como promessa pessoal. Depois, olhe as estrelas à noite e lembre que o mesmo Deus que as chama pelo nome conhece você (v. 4).",
+    "prayer": "Senhor, tu curas os de coração quebrantado e tratas as suas feridas. Contas as estrelas e chamas cada uma pelo nome. Grande és tu; o teu entendimento não tem limite. Amém."
   },
   {
     "day": 182,
@@ -16517,8 +16517,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 148 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 148 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Saia ao ar livre hoje e observe sol, céu, árvores e animais. Junte-se a eles, como o salmo convida, e louve a Deus em voz alta com tudo o que existe.",
+    "prayer": "Aleluia! Louvem o Senhor desde os céus! Sol, lua, estrelas, mares, montes, árvores, animais, reis e crianças: que tudo louve o teu nome, pois só o teu nome é exaltado. Amém."
   },
   {
     "day": 183,
@@ -16590,8 +16590,8 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 149 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 149 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Cante hoje uma música de louvor — se possível, nova para você (v. 1). Lembre-se de que 'o Senhor se agrada do seu povo' (v. 4) e receba isso como verdade sobre você.",
+    "prayer": "Aleluia! Cantem ao Senhor um cântico novo. Tu te agradas do teu povo e coroas os humildes com a salvação. Que eu me alegre em ti, meu Criador e meu Rei. Amém."
   },
   {
     "day": 184,
@@ -16651,7 +16651,7 @@ window.SALMOS = [
       "O que o texto revela sobre Deus que você precisa recordar?",
       "Como este salmo pode se tornar sua oração concreta hoje?"
     ],
-    "application": "Leia o Salmo 150 novamente, mais devagar, e escreva uma frase de oração usando uma de suas imagens ou pedidos.",
-    "prayer": "Senhor, recebe minha vida como ela está. Usa o Salmo 150 para ensinar-me a confiar, lamentar, agradecer e esperar diante de ti. Amém."
+    "application": "Termine sua jornada pelos Salmos louvando a Deus com tudo o que tem fôlego (v. 6): cante, toque, dance ou apenas respire devagar, agradecendo pela vida.",
+    "prayer": "Aleluia! Louvem a Deus no seu santuário e no firmamento do seu poder. Louvem-no pelos seus feitos poderosos e pela sua grandeza. Tudo o que tem vida louve o Senhor! Amém."
   }
 ];

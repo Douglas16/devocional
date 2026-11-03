@@ -68,8 +68,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: você pode escolher raízes antes de frutos. Amém."
+    "application": "Árvores não crescem por esforço, mas por raízes perto da água. Escolha hoje um pequeno momento fixo — antes do celular, talvez — para deixar a Palavra de Deus regar seu coração.",
+    "prayer": "Pai, quero ser árvore e não palha. Leva minhas raízes até as tuas águas, guarda-me da roda dos zombadores e conhece o meu caminho, como prometeste conhecer. Amém."
   },
   {
     "day": 2,
@@ -153,8 +153,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: quando poderes se levantam, o trono de Deus não entra em pânico. Amém."
+    "application": "Quando o mundo parece fora de controle, o salmo não nega o tumulto: ele levanta os olhos para o trono. Hoje, antes de ler as notícias, diga em voz baixa: 'Feliz é quem nele se refugia'.",
+    "prayer": "Deus Pai, tu estabeleceste teu Filho como Rei, e nada pode desfazer isso. Quando eu me sentir pequeno diante dos poderes deste mundo, abriga-me nele e acalma meu coração. Amém."
   },
   {
     "day": 3,
@@ -222,8 +222,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode dormir mesmo cercado, se souber quem o sustenta. Amém."
+    "application": "Davi escreveu este salmo fugindo do próprio filho, e mesmo assim conseguiu dormir. Hoje à noite, ao deitar, entregue a Deus a voz que diz 'não há saída' e descanse no escudo dele.",
+    "prayer": "Senhor, tu conheces as vozes que me cercam e os medos que me acordam. Ergue a minha cabeça, sê meu escudo esta noite e deixa-me acordar sabendo que me sustentaste. Amém."
   },
   {
     "day": 4,
@@ -291,8 +291,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: há uma paz que chega antes de todos os problemas irem embora. Amém."
+    "application": "Este é um salmo de fim de dia. Quando apagar a luz hoje, em vez de repassar preocupações, diga a Deus uma coisa que o aflige e uma alegria que só ele lhe deu.",
+    "prayer": "Senhor, quando muitos perguntam 'quem nos fará ver o bem?', faz brilhar sobre mim a luz do teu rosto. Acalma minha mente agitada e guarda o meu sono nesta noite. Amém."
   },
   {
     "day": 5,
@@ -376,8 +376,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: começar o dia falando com Deus pode mudar o jeito de atravessá-lo. Amém."
+    "application": "O salmista não apenas ora pela manhã: ele fica de vigia, esperando. Amanhã, antes de qualquer tela, fale com Deus em uma frase e passe o dia atento ao que ele fará.",
+    "prayer": "Pai, quero entrar na tua casa pela grandeza do teu amor, não pelos meus méritos. Cerca-me com o teu favor como um escudo e faz que eu me alegre em ti o dia todo. Amém."
   },
   {
     "day": 6,
@@ -453,8 +453,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: suas lágrimas não tornam sua oração menos espiritual. Amém."
+    "application": "Há noites em que a cama fica molhada de lágrimas, e Davi não teve vergonha de dizer isso. Hoje, fale a Deus sobre o seu cansaço sem pressa de parecer forte.",
+    "prayer": "Senhor, tu ouviste o meu choro; tu aceitas a minha oração. Mesmo quando estou fraco e sem forças, cura-me e lembra-me de que não estou sozinho no escuro. Amém."
   },
   {
     "day": 7,
@@ -558,8 +558,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: você pode pedir justiça sem precisar se tornar juiz de tudo. Amém."
+    "application": "Quando somos caluniados, a vontade é responder à altura. Davi preferiu levar a causa a Deus. Hoje, entregue em oração a acusação que dói e deixe que ele cuide da sua defesa.",
+    "prayer": "Deus justo, tu sabes a verdade sobre mim melhor do que qualquer pessoa. Guarda-me da amargura, cava tu a cova da injustiça e faz que eu ainda cante louvores ao teu nome. Amém."
   },
   {
     "day": 8,
@@ -631,8 +631,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: diante de um universo imenso, sua vida ainda é lembrada. Amém."
+    "application": "O mesmo Deus que pendurou a lua e as estrelas se lembra do seu nome. Hoje, olhe para o céu — ou pela janela — e deixe essa verdade alcançar o lugar onde você se sente insignificante.",
+    "prayer": "Pai, tu me coroaste de glória e honra quando eu me sentia sem valor. Ensina-me a viver como mordomo da tua criação e a louvar o teu nome com a simplicidade de uma criança. Amém."
   },
   {
     "day": 9,
@@ -748,8 +748,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: o clamor do oprimido não desaparece no silêncio. Amém."
+    "application": "Este salmo promete que 'o necessitado não será esquecido para sempre' (v. 18). Pense em alguém esquecido ao seu redor e faça hoje um gesto que lembre a essa pessoa que Deus a vê.",
+    "prayer": "Senhor, os que conhecem o teu nome confiam em ti, porque nunca abandonaste quem te busca. Faz de mim alguém que te conhece assim, e usa-me para lembrar os esquecidos do teu cuidado. Amém."
   },
   {
     "day": 10,
@@ -857,8 +857,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: quando Deus parece longe, você ainda pode chamá-lo de Rei. Amém."
+    "application": "O salmista pergunta 'por que te escondes?' sem medo de soar desrespeitoso. Se alguma injustiça tem feito Deus parecer distante, diga isso a ele hoje e peça para ver o que ele vê.",
+    "prayer": "Senhor, tu ouves os desejos dos humildes e fortaleces o coração deles. Quando os maus parecem prosperar sem consequência, inclina o teu ouvido e não deixa que o medo vença a minha fé. Amém."
   },
   {
     "day": 11,
@@ -922,8 +922,8 @@ window.SALMOS_CARTA = [
       "O que você precisa dizer a Deus sem editar demais?",
       "Que pequeno passo pode transformar leitura em resposta?"
     ],
-    "application": "Escolha uma frase ou imagem do salmo e use-a como ponto de partida para uma oração pessoal de hoje.",
-    "prayer": "Senhor, recebe minha vida como ela está e transforma este salmo em conversa verdadeira contigo. Faz viver em mim esta verdade: quando os fundamentos tremem, nem tudo perdeu o lugar. Amém."
+    "application": "Há conselhos bem-intencionados que nos mandam fugir. O salmista lembra que o Senhor continua no trono. Antes de tomar uma decisão por medo hoje, leve-a primeiro a ele.",
+    "prayer": "Pai, quando os alicerces da minha vida tremem, faz-me olhar para o teu trono e não para o tamanho da ameaça. Que eu permaneça diante da tua face, que é o meu verdadeiro lar. Amém."
   },
   {
     "day": 12,
@@ -991,8 +991,8 @@ window.SALMOS_CARTA = [
       "O que você precisa dizer a Deus sem editar demais?",
       "Que pequeno passo pode transformar leitura em resposta?"
     ],
-    "application": "Escolha uma frase ou imagem do salmo e use-a como ponto de partida para uma oração pessoal de hoje.",
-    "prayer": "Senhor, recebe minha vida como ela está e transforma este salmo em conversa verdadeira contigo. Faz viver em mim esta verdade: num mundo de palavras manipuladas, a verdade ainda pode ser refúgio. Amém."
+    "application": "Vivemos cercados de palavras vazias e lisonjas. Hoje, escolha falar uma verdade gentil a alguém e encontre descanso na palavra de Deus, que nunca o engana.",
+    "prayer": "Senhor, quando parece que não há mais pessoas fiéis, tu permaneces fiel. Protege-me das línguas que ferem e faz das minhas palavras um lugar seguro para os outros. Amém."
   },
   {
     "day": 13,
@@ -1052,8 +1052,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode dizer 'até quando?' e ainda terminar a oração em confiança. Amém."
+    "application": "Este salmo cabe em uma página, mas atravessa uma longa espera. Diga a Deus hoje o que está demorando demais — e depois, sem fingir que passou, escolha confiar no amor dele.",
+    "prayer": "Senhor, tu sabes há quanto tempo carrego esta tristeza no coração. Olha para mim e responde. Enquanto a resposta não chega, ensina minha alma a descansar no teu amor leal. Amém."
   },
   {
     "day": 14,
@@ -1117,8 +1117,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: ver a corrupção do mundo não precisa transformar você em cinismo. Amém."
+    "application": "É fácil apontar os 'tolos' lá fora. Mas o salmo nos convida a perceber onde, no dia a dia, vivemos como se Deus não estivesse olhando. Escolha uma dessas áreas e entregue-a a ele.",
+    "prayer": "Pai, livra-me do ateísmo prático que esquece de ti nas pequenas decisões. Tu estás com os justos; faz que eu te busque com sinceridade e encontre em ti o meu refúgio. Amém."
   },
   {
     "day": 15,
@@ -1174,8 +1174,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: integridade aparece no modo como tratamos pessoas quando ninguém está vendo. Amém."
+    "application": "Davi pergunta quem pode morar na presença de Deus, e a resposta é sobre vida diária: palavras, dinheiro, promessas. Hoje, cumpra uma promessa pequena que você vinha adiando.",
+    "prayer": "Senhor, não quero viver duas vidas. Faz minha fala, meus negócios e meus compromissos combinarem com a tua presença, e guarda-me firme para que eu não seja abalado. Amém."
   },
   {
     "day": 16,
@@ -1255,8 +1255,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: sua porção pode ser Deus antes de qualquer outra segurança. Amém."
+    "application": "'Não tenho bem nenhum além de ti' é uma frase ousada. Hoje, perceba aquilo que você tem buscado como se fosse sua herança, e devolva esse lugar a Deus.",
+    "prayer": "Pai, coloco-te sempre diante de mim; contigo à minha direita não serei abalado. Mesmo diante da morte, alegra o meu coração com a esperança de que não me abandonarás. Amém."
   },
   {
     "day": 17,
@@ -1352,8 +1352,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: pedir exame a Deus é diferente de viver sob acusação constante. Amém."
+    "application": "A 'menina dos olhos' é a parte que protegemos por instinto. Hoje, quando se sentir exposto, lembre-se de que Deus o guarda com esse mesmo cuidado.",
+    "prayer": "Senhor, examina meu coração de noite e mostra-me o que precisa ser corrigido. Esconde-me sob as tuas asas e faz que o meu maior desejo seja contemplar o teu rosto. Amém."
   },
   {
     "day": 18,
@@ -1756,8 +1756,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a criação pode lembrar seu coração de que a voz de Deus ainda alcança você. Amém."
+    "application": "O sol fala sem palavras e a Palavra fala com clareza: Deus não está calado. Antes de dormir, faça o versículo 14 sua oração sobre tudo que você disse e pensou hoje.",
+    "prayer": "Pai, tuas ordens são mais doces que o mel e mais preciosas que o ouro. Revela os pecados que eu nem percebo e guarda-me do orgulho. Sê tu a minha Rocha e o meu Redentor. Amém."
   },
   {
     "day": 22,
@@ -1829,8 +1829,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: algumas batalhas pedem menos confiança em força e mais em quem sustenta. Amém."
+    "application": "Este salmo é uma bênção feita para outra pessoa. Escolha alguém que você ama e que está em luta, e envie hoje uma mensagem com o versículo 1, orando por ela.",
+    "prayer": "Senhor, tira de mim a confiança nos meus 'carros e cavalos' — dinheiro, competência, contatos. Que o meu socorro venha do teu nome, e que eu me alegre com a vitória que vem de ti. Amém."
   },
   {
     "day": 23,
@@ -1918,8 +1918,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: é possível agradecer pela vitória sem esquecer quem a concedeu. Amém."
+    "application": "O rei deste salmo se alegra não na própria força, mas na força de Deus. Lembre-se hoje de uma vitória sua e devolva a Deus o crédito, em voz alta.",
+    "prayer": "Pai, tu me cercas de bênçãos e me alegras com a tua presença. Quando as coisas vão bem, guarda-me de esquecer de onde veio o bem, e faz meu coração confiar sempre no teu amor. Amém."
   },
   {
     "day": 24,
@@ -2177,8 +2177,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: você não precisa conhecer todo o caminho quando conhece o Pastor. Amém."
+    "application": "Talvez você esteja hoje nas águas tranquilas, talvez no vale escuro. Em qualquer dos dois, o Pastor está presente. Diga a ele em qual parte do salmo você se encontra.",
+    "prayer": "Bom Pastor, prepara uma mesa para mim diante do que me ameaça e faz a tua bondade e o teu amor me seguirem todos os dias. Quero habitar na tua casa para sempre. Amém."
   },
   {
     "day": 27,
@@ -2254,8 +2254,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: há portas interiores que precisam se abrir para a presença de Deus. Amém."
+    "application": "Tudo pertence a Deus — inclusive aquilo que você chama de 'meu'. Escolha hoje um bem, um tempo ou um talento e use-o lembrando que ele é do Rei da glória.",
+    "prayer": "Rei da glória, abre as portas do meu coração que ainda estão trancadas. Purifica as minhas mãos e as minhas intenções, e entra em cada área da minha vida. Amém."
   },
   {
     "day": 28,
@@ -2379,8 +2379,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando você não sabe a direção, pode pedir que Deus ensine o caminho. Amém."
+    "application": "Este salmo é a oração de quem não sabe o caminho e carrega culpas antigas. Leve a Deus hoje uma decisão incerta e uma lembrança que ainda o envergonha.",
+    "prayer": "Pai, volta-te para mim e tem misericórdia, pois estou sozinho e aflito. Guia-me na tua verdade, guarda a minha vida e que a integridade e a retidão me protejam. Amém."
   },
   {
     "day": 29,
@@ -2464,8 +2464,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: integridade não é perfeição; é disposição de ser examinado. Amém."
+    "application": "Davi pede para ser examinado — algo que geralmente evitamos. Hoje, deixe Deus olhar para uma área que você prefere não mostrar, sabendo que o olhar dele é de amor.",
+    "prayer": "Senhor, quero andar diante de ti com sinceridade. Firma meus pés em terreno plano e guarda meu coração do engano, para que eu te louve no meio do teu povo. Amém."
   },
   {
     "day": 30,
@@ -2557,8 +2557,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: antes de pedir respostas, talvez seu coração queira apenas habitar perto de Deus. Amém."
+    "application": "Quando o medo tem nome, ele perde parte da força. Diga a Deus qual é o seu medo hoje e termine com o último versículo: 'Espere no Senhor. Seja forte e corajoso'.",
+    "prayer": "Senhor, ainda que pai e mãe me abandonem, tu me acolherás. Busco a tua face; não a escondas de mim. Dá-me a certeza de que verei a tua bondade na terra dos viventes. Amém."
   },
   {
     "day": 31,
@@ -2630,8 +2630,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando Deus parece silencioso, você ainda pode levantar as mãos. Amém."
+    "application": "O salmo começa com medo do silêncio de Deus e termina com louvor. Leve hoje a Deus aquilo que parece não ter resposta e peça que ele seja seu Pastor e o carregue (v. 9).",
+    "prayer": "Pastor do teu povo, carrega-me nos teus braços para sempre. Quando o silêncio pesa, faz o meu coração saltar de alegria por saber que ouves cada súplica. Amém."
   },
   {
     "day": 32,
@@ -2711,8 +2711,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a voz de Deus continua maior que a tempestade. Amém."
+    "application": "O trovão que nos assusta é, para o salmista, um convite ao louvor. Hoje, diante de algo que parece forte demais, lembre que o Senhor reina sobre as águas e pode lhe dar paz.",
+    "prayer": "Senhor, tu estás entronizado acima de toda tempestade. Quando a vida ruge ao meu redor, deixa-me ouvir a tua voz mais alta que o barulho e receber de ti a paz. Amém."
   },
   {
     "day": 33,
@@ -2796,8 +2796,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: a noite pode durar, mas não recebe direito sobre toda a história. Amém."
+    "application": "Se você está ainda na noite, este salmo lhe empresta uma promessa: a manhã vem. Se já passou por ela, lembre-se hoje de como Deus trocou seu luto por alegria.",
+    "prayer": "Pai, tu tiraste minhas roupas de luto e me vestiste de alegria. Guarda-me da falsa segurança dos dias bons e faz meu coração cantar a ti em todas as estações. Amém."
   },
   {
     "day": 34,
@@ -2929,8 +2929,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode entregar seu espírito a Deus antes de entender o desfecho. Amém."
+    "application": "Jesus orou o versículo 5 na cruz. Hoje, quando algo fugir do seu controle, faça dessa frase a sua oração: 'Nas tuas mãos entrego o meu espírito'.",
+    "prayer": "Senhor, como é grande a tua bondade guardada para os que te temem. Quando me sinto esquecido como um vaso quebrado, esconde-me na tua presença e sê forte, coração meu. Amém."
   },
   {
     "day": 35,
@@ -3010,8 +3010,8 @@ window.SALMOS_CARTA = [
       "Existe alguma reparação ou pedido de perdão que já pode começar?",
       "Como receber misericórdia sem usar graça como desculpa para permanecer igual?"
     ],
-    "application": "Nomeie diante de Deus uma falha concreta e escolha uma atitude de reparação possível, sem usar vergonha como método de mudança.",
-    "prayer": "Deus de misericórdia, dá-me coragem para viver na verdade sem me destruir pela culpa. Faz viver em mim esta verdade: confessar pode aliviar o peso que o silêncio tornou pesado. Amém."
+    "application": "O silêncio sobre o pecado pesa nos ossos. Hoje, não carregue mais sozinho aquilo que Deus quer perdoar. Diga-o a ele com simplicidade e receba a graça.",
+    "prayer": "Pai, não quero ser como o cavalo e a mula, que precisam de freio. Guia-me com os teus olhos, cerca-me de cantos de livramento e alegra-me no teu perdão. Amém."
   },
   {
     "day": 36,
@@ -3135,8 +3135,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: louvor também é aprender a perceber a fidelidade espalhada pela terra. Amém."
+    "application": "O salmo lembra que nem um exército grande salva um rei. Pense naquilo que tem lhe dado sensação de segurança e coloque-o, hoje, debaixo da soberania de Deus.",
+    "prayer": "Pai, os olhos do Senhor estão sobre os que o temem. Esperamos em ti; tu és o nosso auxílio e o nosso escudo. Que o teu amor nos envolva enquanto confiamos em ti. Amém."
   },
   {
     "day": 37,
@@ -3260,8 +3260,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: buscar Deus não exige fingir que o medo desapareceu. Amém."
+    "application": "Davi escreveu este salmo depois de fingir loucura para escapar. Mesmo envergonhado, ele louvou. Se você está quebrantado hoje, lembre-se do versículo 18: Deus está perto.",
+    "prayer": "Pai, os que olham para ti ficam radiantes, e o rosto deles não se cobre de vergonha. Guarda minha língua do mal, faz-me buscar a paz e prova-me a tua bondade hoje. Amém."
   },
   {
     "day": 38,
@@ -3531,8 +3531,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: a maldade pode parecer profunda, mas o amor leal de Deus vai mais longe. Amém."
+    "application": "Depois de descrever o coração que não teme a Deus, o salmista olha para cima e vê um amor do tamanho do céu. Hoje, saia de si mesmo e contemple essa grandeza por alguns minutos.",
+    "prayer": "Pai, tu dás de beber do rio das tuas delícias. Mantém o teu amor sobre os que te conhecem e não deixa que o pé do orgulho me alcance. Amém."
   },
   {
     "day": 41,
@@ -3927,8 +3927,8 @@ window.SALMOS_CARTA = [
       "Existe alguma reparação ou pedido de perdão que já pode começar?",
       "Como receber misericórdia sem usar graça como desculpa para permanecer igual?"
     ],
-    "application": "Nomeie diante de Deus uma falha concreta e escolha uma atitude de reparação possível, sem usar vergonha como método de mudança.",
-    "prayer": "Deus de misericórdia, dá-me coragem para viver na verdade sem me destruir pela culpa. Faz viver em mim esta verdade: há dores que precisam ser confessadas, cuidadas e acompanhadas, não escondidas. Amém."
+    "application": "Este salmo dá voz a quem sofre por dentro e por fora, e ainda se sente sozinho. Hoje, conte a Deus o que dói no corpo e na alma — 'todos os meus anseios estão diante de ti' (v. 9).",
+    "prayer": "Senhor, até os amigos se afastaram, mas tu não te afastas. Espero em ti; tu me responderás. Socorre-me depressa, Senhor, minha salvação. Amém."
   },
   {
     "day": 45,
@@ -4016,8 +4016,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: lembrar que a vida é breve pode devolver peso ao que realmente importa. Amém."
+    "application": "Davi tentou ficar calado, mas a dor queimava dentro dele. Ele então falou com Deus sobre a brevidade da vida. Hoje, pergunte a Deus o que fazer com o tempo que lhe resta.",
+    "prayer": "Pai, sou apenas um peregrino diante de ti. Não te cales diante das minhas lágrimas. Ensina-me a viver os poucos palmos dos meus dias com esperança em ti. Amém."
   },
   {
     "day": 46,
@@ -4121,8 +4121,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: esperar pode ser uma história de lama, rocha e uma nova canção. Amém."
+    "application": "O salmista esperou com paciência até Deus se inclinar. Se você ainda está no lamaçal, este salmo sussurra que o Senhor ouve. Se já saiu, conte o testemunho a alguém.",
+    "prayer": "Pai, puseste um cântico novo na minha boca. Não retenhas de mim a tua misericórdia. Sou pobre e necessitado, mas tu pensas em mim; tu és o meu socorro. Amém."
   },
   {
     "day": 47,
@@ -4210,8 +4210,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: cuidar do vulnerável também faz parte de uma vida lembrada por Deus. Amém."
+    "application": "Davi conhecia a dor de ser traído por um amigo próximo. Se alguém o feriu assim, leve isso a Deus hoje, e peça graça para continuar cuidando dos fracos.",
+    "prayer": "Pai, cura a minha alma, pois pequei contra ti. Na traição e na doença, sê tu o meu apoio, e coloca-me para sempre diante da tua presença. Amém."
   },
   {
     "day": 48,
@@ -4291,8 +4291,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: sua alma pode ter sede sem que isso signifique que Deus desapareceu. Amém."
+    "application": "Há uma sede de Deus que só aparece no deserto. Se sua alma está abatida, não se apresse em consertar: converse consigo mesmo como o salmista e aponte o coração para Deus.",
+    "prayer": "Deus da minha vida, abismo chama abismo e tuas ondas passaram sobre mim. Ainda assim, ponho em ti a minha esperança: ainda te louvarei, meu Salvador. Amém."
   },
   {
     "day": 49,
@@ -4348,8 +4348,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode pedir luz quando seus sentimentos não conseguem conduzir você. Amém."
+    "application": "Este salmo continua o anterior: a alma ainda está triste, mas já pede luz. Hoje, peça a Deus uma luz para o próximo passo e vá até o 'altar' — um momento de adoração.",
+    "prayer": "Pai, tu és a minha alegria e o meu prazer. Por que estou tão abatido? Ponho em ti a minha esperança e ainda te louvarei, meu Salvador e meu Deus. Amém."
   },
   {
     "day": 50,
@@ -4631,8 +4631,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: beleza e justiça não precisam viver separadas. Amém."
+    "application": "O salmo convida a noiva a 'esquecer o seu povo e a casa paterna' (v. 10) para pertencer ao Rei. Pergunte-se hoje: o que ainda me prende e me impede de ser inteiro dele?",
+    "prayer": "Rei amado, a graça se derrama dos teus lábios. Encanta o meu coração com a tua beleza e faz que o teu nome seja lembrado por todas as gerações. Amém."
   },
   {
     "day": 53,
@@ -4712,8 +4712,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: quando tudo se move, existe um refúgio que não precisa se mover. Amém."
+    "application": "Quando tudo treme — montes, mares, nações — o salmo aponta para um rio que alegra a cidade de Deus. Hoje, pare de lutar por alguns minutos e apenas saiba que ele é Deus.",
+    "prayer": "Senhor dos Exércitos, tu estás conosco; o Deus de Jacó é a nossa torre segura. Faz cessar as guerras dentro de mim e ensina meu coração a descansar em ti. Amém."
   },
   {
     "day": 54,
@@ -4785,8 +4785,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: o governo de Deus é maior que as fronteiras que nós desenhamos. Amém."
+    "application": "Este salmo é barulhento: palmas, gritos de alegria, trombetas. Hoje, permita-se louvar a Deus com o corpo, sem reservas, reconhecendo que ele reina sobre tudo.",
+    "prayer": "Pai, os escudos da terra te pertencem. Que todos os povos se reúnam como o povo do Deus de Abraão. Recebe o meu louvor alegre e reina sobre a minha vida. Amém."
   },
   {
     "day": 55,
@@ -4878,8 +4878,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: algumas cidades se tornam memória porque pessoas aprendem a contar fidelidade. Amém."
+    "application": "Os peregrinos contavam as torres para poder contar aos filhos. Que histórias de Deus você tem para passar adiante? Conte uma delas hoje a alguém mais jovem.",
+    "prayer": "Pai, tu és o nosso Deus para sempre e serás o nosso guia até a morte. Firma a minha vida na tua cidade e faz-me testemunha da tua fidelidade às gerações futuras. Amém."
   },
   {
     "day": 56,
@@ -4995,8 +4995,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: riqueza pode comprar muita coisa, menos a vida que termina. Amém."
+    "application": "O salmo lembra que na morte não levamos nada. Hoje, olhe para aquilo que você tem acumulado e pergunte: isso me aproxima ou me afasta da verdadeira riqueza?",
+    "prayer": "Pai, livra-me da inveja dos que prosperam e do medo de perder o que tenho. Minha vida vale mais que ouro, e só tu podes resgatá-la. Recebe-me contigo. Amém."
   },
   {
     "day": 57,
@@ -5124,8 +5124,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: deus não precisa de performance religiosa para saber se seu coração é verdadeiro. Amém."
+    "application": "Deus não quer rituais vazios; ele quer gratidão e um coração que o invoque. Hoje, antes de pedir qualquer coisa, comece sua oração agradecendo por três coisas.",
+    "prayer": "Pai, não quero esquecer-te enquanto falo das tuas palavras. Endireita o meu caminho e mostra-me a tua salvação, enquanto te ofereço o meu louvor sincero. Amém."
   },
   {
     "day": 58,
@@ -5310,8 +5310,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: palavras destrutivas podem parecer fortes, mas não são uma casa segura. Amém."
+    "application": "Este salmo contrasta uma língua afiada como navalha com uma oliveira viva. Hoje, quando a vontade de criticar surgir, escolha uma palavra que edifique em vez de cortar.",
+    "prayer": "Pai, quero esperar no teu nome, porque ele é bom. Planta-me perto de ti, faz-me crescer em amor e livra-me de buscar segurança na força ou no dinheiro. Amém."
   },
   {
     "day": 60,
@@ -5371,8 +5371,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: quando a corrupção parece universal, Deus ainda enxerga quem busca refúgio. Amém."
+    "application": "Este salmo repete o Salmo 14 quase palavra por palavra — como se Deus quisesse que ouvíssemos duas vezes: todos precisamos dele. Receba hoje essa verdade com humildade, não com culpa.",
+    "prayer": "Pai, livra-me de viver como se tu não visses. Traz salvação de Sião e restaura o que está perdido em mim e no teu povo. Amém."
   },
   {
     "day": 61,
@@ -5436,8 +5436,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode pedir socorro sem vergonha de precisar dele. Amém."
+    "application": "Davi escreveu isto depois de ser traído por pessoas que entregaram seu esconderijo. Se você se sente exposto, lembre hoje que Deus sustenta sua vida.",
+    "prayer": "Senhor, de boa vontade te oferecerei sacrifícios e louvarei o teu nome, porque ele é bom. Livra-me de todas as angústias e dá-me paz diante de quem me ameaça. Amém."
   },
   {
     "day": 62,
@@ -5565,8 +5565,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: a ferida de um amigo pode doer de um jeito que inimigos nunca conseguiriam. Amém."
+    "application": "O pior não é o inimigo, diz Davi, mas o amigo que caminhava conosco. Se você foi ferido por alguém próximo, leve essa dor a Deus hoje e lance sobre ele o seu fardo.",
+    "prayer": "Pai, à tarde, de manhã e ao meio-dia clamo a ti. Tu ouves a minha voz. Resgata-me em paz da batalha e guarda meu coração para não endurecer. Amém."
   },
   {
     "day": 63,
@@ -5654,8 +5654,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando o medo vier, você pode colocá-lo ao lado da confiança, não escondê-lo. Amém."
+    "application": "Deus guarda suas lágrimas em um odre e as registra em seu livro (v. 8). Nenhuma delas é desperdiçada. Hoje, deixe-o ver o choro que ninguém mais viu.",
+    "prayer": "Pai, tu me livraste da morte e meus pés de tropeçar, para que eu ande diante de ti na luz da vida. Quando o medo bater, faz que eu corra para ti. Amém."
   },
   {
     "day": 64,
@@ -5735,8 +5735,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: há cavernas onde seu coração ainda pode escolher despertar para o louvor. Amém."
+    "application": "Davi escreveu isto escondido em uma caverna, e mesmo assim decidiu acordar a madrugada com música. Hoje, mesmo em meio à dificuldade, comece o dia louvando.",
+    "prayer": "Pai, o teu amor é tão grande que alcança os céus. Esconde-me à sombra das tuas asas enquanto a tempestade passa, e firma meu coração para cantar a ti. Amém."
   },
   {
     "day": 65,
@@ -5921,8 +5921,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando pessoas armam emboscadas, você pode esperar por Deus sem se transformar numa emboscada. Amém."
+    "application": "As ameaças voltam à noite, mas pela manhã há cântico. Se suas noites estão pesadas, escolha hoje uma canção de louvor para ouvir ou cantar logo ao acordar.",
+    "prayer": "Pai, tu és a minha força; a ti canto louvores. Quando eu estiver cercado, sê o meu refúgio, o Deus que me ama e vai à minha frente. Amém."
   },
   {
     "day": 67,
@@ -6006,8 +6006,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: depois de uma derrota, ainda existe caminho para pedir restauração. Amém."
+    "application": "Às vezes, parece que até Deus permitiu a derrota. O salmista não esconde isso, mas termina pedindo ajuda. Se você está em um tempo de perda, peça ajuda a Deus sem fingir.",
+    "prayer": "Senhor, inútil é o socorro dos homens; preciso de ti. Ergue a bandeira sobre os que te temem e restaura o que foi quebrado. Contigo, venceremos. Amém."
   },
   {
     "day": 68,
@@ -6075,8 +6075,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando o coração está no limite, ele ainda pode pedir uma rocha mais alta. Amém."
+    "application": "Há dias em que o problema é mais alto do que nós. O salmista pede para ser levado a uma rocha ainda mais alta. Hoje, peça a Deus que o eleve acima daquilo que o afoga.",
+    "prayer": "Pai, tu tens sido o meu refúgio, uma torre forte contra o inimigo. Abriga-me sob as tuas asas e guarda-me com o teu amor e a tua fidelidade. Amém."
   },
   {
     "day": 69,
@@ -6160,8 +6160,8 @@ window.SALMOS_CARTA = [
       "O que você precisa dizer a Deus sem editar demais?",
       "Que pequeno passo pode transformar leitura em resposta?"
     ],
-    "application": "Escolha uma frase ou imagem do salmo e use-a como ponto de partida para uma oração pessoal de hoje.",
-    "prayer": "Senhor, recebe minha vida como ela está e transforma este salmo em conversa verdadeira contigo. Faz viver em mim esta verdade: sua alma não precisa oscilar na mesma velocidade das ameaças. Amém."
+    "application": "O salmo repete 'somente' várias vezes. Pense no que, além de Deus, tem sido seu 'somente': dinheiro, aprovação, controle. Hoje, devolva esse lugar ao Senhor.",
+    "prayer": "Pai, a força te pertence e o amor também. Ensina-me a não confiar na extorsão nem nas riquezas, e a descansar inteiramente em ti, minha fortaleza. Amém."
   },
   {
     "day": 70,
@@ -6241,8 +6241,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: a sede por Deus pode atravessar até os desertos mais secos. Amém."
+    "application": "Davi escreveu isto no deserto de Judá, com sede de verdade. Ele transformou a sede física em desejo por Deus. Hoje, ao sentir fome ou sede, deixe isso lembrá-lo de que sua alma também tem sede.",
+    "prayer": "Pai, no meu leito eu me lembro de ti; penso em ti nas vigílias da noite. Porque tu és o meu socorro, canto à sombra das tuas asas. Minha alma se apega a ti. Amém."
   },
   {
     "day": 71,
@@ -6318,8 +6318,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: há palavras escondidas contra você que Deus não precisa esconder de si. Amém."
+    "application": "Às vezes o ataque vem em forma de fofoca e trama silenciosa. O salmo mostra que Deus tem suas próprias flechas. Hoje, deixe a justiça nas mãos dele e guarde sua língua.",
+    "prayer": "Pai, quando sou alvo de palavras escondidas, sê tu o meu esconderijo. Que todos vejam a tua obra e eu me alegre em ti, refugiando-me na tua presença. Amém."
   },
   {
     "day": 72,
@@ -6407,8 +6407,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: perdão e abundância podem nascer do mesmo Deus que escuta oração. Amém."
+    "application": "Este salmo começa com perdão e termina com campos cobertos de rebanhos. Deus cuida tanto da alma quanto da colheita. Hoje, agradeça por algo material e por algo espiritual.",
+    "prayer": "Pai, os campos se cobrem de alegria e os vales cantam. Obrigado porque cuidas da terra e de mim. Faz-me viver com gratidão pelo teu cuidado silencioso. Amém."
   },
   {
     "day": 73,
@@ -6524,8 +6524,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: você pode transformar livramento em testemunho sem fingir que a travessia foi fácil. Amém."
+    "application": "O salmista diz que Deus o levou 'pelo fogo e pela água' — e o tirou para a abundância. Se você está nessa travessia, saiba que ela não é o fim da história.",
+    "prayer": "Pai, tu não retiraste de mim o teu amor nem rejeitaste a minha oração. Usa as provas para me refinar, e dá-me palavras para contar aos outros o que fizeste. Amém."
   },
   {
     "day": 74,
@@ -6589,8 +6589,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a bênção recebida nunca foi feita para terminar só em você. Amém."
+    "application": "Este salmo pede bênção não para guardar, mas para espalhar. Hoje, ao receber algo bom de Deus, pergunte: como essa bênção pode alcançar outra pessoa?",
+    "prayer": "Pai, que os povos te louvem, que todos os povos te louvem! Abençoa-me para que eu seja bênção, e que os confins da terra te temam. Amém."
   },
   {
     "day": 75,
@@ -7115,8 +7115,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: há momentos em que a oração mais espiritual é simplesmente: vem depressa. Amém."
+    "application": "Este é um dos salmos mais curtos e urgentes: um pedido de socorro rápido. Há orações que não precisam ser longas. Hoje, quando apertar, peça ajuda em uma frase.",
+    "prayer": "Pai, que todos os que te buscam se alegrem em ti. Eu sou pobre e necessitado, mas tu não demoras para os que te chamam. Vem depressa em meu auxílio. Amém."
   },
   {
     "day": 81,
@@ -7248,8 +7248,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode envelhecer sem aposentar a esperança. Amém."
+    "application": "Este salmo é a oração de alguém mais velho, olhando para trás e para frente. Converse hoje com uma pessoa mais velha sobre como Deus foi fiel a ela — ou conte a sua história a alguém mais jovem.",
+    "prayer": "Pai, desde o ventre tu me sustentas. Faz-me ver novamente a tua bondade e restaura a minha vida. Enquanto eu viver, quero contar a tua justiça. Amém."
   },
   {
     "day": 82,
@@ -7365,8 +7365,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: um rei justo é reconhecido pelo modo como trata o pobre. Amém."
+    "application": "Este salmo descreve um rei ideal que só Jesus cumpre plenamente. Hoje, ore pelos líderes que você conhece e peça que reflitam um pouco desse Rei que cuida do fraco.",
+    "prayer": "Senhor Jesus, Rei de justiça, desce como a chuva sobre a terra ceifada. Que os pobres encontrem em ti libertação e que todas as nações sejam abençoadas por ti. Amém."
   },
   {
     "day": 83,
@@ -7680,8 +7680,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando lugares sagrados viram ruínas, a memória ainda pode perguntar onde Deus está. Amém."
+    "application": "O salmista olha para o templo em ruínas e, mesmo assim, lembra que Deus dividiu o mar. Se algo sagrado foi quebrado na sua vida, lamente — e depois relembre o que Deus já fez.",
+    "prayer": "Pai, não abandones para sempre a vida dos teus aflitos. Lembra-te da tua aliança, pois a terra está cheia de lugares escuros. Levanta-te e restaura o que foi destruído. Amém."
   },
   {
     "day": 86,
@@ -7757,8 +7757,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: não precisamos empurrar a nós mesmos para cima; Deus sabe o tempo de levantar. Amém."
+    "application": "Deus diz: 'Eu firmo as colunas da terra' (v. 3). Quando tudo parece balançar, ele segura. Hoje, solte o peso de sustentar sozinho aquilo que só Deus pode firmar.",
+    "prayer": "Senhor, livra-me da arrogância de quem se acha forte. O tempo é teu e a justiça também. Que eu cante ao Deus de Jacó e confie no teu juízo. Amém."
   },
   {
     "day": 87,
@@ -7842,8 +7842,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: o poder que realmente merece temor não depende de armas humanas. Amém."
+    "application": "Este salmo celebra Deus quebrando flechas e escudos. Se você está diante de uma 'batalha' grande, lembre-se de que ele pode silenciá-la. Hoje, entregue essa luta ao Senhor.",
+    "prayer": "Pai, quando te levantas para julgar e salvar os humildes, a terra se cala. Silencia em mim a ansiedade e ensina-me a reverenciar-te com alegria. Amém."
   },
   {
     "day": 88,
@@ -7959,8 +7959,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando você não consegue dormir, pode transformar a memória em caminho de oração. Amém."
+    "application": "Há noites em que nem a oração parece consolar. O salmista não muda de assunto: ele decide lembrar. Hoje, recorde uma vez em que Deus abriu caminho onde não havia.",
+    "prayer": "Pai, tuas pegadas nem sempre são visíveis, mas tu guias o teu povo como um rebanho. Quando eu me sentir esquecido, faz-me lembrar das tuas mãos no meu passado. Amém."
   },
   {
     "day": 89,
@@ -8484,8 +8484,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando a comunidade sofre, o lamento pode ser coletivo. Amém."
+    "application": "Este salmo nasceu de uma cidade destruída e de um povo humilhado. Ainda hoje há irmãos vivendo isso. Pense neles e faça de sua oração hoje um clamor por eles.",
+    "prayer": "Senhor, ouve o gemido dos prisioneiros. Perdoa os nossos pecados e socorre-nos. Nós, teu povo, ovelhas do teu pasto, te louvaremos para sempre. Amém."
   },
   {
     "day": 94,
@@ -8597,8 +8597,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: às vezes a oração precisa repetir 'restaura-nos' até o coração acreditar de novo. Amém."
+    "application": "O salmo compara o povo a uma videira cujos muros foram derrubados. Se você se sente exposto e devastado, faça do refrão a sua oração hoje: 'Restaura-nos, ó Deus'.",
+    "prayer": "Pai, faz resplandecer sobre mim o teu rosto. Cuida da videira que tu mesmo plantaste em mim, e não deixes que o que foi derrubado fique em ruínas. Amém."
   },
   {
     "day": 95,
@@ -8698,8 +8698,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: a voz que liberta também continua chamando para escutar. Amém."
+    "application": "Deus lamenta: 'Se o meu povo apenas me ouvisse!' (v. 13). Ele não fala com raiva, mas com saudade. Hoje, ouça-o por alguns minutos antes de falar.",
+    "prayer": "Pai, tu queres me alimentar com o melhor trigo e com mel da rocha. Livra-me da teimosia do meu coração e ensina-me a ouvir a tua voz. Amém."
   },
   {
     "day": 96,
@@ -8767,8 +8767,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: deus leva a sério a justiça de quem governa. Amém."
+    "application": "Neste salmo, Deus chama os líderes injustos para prestar contas. Se você tem alguma autoridade — em casa, no trabalho, na igreja — pergunte-se hoje: estou protegendo os mais fracos?",
+    "prayer": "Senhor, tu és o juiz acima de todos os juízes. Usa a autoridade que me deste para proteger os indefesos, e lembra-me de que eu também prestarei contas a ti. Amém."
   },
   {
     "day": 97,
@@ -8876,8 +8876,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando muitos se unem contra você, sua oração ainda pode recusar o pânico. Amém."
+    "application": "Às vezes, as ameaças se juntam como uma coalizão inteira. O salmista não se cala diante disso: ele lembra a Deus de suas vitórias antigas. Hoje, faça o mesmo com o que o cerca.",
+    "prayer": "Pai, quando muitos se levantam ao mesmo tempo contra mim, não fiques em silêncio. Mostra o teu nome e faz-me descansar no fato de que tu és o Altíssimo. Amém."
   },
   {
     "day": 98,
@@ -8961,8 +8961,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: sentir saudade da presença de Deus também é uma forma de amor. Amém."
+    "application": "O salmo fala de peregrinos que transformam o vale de lágrimas em fontes. Se você está atravessando um vale, saiba que ele pode virar lugar de água no caminho para Deus.",
+    "prayer": "Pai, até o pardal encontrou casa junto aos teus altares. Dá-me um coração que deseja a tua presença e força para seguir de força em força até te ver. Amém."
   },
   {
     "day": 99,
@@ -9050,8 +9050,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: misericórdia e verdade não precisam disputar espaço. Amém."
+    "application": "Este salmo imagina o amor e a verdade se encontrando, a justiça e a paz se beijando. Hoje, procure reconciliar-se com alguém, deixando que verdade e amor andem juntos.",
+    "prayer": "Pai, quero ouvir o que tu dizes, pois prometes paz ao teu povo. Não me deixes voltar à insensatez. Dá vida nova ao meu coração e faz-me alegrar em ti. Amém."
   },
   {
     "day": 100,
@@ -9155,8 +9155,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: você pode pedir um coração inteiro quando se sente dividido. Amém."
+    "application": "Davi reconhece que tem um coração dividido. Ele não pede apenas direção, mas um coração unificado. Hoje, peça a Deus que junte os pedaços espalhados da sua vida.",
+    "prayer": "Pai, tu és Deus compassivo e misericordioso, muito paciente e rico em amor. Dá-me um sinal da tua bondade e faz-me sentir que és tu quem me ajuda e me consola. Amém."
   },
   {
     "day": 101,
@@ -9220,8 +9220,8 @@ window.SALMOS_CARTA = [
       "O que você precisa dizer a Deus sem editar demais?",
       "Que pequeno passo pode transformar leitura em resposta?"
     ],
-    "application": "Escolha uma frase ou imagem do salmo e use-a como ponto de partida para uma oração pessoal de hoje.",
-    "prayer": "Senhor, recebe minha vida como ela está e transforma este salmo em conversa verdadeira contigo. Faz viver em mim esta verdade: pertencer a Deus pode incluir pessoas que você nunca imaginou no mesmo mapa. Amém."
+    "application": "Este pequeno salmo tem uma grande surpresa: até nações inimigas são contadas como cidadãs de Sião. Hoje, olhe para alguém muito diferente de você como possível irmão em Cristo.",
+    "prayer": "Pai, obrigado porque o meu nome está registrado na tua cidade. Abre o meu coração para os povos que eu considerava distantes, e que todas as minhas fontes estejam em ti. Amém."
   },
   {
     "day": 102,
@@ -9753,8 +9753,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: contar os dias não é pessimismo; é aprender a investir a vida com sabedoria. Amém."
+    "application": "Moisés olha para a brevidade da vida não para entristecer, mas para viver melhor. Hoje, pergunte a Deus: o que, dentre minhas tarefas, realmente importa para a eternidade?",
+    "prayer": "Pai, satisfaz-nos pela manhã com o teu amor, para que cantemos e nos alegremos todos os dias. Que a tua bondade esteja sobre nós e confirma a obra das nossas mãos. Amém."
   },
   {
     "day": 107,
@@ -9854,8 +9854,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: refúgio não significa que nada ruim tocará você; significa que você não atravessa sozinho. Amém."
+    "application": "Este salmo não promete uma vida sem perigo, mas uma presença no meio dele: 'Eu estarei com ele na angústia' (v. 15). Hoje, receba essa promessa como dirigida a você.",
+    "prayer": "Pai, porque eu te amo, tu me livras; porque conheço o teu nome, me proteges. Não terei medo do terror da noite nem da flecha do dia. Fica comigo na angústia. Amém."
   },
   {
     "day": 108,
@@ -9951,8 +9951,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: há fidelidade que continua florescendo mesmo quando ninguém aplaude. Amém."
+    "application": "O justo florescerá como a palmeira e dará fruto mesmo na velhice (v. 12–14). Não importa sua idade, Deus ainda tem frutos para você. Hoje, peça para ver qual é o próximo.",
+    "prayer": "Pai, tu me alegras com os teus feitos. Faz-me crescer como o cedro do Líbano, firme e verde, para anunciar que tu és justo e que és a minha rocha. Amém."
   },
   {
     "day": 109,
@@ -10008,8 +10008,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: quando as águas levantam a voz, Deus continua acima delas. Amém."
+    "application": "Este salmo é curto como uma onda, mas firme como uma rocha. Quando as águas da vida subirem hoje, lembre-se de que o trono de Deus nunca balança.",
+    "prayer": "Pai, os mares levantam a voz, mas tu és mais forte. Firma o meu coração no teu reinado e faz da santidade o adorno da minha casa. Amém."
   },
   {
     "day": 110,
@@ -10137,8 +10137,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: você pode desejar justiça sem entregar o coração à vingança. Amém."
+    "application": "'Quando eu disse: Os meus pés escorregaram, o teu amor me sustentou' (v. 18). Se você sente que está escorregando, deixe o amor de Deus segurar você hoje.",
+    "prayer": "Pai, quem se levantará a meu favor contra os malfeitores? Se tu não me ajudasses, eu estaria em silêncio. Sustenta-me com o teu amor e consola a minha alma ansiosa. Amém."
   },
   {
     "day": 111,
@@ -10218,8 +10218,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: adoração também é não endurecer o coração depois de ouvir. Amém."
+    "application": "O salmo começa com cânticos e termina com um aviso: 'Não endureçam o coração'. Há uma voz de Deus que você tem ignorado? Hoje, escute-a com docilidade.",
+    "prayer": "Pai, somos o povo do teu pasto, o rebanho que guias. Amolece o meu coração para te ouvir hoje e faz-me entrar no teu descanso. Amém."
   },
   {
     "day": 112,
@@ -10307,8 +10307,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: o louvor fica maior quando inclui as nações e a criação. Amém."
+    "application": "O salmo convida a terra inteira — mar, campos, árvores — a cantar. Hoje, ao ver a natureza, junte-se a esse louvor e conte a alguém o que Deus fez por você.",
+    "prayer": "Pai, o esplendor e a majestade estão diante de ti. Que a minha vida proclame entre os povos que tu reinas, e que eu viva pronto para a tua vinda. Amém."
   },
   {
     "day": 113,
@@ -10392,8 +10392,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: a alegria dos justos não precisa vir da queda de alguém, mas da presença de Deus. Amém."
+    "application": "A luz é semeada para o justo (v. 11) — como semente que ainda vai brotar. Se você não vê a luz agora, confie que ela já foi plantada.",
+    "prayer": "Pai, que eu ame o que tu amas e odeie o mal que te desagrada. Guarda a minha vida e faz-me alegrar em ti, dando graças ao teu santo nome. Amém."
   },
   {
     "day": 114,
@@ -10465,8 +10465,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: deus pode fazer uma coisa nova diante de quem já perdeu expectativa. Amém."
+    "application": "O salmo convida até os rios a baterem palmas. Hoje, deixe de lado a contenção e celebre algo que Deus fez — em voz alta, com alegria.",
+    "prayer": "Pai, tu fizeste coisas maravilhosas. Faz da minha vida um cântico novo, que alegre o teu coração e anuncie aos outros a tua salvação. Amém."
   },
   {
     "day": 115,
@@ -10538,8 +10538,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: santidade e misericórdia podem habitar no mesmo trono. Amém."
+    "application": "O Deus santo é também o Deus que perdoa (v. 8). Hoje, aproxime-se dele com reverência e confiança, sabendo que santidade e misericórdia não se excluem.",
+    "prayer": "Pai santo, tu amas a justiça e falaste do meio da coluna de nuvem. Que eu te adore com temor e alegria, sabendo que me ouves e me perdoas. Amém."
   },
   {
     "day": 116,
@@ -10595,8 +10595,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: gratidão começa quando você percebe de quem realmente é. Amém."
+    "application": "'Fomos feitos por ele e a ele pertencemos' (v. 3). Essa frase pode acalmar quem vive tentando provar o próprio valor. Hoje, descanse em pertencer a Deus.",
+    "prayer": "Pai, entro pelas tuas portas com gratidão. Tua fidelidade permanece de geração em geração. Que o meu serviço a ti seja alegre, e não pesado. Amém."
   },
   {
     "day": 117,
@@ -10664,8 +10664,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: integridade pública começa nas decisões privadas. Amém."
+    "application": "Davi faz uma espécie de 'aliança doméstica': integridade começa em casa. Hoje, pense em um pequeno ajuste que deixe sua casa mais parecida com a presença de Deus.",
+    "prayer": "Pai, quando virás ao meu encontro? Quero que a minha casa e o meu coração te recebam. Afasta de mim o olhar torto e a língua que calunia. Amém."
   },
   {
     "day": 118,
@@ -10975,8 +10975,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: não se esqueça dos benefícios quando sua memória só quer guardar as feridas. Amém."
+    "application": "'Ele sabe do que somos formados; lembra-se de que somos pó' (v. 14). Deus não espera de você força de super-herói. Hoje, receba a compaixão de um Pai que conhece sua fragilidade.",
+    "prayer": "Pai, como o Oriente está longe do Ocidente, assim afastaste de mim as minhas transgressões. Que minha alma te bendiga e não se esqueça de nenhum dos teus benefícios. Amém."
   },
   {
     "day": 121,
@@ -12155,8 +12155,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: seu coração pode ficar firme antes que a batalha termine. Amém."
+    "application": "Este salmo junta trechos dos Salmos 57 e 60: louvor e batalha lado a lado. Hoje, enfrente a sua dificuldade começando pelo louvor, e não pelo medo.",
+    "prayer": "Pai, exalta-te acima dos céus e que a tua glória esteja sobre toda a terra. Firma o meu coração para que eu cante a ti, mesmo antes de ver a vitória. Amém."
   },
   {
     "day": 133,
@@ -12418,8 +12418,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: o reinado de Deus combina autoridade e serviço de um jeito que nenhum poder humano copia perfeitamente. Amém."
+    "application": "Jesus está assentado à direita do Pai — e isso significa que o trabalho de salvação está concluído. Hoje, descanse naquilo que ele já fez e deixe que ele reine sobre o seu dia.",
+    "prayer": "Cristo, Rei e Sacerdote, teu povo se apresenta voluntariamente no dia da tua batalha. Que eu me ofereça a ti de boa vontade e confie na tua intercessão por mim. Amém."
   },
   {
     "day": 136,
@@ -12495,8 +12495,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: lembrar as obras de Deus pode reorganizar aquilo que hoje parece caótico. Amém."
+    "application": "Este salmo é um acróstico — cada linha começa com uma letra do alfabeto hebraico. É como se o salmista dissesse: 'Vou louvar de A a Z'. Hoje, faça sua própria lista de A a Z de motivos de gratidão.",
+    "prayer": "Pai, as tuas obras são verdade e justiça; os teus preceitos são confiáveis. Que eu me deleite em ti e me lembre das maravilhas que fizeste. Amém."
   },
   {
     "day": 137,
@@ -12572,8 +12572,8 @@ window.SALMOS_CARTA = [
       "Que influência precisa perder espaço para você ouvir melhor a sabedoria de Deus?",
       "Qual hábito simples pode criar raízes mais profundas?"
     ],
-    "application": "Identifique uma escolha repetida que está formando seu caminho e ajuste hoje uma pequena parte dela.",
-    "prayer": "Deus sábio, forma minhas escolhas pequenas e dá raízes profundas ao meu coração. Faz viver em mim esta verdade: uma vida justa pode ser firme sem precisar ser rígida. Amém."
+    "application": "'Não temerá más notícias; o seu coração está firme, confiante no Senhor' (v. 7). Hoje, ao abrir seu celular, faça essa oração antes de ler qualquer notícia.",
+    "prayer": "Pai, faz-me uma luz nas trevas para os retos, compassivo e justo. Que a minha generosidade revele a tua bondade e o meu coração descanse em ti. Amém."
   },
   {
     "day": 138,
@@ -12645,8 +12645,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: o Deus alto o bastante para governar é também baixo o bastante para levantar o pobre. Amém."
+    "application": "O Deus que está acima dos céus é o mesmo que se inclina para olhar o pó. Se você se sente pequeno e esquecido, saiba que ele está olhando exatamente para você.",
+    "prayer": "Pai, ninguém é como tu, que te abaixas para levantar o pobre. Faz-me participar dessa obra e alegrar-me com os que tu levantas. Amém."
   },
   {
     "day": 139,
@@ -12714,8 +12714,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: quando Deus conduz um povo, até o mar aprende a abrir caminho. Amém."
+    "application": "Este salmo é quase um poema bem-humorado: o mar foge, os montes pulam. Diante de Deus, nada é imóvel. Hoje, entregue a ele o 'monte' que parece impossível.",
+    "prayer": "Pai, tu transformas a rocha em lagos e o rochedo em fontes. Abre caminho onde hoje não vejo nenhum e faz brotar água no meu deserto. Amém."
   },
   {
     "day": 140,
@@ -12823,8 +12823,8 @@ window.SALMOS_CARTA = [
       "O que você precisa dizer a Deus sem editar demais?",
       "Que pequeno passo pode transformar leitura em resposta?"
     ],
-    "application": "Escolha uma frase ou imagem do salmo e use-a como ponto de partida para uma oração pessoal de hoje.",
-    "prayer": "Senhor, recebe minha vida como ela está e transforma este salmo em conversa verdadeira contigo. Faz viver em mim esta verdade: você se torna parecido com aquilo em que deposita sua confiança. Amém."
+    "application": "'Os que fazem ídolos tornam-se como eles' (v. 8). Aquilo que adoramos nos molda. Hoje, pergunte-se: o que estou adorando está me tornando mais vivo ou mais vazio?",
+    "prayer": "Pai, não a mim, mas ao teu nome dá glória. Livra-me dos ídolos que não ouvem nem salvam, e faz-me parecido contigo, o Deus vivo. Amém."
   },
   {
     "day": 141,
@@ -12936,8 +12936,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: amar a Deus também pode nascer do dia em que você percebeu que foi ouvido. Amém."
+    "application": "'O Senhor inclinou para mim os seus ouvidos' (v. 2). Deus se abaixa para ouvir. Hoje, volte ao seu descanso (v. 7) sabendo que foi ouvido.",
+    "prayer": "Pai, preciosa é aos teus olhos a morte dos teus fiéis. Sou teu servo; quebraste as minhas correntes. Quero andar diante de ti na terra dos viventes. Amém."
   },
   {
     "day": 142,
@@ -12981,8 +12981,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: às vezes dois versículos bastam para lembrar que a fidelidade de Deus alcança todos. Amém."
+    "application": "Dois versículos são suficientes para lembrar que o amor de Deus é grande demais para caber em um povo só. Hoje, faça algo por alguém de outra cultura ou origem.",
+    "prayer": "Pai, o teu amor é forte sobre nós e a tua fidelidade não acaba. Alarga o meu coração para todas as nações e faz-me louvar-te com o mundo inteiro. Amém."
   },
   {
     "day": 143,
@@ -14236,8 +14236,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando você vive cercado de mentira, ainda pode pedir uma língua e um coração verdadeiros. Amém."
+    "application": "Toda peregrinação começa com um incômodo: 'Ai de mim que vivo em Meseque!'. Se você se sente deslocado onde está, talvez seja Deus chamando-o a caminhar em direção a ele.",
+    "prayer": "Pai, cansei de viver entre os que odeiam a paz. Começa em mim uma jornada para perto de ti e guarda-me de responder com as mesmas armas. Amém."
   },
   {
     "day": 154,
@@ -14305,8 +14305,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: seu socorro não depende de você vigiar tudo. Amém."
+    "application": "Os peregrinos olhavam para os montes perigosos do caminho e lembravam: Deus não cochila. Hoje, sempre que sentir insegurança, olhe para cima e repita: 'O meu socorro vem do Senhor'.",
+    "prayer": "Pai, tu és a sombra à minha direita; o sol não me fará mal de dia, nem a lua de noite. Guarda a minha saída e a minha chegada, e o meu sono esta noite. Amém."
   },
   {
     "day": 155,
@@ -14378,8 +14378,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: a alegria de chegar também pode se transformar em oração pela paz da cidade. Amém."
+    "application": "Este salmo começa com alegria por ir à casa de Deus. Se essa alegria tem faltado, peça a Deus que a renove — e ore hoje pelo nome de alguém da sua comunidade.",
+    "prayer": "Pai, que haja paz na tua casa e prosperidade nos que te amam. Faz-me um construtor de paz entre os meus irmãos e uma bênção para a minha cidade. Amém."
   },
   {
     "day": 156,
@@ -14431,8 +14431,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: levantar os olhos é diferente de negar a humilhação. Amém."
+    "application": "Quando estamos cansados de desprezo e zombaria (v. 3–4), este salmo não nos manda revidar: manda olhar para cima. Hoje, deixe o olhar de Deus pesar mais do que o olhar dos outros.",
+    "prayer": "Senhor, estou farto de desprezo. Tem misericórdia de mim. Ensina-me a esperar de ti, e não da aprovação dos outros, aquilo de que preciso. Amém."
   },
   {
     "day": 157,
@@ -14500,8 +14500,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: às vezes olhar para trás revela que você só não foi engolido porque houve ajuda. Amém."
+    "application": "'O laço quebrou-se, e nós escapamos' (v. 7). Às vezes só percebemos o livramento depois. Hoje, olhe para trás e reconheça um laço que Deus quebrou sem que você percebesse na hora.",
+    "prayer": "Pai, como pássaro que escapou da armadilha, eu também escapei por tua mão. Obrigado por estares ao meu lado quando as águas subiram. Amém."
   },
   {
     "day": 158,
@@ -14557,8 +14557,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: quem confia em Deus pode aprender uma estabilidade que não depende do terreno. Amém."
+    "application": "Jerusalém era protegida por montes ao redor. Deus faz o mesmo com você. Hoje, imagine-se cercado pela presença dele e descanse nessa proteção.",
+    "prayer": "Pai, faz bem aos que são bons e retos de coração. Que eu não me desvie por caminhos tortos e que a tua paz esteja sobre o teu povo. Amém."
   },
   {
     "day": 159,
@@ -14618,8 +14618,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: há lágrimas que carregam sementes sem saber ainda como será a colheita. Amém."
+    "application": "Algumas sementes só são plantadas com lágrimas. O salmo promete que o choro não é a última palavra. Hoje, continue semeando, mesmo chorando, e confie na colheita.",
+    "prayer": "Pai, tu já fizeste grandes coisas por nós, e por isso estamos alegres. Restaura o que está seco em mim, como as torrentes no Neguebe, e dá-me a alegria da colheita. Amém."
   },
   {
     "day": 160,
@@ -14675,8 +14675,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: nem toda construção precisa ser sustentada por ansiedade. Amém."
+    "application": "Este salmo é um convite ao descanso para quem vive esgotado. Deus não precisa da sua exaustão para cuidar de você. Hoje, durma um pouco mais cedo como ato de confiança.",
+    "prayer": "Pai, os filhos são herança tua. Edifica a minha casa, guarda a minha cidade e ensina-me a trabalhar sem ansiedade, confiando que tu cuidas de mim enquanto durmo. Amém."
   },
   {
     "day": 161,
@@ -14736,8 +14736,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: bênção pode parecer uma mesa simples, trabalho honesto e paz em casa. Amém."
+    "application": "Este salmo coloca a bênção de Deus na mesa de jantar. Hoje, ao comer com alguém, agradeça a Deus pelas pessoas ao seu redor — como brotos de oliveira.",
+    "prayer": "Pai, que o trabalho das minhas mãos seja abençoado e a minha casa seja lugar de paz. Ajuda-me a temer-te nas coisas pequenas do dia a dia. Amém."
   },
   {
     "day": 162,
@@ -14805,8 +14805,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: ter sido ferido muitas vezes não significa ter sido destruído. Amém."
+    "application": "'Muitas vezes me oprimiram... mas não me venceram' (v. 2). Este é o testemunho de quem foi ferido e não destruído. Hoje, reconheça as marcas, mas também a fidelidade de Deus.",
+    "prayer": "Pai, as marcas do passado ainda doem, mas tu me sustentaste. Cura as feridas que ficaram e faz-me lembrar que nenhum opressor tem a última palavra. Amém."
   },
   {
     "day": 163,
@@ -14874,8 +14874,8 @@ window.SALMOS_CARTA = [
       "Existe alguma reparação ou pedido de perdão que já pode começar?",
       "Como receber misericórdia sem usar graça como desculpa para permanecer igual?"
     ],
-    "application": "Nomeie diante de Deus uma falha concreta e escolha uma atitude de reparação possível, sem usar vergonha como método de mudança.",
-    "prayer": "Deus de misericórdia, dá-me coragem para viver na verdade sem me destruir pela culpa. Faz viver em mim esta verdade: do fundo ainda existe uma direção para a voz. Amém."
+    "application": "Se Deus registrasse cada erro, ninguém ficaria de pé. Mas o salmo diz: 'Contigo está o perdão'. Hoje, se algo o afunda, clame daí mesmo — Deus ouve das profundezas.",
+    "prayer": "Pai, minha alma espera por ti como a sentinela espera o amanhecer. Na tua palavra ponho a minha esperança, pois contigo há amor e plena redenção. Amém."
   },
   {
     "day": 164,
@@ -14923,8 +14923,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: maturidade também é aprender a aquietar desejos que queriam dominar tudo. Amém."
+    "application": "Uma criança desmamada já não chora pelo leite: ela apenas descansa no colo. Hoje, solte aquilo que você não consegue entender e simplesmente descanse em Deus.",
+    "prayer": "Pai, ensina-me a aquietar a minha alma. Não preciso entender tudo; preciso apenas estar contigo. Que a minha esperança esteja em ti, desde agora e para sempre. Amém."
   },
   {
     "day": 165,
@@ -15032,8 +15032,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: promessas antigas podem continuar dando forma ao futuro. Amém."
+    "application": "Davi fez um juramento: não dormiria até encontrar uma morada para Deus. Que espaço você tem preparado para Deus no seu dia? Hoje, crie um lugar — físico ou de tempo — para ele.",
+    "prayer": "Pai, tu escolheste habitar no meio do teu povo. Faz do meu coração a tua morada, e que o teu Ungido, Jesus, reine sobre a minha vida. Amém."
   },
   {
     "day": 166,
@@ -15081,8 +15081,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: a unidade é preciosa demais para ser tratada como detalhe. Amém."
+    "application": "A unidade é como óleo que escorre pela cabeça e pelo orvalho que desce do monte: algo que vem de cima. Hoje, peça a Deus que derrame unidade onde há divisão na sua família ou igreja.",
+    "prayer": "Pai, ensina-me a construir pontes, e não muros, com meus irmãos. Que a tua bênção desça sobre os lugares onde aprendemos a conviver em paz. Amém."
   },
   {
     "day": 167,
@@ -15130,8 +15130,8 @@ window.SALMOS_CARTA = [
       "Quem caminha com você e ajuda a lembrar onde está indo?",
       "Que pequeno passo de confiança cabe no dia de hoje?"
     ],
-    "application": "Escolha apenas o próximo passo da sua jornada e faça-o hoje, sem exigir que o caminho inteiro esteja visível.",
-    "prayer": "Senhor do caminho, acompanha meus passos e ensina-me a não correr além da graça de hoje. Faz viver em mim esta verdade: há louvor que acontece no turno da noite. Amém."
+    "application": "Este é o último cântico de peregrinação: louvor de noite, quando o templo está quieto. Hoje, termine o dia bendizendo a Deus, mesmo que esteja cansado.",
+    "prayer": "Pai, recebe o meu louvor no fim deste dia. Abençoa-me, Criador dos céus e da terra, e guarda-me durante a noite. Amém."
   },
   {
     "day": 168,
@@ -15251,8 +15251,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: lembrar quem Deus é ajuda a não se ajoelhar diante do que nossas mãos fabricaram. Amém."
+    "application": "O salmo nos lembra que nos tornamos parecidos com aquilo que adoramos (v. 18). Hoje, escolha deliberadamente gastar seu melhor tempo com o Deus vivo.",
+    "prayer": "Pai, tu nos escolheste como teu tesouro particular. Faz-me lembrar disso quando eu me sentir sem valor, e livra-me dos ídolos que não podem me ouvir. Amém."
   },
   {
     "day": 169,
@@ -15571,8 +15571,8 @@ window.SALMOS_CARTA = [
       "Quem participou dessa história e merece sua gratidão?",
       "Como transformar memória em confiança para o próximo passo?"
     ],
-    "application": "Registre uma memória concreta de cuidado de Deus e agradeça também a uma pessoa que participou dessa história.",
-    "prayer": "Senhor fiel, ajuda-me a lembrar o cuidado que já recebi e a caminhar com gratidão. Faz viver em mim esta verdade: mesmo entre poderes grandes, sua oração pode permanecer inteira. Amém."
+    "application": "Deus não abandona a obra das suas mãos (v. 8). Se você se sente inacabado, saiba que ele ainda está trabalhando em você. Hoje, descanse nessa promessa.",
+    "prayer": "Pai, tu, sendo excelso, olhas para os humildes. O teu amor dura para sempre; não abandones a obra que começaste em mim. Amém."
   },
   {
     "day": 173,
@@ -15793,8 +15793,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: você pode pedir proteção contra pessoas violentas sem aprender a amar a violência. Amém."
+    "application": "'Tu me proteges a cabeça no dia da batalha' (v. 7). Se você está em um dia de batalha, imagine Deus como capacete sobre você — e deixe a defesa com ele.",
+    "prayer": "Pai, não permitas que os planos dos maus prosperem. Faz-me habitar na tua presença e dar graças ao teu nome, mesmo enquanto espero a tua justiça. Amém."
   },
   {
     "day": 175,
@@ -15870,8 +15870,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: antes de controlar o mundo ao redor, peça ajuda para guardar sua própria boca. Amém."
+    "application": "A correção de um amigo justo é como óleo sobre a cabeça (v. 5). Hoje, abra-se para ouvir uma crítica sem se defender e pergunte a Deus o que há de verdade nela.",
+    "prayer": "Pai, meus olhos estão fixos em ti. Guarda-me das armadilhas e das palavras impensadas, e faz da minha oração um perfume que te agrade. Amém."
   },
   {
     "day": 176,
@@ -15935,8 +15935,8 @@ window.SALMOS_CARTA = [
       "O que muda quando você fala com Deus antes de tentar explicar tudo?",
       "Qual ajuda humana segura pode acompanhar sua oração nesta fase?"
     ],
-    "application": "Leia o salmo novamente e escreva uma oração de três linhas: o que dói, o que você pede e onde deseja encontrar apoio.",
-    "prayer": "Senhor, recebe o que dói sem me exigir aparência de força. Faz viver em mim esta verdade: quando você se sente sozinho numa caverna, ainda existe alguém a quem derramar a queixa. Amém."
+    "application": "Davi escreveu isto em uma caverna, sentindo que ninguém se importava. Se você se sente isolado hoje, saiba que Deus conhece o seu caminho mesmo quando o seu espírito desfalece.",
+    "prayer": "Pai, quando olho ao redor e não vejo ninguém, tu me vês. Tira-me da caverna e cerca-me de pessoas que te temem. Amém."
   },
   {
     "day": 177,
@@ -16020,8 +16020,8 @@ window.SALMOS_CARTA = [
       "Existe alguma reparação ou pedido de perdão que já pode começar?",
       "Como receber misericórdia sem usar graça como desculpa para permanecer igual?"
     ],
-    "application": "Nomeie diante de Deus uma falha concreta e escolha uma atitude de reparação possível, sem usar vergonha como método de mudança.",
-    "prayer": "Deus de misericórdia, dá-me coragem para viver na verdade sem me destruir pela culpa. Faz viver em mim esta verdade: pedir direção pode ser mais urgente do que pedir vitória. Amém."
+    "application": "O salmista se lembra dos dias antigos para ter força no presente (v. 5). Hoje, recorde algo bom que Deus fez no passado e use isso como combustível para seguir.",
+    "prayer": "Pai, ensina-me a fazer a tua vontade, pois tu és o meu Deus. Que o teu bom Espírito me conduza por terreno plano. Minha alma tem sede de ti como terra seca. Amém."
   },
   {
     "day": 178,
@@ -16117,8 +16117,8 @@ window.SALMOS_CARTA = [
       "Onde você precisa lembrar que autoridade e responsabilidade caminham juntas?",
       "Como viver com coragem sem tentar controlar tudo?"
     ],
-    "application": "Entregue em oração uma situação que você tenta controlar e concentre energia na responsabilidade que realmente pertence a você.",
-    "prayer": "Rei acima de todo poder, coloca novamente meus medos e controles no tamanho certo. Faz viver em mim esta verdade: você pode reconhecer fragilidade sem esquecer que Deus treina suas mãos para servir. Amém."
+    "application": "Davi lembra que o ser humano é como um sopro, e ainda assim Deus se importa com ele. Hoje, viva sabendo que é pequeno e, ao mesmo tempo, profundamente amado.",
+    "prayer": "Pai, estende a tua mão do alto e livra-me. Cantarei a ti um cântico novo. Abençoa os nossos filhos e filhas, e que a nossa casa seja feliz porque tu és o nosso Deus. Amém."
   },
   {
     "day": 179,
@@ -16238,8 +16238,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: a grandeza de Deus aparece também na sua ternura com quem cai. Amém."
+    "application": "'O Senhor ampara todos os que caem e levanta todos os que estão prostrados' (v. 14). Se você caiu, ele não está esperando para condenar, mas para levantar.",
+    "prayer": "Pai, os olhos de todos estão voltados para ti, e tu lhes dás o alimento no tempo certo. Abres a tua mão e satisfazes os desejos de todos os viventes. Estás perto de mim. Amém."
   },
   {
     "day": 180,
@@ -16315,8 +16315,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: não coloque esperança final em pessoas poderosas, por melhores que pareçam. Amém."
+    "application": "Este salmo lista o que Deus faz: liberta, abre os olhos, levanta, ama, protege. Hoje, escolha uma dessas ações e seja instrumento de Deus para alguém.",
+    "prayer": "Pai, feliz é aquele cujo auxílio és tu. Não quero apoiar-me em homens que passam, mas em ti, que reinas para sempre e cuidas dos que ninguém vê. Amém."
   },
   {
     "day": 181,
@@ -16432,8 +16432,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: o Deus que conta estrelas também cuida de corações quebrantados. Amém."
+    "application": "O Deus que dá nome às estrelas também enfaixa corações partidos. Grandeza e ternura juntas. Hoje, leve a ele uma ferida, sabendo que ela não é pequena demais.",
+    "prayer": "Pai, tu não te agradas da força do cavalo, mas dos que esperam no teu amor. Cura o que está quebrado em mim e ensina-me a esperar em ti. Amém."
   },
   {
     "day": 182,
@@ -16525,8 +16525,8 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: toda a criação pode participar de um louvor que não gira ao redor de nós. Amém."
+    "application": "Todo o universo é um coral, e você também faz parte dele. Hoje, ao ver qualquer parte da criação, lembre-se: ela está louvando a Deus, e você pode fazer o mesmo.",
+    "prayer": "Pai, que a minha voz se junte ao canto das estrelas e dos mares. Obrigado porque, entre tantas coisas grandes, tu escolheste aproximar-te do teu povo. Amém."
   },
   {
     "day": 183,
@@ -16598,8 +16598,8 @@ window.SALMOS_CARTA = [
       "Como pedir justiça sem permitir que a vingança organize suas escolhas?",
       "Que ação responsável de proteção ou reparação está realmente ao seu alcance?"
     ],
-    "application": "Nomeie a injustiça sem planejar vingança. Depois escolha um passo seguro de proteção, denúncia responsável, reparação ou intercessão.",
-    "prayer": "Deus justo, recebe minha indignação e não deixa que ela se transforme em crueldade. Faz viver em mim esta verdade: louvor e justiça precisam caminhar com responsabilidade, não com violência religiosa. Amém."
+    "application": "'O Senhor se agrada do seu povo' (v. 4). Talvez você esteja acostumado a pensar que Deus apenas o tolera. Hoje, deixe essa frase mudar a forma como você o vê.",
+    "prayer": "Pai, que eu dance e cante diante de ti com alegria. Coroa a minha humildade com a tua salvação e faz-me viver a fé com coragem e louvor. Amém."
   },
   {
     "day": 184,
@@ -16659,7 +16659,7 @@ window.SALMOS_CARTA = [
       "Que aspecto do caráter de Deus desperta admiração em você hoje?",
       "Como sua gratidão pode ganhar uma forma concreta?"
     ],
-    "application": "Passe alguns minutos nomeando aquilo que este salmo faz você admirar em Deus, sem transformar esse momento em lista de pedidos.",
-    "prayer": "Senhor, amplia meu olhar para tua grandeza e ensina meu coração a louvar com verdade. Faz viver em mim esta verdade: no fim, tudo que respira é convidado a transformar vida em louvor. Amém."
+    "application": "O Saltério termina com uma explosão de louvor. Depois de tantos lamentos, a última palavra é aleluia. Hoje, em cada respiração, lembre-se de que seu fôlego é uma oportunidade para louvar.",
+    "prayer": "Pai, depois de toda a jornada — lágrimas, medos, alegrias e esperas — eu te louvo. Enquanto houver fôlego em mim, que ele seja usado para te exaltar. Aleluia! Amém."
   }
 ];
