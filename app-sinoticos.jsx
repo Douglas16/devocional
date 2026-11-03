@@ -42,11 +42,14 @@ function App() {
   const [tab, setTab] = useState('today'); // today | journey | notes
   // Link direto (?dia=N, ver deeplink.js)
   const deepLinkDay = window.LectioDeepLink && window.LectioDeepLink.day;
-  // Ao abrir, vai para o dia seguinte ao último marcado como lido (ou dia 1). O link direto vale só para essa visita.
+  // Ao abrir, vai para o primeiro dia ainda não lido (ou o último, se tudo foi lido). O link direto vale só para essa visita.
   const [openDay, setCurrentDay] = useState(() => {
     if (deepLinkDay) return deepLinkDay;
-    const readDays = Object.keys(loadState().read || {}).map(Number).filter(n => n > 0);
-    return readDays.length ? Math.max(...readDays) + 1 : 1;
+    // Primeiro dia ainda não lido, na ordem (lacunas antes de dias lidos à frente).
+    const read = loadState().read || {};
+    let next = 1;
+    while (read[next]) next++;
+    return next;
   });
 
   // Tipo de devocional — global, compartilhado entre todos os livros (window.LectioMode)

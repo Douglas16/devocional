@@ -1,6 +1,7 @@
 // Box "Bíblia toda" (jornadas.html): ao clicar, abre uma palavra de renovo
 // sobre a Palavra de Deus (sorteada a cada abertura, de palavra-renovo.js)
-// e as estatísticas da leitura: início, dias decorridos e frequência.
+// e as estatísticas da leitura: início, dias decorridos e frequência,
+// com um calendário mensal dos dias em que houve leitura.
 // Depende de window.__lectioProgress (definido em jornadas.html) e de
 // window.LECTIO_CHAPTERS (chapters-map.js). Cada jornada grava
 // state.read[dia] = data ISO do momento em que o dia foi marcado como lido.
@@ -111,10 +112,53 @@
       <h3 class="bw-section">Sua leitura da Bíblia toda</h3>
       ${renderStats()}
       <div class="reset-modal-actions">
-        <button type="button" class="reset-btn" id="bibleWordAnother">Outra palavra</button>
+        <button type="button" class="reset-btn" id="bibleWordCalendar">Calendário</button>
         <button type="button" class="reset-btn reset-btn-danger" id="bibleWordClose">Fechar</button>
       </div>`;
-    body.querySelector('#bibleWordAnother').addEventListener('click', render);
+    body.querySelector('#bibleWordCalendar').addEventListener('click', () => {
+      const now = new Date();
+      renderCalendar(now.getFullYear(), now.getMonth());
+    });
+    body.querySelector('#bibleWordClose').addEventListener('click', close);
+  };
+
+  // Calendário mensal: pinta os dias em que houve ao menos uma leitura marcada.
+  const WEEKDAYS = ['D', 'S', 'T', 'Q', 'Q', 'S', 'S'];
+  const renderCalendar = (year, month) => {
+    const readDays = new Set(collectStats().dates.map(dayKey));
+    const today = new Date();
+    const first = new Date(year, month, 1);
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+    const title = first.toLocaleDateString('pt-BR', { month: 'long', year: 'numeric' });
+    let monthCount = 0;
+    const cells = [];
+    for (let i = 0; i < first.getDay(); i++) cells.push('<span class="bw-cal-cell is-empty"></span>');
+    for (let d = 1; d <= daysInMonth; d++) {
+      const date = new Date(year, month, d);
+      const read = readDays.has(dayKey(date));
+      if (read) monthCount++;
+      const isToday = dayKey(date) === dayKey(today);
+      const label = `${date.toLocaleDateString('pt-BR', { day: 'numeric', month: 'long' })}${read ? ' — leitura feita' : ''}`;
+      cells.push(`<span class="bw-cal-cell${read ? ' is-read' : ''}${isToday ? ' is-today' : ''}" title="${esc(label)}" aria-label="${esc(label)}">${d}</span>`);
+    }
+    body.innerHTML = `
+      <div class="bw-kicker">Calendário de leitura</div>
+      <div class="bw-cal-head">
+        <button type="button" class="icon-btn bw-cal-nav" id="bwCalPrev" aria-label="Mês anterior"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg></button>
+        <h2 class="reset-modal-title bw-cal-title" id="bibleWordTitle">${esc(title.charAt(0).toUpperCase() + title.slice(1))}</h2>
+        <button type="button" class="icon-btn bw-cal-nav" id="bwCalNext" aria-label="Próximo mês"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg></button>
+      </div>
+      <div class="bw-cal-grid bw-cal-weekdays" aria-hidden="true">${WEEKDAYS.map(w => `<span>${w}</span>`).join('')}</div>
+      <div class="bw-cal-grid">${cells.join('')}</div>
+      <p class="bw-cal-summary">${monthCount ? `${plural(monthCount, 'dia', 'dias')} com leitura neste mês` : 'Nenhuma leitura marcada neste mês'}</p>
+      <div class="reset-modal-actions">
+        <button type="button" class="reset-btn" id="bwCalBack">Voltar</button>
+        <button type="button" class="reset-btn reset-btn-danger" id="bibleWordClose">Fechar</button>
+      </div>`;
+    const go = (delta) => { const d = new Date(year, month + delta, 1); renderCalendar(d.getFullYear(), d.getMonth()); };
+    body.querySelector('#bwCalPrev').addEventListener('click', () => go(-1));
+    body.querySelector('#bwCalNext').addEventListener('click', () => go(1));
+    body.querySelector('#bwCalBack').addEventListener('click', render);
     body.querySelector('#bibleWordClose').addEventListener('click', close);
   };
 
