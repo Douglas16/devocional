@@ -125,8 +125,14 @@
   // Calendário mensal: pinta os dias em que houve ao menos uma leitura marcada.
   const WEEKDAYS = ['D', 'S', 'T', 'Q', 'Q', 'S', 'S'];
   const renderCalendar = (year, month) => {
-    const readDays = new Set(collectStats().dates.map(dayKey));
+    const dates = collectStats().dates;
+    const readDays = new Set(dates.map(dayKey));
     const today = new Date();
+    // Não navega para antes do mês em que a leitura começou (ou do mês atual, sem leituras).
+    const startDate = dates.length ? new Date(Math.min(...dates)) : today;
+    const minIndex = startDate.getFullYear() * 12 + startDate.getMonth();
+    if (year * 12 + month < minIndex) { year = startDate.getFullYear(); month = startDate.getMonth(); }
+    const canPrev = year * 12 + month > minIndex;
     const first = new Date(year, month, 1);
     const daysInMonth = new Date(year, month + 1, 0).getDate();
     const title = first.toLocaleDateString('pt-BR', { month: 'long', year: 'numeric' });
@@ -141,10 +147,12 @@
       const label = `${date.toLocaleDateString('pt-BR', { day: 'numeric', month: 'long' })}${read ? ' — leitura feita' : ''}`;
       cells.push(`<span class="bw-cal-cell${read ? ' is-read' : ''}${isToday ? ' is-today' : ''}" title="${esc(label)}" aria-label="${esc(label)}">${d}</span>`);
     }
+    // Sempre 6 semanas (42 células): o modal mantém a mesma altura em qualquer mês.
+    while (cells.length < 42) cells.push('<span class="bw-cal-cell is-empty"></span>');
     body.innerHTML = `
       <div class="bw-kicker">Calendário de leitura</div>
       <div class="bw-cal-head">
-        <button type="button" class="icon-btn bw-cal-nav" id="bwCalPrev" aria-label="Mês anterior"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg></button>
+        <button type="button" class="icon-btn bw-cal-nav" id="bwCalPrev" aria-label="Mês anterior" ${canPrev ? '' : 'disabled'}><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg></button>
         <h2 class="reset-modal-title bw-cal-title" id="bibleWordTitle">${esc(title.charAt(0).toUpperCase() + title.slice(1))}</h2>
         <button type="button" class="icon-btn bw-cal-nav" id="bwCalNext" aria-label="Próximo mês"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"/></svg></button>
       </div>
@@ -156,7 +164,7 @@
         <button type="button" class="reset-btn reset-btn-danger" id="bibleWordClose">Fechar</button>
       </div>`;
     const go = (delta) => { const d = new Date(year, month + delta, 1); renderCalendar(d.getFullYear(), d.getMonth()); };
-    body.querySelector('#bwCalPrev').addEventListener('click', () => go(-1));
+    body.querySelector('#bwCalPrev').addEventListener('click', () => { if (canPrev) go(-1); });
     body.querySelector('#bwCalNext').addEventListener('click', () => go(1));
     body.querySelector('#bwCalBack').addEventListener('click', render);
     body.querySelector('#bibleWordClose').addEventListener('click', close);

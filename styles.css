@@ -1542,6 +1542,7 @@ body::before {
 .bw-cal-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: 4px 0 14px; }
 .bw-cal-title { margin: 0; text-align: center; flex: 1; }
 .bw-cal-nav { flex-shrink: 0; }
+.bw-cal-nav:disabled { opacity: .35; cursor: not-allowed; pointer-events: none; }
 .bw-cal-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 6px; }
 .bw-cal-weekdays { margin-bottom: 6px; }
 .bw-cal-weekdays span { text-align: center; font-family: var(--font-mono); font-size: 0.6875rem; color: var(--ink-3); }

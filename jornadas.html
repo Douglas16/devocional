@@ -265,6 +265,7 @@
     selected.clear();
     close();
     if (window.__lectioRenderProgress) window.__lectioRenderProgress();
+    if (window.__lectioRenderBibleStats) window.__lectioRenderBibleStats();
   };
 
   trigger.addEventListener('click', () => {
@@ -298,6 +299,10 @@
   const CHAPTERS = window.LECTIO_CHAPTERS || { total: 1189, days: {} };
   const TOTAL_BIBLE_CHAPTERS = CHAPTERS.total;
 
+  // Recalculado ao carregar e após "Zerar leitura" (window.__lectioRenderBibleStats).
+  let runId = 0;
+  const renderAll = () => {
+  const myRun = ++runId;
   let totalHighlighted = 0;
   // Conjunto de capítulos distintos: um dia pode cobrir vários capítulos
   // (Apocalipse 16-18) e vários dias podem cobrir o mesmo (1 Pedro 1.1-12 e 1.13-25).
@@ -376,13 +381,18 @@
     let totalVersesRead = 0;
     for (const { href, readDays } of journeysWithProgress) {
       const days = await loadDays(href);
+      if (myRun !== runId) return; // um recálculo mais novo começou
       readDays.forEach(dayNum => {
         const d = days.find(x => String(x.day) === String(dayNum));
         if (d && d.passage && Array.isArray(d.passage.verses)) totalVersesRead += d.passage.verses.length;
       });
     }
+    if (myRun !== runId) return;
     statsEl.innerHTML = `Achei importante no meu devocional <strong>${totalHighlighted}</strong> de ${plural(totalVersesRead, 'versículo', 'versículos')}, no total de ${plural(totalChaptersRead, 'capítulo', 'capítulos')} já lidos.`;
   })();
+  };
+  window.__lectioRenderBibleStats = renderAll;
+  renderAll();
 })();
 </script>
 <script src="palavra-renovo.js"></script><script src="bible-word.js"></script>
