@@ -787,22 +787,22 @@ window.ATOS_1 = [
     "prayer": "Deus de verdade, livra-me de oferecer uma imagem em vez do meu coração. Faz minha generosidade simples, livre e fiel. Amém."
   },
   {
-    "theme": "Jerusalém · Estêvão vê a glória",
-    "date": "Atos 6–7",
+    "theme": "Jerusalém · Servir mesas, servir a Palavra",
+    "date": "Atos 6.1–7.16",
     "verse": {
-      "text": "Vejo o céu aberto e o Filho do homem de pé, à direita de Deus.",
-      "ref": "Atos 7.56"
+      "text": "Mas Deus estava com ele e o libertou de todas as suas tribulações.",
+      "ref": "Atos 7.9-10"
     },
     "word": {
-      "original": "μαρτυρία",
-      "translit": "martyría",
+      "original": "διακονία",
+      "translit": "diakonía",
       "lang": "grego",
-      "meaning": "testemunho",
-      "note": "O substantivo descreve o ato de testemunhar; a história de Estêvão ajuda a explicar por que a família de palavras passou a carregar a ideia de martírio. Seu testemunho não é procura de sofrimento, mas fidelidade a Cristo até onde o custo chega."
+      "meaning": "serviço, ministério",
+      "note": "A mesma palavra descreve a distribuição diária às viúvas (6.1) e o ministério da palavra dos apóstolos (6.4). Lucas não cria uma escala entre serviço prático e serviço da Palavra: ambos são diakonía diante de Deus."
     },
-    "context": "Uma necessidade prática leva a igreja a reconhecer sete homens cheios do Espírito para servir. Estêvão, um deles, também debate e anuncia o evangelho. Acusado de falar contra templo e Lei, ele relê toda a história de Israel como história de um Deus que não cabe em edifícios e de mensageiros rejeitados.",
+    "context": "Uma necessidade prática — viúvas de fala grega esquecidas na distribuição diária — leva a igreja a reconhecer sete homens cheios do Espírito para servir. Estêvão, um deles, também debate e anuncia o evangelho, até ser acusado de falar contra o templo e a Lei. Diante do Sinédrio, começa a reler a história de Israel: o Deus glorioso aparece a Abraão na Mesopotâmia e está com José no Egito, longe da terra e do templo.",
     "passage": {
-      "ref": "Atos 6-7",
+      "ref": "Atos 6.1-7.16",
       "verses": [
         {
           "n": 1,
@@ -927,196 +927,229 @@ window.ATOS_1 = [
         {
           "n": 31,
           "text": "[7.16] Seus corpos foram levados de volta a Siquém e colocados no túmulo que Abraão havia comprado ali dos filhos de Hamor, por certa quantia."
-        },
-        {
-          "n": 32,
-          "text": "[7.17] \"Ao se aproximar o tempo em que Deus cumpriria sua promessa a Abraão, aumentou muito o número do nosso povo no Egito."
-        },
-        {
-          "n": 33,
-          "text": "[7.18] Então outro rei, que nada sabia a respeito de José, passou a governar o Egito."
-        },
-        {
-          "n": 34,
-          "text": "[7.19] Ele agiu traiçoeiramente para com o nosso povo e oprimiu os nossos antepassados, obrigando-os a abandonar os seus recém-nascidos, para que não sobrevivessem."
-        },
-        {
-          "n": 35,
-          "text": "[7.20] \"Naquele tempo nasceu Moisés, que era um menino extraordinário. Por três meses ele foi criado na casa de seu pai."
-        },
-        {
-          "n": 36,
-          "text": "[7.21] Quando foi abandonado, a filha do faraó o tomou e o criou como seu próprio filho."
-        },
-        {
-          "n": 37,
-          "text": "[7.22] Moisés foi educado em toda a sabedoria dos egípcios e veio a ser poderoso em palavras e obras."
-        },
-        {
-          "n": 38,
-          "text": "[7.23] \"Ao completar quarenta anos, Moisés decidiu visitar seus irmãos israelitas."
-        },
-        {
-          "n": 39,
-          "text": "[7.24] Ao ver um deles sendo maltratado por um egípcio, saiu em defesa do oprimido e o vingou, matando o egípcio."
-        },
-        {
-          "n": 40,
-          "text": "[7.25] Ele pensava que seus irmãos compreenderiam que Deus o estava usando para salvá-los, mas eles não o compreenderam."
-        },
-        {
-          "n": 41,
-          "text": "[7.26] No dia seguinte, Moisés dirigiu-se a dois israelitas que estavam brigando, e tentou reconciliá-los, dizendo: ‘Homens, vocês são irmãos; por que ferem um ao outro? ’"
-        },
-        {
-          "n": 42,
-          "text": "[7.27] \"Mas o homem que maltratava o outro empurrou Moisés e disse: ‘Quem o nomeou líder e juiz sobre nós?"
-        },
-        {
-          "n": 43,
-          "text": "[7.28] Quer matar-me como matou o egípcio ontem? ’"
-        },
-        {
-          "n": 44,
-          "text": "[7.29] Ouvindo isso, Moisés fugiu para Midiã, onde ficou morando como estrangeiro e teve dois filhos."
-        },
-        {
-          "n": 45,
-          "text": "[7.30] \"Passados quarenta anos, apareceu a Moisés um anjo nas labaredas de uma sarça em chamas no deserto, perto do monte Sinai."
-        },
-        {
-          "n": 46,
-          "text": "[7.31] Vendo aquilo, ficou atônito. E, aproximando-se para observar, ouviu a voz do Senhor:"
-        },
-        {
-          "n": 47,
-          "text": "[7.32] ‘Eu sou o Deus dos seus antepassados, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó’. Moisés, tremendo de medo, não ousava olhar."
-        },
-        {
-          "n": 48,
-          "text": "[7.33] \"Então o Senhor lhe disse: ‘Tire as sandálias dos pés, porque o lugar em que você está é terra santa."
-        },
-        {
-          "n": 49,
-          "text": "[7.34] De fato tenho visto a opressão sobre o meu povo no Egito. Ouvi seus gemidos e desci para livrá-lo. Venha agora, e eu o enviarei de volta ao Egito’."
-        },
-        {
-          "n": 50,
-          "text": "[7.35] \"Este é o mesmo Moisés que tinham rejeitado com estas palavras: ‘Quem o nomeou líder e juiz? ’ Ele foi enviado pelo próprio Deus para ser líder e libertador deles, por meio do anjo que lhe tinha aparecido na sarça."
-        },
-        {
-          "n": 51,
-          "text": "[7.36] Ele os tirou de lá, fazendo maravilhas e sinais no Egito, no mar Vermelho e no deserto durante quarenta anos."
-        },
-        {
-          "n": 52,
-          "text": "[7.37] \"Este é aquele Moisés que disse aos israelitas: ‘Deus lhes levantará dentre seus irmãos um profeta como eu’."
-        },
-        {
-          "n": 53,
-          "text": "[7.38] Ele estava na congregação, no deserto, com o anjo que lhe falava no monte Sinai e com os nossos antepassados, e recebeu palavras vivas, para transmiti-las a nós."
-        },
-        {
-          "n": 54,
-          "text": "[7.39] \"Mas nossos antepassados se recusaram a obedecer-lhe; pelo contrário, rejeitaram-no, e em seus corações voltaram para o Egito."
-        },
-        {
-          "n": 55,
-          "text": "[7.40] Disseram a Arão: ‘Faça para nós deuses que nos conduzam, pois a esse Moisés que nos tirou do Egito, não sabemos o que lhe aconteceu! ’"
-        },
-        {
-          "n": 56,
-          "text": "[7.41] Naquela ocasião fizeram um ídolo em forma de bezerro. Trouxeram-lhe sacrifícios e fizeram uma celebração em honra ao que suas mãos tinham feito."
-        },
-        {
-          "n": 57,
-          "text": "[7.42] Mas Deus afastou-se deles e os entregou à adoração dos astros, conforme o que foi escrito no livro dos profetas: ‘Foi a mim que vocês apresentaram sacrifícios e ofertas durante os quarenta anos no deserto, Ó nação de Israel?"
-        },
-        {
-          "n": 58,
-          "text": "[7.43] Ao invés disso, levantaram o santuário de Moloque e a estrela do seu deus Renfã, ídolos que vocês fizeram para adorar! Portanto, eu os enviarei para o exílio, para além da Babilônia’."
-        },
-        {
-          "n": 59,
-          "text": "[7.44] \"No deserto os nossos antepassados tinham o tabernáculo da aliança, que fora feito segundo a ordem de Deus a Moisés, de acordo com o modelo que ele tinha visto."
-        },
-        {
-          "n": 60,
-          "text": "[7.45] Tendo recebido o tabernáculo, nossos antepassados o levaram, sob a liderança de Josué, quando tomaram a terra das nações que Deus expulsou de diante deles. Esse tabernáculo permaneceu na terra até a época de Davi,"
-        },
-        {
-          "n": 61,
-          "text": "[7.46] que encontrou graça diante de Deus e pediu que ele lhe permitisse providenciar uma habitação para o Deus de Jacó."
-        },
-        {
-          "n": 62,
-          "text": "[7.47] Mas foi Salomão quem lhe construiu a casa."
-        },
-        {
-          "n": 63,
-          "text": "[7.48] \"Todavia, o Altíssimo não habita em casas feitas por homens. Como diz o profeta:"
-        },
-        {
-          "n": 64,
-          "text": "[7.49] ‘O céu é o meu trono, e a terra, o estrado dos meus pés. Que espécie de casa vocês me edificarão? diz o Senhor, ou onde seria meu lugar de descanso?"
-        },
-        {
-          "n": 65,
-          "text": "[7.50] Não foram as minhas mãos que fizeram todas estas coisas? ’"
-        },
-        {
-          "n": 66,
-          "text": "[7.51] \"Povo rebelde, obstinado de coração e de ouvidos! Vocês são iguais aos seus antepassados: sempre resistem ao Espírito Santo!"
-        },
-        {
-          "n": 67,
-          "text": "[7.52] Qual dos profetas os seus antepassados não perseguiram? Eles mataram aqueles que prediziam a vinda do Justo, de quem agora vocês se tornaram traidores e assassinos —"
-        },
-        {
-          "n": 68,
-          "text": "[7.53] vocês, que receberam a Lei por intermédio de anjos, mas não lhe obedeceram\"."
-        },
-        {
-          "n": 69,
-          "text": "[7.54] Ouvindo isso, ficavam furiosos e rangiam os dentes contra ele."
-        },
-        {
-          "n": 70,
-          "text": "[7.55] Mas Estêvão, cheio do Espírito Santo, levantou os olhos para o céu e viu a glória de Deus, e Jesus de pé, à direita de Deus,"
-        },
-        {
-          "n": 71,
-          "text": "[7.56] e disse: \"Vejo o céu aberto e o Filho do homem de pé, à direita de Deus\"."
-        },
-        {
-          "n": 72,
-          "text": "[7.57] Mas eles taparam os ouvidos e, gritando bem alto, lançaram-se todos juntos contra ele,"
-        },
-        {
-          "n": 73,
-          "text": "[7.58] arrastaram-no para fora da cidade e começaram a apedrejá-lo. As testemunhas deixaram seus mantos aos pés de um jovem chamado Saulo."
-        },
-        {
-          "n": 74,
-          "text": "[7.59] Enquanto apedrejavam Estêvão, este orava: \"Senhor Jesus, recebe o meu espírito\"."
-        },
-        {
-          "n": 75,
-          "text": "[7.60] Então caiu de joelhos e bradou: \"Senhor, não os consideres culpados deste pecado\". E, dizendo isso, adormeceu."
         }
       ]
     },
     "meditation": [
       "O primeiro chamado de Estêvão é servir mesas. Atos não opõe serviço concreto e profundidade espiritual; sabedoria, Espírito e cuidado material pertencem à mesma vocação.",
+      "A queixa das viúvas não é abafada. Os apóstolos escutam, a comunidade escolhe e o problema é tratado — e o texto diz que a palavra de Deus se espalhava (6.7). Cuidar bem de quem está à margem não atrasa a missão; faz parte dela.",
+      "Estêvão começa sua defesa lembrando que o Deus glorioso apareceu a Abraão fora da terra prometida e esteve com José no Egito. Antes de haver templo, Deus já estava presente com seu povo — inclusive nos lugares de exílio e injustiça."
+    ],
+    "questions": [
+      "Você enxerga tarefas de cuidado como espaço de serviço espiritual?",
+      "Há alguém na sua comunidade cuja necessidade tem sido esquecida, como a das viúvas em Atos 6?",
+      "Em que situação você precisa lembrar que Deus estava com José mesmo quando ele foi vendido e esquecido?"
+    ],
+    "application": "Assuma nesta semana uma tarefa simples e pouco visível que alivie a carga de alguém.",
+    "prayer": "Senhor, dá-me um coração cheio do teu Espírito e de sabedoria para servir. Que eu não despreze as tarefas simples e reconheça que tu estás comigo onde quer que eu esteja. Amém."
+  },
+  {
+    "theme": "Jerusalém · Estêvão vê a glória",
+    "date": "Atos 7.17–60",
+    "verse": {
+      "text": "Vejo o céu aberto e o Filho do homem de pé, à direita de Deus.",
+      "ref": "Atos 7.56"
+    },
+    "word": {
+      "original": "μαρτυρία",
+      "translit": "martyría",
+      "lang": "grego",
+      "meaning": "testemunho",
+      "note": "O substantivo descreve o ato de testemunhar; a história de Estêvão ajuda a explicar por que a família de palavras passou a carregar a ideia de martírio. Seu testemunho não é procura de sofrimento, mas fidelidade a Cristo até onde o custo chega."
+    },
+    "context": "Estêvão continua relendo a história de Israel: Moisés, enviado como libertador, é rejeitado pelo próprio povo; o tabernáculo e o templo são lembrados, mas \"o Altíssimo não habita em casas feitas por homens\". Ele conclui acusando seus ouvintes de resistirem ao Espírito como os antepassados. Enfurecidos, eles o apedrejam, enquanto Estêvão vê a glória de Deus e ora por eles.",
+    "passage": {
+      "ref": "Atos 7.17-60",
+      "verses": [
+        {
+          "n": 17,
+          "text": "\"Ao se aproximar o tempo em que Deus cumpriria sua promessa a Abraão, aumentou muito o número do nosso povo no Egito."
+        },
+        {
+          "n": 18,
+          "text": "Então outro rei, que nada sabia a respeito de José, passou a governar o Egito."
+        },
+        {
+          "n": 19,
+          "text": "Ele agiu traiçoeiramente para com o nosso povo e oprimiu os nossos antepassados, obrigando-os a abandonar os seus recém-nascidos, para que não sobrevivessem."
+        },
+        {
+          "n": 20,
+          "text": "\"Naquele tempo nasceu Moisés, que era um menino extraordinário. Por três meses ele foi criado na casa de seu pai."
+        },
+        {
+          "n": 21,
+          "text": "Quando foi abandonado, a filha do faraó o tomou e o criou como seu próprio filho."
+        },
+        {
+          "n": 22,
+          "text": "Moisés foi educado em toda a sabedoria dos egípcios e veio a ser poderoso em palavras e obras."
+        },
+        {
+          "n": 23,
+          "text": "\"Ao completar quarenta anos, Moisés decidiu visitar seus irmãos israelitas."
+        },
+        {
+          "n": 24,
+          "text": "Ao ver um deles sendo maltratado por um egípcio, saiu em defesa do oprimido e o vingou, matando o egípcio."
+        },
+        {
+          "n": 25,
+          "text": "Ele pensava que seus irmãos compreenderiam que Deus o estava usando para salvá-los, mas eles não o compreenderam."
+        },
+        {
+          "n": 26,
+          "text": "No dia seguinte, Moisés dirigiu-se a dois israelitas que estavam brigando, e tentou reconciliá-los, dizendo: ‘Homens, vocês são irmãos; por que ferem um ao outro? ’"
+        },
+        {
+          "n": 27,
+          "text": "\"Mas o homem que maltratava o outro empurrou Moisés e disse: ‘Quem o nomeou líder e juiz sobre nós?"
+        },
+        {
+          "n": 28,
+          "text": "Quer matar-me como matou o egípcio ontem? ’"
+        },
+        {
+          "n": 29,
+          "text": "Ouvindo isso, Moisés fugiu para Midiã, onde ficou morando como estrangeiro e teve dois filhos."
+        },
+        {
+          "n": 30,
+          "text": "\"Passados quarenta anos, apareceu a Moisés um anjo nas labaredas de uma sarça em chamas no deserto, perto do monte Sinai."
+        },
+        {
+          "n": 31,
+          "text": "Vendo aquilo, ficou atônito. E, aproximando-se para observar, ouviu a voz do Senhor:"
+        },
+        {
+          "n": 32,
+          "text": "‘Eu sou o Deus dos seus antepassados, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó’. Moisés, tremendo de medo, não ousava olhar."
+        },
+        {
+          "n": 33,
+          "text": "\"Então o Senhor lhe disse: ‘Tire as sandálias dos pés, porque o lugar em que você está é terra santa."
+        },
+        {
+          "n": 34,
+          "text": "De fato tenho visto a opressão sobre o meu povo no Egito. Ouvi seus gemidos e desci para livrá-lo. Venha agora, e eu o enviarei de volta ao Egito’."
+        },
+        {
+          "n": 35,
+          "text": "\"Este é o mesmo Moisés que tinham rejeitado com estas palavras: ‘Quem o nomeou líder e juiz? ’ Ele foi enviado pelo próprio Deus para ser líder e libertador deles, por meio do anjo que lhe tinha aparecido na sarça."
+        },
+        {
+          "n": 36,
+          "text": "Ele os tirou de lá, fazendo maravilhas e sinais no Egito, no mar Vermelho e no deserto durante quarenta anos."
+        },
+        {
+          "n": 37,
+          "text": "\"Este é aquele Moisés que disse aos israelitas: ‘Deus lhes levantará dentre seus irmãos um profeta como eu’."
+        },
+        {
+          "n": 38,
+          "text": "Ele estava na congregação, no deserto, com o anjo que lhe falava no monte Sinai e com os nossos antepassados, e recebeu palavras vivas, para transmiti-las a nós."
+        },
+        {
+          "n": 39,
+          "text": "\"Mas nossos antepassados se recusaram a obedecer-lhe; pelo contrário, rejeitaram-no, e em seus corações voltaram para o Egito."
+        },
+        {
+          "n": 40,
+          "text": "Disseram a Arão: ‘Faça para nós deuses que nos conduzam, pois a esse Moisés que nos tirou do Egito, não sabemos o que lhe aconteceu! ’"
+        },
+        {
+          "n": 41,
+          "text": "Naquela ocasião fizeram um ídolo em forma de bezerro. Trouxeram-lhe sacrifícios e fizeram uma celebração em honra ao que suas mãos tinham feito."
+        },
+        {
+          "n": 42,
+          "text": "Mas Deus afastou-se deles e os entregou à adoração dos astros, conforme o que foi escrito no livro dos profetas: ‘Foi a mim que vocês apresentaram sacrifícios e ofertas durante os quarenta anos no deserto, Ó nação de Israel?"
+        },
+        {
+          "n": 43,
+          "text": "Ao invés disso, levantaram o santuário de Moloque e a estrela do seu deus Renfã, ídolos que vocês fizeram para adorar! Portanto, eu os enviarei para o exílio, para além da Babilônia’."
+        },
+        {
+          "n": 44,
+          "text": "\"No deserto os nossos antepassados tinham o tabernáculo da aliança, que fora feito segundo a ordem de Deus a Moisés, de acordo com o modelo que ele tinha visto."
+        },
+        {
+          "n": 45,
+          "text": "Tendo recebido o tabernáculo, nossos antepassados o levaram, sob a liderança de Josué, quando tomaram a terra das nações que Deus expulsou de diante deles. Esse tabernáculo permaneceu na terra até a época de Davi,"
+        },
+        {
+          "n": 46,
+          "text": "que encontrou graça diante de Deus e pediu que ele lhe permitisse providenciar uma habitação para o Deus de Jacó."
+        },
+        {
+          "n": 47,
+          "text": "Mas foi Salomão quem lhe construiu a casa."
+        },
+        {
+          "n": 48,
+          "text": "\"Todavia, o Altíssimo não habita em casas feitas por homens. Como diz o profeta:"
+        },
+        {
+          "n": 49,
+          "text": "‘O céu é o meu trono, e a terra, o estrado dos meus pés. Que espécie de casa vocês me edificarão? diz o Senhor, ou onde seria meu lugar de descanso?"
+        },
+        {
+          "n": 50,
+          "text": "Não foram as minhas mãos que fizeram todas estas coisas? ’"
+        },
+        {
+          "n": 51,
+          "text": "\"Povo rebelde, obstinado de coração e de ouvidos! Vocês são iguais aos seus antepassados: sempre resistem ao Espírito Santo!"
+        },
+        {
+          "n": 52,
+          "text": "Qual dos profetas os seus antepassados não perseguiram? Eles mataram aqueles que prediziam a vinda do Justo, de quem agora vocês se tornaram traidores e assassinos —"
+        },
+        {
+          "n": 53,
+          "text": "vocês, que receberam a Lei por intermédio de anjos, mas não lhe obedeceram\"."
+        },
+        {
+          "n": 54,
+          "text": "Ouvindo isso, ficavam furiosos e rangiam os dentes contra ele."
+        },
+        {
+          "n": 55,
+          "text": "Mas Estêvão, cheio do Espírito Santo, levantou os olhos para o céu e viu a glória de Deus, e Jesus de pé, à direita de Deus,"
+        },
+        {
+          "n": 56,
+          "text": "e disse: \"Vejo o céu aberto e o Filho do homem de pé, à direita de Deus\"."
+        },
+        {
+          "n": 57,
+          "text": "Mas eles taparam os ouvidos e, gritando bem alto, lançaram-se todos juntos contra ele,"
+        },
+        {
+          "n": 58,
+          "text": "arrastaram-no para fora da cidade e começaram a apedrejá-lo. As testemunhas deixaram seus mantos aos pés de um jovem chamado Saulo."
+        },
+        {
+          "n": 59,
+          "text": "Enquanto apedrejavam Estêvão, este orava: \"Senhor Jesus, recebe o meu espírito\"."
+        },
+        {
+          "n": 60,
+          "text": "Então caiu de joelhos e bradou: \"Senhor, não os consideres culpados deste pecado\". E, dizendo isso, adormeceu."
+        }
+      ]
+    },
+    "meditation": [
+      "Estêvão mostra um padrão: Deus envia libertadores, e o povo os rejeita — José, Moisés, os profetas e, por fim, o Justo. Ele não fala de fora; fala como alguém que ama aquela história e chora sua repetição.",
       "No momento de violência, Estêvão vê Cristo em pé. A visão não torna a morte leve, mas impede que os acusadores definam a realidade final. O céu não está indiferente ao sofrimento de seus servos.",
       "Suas últimas palavras ecoam as de Jesus na cruz: entrega e perdão. O evangelho não apenas informa Estêvão; conforma sua resposta quando o custo é máximo."
     ],
     "questions": [
-      "Você enxerga tarefas de cuidado como espaço de serviço espiritual?",
+      "Em que área você tem resistido ao Espírito, mesmo cercado de linguagem religiosa?",
       "Que situação dolorosa precisa ser vista à luz da glória de Cristo, não apenas de sua ameaça?",
       "Há alguém por quem você precisa pedir perdão e bem, mesmo sem minimizar o mal feito?"
     ],
-    "application": "Assuma nesta semana uma tarefa simples e pouco visível que alivie a carga de alguém.",
+    "application": "Ore hoje pelo nome de alguém que feriu você, pedindo a Deus o bem dessa pessoa sem negar o mal que ela causou.",
     "prayer": "Cristo exaltado, sustenta-me quando a fidelidade custa. Dá-me olhos para tua glória e um coração que não reproduza a violência que recebe. Amém."
   },
   {
@@ -1519,7 +1552,7 @@ window.ATOS_1 = [
   },
   {
     "theme": "Judeia e Samaria · Deus não faz acepção",
-    "date": "Atos 10–11",
+    "date": "Atos 10",
     "verse": {
       "text": "Agora percebo verdadeiramente que Deus não trata as pessoas com parcialidade.",
       "ref": "Atos 10.34"
@@ -1531,9 +1564,9 @@ window.ATOS_1 = [
       "meaning": "quem mostra favoritismo",
       "note": "Literalmente, alguém que 'recebe o rosto': julga pela aparência, origem ou posição. Pedro aprende que Deus não distribui sua graça segundo as fronteiras de pureza social que ele havia aprendido a proteger."
     },
-    "context": "Cornélio, oficial romano e temente a Deus, recebe uma visão; Pedro recebe outra que desafia suas categorias alimentares e étnicas. O encontro em Cesareia evidencia que o Espírito é derramado sobre gentios. Em Jerusalém, Pedro precisa explicar por que entrou numa casa considerada imprópria.",
+    "context": "Cornélio, oficial romano e temente a Deus, recebe uma visão; Pedro recebe outra que desafia suas categorias alimentares e étnicas. Pedro vai a Cesareia, entra na casa de um gentio e anuncia Jesus. Enquanto ele ainda fala, o Espírito é derramado sobre os que ouvem, e eles são batizados.",
     "passage": {
-      "ref": "Atos 10-11",
+      "ref": "Atos 10 · capítulo completo (NVI)",
       "verses": [
         {
           "n": 1,
@@ -1726,126 +1759,6 @@ window.ATOS_1 = [
         {
           "n": 48,
           "text": "Então ordenou que fossem batizados em nome de Jesus Cristo. Depois pediram a Pedro que ficasse com eles alguns dias."
-        },
-        {
-          "n": 49,
-          "text": "[At 11.1] Os apóstolos e os irmãos de toda a Judéia ouviram falar que os gentios também haviam recebido a palavra de Deus."
-        },
-        {
-          "n": 50,
-          "text": "[11.2] Assim, quando Pedro subiu a Jerusalém, os que eram do partido dos circuncisos o criticavam, dizendo:"
-        },
-        {
-          "n": 51,
-          "text": "[11.3] \"Você entrou na casa de homens incircuncisos e comeu com eles\"."
-        },
-        {
-          "n": 52,
-          "text": "[11.4] Pedro, então, começou a explicar-lhes exatamente como tudo havia acontecido:"
-        },
-        {
-          "n": 53,
-          "text": "[11.5] \"Eu estava na cidade de Jope orando; caindo em êxtase, tive uma visão. Vi algo parecido com um grande lençol sendo baixado do céu, preso pelas quatro pontas, e que vinha até o lugar onde eu estava."
-        },
-        {
-          "n": 54,
-          "text": "[11.6] Olhei para dentro dele e notei que havia ali quadrúpedes da terra, animais selvagens, répteis e aves do céu."
-        },
-        {
-          "n": 55,
-          "text": "[11.7] Então ouvi uma voz que me dizia: ‘Levante-se, Pedro; mate e coma’."
-        },
-        {
-          "n": 56,
-          "text": "[11.8] \"Eu respondi: De modo nenhum, Senhor! Nunca entrou em minha boca algo impuro ou imundo."
-        },
-        {
-          "n": 57,
-          "text": "[11.9] \"A voz falou do céu segunda vez: ‘Não chame impuro ao que Deus purificou’."
-        },
-        {
-          "n": 58,
-          "text": "[11.10] Isso aconteceu três vezes, e então tudo foi recolhido ao céu."
-        },
-        {
-          "n": 59,
-          "text": "[11.11] \"Na mesma hora chegaram à casa em que eu estava hospedado três homens que me haviam sido enviados de Cesaréia."
-        },
-        {
-          "n": 60,
-          "text": "[11.12] O Espírito me disse que não hesitasse em ir com eles. Estes seis irmãos também foram comigo, e entramos na casa de um certo homem."
-        },
-        {
-          "n": 61,
-          "text": "[11.13] Ele nos contou como um anjo lhe tinha aparecido em sua casa e dissera: ‘Mande buscar, em Jope, a Simão, chamado Pedro."
-        },
-        {
-          "n": 62,
-          "text": "[11.14] Ele lhe trará uma mensagem por meio da qual serão salvos você e todos os da sua casa’."
-        },
-        {
-          "n": 63,
-          "text": "[11.15] \"Quando comecei a falar, o Espírito Santo desceu sobre eles como sobre nós no princípio."
-        },
-        {
-          "n": 64,
-          "text": "[11.16] Então me lembrei do que o Senhor tinha dito: ‘João batizou com água, mas vocês serão batizados com o Espírito Santo’."
-        },
-        {
-          "n": 65,
-          "text": "[11.17] Se, pois, Deus lhes deu o mesmo dom que nos dera quando cremos no Senhor Jesus Cristo, quem era eu para pensar em opor-me a Deus? \""
-        },
-        {
-          "n": 66,
-          "text": "[11.18] Ouvindo isso, não apresentaram mais objeções e louvaram a Deus, dizendo: \"Então, Deus concedeu arrependimento para a vida até mesmo aos gentios! \""
-        },
-        {
-          "n": 67,
-          "text": "[11.19] Os que tinham sido dispersos por causa da perseguição desencadeada com a morte de Estêvão chegaram até à Fenícia, Chipre e Antioquia, anunciando a mensagem apenas aos judeus."
-        },
-        {
-          "n": 68,
-          "text": "[11.20] Alguns deles, todavia, cipriotas e cireneus, foram a Antioquia e começaram a falar também aos gregos, contando-lhes as boas novas a respeito do Senhor Jesus."
-        },
-        {
-          "n": 69,
-          "text": "[11.21] A mão do Senhor estava com eles, e muitos creram e se converteram ao Senhor."
-        },
-        {
-          "n": 70,
-          "text": "[11.22] Notícias desse fato chegaram aos ouvidos da igreja em Jerusalém, e eles enviaram Barnabé a Antioquia."
-        },
-        {
-          "n": 71,
-          "text": "[11.23] Este, ali chegando e vendo a graça de Deus, ficou alegre e os animou a permanecerem fiéis ao Senhor, de todo o coração."
-        },
-        {
-          "n": 72,
-          "text": "[11.24] Ele era um homem bom, cheio do Espírito Santo e de fé; e muitas pessoas foram acrescentadas ao Senhor."
-        },
-        {
-          "n": 73,
-          "text": "[11.25] Então Barnabé foi a Tarso procurar Saulo"
-        },
-        {
-          "n": 74,
-          "text": "[11.26] e, quando o encontrou, levou-o para Antioquia. Assim, durante um ano inteiro Barnabé e Saulo se reuniram com a igreja e ensinaram a muitos. Em Antioquia, os discípulos foram pela primeira vez chamados cristãos."
-        },
-        {
-          "n": 75,
-          "text": "[11.27] Naqueles dias alguns profetas desceram de Jerusalém para Antioquia."
-        },
-        {
-          "n": 76,
-          "text": "[11.28] Um deles, Ágabo, levantou-se e pelo Espírito predisse que uma grande fome sobreviria a todo o mundo romano, o que aconteceu durante o reinado de Cláudio."
-        },
-        {
-          "n": 77,
-          "text": "[11.29] Os discípulos, cada um segundo as suas possibilidades, decidiram providenciar ajuda para os irmãos que viviam na Judéia."
-        },
-        {
-          "n": 78,
-          "text": "[11.30] E o fizeram, enviando suas ofertas aos presbíteros pelas mãos de Barnabé e Saulo."
         }
       ]
     },
@@ -1857,9 +1770,162 @@ window.ATOS_1 = [
     "questions": [
       "Que categorias sociais, políticas ou religiosas fazem você chamar pessoas de 'impróprias' sem perceber?",
       "Onde Deus pode já estar agindo antes de sua chegada?",
-      "Que conversa difícil sua comunidade precisa ter para ampliar a mesa sem diluir o evangelho?"
+      "Que hábito ou costume seu Deus pode estar usando para tratar algo mais profundo no seu olhar sobre as pessoas?"
     ],
     "application": "Busque ouvir hoje uma história de vida de alguém fora do seu círculo, fazendo perguntas sem tentar corrigir ou responder depressa.",
     "prayer": "Deus sem parcialidade, purifica meu olhar. Leva-me a reconhecer teu Espírito onde minhas categorias não esperavam encontrá-lo. Amém."
+  },
+  {
+    "theme": "Judeia e Samaria · A graça que alegra Antioquia",
+    "date": "Atos 11",
+    "verse": {
+      "text": "Então, Deus concedeu arrependimento para a vida até mesmo aos gentios!",
+      "ref": "Atos 11.18"
+    },
+    "word": {
+      "original": "παρακαλέω",
+      "translit": "parakaléō",
+      "lang": "grego",
+      "meaning": "encorajar, exortar, consolar",
+      "note": "É o verbo usado quando Barnabé chega a Antioquia e \"os animou a permanecerem fiéis ao Senhor\" (11.23). Combina com o nome que os apóstolos lhe deram: Barnabé, \"que significa encorajador\" (4.36). Sua presença fortalecia a fé dos outros."
+    },
+    "context": "Em Jerusalém, Pedro precisa explicar por que entrou numa casa considerada imprópria. Ele narra o que viu, e a crítica dá lugar ao louvor. Enquanto isso, discípulos dispersos pela perseguição anunciam Jesus também a gregos em Antioquia. Barnabé é enviado, alegra-se com a graça de Deus e busca Saulo; ali os discípulos são chamados cristãos pela primeira vez e enviam ajuda aos irmãos da Judeia na fome.",
+    "passage": {
+      "ref": "Atos 11 · capítulo completo (NVI)",
+      "verses": [
+        {
+          "n": 1,
+          "text": "Os apóstolos e os irmãos de toda a Judéia ouviram falar que os gentios também haviam recebido a palavra de Deus."
+        },
+        {
+          "n": 2,
+          "text": "Assim, quando Pedro subiu a Jerusalém, os que eram do partido dos circuncisos o criticavam, dizendo:"
+        },
+        {
+          "n": 3,
+          "text": "\"Você entrou na casa de homens incircuncisos e comeu com eles\"."
+        },
+        {
+          "n": 4,
+          "text": "Pedro, então, começou a explicar-lhes exatamente como tudo havia acontecido:"
+        },
+        {
+          "n": 5,
+          "text": "\"Eu estava na cidade de Jope orando; caindo em êxtase, tive uma visão. Vi algo parecido com um grande lençol sendo baixado do céu, preso pelas quatro pontas, e que vinha até o lugar onde eu estava."
+        },
+        {
+          "n": 6,
+          "text": "Olhei para dentro dele e notei que havia ali quadrúpedes da terra, animais selvagens, répteis e aves do céu."
+        },
+        {
+          "n": 7,
+          "text": "Então ouvi uma voz que me dizia: ‘Levante-se, Pedro; mate e coma’."
+        },
+        {
+          "n": 8,
+          "text": "\"Eu respondi: De modo nenhum, Senhor! Nunca entrou em minha boca algo impuro ou imundo."
+        },
+        {
+          "n": 9,
+          "text": "\"A voz falou do céu segunda vez: ‘Não chame impuro ao que Deus purificou’."
+        },
+        {
+          "n": 10,
+          "text": "Isso aconteceu três vezes, e então tudo foi recolhido ao céu."
+        },
+        {
+          "n": 11,
+          "text": "\"Na mesma hora chegaram à casa em que eu estava hospedado três homens que me haviam sido enviados de Cesaréia."
+        },
+        {
+          "n": 12,
+          "text": "O Espírito me disse que não hesitasse em ir com eles. Estes seis irmãos também foram comigo, e entramos na casa de um certo homem."
+        },
+        {
+          "n": 13,
+          "text": "Ele nos contou como um anjo lhe tinha aparecido em sua casa e dissera: ‘Mande buscar, em Jope, a Simão, chamado Pedro."
+        },
+        {
+          "n": 14,
+          "text": "Ele lhe trará uma mensagem por meio da qual serão salvos você e todos os da sua casa’."
+        },
+        {
+          "n": 15,
+          "text": "\"Quando comecei a falar, o Espírito Santo desceu sobre eles como sobre nós no princípio."
+        },
+        {
+          "n": 16,
+          "text": "Então me lembrei do que o Senhor tinha dito: ‘João batizou com água, mas vocês serão batizados com o Espírito Santo’."
+        },
+        {
+          "n": 17,
+          "text": "Se, pois, Deus lhes deu o mesmo dom que nos dera quando cremos no Senhor Jesus Cristo, quem era eu para pensar em opor-me a Deus? \""
+        },
+        {
+          "n": 18,
+          "text": "Ouvindo isso, não apresentaram mais objeções e louvaram a Deus, dizendo: \"Então, Deus concedeu arrependimento para a vida até mesmo aos gentios! \""
+        },
+        {
+          "n": 19,
+          "text": "Os que tinham sido dispersos por causa da perseguição desencadeada com a morte de Estêvão chegaram até à Fenícia, Chipre e Antioquia, anunciando a mensagem apenas aos judeus."
+        },
+        {
+          "n": 20,
+          "text": "Alguns deles, todavia, cipriotas e cireneus, foram a Antioquia e começaram a falar também aos gregos, contando-lhes as boas novas a respeito do Senhor Jesus."
+        },
+        {
+          "n": 21,
+          "text": "A mão do Senhor estava com eles, e muitos creram e se converteram ao Senhor."
+        },
+        {
+          "n": 22,
+          "text": "Notícias desse fato chegaram aos ouvidos da igreja em Jerusalém, e eles enviaram Barnabé a Antioquia."
+        },
+        {
+          "n": 23,
+          "text": "Este, ali chegando e vendo a graça de Deus, ficou alegre e os animou a permanecerem fiéis ao Senhor, de todo o coração."
+        },
+        {
+          "n": 24,
+          "text": "Ele era um homem bom, cheio do Espírito Santo e de fé; e muitas pessoas foram acrescentadas ao Senhor."
+        },
+        {
+          "n": 25,
+          "text": "Então Barnabé foi a Tarso procurar Saulo"
+        },
+        {
+          "n": 26,
+          "text": "e, quando o encontrou, levou-o para Antioquia. Assim, durante um ano inteiro Barnabé e Saulo se reuniram com a igreja e ensinaram a muitos. Em Antioquia, os discípulos foram pela primeira vez chamados cristãos."
+        },
+        {
+          "n": 27,
+          "text": "Naqueles dias alguns profetas desceram de Jerusalém para Antioquia."
+        },
+        {
+          "n": 28,
+          "text": "Um deles, Ágabo, levantou-se e pelo Espírito predisse que uma grande fome sobreviria a todo o mundo romano, o que aconteceu durante o reinado de Cláudio."
+        },
+        {
+          "n": 29,
+          "text": "Os discípulos, cada um segundo as suas possibilidades, decidiram providenciar ajuda para os irmãos que viviam na Judéia."
+        },
+        {
+          "n": 30,
+          "text": "E o fizeram, enviando suas ofertas aos presbíteros pelas mãos de Barnabé e Saulo."
+        }
+      ]
+    },
+    "meditation": [
+      "Pedro não responde à crítica com defesa irritada; ele conta, em ordem, o que Deus fez. E termina com uma pergunta humilde: \"quem era eu para pensar em opor-me a Deus?\". A igreja escuta, se cala e louva.",
+      "Barnabé chega a Antioquia e, antes de qualquer avaliação, \"vê a graça de Deus\" e se alegra. Há líderes que procuram primeiro o que está errado; Barnabé procura primeiro o que Deus está fazendo — e então encoraja.",
+      "A igreja que recebeu o evangelho por meio de anônimos dispersos se torna generosa: cada um, segundo suas possibilidades, envia ajuda à Judeia. A graça recebida se transforma em cuidado concreto por irmãos distantes."
+    ],
+    "questions": [
+      "Que conversa difícil sua comunidade precisa ter para ampliar a mesa sem diluir o evangelho?",
+      "Você costuma enxergar primeiro a graça de Deus nas pessoas ou primeiro seus defeitos?",
+      "Como sua generosidade, segundo suas possibilidades, pode alcançar irmãos que você nem conhece?"
+    ],
+    "application": "Seja hoje um \"Barnabé\" para alguém: diga a uma pessoa, de forma concreta, onde você vê a graça de Deus agindo na vida dela.",
+    "prayer": "Senhor, dá-me olhos para ver a tua graça antes dos defeitos dos outros. Que eu não me oponha à tua obra, mas me alegre com ela e encoraje quem está começando. Amém."
   }
 ];
