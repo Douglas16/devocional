@@ -32,7 +32,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Você consegue adorar a Deus em um momento de devastação, sem exigir explicações primeiro?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, diante de alguma perda ou frustração recente, escolha hoje louvar a Deus antes de exigir uma explicação para ela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tu és digno de louvor mesmo quando eu não entendo teus caminhos. Sustenta minha fé quando tudo parecer estar sendo tirado de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tu és digno de louvor mesmo quando eu não entendo teus caminhos. Sustenta minha fé quando tudo parecer estar sendo tirado de mim. Amém.",
     "passage": {
       "ref": "Jó 1 · capítulo completo (NVI)",
       "verses": [
@@ -154,7 +154,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Você consegue aceitar de Deus tanto o bem quanto as dificuldades, sem que sua fé dependa só do primeiro?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, visite ou ligue para alguém que sofre e pratique apenas presença silenciosa, sem tentar explicar ou resolver a dor dela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. ensina-me a aceitar de tuas mãos tanto os dias bons quanto os difíceis. Torna-me alguém que sabe simplesmente estar ao lado de quem sofre. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Ensina-me a aceitar de tuas mãos tanto os dias bons quanto os difíceis. Torna-me alguém que sabe simplesmente estar ao lado de quem sofre. Amém.",
     "passage": {
       "ref": "Jó 2 · capítulo completo (NVI)",
       "verses": [
@@ -240,7 +240,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: O que impede você de ser tão honesto quanto Jó sobre sua própria dor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje, sem filtros, uma oração honesta sobre a dor que você tem escondido até de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. recebo que posso trazer diante de ti até meu desespero mais cru. Não me deixes só nas noites em que a vida pesa mais que a morte. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Recebo que posso trazer diante de ti até meu desespero mais cru. Não me deixes só nas noites em que a vida pesa mais que a morte. Amém.",
     "passage": {
       "ref": "Jó 3 · capítulo completo (NVI)",
       "verses": [
@@ -378,7 +378,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Como você distingue entre lembrar alguém de sua fragilidade diante de Deus de forma que humilha com compaixão, e fazer isso de forma que acusa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de lembrar alguém hoje de sua fragilidade ou de possíveis falhas, pergunte-se: essa lembrança nasce de compaixão ou da necessidade de explicar o sofrimento dela?",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. guarda-me de disfarçar acusação de consolo. Ensina-me a lembrar minha própria fragilidade diante de ti antes de apontar a de qualquer outra pessoa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Guarda-me de disfarçar acusação de consolo. Ensina-me a lembrar minha própria fragilidade diante de ti antes de apontar a de qualquer outra pessoa. Amém.",
     "passage": {
       "ref": "Jó 4 · capítulo completo (NVI)",
       "verses": [
@@ -496,7 +496,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Você consegue aceitar a disciplina de Deus como bênção, sem que isso signifique aceitar toda explicação humana para sua dor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita hoje sobre uma área da sua vida em que reconhece disciplina genuína de Deus — e agradeça por ela, sem estender essa mesma explicação a todo sofrimento que você vive ou observa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. ensina-me a receber tua disciplina como bênção, e dá-me discernimento para saber quando é isso, de fato, o que estás fazendo em mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Ensina-me a receber tua disciplina como bênção, e dá-me discernimento para saber quando é isso, de fato, o que estás fazendo em mim. Amém.",
     "passage": {
       "ref": "Jó 5 · capítulo completo (NVI)",
       "verses": [
@@ -638,7 +638,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Como você reagiria se um amigo, como Jó, dissesse abertamente que suas palavras de 'consolo' estão, na verdade, ferindo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, se você tem sido um 'ribeiro seco' para alguém que sofre, procure essa pessoa hoje e ofereça presença real, não julgamento.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. torna-me alguém que oferece chesed de verdade a quem sofre, e não conselhos que secam justamente quando mais são necessários. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Torna-me alguém que oferece chesed de verdade a quem sofre, e não conselhos que secam justamente quando mais são necessários. Amém.",
     "passage": {
       "ref": "Jó 6 · capítulo completo (NVI)",
       "verses": [
@@ -792,7 +792,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Você permite que sua oração inclua protesto honesto, e não apenas pedidos educados?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, em vez de suavizar sua oração, traga a Deus uma pergunta honesta e sem filtro sobre o peso que você está carregando.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. minha angústia é pesada demais para carregar sozinho. Recebe meu protesto honesto como parte da minha oração, e não me abandones. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Minha angústia é pesada demais para carregar sozinho. Recebe meu protesto honesto como parte da minha oração, e não me abandones. Amém.",
     "passage": {
       "ref": "Jó 7 · capítulo completo (NVI)",
       "verses": [
@@ -910,7 +910,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Que 'fórmulas' espirituais prontas você tem aplicado à sua própria vida que talvez não caibam na sua situação real?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de citar uma verdade bíblica geral para alguém que sofre hoje, pergunte-se se ela realmente se aplica à situação específica dessa pessoa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. dá-me sabedoria para honrar o que aprendi sem transformar verdades em armas contra quem sofre. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Dá-me sabedoria para honrar o que aprendi sem transformar verdades em armas contra quem sofre. Amém.",
     "passage": {
       "ref": "Jó 8 · capítulo completo (NVI)",
       "verses": [
@@ -1032,7 +1032,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Você consegue admirar a grandeza de Deus e, ao mesmo tempo, trazer a ele suas perguntas mais amargas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje agradecendo especificamente por Jesus como o mediador que Jó ansiava e não tinha.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. obrigado por Cristo, o mediador que aproxima minha fragilidade da tua grandeza. Recebe minhas perguntas mais difíceis através dele. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Obrigado por Cristo, o mediador que aproxima minha fragilidade da tua grandeza. Recebe minhas perguntas mais difíceis através dele. Amém.",
     "passage": {
       "ref": "Jó 9 · capítulo completo (NVI)",
       "verses": [
@@ -1206,7 +1206,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: O que sustenta sua esperança diante da morte, além do desejo natural de mais 'um pouco de paz'?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, em oração, traga a Deus honestamente qualquer sentimento de contradição entre o cuidado com que ele te formou e a dificuldade que você atravessa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tuas mãos me formaram com cuidado; ajuda-me a confiar nesse mesmo cuidado mesmo quando não entendo teus caminhos atuais. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tuas mãos me formaram com cuidado; ajuda-me a confiar nesse mesmo cuidado mesmo quando não entendo teus caminhos atuais. Amém.",
     "passage": {
       "ref": "Jó 10 · capítulo completo (NVI)",
       "verses": [
@@ -1328,7 +1328,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Zofar fala com dureza disfarçada de zelo espiritual — você já fez isso, ou já foi vítima disso?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de corrigir alguém espiritualmente hoje, pergunte-se se você realmente ouviu toda a história dela primeiro.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. teus caminhos são insondáveis demais para que eu julgue os sofrimentos alheios com certeza. Torna-me mais humilde e mais ouvinte. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Teus caminhos são insondáveis demais para que eu julgue os sofrimentos alheios com certeza. Torna-me mais humilde e mais ouvinte. Amém.",
     "passage": {
       "ref": "Jó 11 · capítulo completo (NVI)",
       "verses": [
@@ -1442,7 +1442,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: A soberania de Deus sobre nações e reis é, para você, motivo de conforto ou de mais perguntas sem resposta?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, ao ouvir ou oferecer um conselho espiritual, pergunte-se se ele nasce de sabedoria genuína ou de clichês repetidos sem reflexão.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tua sabedoria e teu poder não têm limite; ajuda-me a buscar entendimento genuíno, e não apenas frases prontas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tua sabedoria e teu poder não têm limite; ajuda-me a buscar entendimento genuíno, e não apenas frases prontas. Amém.",
     "passage": {
       "ref": "Jó 12 · capítulo completo (NVI)",
       "verses": [
@@ -1576,7 +1576,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Você tem coragem de pedir a Deus clareza específica sobre sua vida, em vez de aceitar culpa genérica que outros colocam sobre você?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, diga em voz alta hoje, mesmo sem sentir, a confissão de Jó 13.15 como uma declaração de confiança apesar das circunstâncias.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. mesmo que eu não entenda teus caminhos, escolho esperar em ti. Dá-me coragem de argumentar diante de ti com honestidade, e não apenas resignação silenciosa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Mesmo que eu não entenda teus caminhos, escolho esperar em ti. Dá-me coragem de argumentar diante de ti com honestidade, e não apenas resignação silenciosa. Amém.",
     "passage": {
       "ref": "Jó 13 · capítulo completo (NVI)",
       "verses": [
@@ -1722,7 +1722,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Como a certeza cristã da ressurreição responde à pergunta que Jó só ousou fazer, sem poder respondê-la plenamente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, agradeça hoje, especificamente, pela esperança da ressurreição que Jó vislumbrou apenas como possibilidade frágil e distante.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tu respondeste, em Cristo, à pergunta que Jó mal ousava fazer. Obrigado pela esperança da ressurreição que sustenta meus dias breves e inquietos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tu respondeste, em Cristo, à pergunta que Jó mal ousava fazer. Obrigado pela esperança da ressurreição que sustenta meus dias breves e inquietos. Amém.",
     "passage": {
       "ref": "Jó 14 · capítulo completo (NVI)",
       "verses": [
@@ -1844,7 +1844,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Como você reage quando o sofrimento de alguém inocente desafia suas certezas teológicas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje um julgamento que você fez sobre o sofrimento de alguém e reconsidere se ele nasceu de evidência ou de medo projetado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. livra-me de julgar o sofrimento alheio a partir dos meus próprios medos. Dá-me discernimento verdadeiro, não conveniência doutrinária. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Livra-me de julgar o sofrimento alheio a partir dos meus próprios medos. Dá-me discernimento verdadeiro, não conveniência doutrinária. Amém.",
     "passage": {
       "ref": "Jó 15 · capítulo completo (NVI)",
       "verses": [
@@ -2018,7 +2018,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: O que sustenta sua esperança quando ela parece ter se esgotado quase por completo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, se você tem sido um 'consolador miserável' para alguém, peça perdão hoje e busque ouvir antes de aconselhar.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tu és minha testemunha quando ninguém mais acredita em mim. Sustenta o pouco de esperança que ainda resta em meu coração. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tu és minha testemunha quando ninguém mais acredita em mim. Sustenta o pouco de esperança que ainda resta em meu coração. Amém.",
     "passage": {
       "ref": "Jó 16 · capítulo completo (NVI)",
       "verses": [
@@ -2140,7 +2140,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: O que sustenta você a continuar perguntando a Deus, mesmo sem resposta imediata, como Jó faz aqui?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, se sua esperança hoje parece quase extinta, nomeie isso honestamente diante de Deus em oração, como Jó faz, em vez de fingir uma confiança que você não sente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. quando toda esperança humana parecer esgotada, sê tu mesmo minha garantia e meu fiador. Sustenta-me até que eu veja de novo onde repousa minha esperança. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Quando toda esperança humana parecer esgotada, sê tu mesmo minha garantia e meu fiador. Sustenta-me até que eu veja de novo onde repousa minha esperança. Amém.",
     "passage": {
       "ref": "Jó 17 · capítulo completo (NVI)",
       "verses": [
@@ -2238,7 +2238,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Que 'luz' em sua própria vida você teme que se apague, e como isso molda o modo como você trata quem sofre?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de compartilhar uma verdade severa da Escritura com alguém hoje, pergunte-se se seu propósito é edificar ou apenas ter razão.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. guarda minha língua de usar tua verdade como arma contra quem já está ferido. Ensina-me compaixão junto com a doutrina correta. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Guarda minha língua de usar tua verdade como arma contra quem já está ferido. Ensina-me compaixão junto com a doutrina correta. Amém.",
     "passage": {
       "ref": "Jó 18 · capítulo completo (NVI)",
       "verses": [
@@ -2356,7 +2356,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Você espera uma vindicação final de Deus mesmo quando ninguém mais parece estar do seu lado?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, declare hoje em voz alta, mesmo em meio a dificuldades, 'eu sei que o meu Redentor vive' como ato de fé deliberado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tu és meu Redentor mesmo quando tudo e todos parecem me abandonar. Sustenta minha esperança até o dia em que te verei face a face. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tu és meu Redentor mesmo quando tudo e todos parecem me abandonar. Sustenta minha esperança até o dia em que te verei face a face. Amém.",
     "passage": {
       "ref": "Jó 19 · capítulo completo (NVI)",
       "verses": [
@@ -2506,7 +2506,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Você confia na justiça final de Deus mesmo quando ela demora a se manifestar visivelmente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, resista à tentação de explicar rapidamente o sofrimento ou a prosperidade alheia com fórmulas simples — sente-se com a complexidade real da situação.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. ensina-me a confiar na tua justiça final sem exigir que ela se manifeste segundo meu cronograma. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Ensina-me a confiar na tua justiça final sem exigir que ela se manifeste segundo meu cronograma. Amém.",
     "passage": {
       "ref": "Jó 20 · capítulo completo (NVI)",
       "verses": [
@@ -2656,7 +2656,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Que fórmulas espirituais simples você talvez precise abandonar para amadurecer numa fé mais honesta?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, permita-se admitir em oração uma injustiça real que incomoda você, sem pressa de resolvê-la com uma resposta fácil.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. dou-te a honestidade das minhas perguntas mais desconfortáveis sobre a justiça deste mundo. Sustenta minha fé enquanto espero por tua resposta final. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Dou-te a honestidade das minhas perguntas mais desconfortáveis sobre a justiça deste mundo. Sustenta minha fé enquanto espero por tua resposta final. Amém.",
     "passage": {
       "ref": "Jó 21 · capítulo completo (NVI)",
       "verses": [
@@ -2826,7 +2826,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Estou disposto a corrigir uma acusação injusta que fiz, mesmo que isso exponha os limites do meu entendimento?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de explicar o sofrimento de alguém hoje, pergunte e ouça — em vez de presumir e acusar.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. perdoa-me quando julgo o sofrimento alheio sem conhecer a verdade. Ensina-me a ouvir antes de concluir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Perdoa-me quando julgo o sofrimento alheio sem conhecer a verdade. Ensina-me a ouvir antes de concluir. Amém.",
     "passage": {
       "ref": "Jó 22 · capítulo completo (NVI)",
       "verses": [
@@ -2980,7 +2980,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: O que eu faria diferente hoje se soubesse, com certeza, que seria 'provado' e sairia como ouro diante de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, quando Deus parecer silencioso hoje, continue caminhando na integridade que você conhece, em vez de abandonar a busca por ele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. mesmo quando não te encontro, quero seguir o caminho que conheço ser reto. Confio que me provarás e sairei como ouro. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Mesmo quando não te encontro, quero seguir o caminho que conheço ser reto. Confio que me provarás e sairei como ouro. Amém.",
     "passage": {
       "ref": "Jó 23 · capítulo completo (NVI)",
       "verses": [
@@ -3082,7 +3082,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Tenho coragem de nomear, como Jó, o que parece errado no mundo, mesmo sem ter uma resposta completa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje uma injustiça concreta ao seu redor — no trabalho, na vizinhança, no noticiário — e leve-a a Deus em oração específica, sem minimizá-la.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. vejo a injustiça ao meu redor e não finjo que ela não existe. Vem em socorro dos oprimidos, e usa-me nisso. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Vejo a injustiça ao meu redor e não finjo que ela não existe. Vem em socorro dos oprimidos, e usa-me nisso. Amém.",
     "passage": {
       "ref": "Jó 24 · capítulo completo (NVI)",
       "verses": [
@@ -3216,7 +3216,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Tenho a humildade de dizer 'não sei' quando realmente não sei, em vez de repetir respostas que não respondem nada?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, na próxima conversa difícil, resista à tentação de repetir um clichê espiritual — procure, em vez disso, entender a pergunta real.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. dá-me humildade para admitir o que não entendo, em vez de repetir palavras vazias. Ensina-me a ouvir de verdade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Dá-me humildade para admitir o que não entendo, em vez de repetir palavras vazias. Ensina-me a ouvir de verdade. Amém.",
     "passage": {
       "ref": "Jó 25 · capítulo completo (NVI)",
       "verses": [
@@ -3274,7 +3274,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Consigo louvar a Deus sinceramente mesmo em meio a uma dor que ainda não foi resolvida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, separe um momento para louvar a grandeza de Deus na criação, mesmo que sua própria situação ainda não tenha se resolvido.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tua grandeza ultrapassa tudo que meus olhos podem ver. Ensina-me a te louvar mesmo em meio à dor não resolvida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tua grandeza ultrapassa tudo que meus olhos podem ver. Ensina-me a te louvar mesmo em meio à dor não resolvida. Amém.",
     "passage": {
       "ref": "Jó 26 · capítulo completo (NVI)",
       "verses": [
@@ -3364,7 +3364,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: O que significaria, para mim hoje, jurar não abrir mão da minha integridade, custe o que custar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, recuse hoje qualquer meia-mentira confortável que você estaria tentado a dizer só para evitar conflito com alguém.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. ajuda-me a permanecer íntegro, mesmo quando isso significa ficar só. Guarda meu coração fiel a ti até o fim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Ajuda-me a permanecer íntegro, mesmo quando isso significa ficar só. Guarda meu coração fiel a ti até o fim. Amém.",
     "passage": {
       "ref": "Jó 27 · capítulo completo (NVI)",
       "verses": [
@@ -3490,7 +3490,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: O que significaria, na prática, hoje, 'desviar-se do mal' como expressão concreta de sabedoria?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, troque hoje uma busca por respostas prontas por um momento simples de temor reverente diante de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tu és a fonte da sabedoria que não consigo escavar sozinho. Ensina-me a temer-te e a me afastar do mal. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tu és a fonte da sabedoria que não consigo escavar sozinho. Ensina-me a temer-te e a me afastar do mal. Amém.",
     "passage": {
       "ref": "Jó 28 · capítulo completo (NVI)",
       "verses": [
@@ -3636,7 +3636,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Consigo separar minha identidade da aprovação e do respeito alheios, mesmo quando ambos desaparecem?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma pessoa vulnerável ao seu redor e use, de forma concreta, sua influência a favor dela, como Jó fazia.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. obrigado pelos dias em que sinto tua bênção visível. Ajuda-me a usar o que tenho a favor de quem precisa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Obrigado pelos dias em que sinto tua bênção visível. Ajuda-me a usar o que tenho a favor de quem precisa. Amém.",
     "passage": {
       "ref": "Jó 29 · capítulo completo (NVI)",
       "verses": [
@@ -3770,7 +3770,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Tenho espaço, na minha fé, para expressar dor crua diante de Deus, sem precisar suavizá-la para parecer 'espiritual'?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, se você está em um momento de dor não resolvida, permita-se hoje nomeá-la diante de Deus com a mesma honestidade de Jó, sem florear.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. quando me sinto abandonado e zombado, ainda clamo a ti. Ouve o meu grito, mesmo quando não entendo o teu silêncio. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Quando me sinto abandonado e zombado, ainda clamo a ti. Ouve o meu grito, mesmo quando não entendo o teu silêncio. Amém.",
     "passage": {
       "ref": "Jó 30 · capítulo completo (NVI)",
       "verses": [
@@ -3928,7 +3928,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Tenho coragem de afirmar minha integridade mesmo quando ninguém ao meu redor está disposto a acreditar em mim?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, faça hoje um exame honesto de uma área da lista de Jó — cobiça, hospitalidade, tratamento dos que trabalham para você — e corrija o que precisar ser corrigido.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. examina meu coração como examinaste o de Jó. Dá-me coragem para viver com integridade, ainda que ninguém mais veja. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Examina meu coração como examinaste o de Jó. Dá-me coragem para viver com integridade, ainda que ninguém mais veja. Amém.",
     "passage": {
       "ref": "Jó 31 · capítulo completo (NVI)",
       "verses": [
@@ -4122,7 +4122,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Como recebo vozes mais jovens ou menos experientes quando elas desafiam um consenso estabelecido?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de intervir em um conflito alheio hoje, pergunte-se se sua indignação vem de compreensão genuína ou apenas de impaciência acumulada.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. dá-me discernimento para saber quando falar e quando ainda escutar. Guarda-me da indignação que apenas repete velhos erros. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Dá-me discernimento para saber quando falar e quando ainda escutar. Guarda-me da indignação que apenas repete velhos erros. Amém.",
     "passage": {
       "ref": "Jó 32 · capítulo completo (NVI)",
       "verses": [
@@ -4244,7 +4244,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Quem tem sido, na minha vida, um 'mediador' que me ajudou a ver o que era correto quando eu não conseguia enxergar sozinho?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, esteja atento hoje a uma forma inesperada — um sonho, uma palavra, uma dor — pela qual Deus pode estar tentando te alcançar.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. abre meus ouvidos para as formas como falas comigo, mesmo quando não reconheço logo de início. Afasta-me do orgulho. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Abre meus ouvidos para as formas como falas comigo, mesmo quando não reconheço logo de início. Afasta-me do orgulho. Amém.",
     "passage": {
       "ref": "Jó 33 · capítulo completo (NVI)",
       "verses": [
@@ -4410,7 +4410,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Consigo distinguir entre uma pergunta honesta a Deus e uma acusação contra ele?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ao afirmar hoje uma verdade sobre o caráter de Deus, faça-o de um jeito que acolha, e não que cale, a dor de quem ouve.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. creio que és justo, mesmo quando não entendo teus caminhos. Ensina-me a afirmar essa verdade com compaixão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Creio que és justo, mesmo quando não entendo teus caminhos. Ensina-me a afirmar essa verdade com compaixão. Amém.",
     "passage": {
       "ref": "Jó 34 · capítulo completo (NVI)",
       "verses": [
@@ -4592,7 +4592,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Como a grandeza incomparável de Deus muda — ou não deveria mudar — a forma como me relaciono com ele?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, ao orar, busque a presença de Deus em si mesma, não apenas uma resposta específica para o seu pedido.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tu és grande demais para que eu te 'acrescente' algo, mas quero te buscar de coração sincero, não apenas por respostas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tu és grande demais para que eu te 'acrescente' algo, mas quero te buscar de coração sincero, não apenas por respostas. Amém.",
     "passage": {
       "ref": "Jó 35 · capítulo completo (NVI)",
       "verses": [
@@ -4690,7 +4690,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Como recebo a ideia de que a dor pode ter um propósito formativo, sem transformar isso em julgamento sobre quem sofre?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, ao acompanhar alguém que sofre, resista à tentação de oferecer uma fórmula explicativa — ofereça presença.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. usa até minha dor para me formar, mas ensina-me também a apenas acompanhar quem sofre, sem tentar explicar tudo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Usa até minha dor para me formar, mas ensina-me também a apenas acompanhar quem sofre, sem tentar explicar tudo. Amém.",
     "passage": {
       "ref": "Jó 36 · capítulo completo (NVI)",
       "verses": [
@@ -4856,7 +4856,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Estou atento às vozes imperfeitas ao meu redor que, mesmo sem perceber, podem estar me preparando para um encontro maior com Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve hoje um momento para contemplar algum fenômeno da natureza com atenção deliberada, deixando que ele desperte assombro diante de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. teu trovão é maravilhoso e incompreensível para mim. Prepara meu coração para te encontrar de verdade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Teu trovão é maravilhoso e incompreensível para mim. Prepara meu coração para te encontrar de verdade. Amém.",
     "passage": {
       "ref": "Jó 37 · capítulo completo (NVI)",
       "verses": [
@@ -4986,7 +4986,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Que perguntas eu carrego que talvez precisem ser recebidas com assombro, mais do que com explicações?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, passe alguns minutos hoje observando o céu, de dia ou de noite, deixando a vastidão da criação recolocar suas perguntas em perspectiva.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. eu não estava lá quando lançaste os alicerces da terra, e ainda assim me ouves. Aquieta meu coração diante da tua grandeza. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Eu não estava lá quando lançaste os alicerces da terra, e ainda assim me ouves. Aquieta meu coração diante da tua grandeza. Amém.",
     "passage": {
       "ref": "Jó 38 · capítulo completo (NVI)",
       "verses": [
@@ -5184,7 +5184,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Consigo admirar algo — ou alguém — sem precisar entendê-lo ou controlá-lo completamente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma situação que você insiste em controlar e entregue-a conscientemente, em oração, à sabedoria maior de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tu sustentas até as criaturas mais selvagens que eu jamais poderia domar. Ensina-me a confiar no que não controlo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tu sustentas até as criaturas mais selvagens que eu jamais poderia domar. Ensina-me a confiar no que não controlo. Amém.",
     "passage": {
       "ref": "Jó 39 · capítulo completo (NVI)",
       "verses": [
@@ -5338,7 +5338,7 @@ window.JO_CARTA = [
       "Pensando apenas no próximo passo possível: Como distingo entre um silêncio de resignação vazia e um silêncio de reverência genuína?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje, diante de uma situação que você não controla, o gesto de Jó: ficar em silêncio reverente diante de Deus, em vez de insistir em respostas.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. sou pequeno demais para te responder. Ponho minha mão sobre a boca e escolho confiar no que não controlo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Sou pequeno demais para te responder. Ponho minha mão sobre a boca e escolho confiar no que não controlo. Amém.",
     "passage": {
       "ref": "Jó 40 · capítulo completo (NVI)",
       "verses": [
@@ -5468,7 +5468,7 @@ window.JO_CARTA = [
       "Na prática da sua caminhada hoje: Estou disposto a abrir mão da exigência de que Deus me deva explicações, para simplesmente confiar em quem ele é?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, entregue hoje, em oração concreta, algo que você tem tentado controlar ou exigir de Deus como se ele te devesse uma resposta.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. tudo o que existe já é teu. Ajuda-me a confiar em ti sem exigir que me expliques tudo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Tudo o que existe já é teu. Ajuda-me a confiar em ti sem exigir que me expliques tudo. Amém.",
     "passage": {
       "ref": "Jó 41 · capítulo completo (NVI)",
       "verses": [
@@ -5638,7 +5638,7 @@ window.JO_CARTA = [
       "O que seria um passo honesto agora: Existe alguém que me feriu, como os amigos feriram Jó, por quem eu sou chamado a orar hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje, especificamente, por alguém que já te feriu ou te compreendeu mal, seguindo o exemplo de Jó ao interceder pelos amigos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. quero te conhecer não apenas de ouvir falar, mas te encontrar de verdade. Restaura o que só tu podes restaurar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje, inclusive aquilo que ainda não consigo compreender. Quero te conhecer não apenas de ouvir falar, mas te encontrar de verdade. Restaura o que só tu podes restaurar. Amém.",
     "passage": {
       "ref": "Jó 42 · capítulo completo (NVI)",
       "verses": [

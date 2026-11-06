@@ -32,7 +32,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que 'caos' em sua vida precisa da palavra ordenadora de Deus hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, trate hoje conscientemente uma pessoa difícil lembrando que ela também carrega a imagem de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por me criar à tua imagem. Ajuda-me a ver essa mesma imagem em cada pessoa que encontrar hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por me criar à tua imagem. Ajuda-me a ver essa mesma imagem em cada pessoa que encontrar hoje. Amém.",
     "passage": {
       "ref": "Gênesis 1 · capítulo completo (NVI)",
       "verses": [
@@ -190,7 +190,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Onde você sente a solidão que Deus originalmente declarou não ser boa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, invista hoje em aprofundar genuína unidade com uma pessoa próxima, não apenas convivência superficial.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por não me deixares só. Ensina-me a viver unidade genuína com quem amo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por não me deixares só. Ensina-me a viver unidade genuína com quem amo. Amém.",
     "passage": {
       "ref": "Gênesis 2 · capítulo completo (NVI)",
       "verses": [
@@ -324,7 +324,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que 'fruto proibido' você precisa parar de justificar e simplesmente confessar hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, confesse hoje, sem se esconder ou culpar outros, algo específico que você sabe que desagrada a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por já teres plantado a promessa de redenção antes mesmo que eu pedisse. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por já teres plantado a promessa de redenção antes mesmo que eu pedisse. Amém.",
     "passage": {
       "ref": "Gênesis 3 · capítulo completo (NVI)",
       "verses": [
@@ -454,7 +454,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como Deus tem confrontado você com perguntas diretas que você tenta evitar responder?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, assuma hoje, concretamente, responsabilidade pelo bem-estar de alguém que você tem tratado como não sendo problema seu.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sim, sou responsável pelo meu irmão. Ajuda-me a viver essa responsabilidade de verdade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sim, sou responsável pelo meu irmão. Ajuda-me a viver essa responsabilidade de verdade. Amém.",
     "passage": {
       "ref": "Gênesis 4 · capítulo completo (NVI)",
       "verses": [
@@ -592,7 +592,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como cultivar hoje um pouco mais dessa proximidade cotidiana e constante com Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje um momento consciente de 'andar com Deus' em uma atividade comum do seu dia, não apenas em um momento devocional isolado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. quero andar contigo todos os dias da minha vida, não apenas em momentos isolados. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Quero andar contigo todos os dias da minha vida, não apenas em momentos isolados. Amém.",
     "passage": {
       "ref": "Gênesis 5 · capítulo completo (NVI)",
       "verses": [
@@ -754,7 +754,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que 'arca' de obediência você precisa começar a construir antes que a tempestade chegue?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje, especificamente, um momento em que a graça de Deus, não seu mérito, o sustentou.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pela tua graça que me alcança mesmo em meio à corrupção ao meu redor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pela tua graça que me alcança mesmo em meio à corrupção ao meu redor. Amém.",
     "passage": {
       "ref": "Gênesis 6 · capítulo completo (NVI)",
       "verses": [
@@ -876,7 +876,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que 'porta' de oportunidade você precisa atravessar antes que ela se feche definitivamente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje um detalhe específico e pessoal da proteção de Deus em sua vida recente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por fechares pessoalmente a porta que me protege. Ajuda-me a não perder as portas que ainda estão abertas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por fechares pessoalmente a porta que me protege. Ajuda-me a não perder as portas que ainda estão abertas. Amém.",
     "passage": {
       "ref": "Gênesis 7 · capítulo completo (NVI)",
       "verses": [
@@ -1006,7 +1006,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que sinal concreto de que Deus 'se lembrou' de você já apareceu, mesmo que pequeno?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje um sinal concreto, ainda que pequeno, de que Deus está agindo em uma situação que parecia estagnada.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por nunca deixares de te lembrar de mim, mesmo quando a espera é longa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por nunca deixares de te lembrar de mim, mesmo quando a espera é longa. Amém.",
     "passage": {
       "ref": "Gênesis 8 · capítulo completo (NVI)",
       "verses": [
@@ -1128,7 +1128,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Você reconhece o cuidado de Deus com toda a criação, não apenas com interesses humanos imediatos?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, na próxima vez que você vir um arco-íris, ou hoje mesmo em oração, agradeça conscientemente pela promessa que ele representa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelo sinal do teu arco-íris. Confio nas tuas promessas visíveis e invisíveis. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelo sinal do teu arco-íris. Confio nas tuas promessas visíveis e invisíveis. Amém.",
     "passage": {
       "ref": "Gênesis 9 · capítulo completo (NVI)",
       "verses": [
@@ -1278,7 +1278,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como sua fé pode incluir mais intencionalmente uma visão global, não apenas local?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje especificamente por uma nação ou grupo étnico diferente do seu, reconhecendo que Deus também cuida de sua origem e história.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por te importares com cada nação e povo. Alarga minha visão para além do que me é familiar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por te importares com cada nação e povo. Alarga minha visão para além do que me é familiar. Amém.",
     "passage": {
       "ref": "Gênesis 10 · capítulo completo (NVI)",
       "verses": [
@@ -1440,7 +1440,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como confiar que mesmo a dispersão e a diversidade fazem parte do plano maior de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma busca pessoal por reconhecimento e reoriente-a conscientemente para o nome e a identidade que Deus já lhe deu.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero fazer um nome para mim mesmo. Que meu nome esteja seguro no teu. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero fazer um nome para mim mesmo. Que meu nome esteja seguro no teu. Amém.",
     "passage": {
       "ref": "Gênesis 11 · capítulo completo (NVI)",
       "verses": [
@@ -1602,7 +1602,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Você confia em Deus mesmo quando o destino completo do chamado ainda não foi revelado?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dê hoje um passo de obediência em direção a um chamado de Deus, mesmo sem conhecer todos os detalhes do destino final.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. como Abrão, saio confiando em ti, mesmo sem conhecer todo o caminho. Faze de mim uma bênção para outros. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Como Abrão, saio confiando em ti, mesmo sem conhecer todo o caminho. Faze de mim uma bênção para outros. Amém.",
     "passage": {
       "ref": "Gênesis 12 · capítulo completo (NVI)",
       "verses": [
@@ -1716,7 +1716,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que 'terra' — oportunidade ou recurso — você precisa oferecer a alguém, confiando que Deus proverá para você?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ceda hoje, conscientemente, uma vantagem pessoal a alguém, confiando que Deus cuidará do resultado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a generosidade que confia em ti mais do que em minhas próprias vantagens. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a generosidade que confia em ti mais do que em minhas próprias vantagens. Amém.",
     "passage": {
       "ref": "Gênesis 13 · capítulo completo (NVI)",
       "verses": [
@@ -1952,7 +1952,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como esta aliança selada unicamente por Deus muda sua confiança em promessas que ele já fez a você?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje, em oração, que sua posição diante de Deus se baseia em fé, não em desempenho, e descanse nisso.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. creio em ti. Que essa fé, e não meus méritos, seja minha justiça diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Creio em ti. Que essa fé, e não meus méritos, seja minha justiça diante de ti. Amém.",
     "passage": {
       "ref": "Gênesis 15 · capítulo completo (NVI)",
       "verses": [
@@ -2070,7 +2070,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como tratar pessoas marginalizadas ao seu redor com o mesmo cuidado que Deus teve com Hagar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, busque hoje ativamente alguém que se sente esquecido ou marginalizado e ofereça-lhe atenção genuína.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és o Deus que me vê, mesmo no meu deserto mais solitário. Obrigado por me enxergares. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és o Deus que me vê, mesmo no meu deserto mais solitário. Obrigado por me enxergares. Amém.",
     "passage": {
       "ref": "Gênesis 16 · capítulo completo (NVI)",
       "verses": [
@@ -2168,7 +2168,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que limitação você tem usado como desculpa para duvidar de uma promessa específica de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, declare hoje, conscientemente, uma nova identidade que Deus já lhe deu, mesmo que suas circunstâncias ainda não a reflitam plenamente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por me dares uma nova identidade antes mesmo de eu ver o cumprimento completo da tua promessa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por me dares uma nova identidade antes mesmo de eu ver o cumprimento completo da tua promessa. Amém.",
     "passage": {
       "ref": "Gênesis 17 · capítulo completo (NVI)",
       "verses": [
@@ -2310,7 +2310,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Por quem você tem interceded com a mesma coragem persistente que Abraão demonstrou por Sodoma?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, traga hoje a Deus, em oração ousada, algo que você tem considerado impossível demais para pedir.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. nada é impossível para ti. Confio na tua promessa, mesmo quando ela parece improvável demais. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Nada é impossível para ti. Confio na tua promessa, mesmo quando ela parece improvável demais. Amém.",
     "passage": {
       "ref": "Gênesis 18 · capítulo completo (NVI)",
       "verses": [
@@ -2476,7 +2476,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como reconhecer as conexões através das quais Deus já trouxe resgate em sua própria vida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, continue intercedendo hoje por alguém distante, confiando que Deus pode usar essa oração de formas que você nunca verá plenamente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por te lembrares de mim através das orações de outros. Ajuda-me a obedecer completamente tuas instruções de proteção. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por te lembrares de mim através das orações de outros. Ajuda-me a obedecer completamente tuas instruções de proteção. Amém.",
     "passage": {
       "ref": "Gênesis 19 · capítulo completo (NVI)",
       "verses": [
@@ -2662,7 +2662,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: O que significa buscar integridade de coração mesmo em situações de erro genuíno e não intencional?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje um padrão de medo repetido em sua vida e busque, pela primeira vez, quebrá-lo com uma escolha diferente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por intervires para proteger quem age de boa-fé. Ajuda-me a quebrar padrões de medo repetidos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por intervires para proteger quem age de boa-fé. Ajuda-me a quebrar padrões de medo repetidos. Amém.",
     "passage": {
       "ref": "Gênesis 20 · capítulo completo (NVI)",
       "verses": [
@@ -2768,7 +2768,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que 'Hagar e Ismael' — consequências dolorosas de decisões passadas — você precisa confiar ao cuidado contínuo de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, celebre hoje, com alegria genuína e compartilhada, uma promessa de Deus que já se cumpriu em sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me encheste de riso. Que minha alegria em ti seja contagiante para quem está ao meu redor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me encheste de riso. Que minha alegria em ti seja contagiante para quem está ao meu redor. Amém.",
     "passage": {
       "ref": "Gênesis 21 · capítulo completo (NVI)",
       "verses": [
@@ -2938,7 +2938,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que 'carneiro' de provisão Deus já colocou em seu caminho no último momento de uma dificuldade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, confie hoje a Deus uma provação difícil, declarando conscientemente que ele proverá, mesmo sem saber ainda como.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és o Senhor que provê. Confio em ti mesmo quando não entendo o pedido. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és o Senhor que provê. Confio em ti mesmo quando não entendo o pedido. Amém.",
     "passage": {
       "ref": "Gênesis 22 · capítulo completo (NVI)",
       "verses": [
@@ -3068,7 +3068,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que negociação ou decisão prática você precisa conduzir hoje com a mesma integridade demonstrada por Abraão?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, conduza hoje uma interação prática ou negociação com integridade extra, buscando ser reconhecido, como Abraão, pelo seu caráter.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha vida reflita integridade suficiente para honrar teu nome mesmo diante de quem não te conhece. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha vida reflita integridade suficiente para honrar teu nome mesmo diante de quem não te conhece. Amém.",
     "passage": {
       "ref": "Gênesis 23 · capítulo completo (NVI)",
       "verses": [
@@ -3182,7 +3182,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que padrão de fidelidade de Deus você pode traçar através de diferentes gerações da sua própria família?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, faça hoje uma oração específica e detalhada sobre uma decisão importante, em vez de apenas um pedido genérico.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por não retirares tua bondade e fidelidade da minha vida. Guia meus passos como guiaste os do servo de Abraão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por não retirares tua bondade e fidelidade da minha vida. Guia meus passos como guiaste os do servo de Abraão. Amém.",
     "passage": {
       "ref": "Gênesis 24 · capítulo completo (NVI)",
       "verses": [
@@ -3484,7 +3484,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como cultivar visão de longo prazo diante de pressões que pedem decisões impulsivas imediatas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma tentação de decisão impulsiva e escolha, deliberadamente, a perspectiva de longo prazo em vez da satisfação imediata.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me visão de longo prazo. Não quero trocar o que é precioso por satisfação passageira. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me visão de longo prazo. Não quero trocar o que é precioso por satisfação passageira. Amém.",
     "passage": {
       "ref": "Gênesis 25 · capítulo completo (NVI)",
       "verses": [
@@ -3654,7 +3654,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que conflito você tem enfrentado, como Isaque com os poços, que exige mais paciência do que confronto?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje um padrão familiar específico, positivo ou negativo, e escolha conscientemente reforçá-lo ou quebrá-lo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és o Deus dos meus antepassados na fé. Não temerei, pois estás comigo como estiveste com eles. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és o Deus dos meus antepassados na fé. Não temerei, pois estás comigo como estiveste com eles. Amém.",
     "passage": {
       "ref": "Gênesis 26 · capítulo completo (NVI)",
       "verses": [
@@ -3828,7 +3828,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como buscar reconciliação em um conflito familiar que você tem evitado enfrentar diretamente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça hoje, verbalmente, uma palavra de bênção genuína a alguém em sua família que raramente a recebe de você.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me de manipular situações para conseguir o que só tu podes dar legitimamente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me de manipular situações para conseguir o que só tu podes dar legitimamente. Amém.",
     "passage": {
       "ref": "Gênesis 27 · capítulo completo (NVI)",
       "verses": [
@@ -4046,7 +4046,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que lugar aparentemente comum em sua vida pode se tornar, pela presença de Deus, um lugar sagrado?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje um lugar ou momento comum em sua rotina como potencial espaço de encontro real com Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por estares comigo mesmo na minha fuga e solidão. Confio que não me deixarás. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por estares comigo mesmo na minha fuga e solidão. Confio que não me deixarás. Amém.",
     "passage": {
       "ref": "Gênesis 28 · capítulo completo (NVI)",
       "verses": [
@@ -4168,7 +4168,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como Deus pode estar usando circunstâncias difíceis para ensinar lições que confrontos diretos não ensinariam?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita hoje sobre um padrão que você praticou contra outros e que talvez tenha voltado contra você de forma inesperada.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me através das minhas próprias experiências as lições que preciso aprender sobre integridade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me através das minhas próprias experiências as lições que preciso aprender sobre integridade. Amém.",
     "passage": {
       "ref": "Gênesis 29 · capítulo completo (NVI)",
       "verses": [
@@ -4342,7 +4342,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como a formação da família de Jacó, tão disfuncional, encoraja você sobre o que Deus pode fazer através da sua própria família imperfeita?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, deixe hoje de comparar sua situação com a de outra pessoa e leve, em vez disso, sua própria necessidade específica diretamente a Deus em oração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. lembra-te de mim como te lembraste de Raquel. Ouve o meu clamor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Lembra-te de mim como te lembraste de Raquel. Ouve o meu clamor. Amém.",
     "passage": {
       "ref": "Gênesis 30 · capítulo completo (NVI)",
       "verses": [
@@ -4548,7 +4548,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como encerrar um capítulo difícil de forma pacífica, mesmo sem reconciliação plena e completa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, confie hoje a Deus, em oração, um relacionamento distante ou tenso que você não pode controlar pessoalmente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. vigia entre mim e quem está distante de mim. Confio a ti o que não posso controlar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Vigia entre mim e quem está distante de mim. Confio a ti o que não posso controlar. Amém.",
     "passage": {
       "ref": "Gênesis 31 · capítulo completo (NVI)",
       "verses": [
@@ -4802,7 +4802,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como aceitar que um encontro genuíno com Deus pode deixar marcas, mas também trazer bênção real?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve hoje um tempo de oração intensa e honesta com Deus sobre uma mudança de caráter que você sabe que precisa acontecer.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. luto contigo até ser abençoado. Transforma meu caráter, mesmo que isso me marque no processo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Luto contigo até ser abençoado. Transforma meu caráter, mesmo que isso me marque no processo. Amém.",
     "passage": {
       "ref": "Gênesis 32 · capítulo completo (NVI)",
       "verses": [
@@ -4964,7 +4964,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que passo você precisa dar hoje em direção a um reencontro que você tem adiado por medo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dê hoje o primeiro passo em direção a uma reconciliação que você tem adiado por medo da reação da outra pessoa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a buscar reconciliação mesmo quando temo o resultado. Que eu veja tua face nos rostos reconciliados. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a buscar reconciliação mesmo quando temo o resultado. Que eu veja tua face nos rostos reconciliados. Amém.",
     "passage": {
       "ref": "Gênesis 33 · capítulo completo (NVI)",
       "verses": [
@@ -5078,7 +5078,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que situação familiar complexa você precisa processar com honestidade, sem simplificar demais o certo e o errado?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, diante de uma injustiça que você ou alguém próximo sofreu, busque hoje uma resposta que traga justiça sem gerar destruição desproporcional.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me sabedoria para buscar justiça sem cair na armadilha da vingança desproporcional. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me sabedoria para buscar justiça sem cair na armadilha da vingança desproporcional. Amém.",
     "passage": {
       "ref": "Gênesis 34 · capítulo completo (NVI)",
       "verses": [
@@ -5236,7 +5236,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que memória dolorosa em sua família você pode ajudar a transformar em algo que fortalece, em vez de apenas ferir, as próximas gerações?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita hoje sobre uma dor que você carrega e considere como redirecionar seu significado, como Jacó fez pelo nome de seu filho.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. transforma minhas dores em fonte de força, como fizeste com o nome de Benjamim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Transforma minhas dores em fonte de força, como fizeste com o nome de Benjamim. Amém.",
     "passage": {
       "ref": "Gênesis 35 · capítulo completo (NVI)",
       "verses": [
@@ -5386,7 +5386,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que 'história' pessoal você tem negligenciado documentar ou lembrar, mesmo não parecendo central para os outros?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, registre hoje, mesmo brevemente, uma parte da sua própria história pessoal que você tem negligenciado por não parecer 'central' o suficiente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por te importares até com as histórias que parecem secundárias. Lembra-te também da minha. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por te importares até com as histórias que parecem secundárias. Lembra-te também da minha. Amém.",
     "passage": {
       "ref": "Gênesis 36 · capítulo completo (NVI)",
       "verses": [
@@ -5592,7 +5592,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que situação atual parece 'tragédia total' para você, mas pode não ser, de fato, o fim real da história?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, confie hoje a Deus uma situação que parece definitivamente perdida, mesmo sem ver ainda como ela pode se transformar.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mesmo quando a história parece terminar em tragédia, confio que tu já sabes o desfecho completo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Mesmo quando a história parece terminar em tragédia, confio que tu já sabes o desfecho completo. Amém.",
     "passage": {
       "ref": "Gênesis 37 · capítulo completo (NVI)",
       "verses": [
@@ -5770,7 +5770,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como esta narrativa complexa desafia qualquer tentativa sua de simplificar demais questões morais difíceis?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, considere hoje se há algum direito legítimo que você tem negado a alguém, e dê um passo concreto para restituí-lo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me coragem para confessar publicamente quando erro, mesmo que isso me custe constrangimento. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me coragem para confessar publicamente quando erro, mesmo que isso me custe constrangimento. Amém.",
     "passage": {
       "ref": "Gênesis 38 · capítulo completo (NVI)",
       "verses": [
@@ -5924,7 +5924,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que provação moral específica você enfrenta hoje que exige a mesma firmeza demonstrada por José?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reafirme hoje, especificamente, um limite moral que você tem mantido, e agradeça a Deus por sua fidelidade nessa área.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. como poderia eu pecar contra ti? Guarda minha integridade mesmo quando ninguém mais está vendo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Como poderia eu pecar contra ti? Guarda minha integridade mesmo quando ninguém mais está vendo. Amém.",
     "passage": {
       "ref": "Gênesis 39 · capítulo completo (NVI)",
       "verses": [
@@ -6050,7 +6050,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que promessa humana de 'lembrar-se de você' foi esquecida, e como isso testou sua paciência com o tempo de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje publicamente, diante de alguém, um dom ou capacidade específica que você atribui diretamente a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. as interpretações e os dons pertencem a ti. Ajuda-me a esperar com paciência mesmo quando sou esquecido por outros. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. As interpretações e os dons pertencem a ti. Ajuda-me a esperar com paciência mesmo quando sou esquecido por outros. Amém.",
     "passage": {
       "ref": "Gênesis 40 · capítulo completo (NVI)",
       "verses": [
@@ -6176,7 +6176,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que sabedoria prática você precisa aplicar hoje como resposta concreta a algo que Deus já lhe revelou?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, aplique hoje uma ação prática e concreta como resposta a algo que Deus já lhe revelou espiritualmente, mas que você ainda não colocou em prática.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. a resposta não depende de mim, mas de ti. Usa-me como quiseres, mesmo depois de longa espera. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. A resposta não depende de mim, mas de ti. Usa-me como quiseres, mesmo depois de longa espera. Amém.",
     "passage": {
       "ref": "Gênesis 41 · capítulo completo (NVI)",
       "verses": [
@@ -6438,7 +6438,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que conversa de confissão você tem adiado com alguém que você prejudicou no passado?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, considere hoje iniciar uma conversa de confissão sincera com alguém que você prejudicou no passado, mesmo que o tempo já tenha passado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. revela em mim qualquer culpa não resolvida que ainda precisa ser confessada, mesmo depois de muito tempo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Revela em mim qualquer culpa não resolvida que ainda precisa ser confessada, mesmo depois de muito tempo. Amém.",
     "passage": {
       "ref": "Gênesis 42 · capítulo completo (NVI)",
       "verses": [
@@ -6624,7 +6624,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que provisão inesperada em sua vida você pode reconhecer, olhando para trás, como vinda diretamente de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça hoje hospitalidade e tranquilização genuína a alguém que se aproxima de você com medo ou desconfiança desnecessária.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tranquiliza meu coração ansioso. Confio que tu, não meu medo, tens a última palavra sobre minha situação. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tranquiliza meu coração ansioso. Confio que tu, não meu medo, tens a última palavra sobre minha situação. Amém.",
     "passage": {
       "ref": "Gênesis 43 · capítulo completo (NVI)",
       "verses": [
@@ -6794,7 +6794,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como a transformação de Judá encoraja você sobre a possibilidade real de mudança profunda de caráter em qualquer pessoa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça-se hoje para carregar, de forma concreta, um fardo que pertence a outra pessoa, como expressão de amor sacrificial.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelo exemplo de transformação de Judá. Molda em mim a mesma disposição de amor sacrificial. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelo exemplo de transformação de Judá. Molda em mim a mesma disposição de amor sacrificial. Amém.",
     "passage": {
       "ref": "Gênesis 44 · capítulo completo (NVI)",
       "verses": [
@@ -6964,7 +6964,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Como a libertação genuína, tanto para quem perdoa quanto para quem é perdoado, pode acontecer em uma situação sua atual?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, considere hoje uma traição ou mágoa antiga e busque, em oração, reinterpretá-la através do propósito maior que Deus pode ter usado nela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por transformares o mal que sofri em propósito de vida. Ajuda-me a perdoar como José perdoou. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por transformares o mal que sofri em propósito de vida. Ajuda-me a perdoar como José perdoou. Amém.",
     "passage": {
       "ref": "Gênesis 45 · capítulo completo (NVI)",
       "verses": [
@@ -7110,7 +7110,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que reunião ou reconciliação familiar você ainda espera, mesmo depois de anos de separação?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, considere hoje uma mudança que parece um retrocesso e peça a Deus para revelar como ela pode fazer parte de um propósito maior.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não temerei descer aonde tu me guiares, pois prometes descer comigo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não temerei descer aonde tu me guiares, pois prometes descer comigo. Amém.",
     "passage": {
       "ref": "Gênesis 46 · capítulo completo (NVI)",
       "verses": [
@@ -7280,7 +7280,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que resumo honesto de sua própria jornada até aqui você precisa fazer diante de Deus hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje um breve e honesto resumo da sua própria jornada de vida até aqui, incluindo tanto dificuldades quanto bênçãos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sou peregrino nesta terra. Obrigado por me guiares através dos anos difíceis e dos bons. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sou peregrino nesta terra. Obrigado por me guiares através dos anos difíceis e dos bons. Amém.",
     "passage": {
       "ref": "Gênesis 47 · capítulo completo (NVI)",
       "verses": [
@@ -7438,7 +7438,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que bênção intencional e específica você precisa pronunciar sobre a próxima geração da sua família?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pronuncie hoje, verbalmente e com intenção, uma bênção específica sobre alguém mais jovem em sua família ou comunidade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu tens sido meu pastor durante toda a minha vida. Obrigado por me redimires de todo mal. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu tens sido meu pastor durante toda a minha vida. Obrigado por me redimires de todo mal. Amém.",
     "passage": {
       "ref": "Gênesis 48 · capítulo completo (NVI)",
       "verses": [
@@ -7726,7 +7726,7 @@ window.GENESIS_CARTA = [
       "Pensando apenas no próximo passo possível: Que esperança aberta, ainda não completamente resolvida, você carrega, confiando que Deus continuará escrevendo a história?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje uma reflexão final sobre esta jornada por Gênesis: que situação em sua própria vida você agora consegue ver com os olhos de José, confiando que Deus a tornou, ou tornará, em bem.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu tornas em bem o que outros planejam para o mal. Obrigado por esta jornada inteira por Gênesis. Confio no que ainda está por vir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu tornas em bem o que outros planejam para o mal. Obrigado por esta jornada inteira por Gênesis. Confio no que ainda está por vir. Amém.",
     "passage": {
       "ref": "Gênesis 50 · capítulo completo (NVI)",
       "verses": [

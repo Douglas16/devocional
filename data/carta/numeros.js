@@ -35,7 +35,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Que preparação, prática e espiritual, você precisa fazer para a próxima etapa da sua jornada?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje que Deus o conhece pelo nome, não apenas como número, e viva conscientemente essa identidade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por me conheceres pelo nome. Prepara-me para a jornada que ainda tenho pela frente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por me conheceres pelo nome. Prepara-me para a jornada que ainda tenho pela frente. Amém.",
     "passage": {
       "ref": "Números 1 · capítulo completo (NVI)",
       "verses": [
@@ -285,7 +285,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Que 'bandeira' você carrega que representa sua identidade única dentro do povo de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita hoje sobre como organizar mais intencionalmente sua vida ao redor da presença central de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha vida esteja organizada ao redor da tua presença central. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha vida esteja organizada ao redor da tua presença central. Amém.",
     "passage": {
       "ref": "Números 2 · capítulo completo (NVI)",
       "verses": [
@@ -455,7 +455,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Que função específica você tem dentro da comunidade maior de fé, servindo de forma organizada aos demais?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje que você pertence a Deus por resgate, e sirva a partir dessa identidade, não para conquistá-la.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sou teu por resgate. Que eu sirva a partir dessa certeza, não para merecê-la. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sou teu por resgate. Que eu sirva a partir dessa certeza, não para merecê-la. Amém.",
     "passage": {
       "ref": "Números 3 · capítulo completo (NVI)",
       "verses": [
@@ -693,7 +693,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Que familiaridade com coisas sagradas pode ter, sem perceber, gerado descuido em vez de reverência em sua vida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma área sagrada de sua vida espiritual que pode ter se tornado familiar demais, e renove sua reverência por ela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me de tratar com descuido o que é sagrado diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me de tratar com descuido o que é sagrado diante de ti. Amém.",
     "passage": {
       "ref": "Números 4 · capítulo completo (NVI)",
       "verses": [
@@ -923,7 +923,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Que relação de confiança quebrada em sua vida ainda precisa de restauração prática e intencional?"
     ],
     "application": "Hoje, se você causou um dano concreto a alguém, pense em uma forma segura e responsável de repará-lo. Nos conflitos conjugais, não use o ritual antigo deste capítulo como modelo atual de investigação ou constrangimento.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a restituir com generosidade o que já causei de dano a outros. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a restituir com generosidade o que já causei de dano a outros. Amém.",
     "passage": {
       "ref": "Números 5 · capítulo completo (NVI)",
       "verses": [
@@ -1081,7 +1081,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Que período especial e temporário de consagração extraordinária você poderia fazer diante de Deus agora?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pronuncie hoje a Bênção Sacerdotal sobre alguém importante em sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. abençoa-me e guarda-me. Faze resplandecer teu rosto sobre mim e dá-me paz. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Abençoa-me e guarda-me. Faze resplandecer teu rosto sobre mim e dá-me paz. Amém.",
     "passage": {
       "ref": "Números 6 · capítulo completo (NVI)",
       "verses": [
@@ -1223,7 +1223,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Que texto bíblico aparentemente repetitivo ou tedioso você poderia reler buscando o significado intencional por trás dele?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, busque hoje um momento de comunicação direta e pessoal com Deus, sem pressa, como Moisés na Tenda do Encontro.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. fala comigo como falaste com Moisés. Estou aqui para te ouvir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Fala comigo como falaste com Moisés. Estou aqui para te ouvir. Amém.",
     "passage": {
       "ref": "Números 7 · capítulo completo (NVI)",
       "verses": [
@@ -1613,7 +1613,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Você reconhece que diferentes estações da vida trazem diferentes capacidades e responsabilidades apropriadas de serviço?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, marque hoje, de forma visível e memorável, uma transição espiritual importante que você está atravessando.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me separaste para ti. Que eu viva essa consagração com alegria em cada estação da vida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me separaste para ti. Que eu viva essa consagração com alegria em cada estação da vida. Amém.",
     "passage": {
       "ref": "Números 8 · capítulo completo (NVI)",
       "verses": [
@@ -1751,7 +1751,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Você está mais disposto a partir quando Deus indica, ou a permanecer quando ele pede paciência?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, considere hoje uma área em que você precisa esperar pela 'nuvem' de Deus antes de agir por conta própria.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guia-me como guiaste Israel pela nuvem. Ajuda-me a partir e permanecer conforme tua ordem. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guia-me como guiaste Israel pela nuvem. Ajuda-me a partir e permanecer conforme tua ordem. Amém.",
     "passage": {
       "ref": "Números 9 · capítulo completo (NVI)",
       "verses": [
@@ -1877,7 +1877,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Que sinais claros Deus tem usado para ajudar sua comunidade a se mover em unidade e propósito comum?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, convide hoje alguém para se juntar a você em uma jornada ou propósito espiritual que Deus tem colocado à sua frente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. estamos partindo para o lugar que prometeste. Vai conosco nesta jornada. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Estamos partindo para o lugar que prometeste. Vai conosco nesta jornada. Amém.",
     "passage": {
       "ref": "Números 10 · capítulo completo (NVI)",
       "verses": [
@@ -2055,7 +2055,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Que responsabilidade de liderança você precisa compartilhar com outros, aliviando um peso que carrega sozinho?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, celebre hoje, genuinamente e sem ciúme, o dom ou sucesso espiritual de outra pessoa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu deseje, como Moisés, que todo o teu povo seja plenamente usado por ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu deseje, como Moisés, que todo o teu povo seja plenamente usado por ti. Amém.",
     "passage": {
       "ref": "Números 11 · capítulo completo (NVI)",
       "verses": [
@@ -2229,7 +2229,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Você intercede genuinamente por quem o feriu, como Moisés intercedeu por Miriã, mesmo depois de ser ferido?"
     ],
     "application": "Se você está vivendo conflito ou crítica dentro da família, procure responder sem humilhação pública. Quando necessário, estabeleça limites e busque mediação madura.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me a paciência e humildade de Moisés diante da crítica injusta. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me a paciência e humildade de Moisés diante da crítica injusta. Amém.",
     "passage": {
       "ref": "Números 12 · capítulo completo (NVI)",
       "verses": [
@@ -2327,7 +2327,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Como avaliar obstáculos reais à luz do poder de Deus, sem negar sua existência, mas sem se paralisar diante deles?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, fale hoje, com a mesma coragem de Calebe, uma palavra de fé confiante diante de uma situação que tem gerado desânimo coletivo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. como Calebe, quero focar na tua promessa, não apenas nos obstáculos. É certo que venceremos contigo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Como Calebe, quero focar na tua promessa, não apenas nos obstáculos. É certo que venceremos contigo. Amém.",
     "passage": {
       "ref": "Números 13 · capítulo completo (NVI)",
       "verses": [
@@ -2493,7 +2493,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Você já sentiu a angústia genuína de ver pessoas próximas rejeitarem repetidamente a promessa de Deus?"
     ],
     "application": "Reconheça uma consequência que precisa ser enfrentada e escolha aprender com ela, sem transformar o erro em identidade permanente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não serei rebelde contra ti. Tu estás comigo; não temerei. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não serei rebelde contra ti. Tu estás comigo; não temerei. Amém.",
     "passage": {
       "ref": "Números 14 · capítulo completo (NVI)",
       "verses": [
@@ -2707,7 +2707,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Que consequência passada em sua vida não impediu Deus de continuar ensinando e preparando você para o futuro?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, adote hoje um lembrete visual simples e concreto para manter viva sua identidade como pessoa consagrada a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu me lembre sempre de obedecer aos teus mandamentos como povo consagrado a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu me lembre sempre de obedecer aos teus mandamentos como povo consagrado a ti. Amém.",
     "passage": {
       "ref": "Números 15 · capítulo completo (NVI)",
       "verses": [
@@ -2905,7 +2905,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Que autoridade legítima em sua vida você tem questionado por ambição pessoal disfarçada de princípio espiritual?"
     ],
     "application": "Em uma disputa por posição, influência ou reconhecimento, pare antes de reagir e examine se sua motivação está ligada a serviço, ressentimento ou necessidade de controle.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me de distorcer tua verdade para justificar rebelião contra a autoridade que estabeleceste. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me de distorcer tua verdade para justificar rebelião contra a autoridade que estabeleceste. Amém.",
     "passage": {
       "ref": "Números 16 · capítulo completo (NVI)",
       "verses": [
@@ -3139,7 +3139,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Que disputa ou dúvida persistente em sua comunidade precisa de um sinal claro de Deus para finalmente ser encerrada?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, confie hoje que Deus pode fazer florescer vida nova em uma área que parece completamente morta e sem esperança.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. faze florescer vida onde hoje só vejo madeira seca. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Faze florescer vida onde hoje só vejo madeira seca. Amém.",
     "passage": {
       "ref": "Números 17 · capítulo completo (NVI)",
       "verses": [
@@ -3225,7 +3225,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Como você contribui, prática e concretamente, para o sustento de quem serve em tempo integral no ministério ao seu redor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reafirme hoje, conscientemente, que Deus é sua porção mais valiosa, independentemente de qualquer posse material.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és a minha porção e minha herança. Nenhuma perda material pode diminuir essa riqueza. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és a minha porção e minha herança. Nenhuma perda material pode diminuir essa riqueza. Amém.",
     "passage": {
       "ref": "Números 18 · capítulo completo (NVI)",
       "verses": [
@@ -3509,7 +3509,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: O que significa, para você, honrar publicamente a santidade de Deus diante de outras pessoas que observam?"
     ],
     "application": "Se a pressão está tornando você irritado, reconheça isso antes de falar ou agir. Faça uma pausa real e, se possível, divida o peso com alguém confiável.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a honrar tua santidade diante dos outros, seguindo tuas instruções com precisão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a honrar tua santidade diante dos outros, seguindo tuas instruções com precisão. Amém.",
     "passage": {
       "ref": "Números 20 · capítulo completo (NVI)",
       "verses": [
@@ -3833,7 +3833,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Que cegueira espiritual você pode estar experimentando, incapaz de ver o que deveria ser óbvio?"
     ],
     "application": "Antes de insistir em uma decisão que enfrenta sinais repetidos de alerta, pare e reavalie. Convicção não dispensa discernimento.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. abre meus olhos para ver o que precisas me mostrar, mesmo através de meios inesperados. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Abre meus olhos para ver o que precisas me mostrar, mesmo através de meios inesperados. Amém.",
     "passage": {
       "ref": "Números 22 · capítulo completo (NVI)",
       "verses": [
@@ -4185,7 +4185,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Como a estrela de Belém, conectada a esta profecia antiga, aprofunda sua adoração ao Cristo nascido?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, medite hoje sobre a coerência profunda da Escritura, conectando esta antiga profecia à estrela que guiou os magos até Jesus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pela estrela que surgiu de Jacó. Adoro-te como o cumprimento desta antiga profecia. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pela estrela que surgiu de Jacó. Adoro-te como o cumprimento desta antiga profecia. Amém.",
     "passage": {
       "ref": "Números 24 · capítulo completo (NVI)",
       "verses": [
@@ -4319,7 +4319,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Como cultivar zelo genuíno por Deus, motivado por amor ao relacionamento de aliança, não por legalismo ou orgulho?"
     ],
     "application": "Leia este capítulo com sobriedade. Não transforme violência religiosa em modelo de zelo. Procure expressar fidelidade por meio de verdade, autocontrole e cuidado com a dignidade das pessoas.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me o mesmo zelo de Finéias por proteger meu relacionamento contigo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me o mesmo zelo de Finéias por proteger meu relacionamento contigo. Amém.",
     "passage": {
       "ref": "Números 25 · capítulo completo (NVI)",
       "verses": [
@@ -4425,7 +4425,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Uma falha de geração anterior não precisa impedir que a promessa ainda se cumpra através de você ou de gerações futuras."
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje um exemplo de fidelidade sustentada por décadas em sua própria família ou comunidade, e agradeça por ele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu seja, como Calebe e Josué, fiel até o cumprimento completo da tua promessa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu seja, como Calebe e Josué, fiel até o cumprimento completo da tua promessa. Amém.",
     "passage": {
       "ref": "Números 26 · capítulo completo (NVI)",
       "verses": [
@@ -4719,7 +4719,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Como você tem contribuído para que sua comunidade não seja como 'ovelhas sem pastor', desorientada e vulnerável?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje especificamente por um líder ou sucessor em sua própria comunidade, como Moisés orou por Josué.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá à tua comunidade pastores fiéis, para que não sejamos como ovelhas sem pastor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá à tua comunidade pastores fiéis, para que não sejamos como ovelhas sem pastor. Amém.",
     "passage": {
       "ref": "Números 27 · capítulo completo (NVI)",
       "verses": [
@@ -4845,7 +4845,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Como se preparar hoje para uma vida de fé mais estabelecida e permanente, não apenas reativa a circunstâncias momentâneas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, estabeleça ou reafirme hoje um ritmo regular e intencional de adoração em sua própria rotina.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha adoração seja sempre cuidadosa e de aroma agradável a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha adoração seja sempre cuidadosa e de aroma agradável a ti. Amém.",
     "passage": {
       "ref": "Números 28 · capítulo completo (NVI)",
       "verses": [
@@ -5003,7 +5003,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Que ritmo repetido de generosidade ao longo do ano você poderia estabelecer para sustentar continuamente sua fé?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, considere hoje um voto pessoal e voluntário de generosidade que vá além da obediência mínima esperada.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. além do que já ordenas, quero oferecer votos voluntários de amor por ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Além do que já ordenas, quero oferecer votos voluntários de amor por ti. Amém.",
     "passage": {
       "ref": "Números 29 · capítulo completo (NVI)",
       "verses": [
@@ -5197,7 +5197,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Você trata suas palavras diante de Deus com a seriedade de um compromisso vinculante, ou como algo facilmente descartável?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, revise hoje qualquer promessa que você tenha feito a Deus e ainda não cumpriu, tomando um passo concreto para honrá-la.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a cumprir fielmente cada palavra que te dou, sem quebrá-la levianamente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a cumprir fielmente cada palavra que te dou, sem quebrá-la levianamente. Amém.",
     "passage": {
       "ref": "Números 30 · capítulo completo (NVI)",
       "verses": [
@@ -5295,7 +5295,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Que responsabilidade você tem por não induzir, ativa ou passivamente, outros a se afastarem de Deus?"
     ],
     "application": "Leia Números 31 como narrativa de guerra antiga, não como autorização para violência hoje. Se algo neste capítulo inquietar você, leve a pergunta a Deus em vez de tentar suavizar o texto.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha vida termine em obediência fiel, como a de Moisés, até o último dia. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha vida termine em obediência fiel, como a de Moisés, até o último dia. Amém.",
     "passage": {
       "ref": "Números 31 · capítulo completo (NVI)",
       "verses": [
@@ -5545,7 +5545,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Que acordo sábio você poderia negociar entre seu próprio interesse legítimo e o bem-estar de todo o grupo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, considere hoje uma forma de adiar um benefício pessoal legítimo até que você tenha contribuído mais para uma missão comunitária compartilhada.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a não buscar conforto próprio enquanto meus irmãos ainda enfrentam a batalha. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a não buscar conforto próprio enquanto meus irmãos ainda enfrentam a batalha. Amém.",
     "passage": {
       "ref": "Números 32 · capítulo completo (NVI)",
       "verses": [
@@ -5747,7 +5747,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Como comunicar de forma mais vívida e memorável, para você mesmo ou para outros, as consequências reais de compromissos parciais?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, complete hoje uma obediência que você tem deixado apenas parcialmente feita, evitando futuras 'farpas' evitáveis.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a completar, não apenas iniciar, a obediência que me pedes. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a completar, não apenas iniciar, a obediência que me pedes. Amém.",
     "passage": {
       "ref": "Números 33 · capítulo completo (NVI)",
       "verses": [
@@ -6005,7 +6005,7 @@ window.NUMEROS_CARTA = [
       "Pensando apenas no próximo passo possível: Que processo administrativo prático e concreto você precisa organizar melhor em sua própria área de responsabilidade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, estabeleça hoje um limite claro e saudável em uma área de sua vida que tem sofrido com ambiguidade excessiva.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelos limites que estabeleces para minha vida. Confio neles mesmo antes de vê-los completamente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelos limites que estabeleces para minha vida. Confio neles mesmo antes de vê-los completamente. Amém.",
     "passage": {
       "ref": "Números 34 · capítulo completo (NVI)",
       "verses": [
@@ -6155,7 +6155,7 @@ window.NUMEROS_CARTA = [
       "Na prática de hoje: Como equilibrar justiça e misericórdia ao distinguir entre erro acidental e ofensa deliberada em situações que você enfrenta?"
     ],
     "application": "Em um conflito, separe intenção, acidente, evidência e desejo de vingança antes de concluir. Justiça responsável precisa de processo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és meu refúgio. Ajuda-me a oferecer o mesmo refúgio a quem precisa, sem distinção. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és meu refúgio. Ajuda-me a oferecer o mesmo refúgio a quem precisa, sem distinção. Amém.",
     "passage": {
       "ref": "Números 35 · capítulo completo (NVI)",
       "verses": [
@@ -6325,7 +6325,7 @@ window.NUMEROS_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Que questão pendente em sua própria vida você precisa concluir apropriadamente antes de avançar para a próxima etapa da jornada?"
     ],
     "application": "Ao lidar com patrimônio, família ou tradição, pergunte como preservar o que é importante sem reduzir pessoas — especialmente mulheres — a instrumentos de uma estrutura.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelo teu cuidado meticuloso em cada detalhe da minha jornada. Prepara-me para a próxima etapa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelo teu cuidado meticuloso em cada detalhe da minha jornada. Prepara-me para a próxima etapa. Amém.",
     "passage": {
       "ref": "Números 36 · capítulo completo (NVI)",
       "verses": [

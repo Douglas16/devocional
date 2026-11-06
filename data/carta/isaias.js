@@ -32,7 +32,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Que mancha você duvida que possa ficar branca como a neve?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, leve a Deus, em oração específica, algo que você julga imperdoável em si mesmo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. lava o que em mim parece vermelho demais. Ensina-me justiça, não apenas ritual. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Lava o que em mim parece vermelho demais. Ensina-me justiça, não apenas ritual. Amém.",
     "passage": {
       "ref": "Isaías 1 · capítulo completo (NVI)",
       "verses": [
@@ -190,7 +190,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como sua vida aponta hoje para o monte do Senhor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha um conflito pessoal e proponha um passo concreto de paz esta semana.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me teus caminhos e transforma minhas armas em instrumentos de vida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me teus caminhos e transforma minhas armas em instrumentos de vida. Amém.",
     "passage": {
       "ref": "Isaías 2 · capítulo completo (NVI)",
       "verses": [
@@ -312,7 +312,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Em que você tem buscado aparência em vez de caráter?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma área de vaidade em sua vida e troque-a por um passo concreto de integridade hoje.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. forma em mim uma justiça que resista mesmo quando tudo ao redor desmorona. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Forma em mim uma justiça que resista mesmo quando tudo ao redor desmorona. Amém.",
     "passage": {
       "ref": "Isaías 3 · capítulo completo (NVI)",
       "verses": [
@@ -450,7 +450,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: O que significa confiar na beleza que ainda vem?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva uma esperança concreta que você aguarda de Deus depois de uma poda recente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. faze brotar beleza no que em mim parece arrasado. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Faze brotar beleza no que em mim parece arrasado. Amém.",
     "passage": {
       "ref": "Isaías 4 · capítulo completo (NVI)",
       "verses": [
@@ -508,7 +508,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como recuperar clareza moral em meio à confusão ao redor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma área em que você racionalizou algo errado como se fosse aceitável, e corrija o rumo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me clareza para chamar o bem de bem e o mal de mal. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me clareza para chamar o bem de bem e o mal de mal. Amém.",
     "passage": {
       "ref": "Isaías 5 · capítulo completo (NVI)",
       "verses": [
@@ -882,7 +882,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Que plano ou estratégia você precisa entregar a Deus hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva um medo específico e, ao lado, a frase 'Deus está conosco' como resposta direta a ele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dos Exércitos, és tu quem eu santifico. Nenhum plano contra mim tem a última palavra. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dos Exércitos, és tu quem eu santifico. Nenhum plano contra mim tem a última palavra. Amém.",
     "passage": {
       "ref": "Isaías 8 · capítulo completo (NVI)",
       "verses": [
@@ -1390,7 +1390,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Como tornar a salvação de Deus, e não apenas suas circunstâncias, o motivo do seu louvor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, cante ou leia em voz alta este versículo hoje como declaração pessoal.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és minha força e meu cântico; tu és a minha salvação. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és minha força e meu cântico; tu és a minha salvação. Amém.",
     "passage": {
       "ref": "Isaías 12 · capítulo completo (NVI)",
       "verses": [
@@ -1570,7 +1570,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como a queda deste rei serve de advertência pessoal, não só política?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, nomeie uma área de orgulho pessoal e escolha, hoje, um ato concreto de humildade nela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me do orgulho que quer subir mais do que deve. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me do orgulho que quer subir mais do que deve. Amém.",
     "passage": {
       "ref": "Isaías 14 · capítulo completo (NVI)",
       "verses": [
@@ -1732,7 +1732,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Que 'Moabe' em sua vida — uma pessoa difícil — precisa da sua compaixão, não só do seu julgamento?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje por alguém que você tende a julgar com mais facilidade do que compaixão.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me um coração que chora, não que se alegra, diante da queda de qualquer pessoa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me um coração que chora, não que se alegra, diante da queda de qualquer pessoa. Amém.",
     "passage": {
       "ref": "Isaías 15 · capítulo completo (NVI)",
       "verses": [
@@ -1802,7 +1802,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Como confiar no trono de Deus quando tronos humanos falham?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje 'defender o que é justo' em favor de alguém que não pode se defender sozinho.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. firma em mim um caráter sustentado por amor leal e justiça. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Firma em mim um caráter sustentado por amor leal e justiça. Amém.",
     "passage": {
       "ref": "Isaías 16 · capítulo completo (NVI)",
       "verses": [
@@ -1982,7 +1982,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: O que significa trazer sua própria 'dádiva' ao monte do Senhor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje por um povo ou grupo distante da sua cultura que ainda precisa conhecer a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dos Exércitos, alarga minha visão para todos os povos que ainda virão a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dos Exércitos, alarga minha visão para todos os povos que ainda virão a ti. Amém.",
     "passage": {
       "ref": "Isaías 18 · capítulo completo (NVI)",
       "verses": [
@@ -2044,7 +2044,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: O que significa ver antigos inimigos como possíveis 'povo de Deus'?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje pela reconciliação entre dois grupos ou pessoas que você vê como inimigos históricos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. alarga meu coração para bendizer quem eu só sabia temer ou rejeitar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Alarga meu coração para bendizer quem eu só sabia temer ou rejeitar. Amém.",
     "passage": {
       "ref": "Isaías 19 · capítulo completo (NVI)",
       "verses": [
@@ -2178,7 +2178,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como discernir entre confiar em recursos humanos e confiar exclusivamente em Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma segurança humana que você tem tratado como garantia e reafirme hoje sua confiança primária em Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tira de mim a confiança em alianças que não podem salvar. Quero confiar só em ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tira de mim a confiança em alianças que não podem salvar. Quero confiar só em ti. Amém.",
     "passage": {
       "ref": "Isaías 20 · capítulo completo (NVI)",
       "verses": [
@@ -2236,7 +2236,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Quem em sua vida precisa que você seja um vigia atento por ela?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, persista hoje em uma pergunta ainda sem resposta, voltando a Deus em oração em vez de desistir dela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a vigiar e a perguntar de novo, mesmo quando a noite ainda não passou. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a vigiar e a perguntar de novo, mesmo quando a noite ainda não passou. Amém.",
     "passage": {
       "ref": "Isaías 21 · capítulo completo (NVI)",
       "verses": [
@@ -2338,7 +2338,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Como distinguir posição dada por Deus de posição conquistada por ambição?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, entregue a Deus uma porta fechada em sua vida, confiando que só ele tem a chave final sobre ela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu tens a chave que ninguém fecha. Confio nas portas que só tu podes abrir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu tens a chave que ninguém fecha. Confio nas portas que só tu podes abrir. Amém.",
     "passage": {
       "ref": "Isaías 22 · capítulo completo (NVI)",
       "verses": [
@@ -2472,7 +2472,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Onde a busca por prosperidade tem ocupado o lugar que pertence a Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, separe hoje uma parte concreta do que você ganha ou produz como oferta consciente a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. consagra a ti até o fruto do meu trabalho e do meu comércio diário. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Consagra a ti até o fruto do meu trabalho e do meu comércio diário. Amém.",
     "passage": {
       "ref": "Isaías 23 · capítulo completo (NVI)",
       "verses": [
@@ -2578,7 +2578,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: O que significa buscar a glória de Deus em meio ao colapso visível ao redor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, diante de uma notícia ou situação caótica desta semana, declare conscientemente que o Senhor reina sobre ela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dos Exércitos, reina sobre o caos que vejo — tua glória é maior que ele. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dos Exércitos, reina sobre o caos que vejo — tua glória é maior que ele. Amém.",
     "passage": {
       "ref": "Isaías 24 · capítulo completo (NVI)",
       "verses": [
@@ -2786,7 +2786,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como cultivar uma confiança contínua, e não apenas momentânea?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha um pensamento ansioso recorrente e substitua-o, cada vez que aparecer hoje, por esta promessa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. firma meu propósito em ti e guarda-me em perfeita paz. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Firma meu propósito em ti e guarda-me em perfeita paz. Amém.",
     "passage": {
       "ref": "Isaías 26 · capítulo completo (NVI)",
       "verses": [
@@ -2904,7 +2904,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Como confiar que Deus reúne e cuida de cada pessoa, uma a uma?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, invista hoje em uma prática espiritual que aprofunde suas raízes: Escritura, oração ou comunhão.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. planta-me como uma vinha cuidada por ti, e faze-me dar fruto para o mundo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Planta-me como uma vinha cuidada por ti, e faze-me dar fruto para o mundo. Amém.",
     "passage": {
       "ref": "Isaías 27 · capítulo completo (NVI)",
       "verses": [
@@ -2990,7 +2990,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Onde você tem confiado em fundamentos frágeis disfarçados de solidez?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma segurança falsa em sua vida e substitua-a conscientemente por confiança na pedra angular, Cristo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és a pedra angular da minha vida; nela confio e não serei abalado. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és a pedra angular da minha vida; nela confio e não serei abalado. Amém.",
     "passage": {
       "ref": "Isaías 28 · capítulo completo (NVI)",
       "verses": [
@@ -3140,7 +3140,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como aproximar seu coração, não só suas palavras, de Deus hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de qualquer prática religiosa hoje, pare e examine conscientemente a condição real do seu coração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que meus lábios e meu coração estejam igualmente perto de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que meus lábios e meu coração estejam igualmente perto de ti. Amém.",
     "passage": {
       "ref": "Isaías 29 · capítulo completo (NVI)",
       "verses": [
@@ -3506,7 +3506,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como cooperar hoje com a obra do Espírito que transforma deserto em campo fértil?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje um ato concreto de justiça — corrigir algo, restituir algo, defender alguém.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que a justiça reine em mim e produza a paz que só ela pode gerar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que a justiça reine em mim e produza a paz que só ela pode gerar. Amém.",
     "passage": {
       "ref": "Isaías 32 · capítulo completo (NVI)",
       "verses": [
@@ -3620,7 +3620,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Como viver sob uma autoridade que também é quem salva?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, clame hoje a Deus por graça em uma situação específica de ameaça ou incerteza.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és meu juiz, meu legislador e meu rei; salva-me hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és meu juiz, meu legislador e meu rei; salva-me hoje. Amém.",
     "passage": {
       "ref": "Isaías 33 · capítulo completo (NVI)",
       "verses": [
@@ -3750,7 +3750,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Como distinguir desejo de vingança pessoal de confiança na justiça divina?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, entregue conscientemente a Deus, em oração, uma injustiça sofrida que você ainda carrega sozinho.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu defendes a causa dos oprimidos; entrego a ti o que não posso resolver sozinho. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu defendes a causa dos oprimidos; entrego a ti o que não posso resolver sozinho. Amém.",
     "passage": {
       "ref": "Isaías 34 · capítulo completo (NVI)",
       "verses": [
@@ -3852,7 +3852,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como caminhar hoje já na expectativa da alegria eterna prometida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva uma área árida da sua vida e ore especificamente pedindo que Deus a faça florescer.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. faze florescer o deserto da minha vida e fortalece o que em mim está fraco. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Faze florescer o deserto da minha vida e fortalece o que em mim está fraco. Amém.",
     "passage": {
       "ref": "Isaías 35 · capítulo completo (NVI)",
       "verses": [
@@ -3926,7 +3926,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Que 'comandante assírio' — voz de intimidação — você precisa não deixar abalar sua confiança em Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva sua resposta pessoal e sincera à pergunta 'em que baseio minha confiança?' e leve-a a Deus em oração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mesmo diante de vozes que zombam, minha confiança permanece em ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Mesmo diante de vozes que zombam, minha confiança permanece em ti. Amém.",
     "passage": {
       "ref": "Isaías 36 · capítulo completo (NVI)",
       "verses": [
@@ -4048,7 +4048,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Como a resposta rápida de Deus a Ezequias fortalece sua fé para esperas atuais?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva sua maior preocupação atual como uma 'carta' e literalmente a coloque diante de Deus em oração hoje.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. nosso Deus, salva-nos, para que se saiba que só tu és Deus. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Nosso Deus, salva-nos, para que se saiba que só tu és Deus. Amém.",
     "passage": {
       "ref": "Isaías 37 · capítulo completo (NVI)",
       "verses": [
@@ -4234,7 +4234,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: O que significa viver cada dia acrescentado como um cântico de gratidão?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva um breve cântico ou oração de gratidão por um tempo de vida ou saúde que Deus lhe concedeu.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me guardaste da cova; recebe hoje meu cântico de gratidão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me guardaste da cova; recebe hoje meu cântico de gratidão. Amém.",
     "passage": {
       "ref": "Isaías 38 · capítulo completo (NVI)",
       "verses": [
@@ -4356,7 +4356,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Que orgulho por conquistas pessoais você precisa examinar hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pense em uma decisão que afeta gerações futuras (família, igreja, comunidade) e aja hoje com responsabilidade além do seu próprio tempo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me do conforto egoísta; ensina-me a viver responsável também pelo amanhã dos outros. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me do conforto egoísta; ensina-me a viver responsável também pelo amanhã dos outros. Amém.",
     "passage": {
       "ref": "Isaías 39 · capítulo completo (NVI)",
       "verses": [
@@ -4422,7 +4422,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Como esta virada — do juízo para o consolo — encoraja sua leitura da própria história?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve hoje um tempo para simplesmente esperar em oração, sem pedir nada além de força renovada.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. renova minhas forças enquanto espero em ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Renova minhas forças enquanto espero em ti. Amém.",
     "passage": {
       "ref": "Isaías 40 · capítulo completo (NVI)",
       "verses": [
@@ -4580,7 +4580,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Em que área você precisa ser 'segurado' pela mão de Deus agora?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva este versículo em um lugar visível e repita-o diante do seu maior medo atual.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não temerei, pois estás comigo. Segura-me com tua mão direita vitoriosa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não temerei, pois estás comigo. Segura-me com tua mão direita vitoriosa. Amém.",
     "passage": {
       "ref": "Isaías 41 · capítulo completo (NVI)",
       "verses": [
@@ -4730,7 +4730,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Em que área você precisa do Espírito de Deus para perseverar sem desanimar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma pessoa frágil ou desanimada ao seu redor e trate-a hoje com a gentileza descrita neste capítulo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. faze de mim um servo gentil com os frágeis, sustentado pelo teu Espírito. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Faze de mim um servo gentil com os frágeis, sustentado pelo teu Espírito. Amém.",
     "passage": {
       "ref": "Isaías 42 · capítulo completo (NVI)",
       "verses": [
@@ -4864,7 +4864,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Como a linguagem do êxodo original ilumina sua própria travessia atual?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje declarando seu próprio nome diante de Deus, reconhecendo-se pessoalmente resgatado e chamado por ele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me resgataste e me chamaste pelo nome. Atravessa comigo as águas e o fogo de hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me resgataste e me chamaste pelo nome. Atravessa comigo as águas e o fogo de hoje. Amém.",
     "passage": {
       "ref": "Isaías 43 · capítulo completo (NVI)",
       "verses": [
@@ -5010,7 +5010,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Onde a sátira deste capítulo expõe alguma prática sua com clareza incômoda?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique algo que você trata funcionalmente como 'deus' em sua rotina e devolva esse lugar exclusivamente ao Senhor.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és o primeiro e o último; não há outro deus além de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és o primeiro e o último; não há outro deus além de ti. Amém.",
     "passage": {
       "ref": "Isaías 44 · capítulo completo (NVI)",
       "verses": [
@@ -5156,7 +5156,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Que 'trevas' você precisa confiar que Deus também forma e governa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore por alguém distante da fé, confiando que Deus pode usar até circunstâncias inesperadas para alcançá-lo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. volto-me para ti e creio que és Deus, e não há nenhum outro. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Volto-me para ti e creio que és Deus, e não há nenhum outro. Amém.",
     "passage": {
       "ref": "Isaías 45 · capítulo completo (NVI)",
       "verses": [
@@ -5290,7 +5290,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Você tem deixado Deus carregá-lo, ou insistido em carregar tudo sozinho?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, entregue hoje, conscientemente, um peso que você insiste em carregar sozinho ao Deus que promete sustentá-lo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me fizeste e me levarás; sustenta-me até o fim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me fizeste e me levarás; sustenta-me até o fim. Amém.",
     "passage": {
       "ref": "Isaías 46 · capítulo completo (NVI)",
       "verses": [
@@ -5376,7 +5376,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como sua identidade como redimido permanece firme mesmo quando impérios ao redor caem?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, abra mão hoje de qualquer prática de buscar controle ou previsão do futuro fora da confiança em Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dos Exércitos, Santo de Israel, tu és o meu Redentor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dos Exércitos, Santo de Israel, tu és o meu Redentor. Amém.",
     "passage": {
       "ref": "Isaías 47 · capítulo completo (NVI)",
       "verses": [
@@ -5470,7 +5470,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Como a fidelidade de Deus 'por causa do seu nome' muda sua confiança em dias de teimosia pessoal?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, peça a Deus hoje que revele uma lição específica escondida dentro de uma dificuldade atual.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me o que é melhor e dirige-me no caminho que devo seguir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me o que é melhor e dirige-me no caminho que devo seguir. Amém.",
     "passage": {
       "ref": "Isaías 48 · capítulo completo (NVI)",
       "verses": [
@@ -5592,7 +5592,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Que 'muro' da sua vida você precisa confiar que está sempre diante dos olhos de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva seu próprio nome na palma da mão hoje como lembrete físico desta promessa ao longo do dia.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por me gravar nas palmas das tuas mãos. Não me esqueças, e eu não esquecerei de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por me gravar nas palmas das tuas mãos. Não me esqueças, e eu não esquecerei de ti. Amém.",
     "passage": {
       "ref": "Isaías 49 · capítulo completo (NVI)",
       "verses": [
@@ -5730,7 +5730,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Que 'manhã após manhã' de escuta você precisa recuperar em sua rotina espiritual?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, comece amanhã com um tempo intencional de escuta a Deus antes de qualquer outra atividade do dia.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. desperta meu ouvido manhã após manhã para que eu saiba sustentar o exausto. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Desperta meu ouvido manhã após manhã para que eu saiba sustentar o exausto. Amém.",
     "passage": {
       "ref": "Isaías 50 · capítulo completo (NVI)",
       "verses": [
@@ -5934,7 +5934,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Como anunciar hoje, de forma simples, que 'o seu Deus reina' a alguém que precisa ouvir isso?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, leve hoje, pessoalmente, uma palavra concreta de boa notícia ou encorajamento a alguém específico.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. faze dos meus pés instrumentos de boas novas e do teu reinado. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Faze dos meus pés instrumentos de boas novas e do teu reinado. Amém.",
     "passage": {
       "ref": "Isaías 52 · capítulo completo (NVI)",
       "verses": [
@@ -6110,7 +6110,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Você vive na segurança de uma aliança que 'não se abala', ou na ansiedade de merecê-la constantemente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva uma vergonha antiga que você ainda carrega e entregue-a, hoje, à aliança de paz e compaixão de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tua fidelidade não se abala. Descanso na tua aliança de paz. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tua fidelidade não se abala. Descanso na tua aliança de paz. Amém.",
     "passage": {
       "ref": "Isaías 54 · capítulo completo (NVI)",
       "verses": [
@@ -6212,7 +6212,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Que promessa de Deus você precisa confiar que 'não voltará vazia' em sua vida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma busca que nunca satisfaz de verdade e substitua-a por tempo genuíno com Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. venho com sede às tuas águas. Satisfaze-me com o que realmente nutre. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Venho com sede às tuas águas. Satisfaze-me com o que realmente nutre. Amém.",
     "passage": {
       "ref": "Isaías 55 · capítulo completo (NVI)",
       "verses": [
@@ -6298,7 +6298,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: O que significa guardar justiça como preparação para a adoração genuína?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dê um passo concreto de acolhimento a alguém que se sente à margem da sua comunidade de fé.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que tua casa seja, através de mim, casa de oração para todos os povos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que tua casa seja, através de mim, casa de oração para todos os povos. Amém.",
     "passage": {
       "ref": "Isaías 56 · capítulo completo (NVI)",
       "verses": [
@@ -6498,7 +6498,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Como equilibrar disciplina espiritual pessoal com ação concreta em favor dos oprimidos?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, realize hoje um ato concreto de justiça a favor de alguém em desvantagem — tempo, recurso ou defesa ativa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que meu jejum se traduza em libertação real para quem sofre ao meu redor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que meu jejum se traduza em libertação real para quem sofre ao meu redor. Amém.",
     "passage": {
       "ref": "Isaías 58 · capítulo completo (NVI)",
       "verses": [
@@ -6588,7 +6588,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como a certeza de que o Redentor virá muda sua disposição para confessar em vez de esconder?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, faça hoje uma confissão específica e honesta a Deus, sem generalizações vagas.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. teu braço não é curto. Removo o que separa meu rosto do teu e venho a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Teu braço não é curto. Removo o que separa meu rosto do teu e venho a ti. Amém.",
     "passage": {
       "ref": "Isaías 59 · capítulo completo (NVI)",
       "verses": [
@@ -6706,7 +6706,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Como sua restauração pessoal pode atrair outros para a mesma luz?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita hoje, em uma ação concreta, a luz que você recebeu de Deus para alguém que ainda vive em trevas.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. levanto-me diante da tua luz. Que ela raie sobre mim e através de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Levanto-me diante da tua luz. Que ela raie sobre mim e através de mim. Amém.",
     "passage": {
       "ref": "Isaías 60 · capítulo completo (NVI)",
       "verses": [
@@ -6828,7 +6828,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: O que significa, para você hoje, ser 'ungido' e 'enviado' como este texto descreve?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje uma pessoa com o coração quebrantado e ofereça a ela cuidado concreto e presença.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. unge-me com teu Espírito para levar boas notícias e liberdade a quem precisa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Unge-me com teu Espírito para levar boas notícias e liberdade a quem precisa. Amém.",
     "passage": {
       "ref": "Isaías 61 · capítulo completo (NVI)",
       "verses": [
@@ -6906,7 +6906,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: Como se sentir uma 'coroa na mão de Deus' muda sua autoimagem hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha algo pelo qual você havia desistido de orar e retome, hoje, essa intercessão perseverante.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sou uma coroa na tua mão. Ajuda-me a vigiar e a não descansar em oração. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sou uma coroa na tua mão. Ajuda-me a vigiar e a não descansar em oração. Amém.",
     "passage": {
       "ref": "Isaías 62 · capítulo completo (NVI)",
       "verses": [
@@ -6988,7 +6988,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: Como a compaixão de Deus muda sua forma de processar uma dor atual?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva uma lembrança concreta da fidelidade passada de Deus em sua vida e agradeça por ela hoje.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por te afligires comigo em minha angústia. Continua a me levantar e conduzir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por te afligires comigo em minha angústia. Continua a me levantar e conduzir. Amém.",
     "passage": {
       "ref": "Isaías 63 · capítulo completo (NVI)",
       "verses": [
@@ -7098,7 +7098,7 @@ window.ISAIAS_CARTA = [
       "Pensando no próximo passo possível: Como confiar na intenção do Oleiro mesmo quando o processo de moldagem dói?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje reconhecendo-se conscientemente como barro nas mãos de Deus, entregando uma área específica de resistência.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és o oleiro; eu sou o barro. Molda-me conforme a tua vontade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és o oleiro; eu sou o barro. Molda-me conforme a tua vontade. Amém.",
     "passage": {
       "ref": "Isaías 64 · capítulo completo (NVI)",
       "verses": [
@@ -7180,7 +7180,7 @@ window.ISAIAS_CARTA = [
       "Na prática de hoje: O que significa confiar num Deus que 'cria', não apenas 'conserta'?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva uma memória dolorosa específica e entregue-a, em oração, à promessa de que ela não dominará seu futuro.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu crias novos céus e nova terra. Espero neles, mesmo em meio às coisas antigas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu crias novos céus e nova terra. Espero neles, mesmo em meio às coisas antigas. Amém.",
     "passage": {
       "ref": "Isaías 65 · capítulo completo (NVI)",
       "verses": [
@@ -7314,7 +7314,7 @@ window.ISAIAS_CARTA = [
       "O que caberia fazer agora: O que você leva desta jornada por Isaías para sua vida de fé daqui em diante?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva uma breve carta de gratidão a Deus resumindo o que esta jornada por Isaías revelou sobre o caráter dele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. assim como uma mãe consola, tu me consolas. Obrigado por esta jornada até aqui. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Assim como uma mãe consola, tu me consolas. Obrigado por esta jornada até aqui. Amém.",
     "passage": {
       "ref": "Isaías 66 · capítulo completo (NVI)",
       "verses": [

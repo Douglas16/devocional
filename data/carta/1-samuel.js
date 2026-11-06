@@ -32,7 +32,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Você acredita que Deus ouve suas orações mais silenciosas e íntimas, como ouviu as de Ana?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, leve hoje a Deus, com a mesma fervura de Ana, um pedido específico que você tem guardado em silêncio.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por ouvires minhas orações mais silenciosas. Concede-me o que te peço com fé. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por ouvires minhas orações mais silenciosas. Concede-me o que te peço com fé. Amém.",
     "passage": {
       "ref": "1 Samuel 1 · capítulo completo (NVI)",
       "verses": [
@@ -178,7 +178,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como o cântico profético de Ana ecoa em sua própria experiência de ver Deus agir a favor dos humildes?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma posição ou privilégio espiritual seu, garantindo que você o trate com a honra que ele merece.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu te honre genuinamente, não apenas ocupe posições sem substância diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu te honre genuinamente, não apenas ocupe posições sem substância diante de ti. Amém.",
     "passage": {
       "ref": "1 Samuel 2 · capítulo completo (NVI)",
       "verses": [
@@ -356,7 +356,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que 'chamado noturno' você talvez tenha ignorado por não reconhecer imediatamente que era Deus falando?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve hoje um momento de silêncio genuíno, dizendo a Deus 'fala, teu servo está ouvindo', sem agenda própria.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. fala. Teu servo está ouvindo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Fala. Teu servo está ouvindo. Amém.",
     "passage": {
       "ref": "1 Samuel 3 · capítulo completo (NVI)",
       "verses": [
@@ -474,7 +474,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como evitar que múltiplas consequências se acumulem por ignorar um problema espiritual por tempo prolongado?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje se você trata alguma prática espiritual como fórmula mágica em vez de expressão de arrependimento genuíno.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero perder tua glória por tratar levianamente o que é sagrado. Restaura o que se perdeu. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero perder tua glória por tratar levianamente o que é sagrado. Restaura o que se perdeu. Amém.",
     "passage": {
       "ref": "1 Samuel 4 · capítulo completo (NVI)",
       "verses": [
@@ -596,7 +596,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Você confunde derrotas ou perdas temporárias com derrota espiritual real diante de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje um 'ídolo' específico em sua vida e declare, conscientemente, que ele não pode permanecer de pé diante de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que todo ídolo em minha vida caia diante da tua presença, como Dagom caiu diante da arca. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que todo ídolo em minha vida caia diante da tua presença, como Dagom caiu diante da arca. Amém.",
     "passage": {
       "ref": "1 Samuel 5 · capítulo completo (NVI)",
       "verses": [
@@ -678,7 +678,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que testemunho involuntário de pessoas de fora você já viu confirmar, através de sua própria experiência, a santidade de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje sua própria reverência diante de Deus, corrigindo qualquer curiosidade descuidada por familiaridade excessiva.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és santo. Ensina-me a reverência apropriada diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és santo. Ensina-me a reverência apropriada diante de ti. Amém.",
     "passage": {
       "ref": "1 Samuel 6 · capítulo completo (NVI)",
       "verses": [
@@ -796,7 +796,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Olhando para 'até aqui', que padrão de ajuda fiel de Deus você reconhece ao longo de toda a sua própria jornada?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, crie hoje um memorial físico simples — uma pedra, uma anotação — marcando um momento específico de ajuda de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. até aqui tu me ajudaste. Confio que continuarás me ajudando na jornada que ainda vem. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Até aqui tu me ajudaste. Confio que continuarás me ajudando na jornada que ainda vem. Amém.",
     "passage": {
       "ref": "1 Samuel 7 · capítulo completo (NVI)",
       "verses": [
@@ -898,7 +898,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que falha de liderança anterior pode estar motivando uma decisão precipitada sua hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje um desejo recente motivado por comparação com outros, e avalie-o honestamente diante de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero rejeitar teu governo por desejar ser como todas as outras nações. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero rejeitar teu governo por desejar ser como todas as outras nações. Amém.",
     "passage": {
       "ref": "1 Samuel 8 · capítulo completo (NVI)",
       "verses": [
@@ -1020,7 +1020,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Você já se sentiu 'insignificante demais' para um chamado que, na verdade, Deus estava genuinamente lhe oferecendo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje uma circunstância trivial em sua vida que pode estar sendo usada por Deus para um propósito maior.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. uso-me apesar de minha pequenez. Ajuda-me a manter a humildade que tenho hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Uso-me apesar de minha pequenez. Ajuda-me a manter a humildade que tenho hoje. Amém.",
     "passage": {
       "ref": "1 Samuel 9 · capítulo completo (NVI)",
       "verses": [
@@ -1162,7 +1162,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como sustentar, através de escolhas contínuas, uma transformação inicial que o Espírito de Deus já operou em você?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje uma transformação genuína que o Espírito de Deus já operou em você, e escolha sustentá-la conscientemente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que teu Espírito me transforme continuamente em um novo homem, um novo dia de cada vez. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que teu Espírito me transforme continuamente em um novo homem, um novo dia de cada vez. Amém.",
     "passage": {
       "ref": "1 Samuel 10 · capítulo completo (NVI)",
       "verses": [
@@ -1304,7 +1304,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Capacitação passada e genuína do Espírito de Deus garante fidelidade futura, ou ainda exige escolhas contínuas de obediência?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, canalize hoje uma indignação justa que você sente em ação concreta e corajosa de libertação ou justiça.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que teu Espírito me capacite para agir com justiça diante da injustiça que vejo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que teu Espírito me capacite para agir com justiça diante da injustiça que vejo. Amém.",
     "passage": {
       "ref": "1 Samuel 11 · capítulo completo (NVI)",
       "verses": [
@@ -1398,7 +1398,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Você oferece tanto celebração genuína quanto advertência sábia diante de uma transição de liderança em sua própria esfera de influência?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, relembre hoje, especificamente, três grandes coisas que Deus já fez por você, fortalecendo sua fé diante de qualquer mudança atual.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. temo-te e te sirvo fielmente. Considero as grandes coisas que já fizeste por mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Temo-te e te sirvo fielmente. Considero as grandes coisas que já fizeste por mim. Amém.",
     "passage": {
       "ref": "1 Samuel 12 · capítulo completo (NVI)",
       "verses": [
@@ -1532,7 +1532,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que decisão precipitada, tomada sob pressão, você já viu alterar permanentemente o curso de uma vida ou situação?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, resista hoje a uma pressão circunstancial que está tentando você a um atalho de desobediência, esperando pacientemente em Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. forma em mim um coração segundo o teu, mesmo quando a pressão é grande. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Forma em mim um coração segundo o teu, mesmo quando a pressão é grande. Amém.",
     "passage": {
       "ref": "1 Samuel 13 · capítulo completo (NVI)",
       "verses": [
@@ -1658,7 +1658,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como agir com fé apesar da incerteza, dizendo 'talvez o Senhor aja', sem exigir certeza absoluta antes de agir?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dê hoje um passo de fé corajoso em uma situação onde os recursos parecem insuficientes, confiando que Deus não precisa de muitos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. nada pode te impedir de salvar, com muitos ou com poucos. Ajo hoje com essa fé. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Nada pode te impedir de salvar, com muitos ou com poucos. Ajo hoje com essa fé. Amém.",
     "passage": {
       "ref": "1 Samuel 14 · capítulo completo (NVI)",
       "verses": [
@@ -1900,7 +1900,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que padrão repetido de obediência parcial em sua vida precisa ser confrontado antes que se torne rejeição mais séria?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma instrução de Deus que você tem obedecido apenas parcialmente, e complete a obediência integral que ela exige.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. escolho obediência completa, não sacrifícios que disfarçam desobediência parcial. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Escolho obediência completa, não sacrifícios que disfarçam desobediência parcial. Amém.",
     "passage": {
       "ref": "1 Samuel 15 · capítulo completo (NVI)",
       "verses": [
@@ -2074,7 +2074,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que 'preparação no campo', despercebida atualmente, pode estar formando seu caráter para um propósito futuro maior?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, invista hoje em cultivar seu coração diante de Deus, mesmo em uma tarefa despercebida que ninguém mais valoriza.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu vês meu coração, não apenas minha aparência. Forma-me segundo teu olhar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu vês meu coração, não apenas minha aparência. Forma-me segundo teu olhar. Amém.",
     "passage": {
       "ref": "1 Samuel 16 · capítulo completo (NVI)",
       "verses": [
@@ -2200,7 +2200,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que vitórias menores e despercebidas em sua própria história já prepararam você para enfrentar um desafio maior agora?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, declare hoje, publicamente ou em oração, que a batalha específica que você enfrenta pertence ao Senhor, não aos seus próprios recursos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. a batalha é tua. Confio em ti, não em minha própria força ou recursos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. A batalha é tua. Confio em ti, não em minha própria força ou recursos. Amém.",
     "passage": {
       "ref": "1 Samuel 17 · capítulo completo (NVI)",
       "verses": [
@@ -2466,7 +2466,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como Jônatas, você tem lealdade que às vezes desafia expectativas familiares em nome de um vínculo genuíno de amizade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, invista hoje intencionalmente em uma amizade profunda e leal, expressando apreço genuíno por essa pessoa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelas amizades profundas que me dás. Ensina-me a lealdade de Jônatas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelas amizades profundas que me dás. Ensina-me a lealdade de Jônatas. Amém.",
     "passage": {
       "ref": "1 Samuel 18 · capítulo completo (NVI)",
       "verses": [
@@ -2620,7 +2620,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como cultivar a coragem excepcional de Jônatas e Mical, dispostos a ajudar mesmo contra a vontade de figuras de autoridade próximas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, confronte hoje, com coragem apropriada, uma injustiça específica que você observa sendo cometida contra alguém inocente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me a coragem de Jônatas para confrontar injustiça, mesmo vinda de dentro da minha própria família. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me a coragem de Jônatas para confrontar injustiça, mesmo vinda de dentro da minha própria família. Amém.",
     "passage": {
       "ref": "1 Samuel 19 · capítulo completo (NVI)",
       "verses": [
@@ -2750,7 +2750,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Você tem coragem de confirmar diretamente uma verdade dolorosa para proteger alguém que você ama de perigo real?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, renove hoje, verbalmente ou por escrito, um compromisso de lealdade com um amigo próximo, invocando Deus como testemunha.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sê testemunha entre mim e meus amigos mais próximos. Que nossa aliança de lealdade permaneça. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sê testemunha entre mim e meus amigos mais próximos. Que nossa aliança de lealdade permaneça. Amém.",
     "passage": {
       "ref": "1 Samuel 20 · capítulo completo (NVI)",
       "verses": [
@@ -2956,7 +2956,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que promessa de Deus sobre sua vida ainda está em processo, apesar de humilhações temporárias pelo caminho?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje que momentos de humilhação temporária não invalidam uma promessa maior de Deus ainda em cumprimento em sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mesmo em momentos de humilhação e desespero, confio que tua promessa sobre minha vida ainda se cumprirá. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Mesmo em momentos de humilhação e desespero, confio que tua promessa sobre minha vida ainda se cumprirá. Amém.",
     "passage": {
       "ref": "1 Samuel 21 · capítulo completo (NVI)",
       "verses": [
@@ -3050,7 +3050,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que fúria não tratada em sua própria vida pode estar escalando perigosamente, como aconteceu com Saul?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, invista hoje em alguém marginalizado ou em dificuldades, reconhecendo o potencial de liderança que Deus pode ver nele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a ver potencial onde outros só enxergam fardo. Guarda-me da fúria descontrolada de Saul. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a ver potencial onde outros só enxergam fardo. Guarda-me da fúria descontrolada de Saul. Amém.",
     "passage": {
       "ref": "1 Samuel 22 · capítulo completo (NVI)",
       "verses": [
@@ -3176,7 +3176,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que amigo você poderia visitar hoje especificamente para oferecer encorajamento espiritual, não apenas solução prática?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, visite ou contate hoje um amigo específico com o único propósito de ajudá-lo a encontrar forças em Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelos amigos que me ajudam a encontrar forças em ti. Que eu seja esse amigo para outros também. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelos amigos que me ajudam a encontrar forças em ti. Que eu seja esse amigo para outros também. Amém.",
     "passage": {
       "ref": "1 Samuel 23 · capítulo completo (NVI)",
       "verses": [
@@ -3326,7 +3326,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Sua consciência é sensível o suficiente para se incomodar até com pequenos gestos que se aproximam de desrespeito?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, restrinja-se hoje de uma oportunidade de vantagem sobre alguém, escolhendo reverência em vez de vingança pessoal.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. livra-me de erguer a mão contra quem tu estabeleceste em autoridade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Livra-me de erguer a mão contra quem tu estabeleceste em autoridade. Amém.",
     "passage": {
       "ref": "1 Samuel 24 · capítulo completo (NVI)",
       "verses": [
@@ -3448,7 +3448,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como expressar gratidão pública e específica a alguém que Deus usou para deter você de um curso perigoso de ação?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, agradeça hoje, especificamente, a alguém que já o impediu sabiamente de cometer um erro sério em um momento de raiva.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por enviares pessoas sábias que me impedem de erros graves motivados por raiva. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por enviares pessoas sábias que me impedem de erros graves motivados por raiva. Amém.",
     "passage": {
       "ref": "1 Samuel 25 · capítulo completo (NVI)",
       "verses": [
@@ -3658,7 +3658,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Que evidência concreta, sem violência retaliatória, você poderia usar para confrontar apropriadamente uma injustiça específica?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reafirme hoje um padrão consistente de integridade em uma área onde você já resistiu à tentação antes.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu recompensas a justiça e a fidelidade. Confio em ti, não em vingança pessoal. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu recompensas a justiça e a fidelidade. Confio em ti, não em vingança pessoal. Amém.",
     "passage": {
       "ref": "1 Samuel 26 · capítulo completo (NVI)",
       "verses": [
@@ -3792,7 +3792,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como a honestidade da Escritura sobre as falhas de Davi encoraja você a não esconder suas próprias fraquezas diante de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje, com honestidade, um sinal de exaustão espiritual em sua vida antes que ele leve a decisões questionáveis.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mesmo cansado, não quero confiar mais em estratégia própria do que em ti. Renova minhas forças. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Mesmo cansado, não quero confiar mais em estratégia própria do que em ti. Renova minhas forças. Amém.",
     "passage": {
       "ref": "1 Samuel 27 · capítulo completo (NVI)",
       "verses": [
@@ -3874,7 +3874,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como buscar Deus consistentemente, antes da crise chegar, em vez de apenas em momentos desesperados de necessidade extrema?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje se algum desespero recente o tem tentado a buscar respostas por meios que você sabe serem ilegítimos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não me deixes buscar respostas por meios que tu proíbes, mesmo em desespero. Fala comigo pelos meios legítimos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não me deixes buscar respostas por meios que tu proíbes, mesmo em desespero. Fala comigo pelos meios legítimos. Amém.",
     "passage": {
       "ref": "1 Samuel 28 · capítulo completo (NVI)",
       "verses": [
@@ -4008,7 +4008,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como reconhecer a mão providencial de Deus em decisões de terceiros que, aparentemente, nada têm a ver com fé?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje uma situação em que você foi poupado de um dilema difícil através de circunstâncias que, olhando para trás, parecem providenciais.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por me poupares de dilemas impossíveis através da tua providência silenciosa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por me poupares de dilemas impossíveis através da tua providência silenciosa. Amém.",
     "passage": {
       "ref": "1 Samuel 29 · capítulo completo (NVI)",
       "verses": [
@@ -4086,7 +4086,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: O que significaria, na prática, 'fortalecer-se no Senhor' hoje, independentemente de circunstâncias ou apoio humano disponível?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, fortaleça-se hoje, conscientemente, no Senhor diante de uma circunstância que parece esmagadora e sem saída aparente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. fortaleço-me em ti, mesmo no momento mais sombrio. Dá-me direção clara para o que vem a seguir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Fortaleço-me em ti, mesmo no momento mais sombrio. Dá-me direção clara para o que vem a seguir. Amém.",
     "passage": {
       "ref": "1 Samuel 30 · capítulo completo (NVI)",
       "verses": [
@@ -4244,7 +4244,7 @@ window.SAMUEL_1_CARTA = [
       "Pensando na sua caminhada de hoje: Como evitar que um começo promissor de fé se transforme, com o tempo, em declínio não corrigido como aconteceu com Saul?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje uma breve reflexão sobre o que a jornada de Saul, do início humilde ao fim trágico, ensina sobre fidelidade sustentada ao longo do tempo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me de um declínio não corrigido. Que minha fidelidade seja sustentada até o fim, como a de Davi buscou ser. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me de um declínio não corrigido. Que minha fidelidade seja sustentada até o fim, como a de Davi buscou ser. Amém.",
     "passage": {
       "ref": "1 Samuel 31 · capítulo completo (NVI)",
       "verses": [

@@ -32,7 +32,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como a atitude humilde do terceiro capitão pode moldar minha forma de me aproximar de Deus hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de buscar conselho em qualquer outro lugar hoje, pare e pergunte a Deus em oração o que ele tem a dizer sobre a situação que te aflige.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. perdoa as vezes em que busquei em outros lugares o que só tu podes dar. Ensina-me a te consultar primeiro. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Perdoa as vezes em que busquei em outros lugares o que só tu podes dar. Ensina-me a te consultar primeiro. Amém.",
     "passage": {
       "ref": "2 Reis 1 · capítulo completo (NVI)",
       "verses": [
@@ -138,7 +138,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que 'manto' — responsabilidade ou chamado — Deus pode estar colocando em minhas mãos agora?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma responsabilidade espiritual que Deus está te chamando a assumir com mais seriedade, e dê o primeiro passo concreto de obediência.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me perseverança para não desistir do caminho que tens comigo. Capacita-me para a obra que colocas diante de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me perseverança para não desistir do caminho que tens comigo. Capacita-me para a obra que colocas diante de mim. Amém.",
     "passage": {
       "ref": "2 Reis 2 · capítulo completo (NVI)",
       "verses": [
@@ -272,7 +272,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como minha proximidade com pessoas fiéis pode influenciar as bênçãos ou decisões ao meu redor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dê hoje um passo prático de fé numa área onde você está esperando ver o sinal de Deus antes de agir.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a confiar em ti mesmo quando não vejo os meios naturais da tua provisão. Enche os vales secos da minha vida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a confiar em ti mesmo quando não vejo os meios naturais da tua provisão. Enche os vales secos da minha vida. Amém.",
     "passage": {
       "ref": "2 Reis 3 · capítulo completo (NVI)",
       "verses": [
@@ -414,7 +414,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: O que tenho em mãos, por menor que pareça, que Deus poderia multiplicar se eu entregasse a ele?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, entregue hoje a Deus, em oração específica, uma necessidade prática e concreta que você tem adiado apresentar a ele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu te importas com os detalhes comuns da minha vida. Multiplica o pouco que tenho e me dá paz mesmo antes de ver a solução. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu te importas com os detalhes comuns da minha vida. Multiplica o pouco que tenho e me dá paz mesmo antes de ver a solução. Amém.",
     "passage": {
       "ref": "2 Reis 4 · capítulo completo (NVI)",
       "verses": [
@@ -624,7 +624,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Há alguma ganância escondida em meu coração que preciso confessar antes que produza fruto amargo, como aconteceu com Geazi?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma instrução simples de Deus que você tem resistido a obedecer por parecer pequena demais, e obedeça hoje.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tira de mim o orgulho que resiste à tua simplicidade. Purifica meu coração de qualquer ganância escondida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tira de mim o orgulho que resiste à tua simplicidade. Purifica meu coração de qualquer ganância escondida. Amém.",
     "passage": {
       "ref": "2 Reis 5 · capítulo completo (NVI)",
       "verses": [
@@ -766,7 +766,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que detalhe pequeno e aparentemente perdido da minha vida posso confiar ao cuidado de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, quando o medo tomar conta hoje, ore pedindo a Deus que abra seus olhos espirituais para enxergar sua presença protetora na situação.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. abre meus olhos para ver o que já é verdade: que tu estás comigo e me proteges. Ensina-me a responder ao mal com misericórdia. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Abre meus olhos para ver o que já é verdade: que tu estás comigo e me proteges. Ensina-me a responder ao mal com misericórdia. Amém.",
     "passage": {
       "ref": "2 Reis 6 · capítulo completo (NVI)",
       "verses": [
@@ -932,7 +932,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como Deus pode estar usando pessoas marginalizadas ou inesperadas para me falar ou abençoar outros?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pense em alguém que precisa ouvir uma boa notícia do evangelho e compartilhe com essa pessoa ainda hoje, sem adiar.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. perdoa-me pelas vezes que guardei tuas boas novas só para mim. Dá-me coragem para compartilhar o que recebi de graça. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Perdoa-me pelas vezes que guardei tuas boas novas só para mim. Dá-me coragem para compartilhar o que recebi de graça. Amém.",
     "passage": {
       "ref": "2 Reis 7 · capítulo completo (NVI)",
       "verses": [
@@ -1046,7 +1046,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como devo reagir diante de más notícias futuras — com indiferença, desespero, ou com a compaixão que Eliseu demonstrou?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, lembre hoje de uma promessa de Deus que você tem duvidado por causa de circunstâncias adversas, e reafirme sua confiança nela em oração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por seres fiel às tuas promessas mesmo quando eu falho. Dá-me um coração compassivo diante da dor alheia. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por seres fiel às tuas promessas mesmo quando eu falho. Dá-me um coração compassivo diante da dor alheia. Amém.",
     "passage": {
       "ref": "2 Reis 8 · capítulo completo (NVI)",
       "verses": [
@@ -1196,7 +1196,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Estou disposto a ouvir uma palavra de correção de Deus, mesmo que venha de forma inesperada como a carta de Elias?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, avalie hoje uma aliança ou relacionamento de influência em sua vida e pergunte se ele te aproxima ou te afasta da fidelidade a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me de alianças que me afastem de ti. Que minha vida deixe um legado de fidelidade, não de arrependimento tardio. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me de alianças que me afastem de ti. Que minha vida deixe um legado de fidelidade, não de arrependimento tardio. Amém.",
     "passage": {
       "ref": "2 Crônicas 21 · capítulo completo (NVI)",
       "verses": [
@@ -1310,7 +1310,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como reajo ao saber que nenhum poder ou dinastia humana está imune ao juízo de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita hoje sobre uma promessa ou advertência de Deus que parece distante, e reafirme em oração sua confiança de que ela se cumprirá no tempo certo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu cumpres tuas palavras com precisão, ainda que demorem. Ajuda-me a viver com temor e confiança diante do teu juízo justo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu cumpres tuas palavras com precisão, ainda que demorem. Ajuda-me a viver com temor e confiança diante do teu juízo justo. Amém.",
     "passage": {
       "ref": "2 Reis 9 · capítulo completo (NVI)",
       "verses": [
@@ -1492,7 +1492,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como a ambição desenfreada por poder ou controle pode estar corrompendo áreas da minha vida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma área onde você tem agido por ambição de controle e entregue-a a Deus em oração hoje, escolhendo confiar nele em vez de forçar resultados.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por preservares tuas promessas mesmo quando tudo parece perdido. Dá-me coragem para agir com fidelidade, mesmo em segredo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por preservares tuas promessas mesmo quando tudo parece perdido. Dá-me coragem para agir com fidelidade, mesmo em segredo. Amém.",
     "passage": {
       "ref": "2 Crônicas 22 · capítulo completo (NVI)",
       "verses": [
@@ -1574,7 +1574,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Estou satisfeito com uma obediência parcial, ou busco a integridade completa que Deus deseja?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma área de obediência parcial em sua vida espiritual e dê um passo concreto para render também essa área a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero um zelo apenas parcial. Examina meu coração e revela o que ainda não te entreguei por completo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero um zelo apenas parcial. Examina meu coração e revela o que ainda não te entreguei por completo. Amém.",
     "passage": {
       "ref": "2 Reis 10 · capítulo completo (NVI)",
       "verses": [
@@ -1752,7 +1752,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Onde Deus pode estar me chamando a proteger algo precioso, mesmo que isso exija anos de discrição?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje submeter uma decisão ou ambição pessoal à autoridade da Palavra de Deus antes de agir por conta própria.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a paciência de esperar teu tempo. Que tua Palavra sempre governe minhas decisões e ambições. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a paciência de esperar teu tempo. Que tua Palavra sempre governe minhas decisões e ambições. Amém.",
     "passage": {
       "ref": "2 Reis 11 · capítulo completo (NVI)",
       "verses": [
@@ -1870,7 +1870,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Identifico-me primeiro como pertencente a Deus, ou minha identidade está presa a outras lealdades?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, renove hoje, de forma concreta e escrita se possível, um compromisso pessoal de aliança com Deus, definindo um passo prático para sustentá-lo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. renova em mim a aliança que fizeste comigo. Que eu me identifique, acima de tudo, como teu povo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Renova em mim a aliança que fizeste comigo. Que eu me identifique, acima de tudo, como teu povo. Amém.",
     "passage": {
       "ref": "2 Crônicas 23 · capítulo completo (NVI)",
       "verses": [
@@ -1988,7 +1988,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que passo concreto de liderança ou responsabilidade Deus está me chamando a assumir para restaurar algo importante?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, assuma hoje a responsabilidade concreta por restaurar algo que está negligenciado em sua vida espiritual, familiar ou comunitária.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. torna-me alguém confiável com tudo o que me é entregue. Ajuda-me a restaurar o que tenho negligenciado. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Torna-me alguém confiável com tudo o que me é entregue. Ajuda-me a restaurar o que tenho negligenciado. Amém.",
     "passage": {
       "ref": "2 Reis 12 · capítulo completo (NVI)",
       "verses": [
@@ -2106,7 +2106,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como reajo quando sou confrontado por uma palavra corretiva — com humildade, ou como Joás, com hostilidade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva ou expresse hoje gratidão a alguém que foi instrumento da bondade de Deus em sua vida, antes que o tempo apague essa memória.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não permita que eu esqueça as bondades que recebi através de outros. Dá-me um coração que recebe correção com humildade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não permita que eu esqueça as bondades que recebi através de outros. Dá-me um coração que recebe correção com humildade. Amém.",
     "passage": {
       "ref": "2 Crônicas 24 · capítulo completo (NVI)",
       "verses": [
@@ -2248,7 +2248,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Reconheço que o poder que sustenta minha fé vem de Deus, não de pessoas ou métodos específicos?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, persista hoje, sem desistir cedo demais, numa oração ou área de fé que você tem tratado com morosidade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me persistência para não parar cedo demais diante das tuas promessas. Que minha vida produza fruto que dure além de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me persistência para não parar cedo demais diante das tuas promessas. Que minha vida produza fruto que dure além de mim. Amém.",
     "passage": {
       "ref": "2 Reis 13 · capítulo completo (NVI)",
       "verses": [
@@ -2382,7 +2382,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como recebo a prosperidade que Deus me dá — com gratidão humilde, ou como combustível para o orgulho?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje uma vitória recente em sua vida e devolva o crédito a Deus em oração, resistindo à tentação de usá-la para provocar novos conflitos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda meu coração do orgulho depois de cada vitória. Ensina-me a saber quando recuar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda meu coração do orgulho depois de cada vitória. Ensina-me a saber quando recuar. Amém.",
     "passage": {
       "ref": "2 Reis 14 · capítulo completo (NVI)",
       "verses": [
@@ -2532,7 +2532,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: O que significa, na prática, colocar minha confiança apenas naquilo que verdadeiramente pode me livrar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje um 'ídolo' — segurança falsa, hábito, relação — em que você tem confiado, e substitua essa confiança por uma oração de entrega a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. livra-me de confiar em qualquer coisa que não seja tu. Dá-me humildade para receber correção quando erro. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Livra-me de confiar em qualquer coisa que não seja tu. Dá-me humildade para receber correção quando erro. Amém.",
     "passage": {
       "ref": "2 Crônicas 25 · capítulo completo (NVI)",
       "verses": [
@@ -2678,7 +2678,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como a exatidão do cumprimento de promessas antigas fortalece minha confiança nas promessas de Deus para mim hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, em meio a alguma instabilidade que você enfrenta agora, escreva uma promessa bíblica específica e ore reafirmando sua confiança de que Deus a cumprirá.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. em meio ao caos ao meu redor, ajuda-me a confiar que tua palavra se cumpre com exatidão. Dá-me estabilidade que só vem de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Em meio ao caos ao meu redor, ajuda-me a confiar que tua palavra se cumpre com exatidão. Dá-me estabilidade que só vem de ti. Amém.",
     "passage": {
       "ref": "2 Reis 15 · capítulo completo (NVI)",
       "verses": [
@@ -2864,7 +2864,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como reajo quando sou confrontado numa área de orgulho — com humildade, ou como Uzias, com indignação?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique um limite que Deus estabeleceu em sua vida que o sucesso ou a confiança recente o tentaram a ultrapassar, e reafirme hoje seu respeito por ele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me da arrogância que o sucesso pode gerar. Ensina-me a receber correção com humildade, não com fúria. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me da arrogância que o sucesso pode gerar. Ensina-me a receber correção com humildade, não com fúria. Amém.",
     "passage": {
       "ref": "2 Crônicas 26 · capítulo completo (NVI)",
       "verses": [
@@ -2990,7 +2990,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: O que significa, na prática, 'firmar meus caminhos' diante de Deus nesta fase da minha vida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje uma prática espiritual simples e constante — não dramática — para firmar seus caminhos diante de Deus nesta semana.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a fidelidade discreta e constante de Jotão. Firma meus caminhos diante de ti, mesmo sem grandes holofotes. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a fidelidade discreta e constante de Jotão. Firma meus caminhos diante de ti, mesmo sem grandes holofotes. Amém.",
     "passage": {
       "ref": "2 Crônicas 27 · capítulo completo (NVI)",
       "verses": [
@@ -3060,7 +3060,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Existe algo em minha forma de adorar ou viver a fé que foi 'importado' de fora, em vez de vir de uma convicção genuína?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, diante de um medo real que você enfrenta hoje, escolha conscientemente levá-lo a Deus em oração antes de buscar qualquer solução alternativa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não permita que o medo me leve a decisões que te desagradam. Ensina-me a confiar em ti antes de buscar qualquer outra segurança. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não permita que o medo me leve a decisões que te desagradam. Ensina-me a confiar em ti antes de buscar qualquer outra segurança. Amém.",
     "passage": {
       "ref": "2 Reis 16 · capítulo completo (NVI)",
       "verses": [
@@ -3174,7 +3174,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Estou disposto a agir com a compaixão que Odede demonstrou, mesmo em relação a quem poderia considerar inimigo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, se você tem resistido a uma correção de Deus, escolha hoje responder com arrependimento genuíno em vez de mais resistência.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não permita que eu feche as portas do meu coração diante da tua correção. Torna-me alguém que responde com arrependimento, não com resistência. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não permita que eu feche as portas do meu coração diante da tua correção. Torna-me alguém que responde com arrependimento, não com resistência. Amém.",
     "passage": {
       "ref": "2 Crônicas 28 · capítulo completo (NVI)",
       "verses": [
@@ -3316,7 +3316,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Estou respondendo hoje ao convite constante de Deus para 'voltar', ou adiando mais uma vez?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, responda hoje, sem adiar, a um convite de Deus para voltar de algo específico que você tem tolerado ou ignorado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por me chamares repetidamente a voltar antes que seja tarde demais. Hoje escolho responder ao teu convite. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por me chamares repetidamente a voltar antes que seja tarde demais. Hoje escolho responder ao teu convite. Amém.",
     "passage": {
       "ref": "2 Reis 17 · capítulo completo (NVI)",
       "verses": [
@@ -3514,7 +3514,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que coragem você precisa pedir a Deus para remover algo que o povo ao seu redor ainda valoriza?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje um hábito, tradição ou objeto que se tornou mais importante para você do que o próprio Deus, e dê um passo concreto para reordenar essa prioridade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha confiança esteja firmada só em ti, não em símbolos ou lembranças do que fizeste. Dá-me coragem para remover o que roubou teu lugar em meu coração. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha confiança esteja firmada só em ti, não em símbolos ou lembranças do que fizeste. Dá-me coragem para remover o que roubou teu lugar em meu coração. Amém.",
     "passage": {
       "ref": "2 Reis 18 · capítulo completo (NVI)",
       "verses": [
@@ -3696,7 +3696,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: O que tornaria sua adoração hoje mais genuína e menos apenas cumprimento de rotina?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, separe um tempo hoje mesmo, como primeira prioridade do seu dia, para restaurar algo em sua vida espiritual que está 'fechado' há tempo demais.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. purifica o que em mim está contaminado e reabre o que fechei para ti. Que minha adoração seja renovada e sincera. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Purifica o que em mim está contaminado e reabre o que fechei para ti. Que minha adoração seja renovada e sincera. Amém.",
     "passage": {
       "ref": "2 Crônicas 29 · capítulo completo (NVI)",
       "verses": [
@@ -3874,7 +3874,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que fronteira você ergueu que pode estar impedindo outros de experimentar o convite de Deus através de você?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, envie hoje um convite genuíno — de reconciliação, comunhão ou simplesmente de presença — a alguém de quem você está distante.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu nunca zombe do teu convite de volta a ti. Ajuda-me a estender esse mesmo convite a quem está distante. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu nunca zombe do teu convite de volta a ti. Ajuda-me a estender esse mesmo convite a quem está distante. Amém.",
     "passage": {
       "ref": "2 Crônicas 30 · capítulo completo (NVI)",
       "verses": [
@@ -4016,7 +4016,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: O que mudaria se você desse a Deus a partir da fé de que ele proverá o suficiente, e mais?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dê hoje algo — tempo, recurso ou atenção — de forma deliberadamente generosa a alguém que serve a Deus ou aos outros, confiando que Deus supre o que falta.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a dar com a mesma generosidade que recebi de ti. Que minha fé se traduza em provisão para quem serve. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a dar com a mesma generosidade que recebi de ti. Que minha fé se traduza em provisão para quem serve. Amém.",
     "passage": {
       "ref": "2 Crônicas 31 · capítulo completo (NVI)",
       "verses": [
@@ -4134,7 +4134,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Você tem coragem de orar abertamente diante de outros, como Ezequias fez no templo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva ou nomeie especificamente diante de Deus, em oração hoje, a ameaça ou ansiedade que você tem carregado sozinho.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. salva-me das mãos do que me ameaça, para que teu nome seja conhecido através de mim. Recebo hoje minha luta e a entrego a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Salva-me das mãos do que me ameaça, para que teu nome seja conhecido através de mim. Recebo hoje minha luta e a entrego a ti. Amém.",
     "passage": {
       "ref": "2 Reis 19 · capítulo completo (NVI)",
       "verses": [
@@ -4316,7 +4316,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: O que você exibe hoje — bens, conquistas, segurança — que talvez devesse guardar com mais humildade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de ostentar uma conquista ou bênção recente diante de outros, pare e pergunte a Deus se essa exposição é sabedoria ou vaidade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por veres minhas lágrimas antes mesmo de eu conseguir orar. Guarda-me da vaidade depois da bênção que me concedes. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por veres minhas lágrimas antes mesmo de eu conseguir orar. Guarda-me da vaidade depois da bênção que me concedes. Amém.",
     "passage": {
       "ref": "2 Reis 20 · capítulo completo (NVI)",
       "verses": [
@@ -4434,7 +4434,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: O que significaria, concretamente, humilhar-se hoje diante de Deus como Ezequias fez?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma área em que uma vitória recente o deixou orgulhoso, e humilhe-se deliberadamente diante de Deus em relação a ela hoje.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me sabedoria prática e um coração humilde ao mesmo tempo. Quando o orgulho crescer depois da vitória, lembra-me de me curvar diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me sabedoria prática e um coração humilde ao mesmo tempo. Quando o orgulho crescer depois da vitória, lembra-me de me curvar diante de ti. Amém.",
     "passage": {
       "ref": "2 Crônicas 32 · capítulo completo (NVI)",
       "verses": [
@@ -4600,7 +4600,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que desvio pequeno em sua vida hoje poderia, se não corrigido, se tornar o padrão de amanhã?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma influência que você exerce sobre alguém mais jovem ou mais novo na fé, e pergunte se está conduzindo essa pessoa para Deus ou para longe dele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me de conduzir outros ao erro pelo meu exemplo. Que minha vida aponte sempre para ti, não para longe de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me de conduzir outros ao erro pelo meu exemplo. Que minha vida aponte sempre para ti, não para longe de ti. Amém.",
     "passage": {
       "ref": "2 Reis 21 · capítulo completo (NVI)",
       "verses": [
@@ -4738,7 +4738,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que mal você ajudou a construir no passado que poderia começar a desfazer, ainda que parcialmente, hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, se há algo que você construiu ou incentivou no passado que hoje reconhece como errado, dê um primeiro passo concreto hoje para começar a desfazê-lo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado porque nenhum pecado meu está além do alcance da tua graça. Na minha angústia, ensina-me a buscar teu rosto como Manassés buscou. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado porque nenhum pecado meu está além do alcance da tua graça. Na minha angústia, ensina-me a buscar teu rosto como Manassés buscou. Amém.",
     "passage": {
       "ref": "2 Crônicas 33 · capítulo completo (NVI)",
       "verses": [
@@ -4986,7 +4986,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como você pode incentivar alguém jovem, como Josias era, a começar cedo essa busca sincera?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, comece hoje, deliberadamente e sem esperar uma crise, uma prática constante de busca a Deus — oração, leitura bíblica ou jejum — que você tem adiado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu te busque com constância, não apenas em momentos de crise. Prepara meu coração hoje para o que vais revelar amanhã. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu te busque com constância, não apenas em momentos de crise. Prepara meu coração hoje para o que vais revelar amanhã. Amém.",
     "passage": {
       "ref": "2 Crônicas 34 · capítulo completo (NVI)",
       "verses": [
@@ -5152,7 +5152,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Como você lida com a realidade de que fidelidade a Deus não garante uma vida livre de tragédia ou perda?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, declare hoje, para uma pessoa de confiança, um compromisso espiritual que você tem guardado apenas em pensamento, tornando-o real e público.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. renovo hoje minha aliança contigo, de todo o coração e toda a alma. Dá-me coragem para uma reforma completa, não parcial. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Renovo hoje minha aliança contigo, de todo o coração e toda a alma. Dá-me coragem para uma reforma completa, não parcial. Amém.",
     "passage": {
       "ref": "2 Reis 23 · capítulo completo (NVI)",
       "verses": [
@@ -5334,7 +5334,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que decisão você está prestes a tomar que pode exigir mais discernimento do que ousadia?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, planeje com cuidado e generosidade um momento de adoração coletiva — em casa, na igreja ou com amigos — que celebre algo concreto que Deus já fez.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a celebrar com todo o cuidado e alegria o que já fizeste por mim. Dá-me discernimento nas decisões que ainda preciso tomar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a celebrar com todo o cuidado e alegria o que já fizeste por mim. Dá-me discernimento nas decisões que ainda preciso tomar. Amém.",
     "passage": {
       "ref": "2 Crônicas 35 · capítulo completo (NVI)",
       "verses": [
@@ -5476,7 +5476,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Você confia na soberania de Deus mesmo quando ele parece agir através de circunstâncias dolorosas e não escolhidas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita sobre uma dificuldade atual e pergunte a Deus o que ela pode estar revelando sobre seu coração, em vez de apenas pedir que ela termine.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mesmo no exílio e na perda, tu permaneces soberano. Revela-me o que preciso ver sobre mim mesmo nesta temporada. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Mesmo no exílio e na perda, tu permaneces soberano. Revela-me o que preciso ver sobre mim mesmo nesta temporada. Amém.",
     "passage": {
       "ref": "2 Reis 24 · capítulo completo (NVI)",
       "verses": [
@@ -5590,7 +5590,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que promessa de Deus você precisa segurar com fé, mesmo sem ver ainda seu cumprimento completo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, em meio a uma situação que parece sem esperança, procure e anote hoje um sinal concreto, ainda que pequeno, de que Deus não abandonou você.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mesmo quando tudo parece destruído, tu preservas esperança. Ajuda-me a enxergar os pequenos sinais da tua fidelidade hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Mesmo quando tudo parece destruído, tu preservas esperança. Ajuda-me a enxergar os pequenos sinais da tua fidelidade hoje. Amém.",
     "passage": {
       "ref": "2 Reis 25 · capítulo completo (NVI)",
       "verses": [
@@ -5744,7 +5744,7 @@ window.REIS_2_CARTA = [
       "Pensando na sua caminhada de hoje: Que primeiro passo de 'subida' — de retorno, reconstrução ou recomeço — Deus está convidando você a dar hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dê hoje o primeiro passo concreto de 'subida' em uma área da sua vida que você havia deixado estagnada na destruição ou na desistência.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado porque tua história comigo nunca termina em ruína. Dá-me coragem para subir e recomeçar onde tu já abriste o caminho. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado porque tua história comigo nunca termina em ruína. Dá-me coragem para subir e recomeçar onde tu já abriste o caminho. Amém.",
     "passage": {
       "ref": "2 Crônicas 36 · capítulo completo (NVI)",
       "verses": [

@@ -34,7 +34,7 @@ window.LEVITICO_CARTA = [
       "Pensando no próximo passo possível: Que detalhe prático de obediência você tem negligenciado por parecer pequeno demais para importar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça hoje a Deus algo por completo, sem reservar parte alguma para si mesmo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha vida seja oferta completa, de aroma agradável a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha vida seja oferta completa, de aroma agradável a ti. Amém.",
     "passage": {
       "ref": "Levítico 1 · capítulo completo (NVI)",
       "verses": [
@@ -136,7 +136,7 @@ window.LEVITICO_CARTA = [
       "Na prática de hoje: Que pequeno detalhe de fidelidade você tem negligenciado, mesmo sabendo seu significado maior?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça hoje a Deus um trabalho comum do seu dia como ato consciente de adoração duradoura.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que meu compromisso contigo seja temperado com a permanência do sal da aliança. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que meu compromisso contigo seja temperado com a permanência do sal da aliança. Amém.",
     "passage": {
       "ref": "Levítico 2 · capítulo completo (NVI)",
       "verses": [
@@ -234,7 +234,7 @@ window.LEVITICO_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Que refeição ou mesa compartilhada você poderia transformar em celebração consciente de comunhão com Deus e outros?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça hoje a Deus a melhor parte do seu tempo ou recurso, não apenas o que sobrar depois de outras prioridades.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu sempre te ofereça o melhor, não apenas o que sobra. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu sempre te ofereça o melhor, não apenas o que sobra. Amém.",
     "passage": {
       "ref": "Levítico 3 · capítulo completo (NVI)",
       "verses": [
@@ -336,7 +336,7 @@ window.LEVITICO_CARTA = [
       "Pensando no próximo passo possível: Você trata o perdão como privilégio de poucos, ou reconhece que todos têm o mesmo acesso a ele?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, leve hoje a Deus, especificamente, um erro não intencional que você tem carregado sem confessá-lo formalmente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por fazeres propiciação até pelos meus erros não intencionais. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por fazeres propiciação até pelos meus erros não intencionais. Amém.",
     "passage": {
       "ref": "Levítico 4 · capítulo completo (NVI)",
       "verses": [
@@ -510,7 +510,7 @@ window.LEVITICO_CARTA = [
       "Na prática de hoje: Como confessar honestamente pode se tornar, para você, um ato genuíno de louvor a Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, confesse hoje, em voz alta ou por escrito, um pecado específico que você tem apenas sentido remorso silencioso.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. confesso o pecado que cometi. Que essa confissão seja também louvor à tua misericórdia. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Confesso o pecado que cometi. Que essa confissão seja também louvor à tua misericórdia. Amém.",
     "passage": {
       "ref": "Levítico 5 · capítulo completo (NVI)",
       "verses": [
@@ -620,7 +620,7 @@ window.LEVITICO_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Que responsabilidade específica e contínua Deus confiou a você, mesmo que pareça pequena ou invisível?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reacenda hoje, com atenção intencional, uma prática espiritual que você tem deixado esfriar por negligência.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que o fogo da minha devoção a ti nunca se apague. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que o fogo da minha devoção a ti nunca se apague. Amém.",
     "passage": {
       "ref": "Levítico 6 · capítulo completo (NVI)",
       "verses": [
@@ -774,7 +774,7 @@ window.LEVITICO_CARTA = [
       "Pensando no próximo passo possível: Que 'monte Sinai' — momento específico de encontro com Deus — marcou de forma decisiva sua própria caminhada espiritual?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, resuma hoje, por escrito, uma verdade espiritual importante que você tem aprendido, consolidando-a para si mesmo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pela tua Torá, tua instrução amorosa. Ensina-me a vivê-la com gratidão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pela tua Torá, tua instrução amorosa. Ensina-me a vivê-la com gratidão. Amém.",
     "passage": {
       "ref": "Levítico 7 · capítulo completo (NVI)",
       "verses": [
@@ -960,7 +960,7 @@ window.LEVITICO_CARTA = [
       "Na prática de hoje: Que área do seu serviço a Deus precisa de mãos mais 'cheias' — mais preparo e capacitação?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dedique hoje um tempo intencional de preparação espiritual antes de uma responsabilidade importante que você enfrenta.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. enche minhas mãos para o serviço que me chamas a fazer. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Enche minhas mãos para o serviço que me chamas a fazer. Amém.",
     "passage": {
       "ref": "Levítico 8 · capítulo completo (NVI)",
       "verses": [
@@ -1138,7 +1138,7 @@ window.LEVITICO_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Que longa preparação sua está se aproximando de um momento de confirmação pública e visível?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, celebre hoje, com alegria explosiva e não apenas reverência contida, uma confirmação recente da aprovação de Deus em sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu grite de alegria diante da tua presença confirmada em minha vida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu grite de alegria diante da tua presença confirmada em minha vida. Amém.",
     "passage": {
       "ref": "Levítico 9 · capítulo completo (NVI)",
       "verses": [
@@ -1268,7 +1268,7 @@ window.LEVITICO_CARTA = [
       "Pensando no próximo passo possível: Que 'fogo estranho' — abordagem não autorizada a Deus — você pode estar oferecendo sem perceber a gravidade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje sua própria reverência diante de Deus, corrigindo qualquer familiaridade descuidada que você reconheça.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu te trate com a reverência que tua santidade exige. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu te trate com a reverência que tua santidade exige. Amém.",
     "passage": {
       "ref": "Levítico 10 · capítulo completo (NVI)",
       "verses": [
@@ -1382,7 +1382,7 @@ window.LEVITICO_CARTA = [
       "Na prática de hoje: Como sua vida é perceptivelmente 'separada' e diferente do padrão ao seu redor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje, conscientemente, uma decisão cotidiana e comum como expressão intencional de santidade diante de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sou santo porque tu és santo. Que isso molde até minhas escolhas mais comuns. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sou santo porque tu és santo. Que isso molde até minhas escolhas mais comuns. Amém.",
     "passage": {
       "ref": "Levítico 11 · capítulo completo (NVI)",
       "verses": [
@@ -1604,7 +1604,7 @@ window.LEVITICO_CARTA = [
       "O que seria um passo pequeno e verdadeiro: De que forma você pode garantir acesso igualitário a recursos espirituais para pessoas com menos condições ao seu redor?"
     ],
     "application": "Hoje, trate seu corpo com dignidade e gratidão. Se estiver atravessando recuperação física, permita-se respeitar o tempo do corpo sem interpretar necessidade de cuidado como falha espiritual.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por providenciares um caminho acessível a todos, ricos e pobres, para chegarmos a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por providenciares um caminho acessível a todos, ricos e pobres, para chegarmos a ti. Amém.",
     "passage": {
       "ref": "Levítico 12 · capítulo completo (NVI)",
       "verses": [
@@ -1940,7 +1940,7 @@ window.LEVITICO_CARTA = [
       "Na prática de hoje: Que 'cura' você já experimentou que ainda precisa de um passo formal de restauração espiritual completa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça hoje um passo formal e intencional de restauração a alguém que está retornando depois de um período de afastamento.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por restaurares completamente, não apenas superficialmente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por restaurares completamente, não apenas superficialmente. Amém.",
     "passage": {
       "ref": "Levítico 14 · capítulo completo (NVI)",
       "verses": [
@@ -2202,7 +2202,7 @@ window.LEVITICO_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Que 'contaminação' involuntária em sua vida ainda precisa de um processo apropriado de purificação antes de seguir em frente?"
     ],
     "application": "Hoje, lembre-se de que limitações e processos do corpo não diminuem sua dignidade. Cuide do que precisa de cuidado sem transformar condição física em culpa moral.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu habitas entre nós. Guarda-nos puros diante da tua presença. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu habitas entre nós. Guarda-nos puros diante da tua presença. Amém.",
     "passage": {
       "ref": "Levítico 15 · capítulo completo (NVI)",
       "verses": [
@@ -2538,7 +2538,7 @@ window.LEVITICO_CARTA = [
       "Na prática de hoje: Que 'restrição' na sua própria vida protege algo sagrado da banalização por uso descuidado?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, medite hoje profundamente sobre o valor literal e não apenas simbólico do sangue de Cristo derramado por sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelo sangue que contém vida e faz propiciação. O sangue de Cristo é suficiente por mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelo sangue que contém vida e faz propiciação. O sangue de Cristo é suficiente por mim. Amém.",
     "passage": {
       "ref": "Levítico 17 · capítulo completo (NVI)",
       "verses": [
@@ -2636,7 +2636,7 @@ window.LEVITICO_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Você tem coragem de ser moralmente diferente tanto do seu passado quanto do contexto cultural presente?"
     ],
     "application": "Hoje, reflita sobre limites, respeito e responsabilidade nas relações. Não use este capítulo para humilhar a si mesmo ou outras pessoas; procure viver escolhas coerentes com sua fé e com a dignidade de todos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu obedeça aos teus decretos e viva plenamente por eles. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu obedeça aos teus decretos e viva plenamente por eles. Amém.",
     "passage": {
       "ref": "Levítico 18 · capítulo completo (NVI)",
       "verses": [
@@ -2790,7 +2790,7 @@ window.LEVITICO_CARTA = [
       "Pensando no próximo passo possível: Quem, em sua definição pessoal de 'próximo', você tem excluído indevidamente?"
     ],
     "application": "Pratique hoje uma forma concreta de amor ao próximo: justiça numa negociação, cuidado com alguém vulnerável, honestidade numa conversa ou acolhimento de quem costuma ficar à margem.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a amar meu próximo como a mim mesmo, sem guardar rancor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a amar meu próximo como a mim mesmo, sem guardar rancor. Amém.",
     "passage": {
       "ref": "Levítico 19 · capítulo completo (NVI)",
       "verses": [
@@ -2972,7 +2972,7 @@ window.LEVITICO_CARTA = [
       "Na prática de hoje: Sua identidade como pertencente a Deus precede suas ações, ou você tenta primeiro agir direito para depois se sentir pertencente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, viva hoje conscientemente sua identidade de pertencer exclusivamente a Deus antes de qualquer ação específica que você tome.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me separaste para seres meus. Que minha identidade em ti preceda tudo o que faço. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me separaste para seres meus. Que minha identidade em ti preceda tudo o que faço. Amém.",
     "passage": {
       "ref": "Levítico 20 · capítulo completo (NVI)",
       "verses": [
@@ -3114,7 +3114,7 @@ window.LEVITICO_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Você busca tanto santidade pessoal interior quanto reconhecimento apropriado da santidade que a posição exige?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, respeite hoje, de forma prática e consciente, um líder espiritual legítimo em sua vida, reconhecendo apropriadamente sua função.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me santificas. Que eu viva de forma digna da posição que me confias. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me santificas. Que eu viva de forma digna da posição que me confias. Amém.",
     "passage": {
       "ref": "Levítico 21 · capítulo completo (NVI)",
       "verses": [
@@ -3244,7 +3244,7 @@ window.LEVITICO_CARTA = [
       "Pensando no próximo passo possível: Como sua vida pode ativamente contribuir para que Deus seja 'reconhecido como santo' por quem observa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma área em que você tem tratado o nome ou a obra de Deus com menos reverência do que merecem.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero profanar teu santo nome. Que minha vida te reconheça como santo diante de todos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero profanar teu santo nome. Que minha vida te reconheça como santo diante de todos. Amém.",
     "passage": {
       "ref": "Levítico 22 · capítulo completo (NVI)",
       "verses": [
@@ -3410,7 +3410,7 @@ window.LEVITICO_CARTA = [
       "Na prática de hoje: Seu ritmo espiritual é estruturado e regular, ou apenas esporádico conforme a conveniência do momento?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, estabeleça hoje um 'tempo marcado' regular em seu calendário dedicado especificamente ao encontro com Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelos tempos marcados de encontro contigo. Ajuda-me a guardá-los com fidelidade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelos tempos marcados de encontro contigo. Ajuda-me a guardá-los com fidelidade. Amém.",
     "passage": {
       "ref": "Levítico 23 · capítulo completo (NVI)",
       "verses": [
@@ -3620,7 +3620,7 @@ window.LEVITICO_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Que caso concreto e específico em sua própria vida poderia ilustrar melhor um princípio de justiça que você valoriza?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje se você aplica os mesmos padrões de justiça e tratamento a pessoas de diferentes origens ao seu redor.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu não fazes acepção de pessoas. Ajuda-me a tratar a todos com a mesma justiça. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu não fazes acepção de pessoas. Ajuda-me a tratar a todos com a mesma justiça. Amém.",
     "passage": {
       "ref": "Levítico 24 · capítulo completo (NVI)",
       "verses": [
@@ -3746,7 +3746,7 @@ window.LEVITICO_CARTA = [
       "Pensando no próximo passo possível: Como equilibrar caridade individual esporádica com compromisso mais estrutural e sistemático com a justiça?"
     ],
     "application": "Escolha hoje uma forma pequena de devolver liberdade ou espaço a alguém: aliviar uma dívida relacional, rever uma cobrança injusta, devolver autonomia ou parar de controlar aquilo que não lhe pertence.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu proclamas liberdade. Ajuda-me a participar ativamente da tua obra de restauração e justiça. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu proclamas liberdade. Ajuda-me a participar ativamente da tua obra de restauração e justiça. Amém.",
     "passage": {
       "ref": "Levítico 25 · capítulo completo (NVI)",
       "verses": [
@@ -4000,7 +4000,7 @@ window.LEVITICO_CARTA = [
       "Na prática de hoje: Mesmo depois de falhas sérias, você confia que a restauração ainda está disponível através de confissão sincera e humildade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje conscientemente a presença ativa de Deus 'andando entre' você em uma situação específica do seu dia.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. anda entre mim. Sê meu Deus, e serei teu povo, sempre. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Anda entre mim. Sê meu Deus, e serei teu povo, sempre. Amém.",
     "passage": {
       "ref": "Levítico 26 · capítulo completo (NVI)",
       "verses": [
@@ -4218,7 +4218,7 @@ window.LEVITICO_CARTA = [
       "O que seria um passo pequeno e verdadeiro: Como reconhecer que uma porção do que você possui já 'pertence ao Senhor' muda sua prática de generosidade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje uma breve reflexão final sobre o que esta jornada por Levítico revelou sobre a santidade e a graça de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelos mandamentos que ordenaste no Sinai. Que eu os guarde com o coração, não apenas com as mãos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelos mandamentos que ordenaste no Sinai. Que eu os guarde com o coração, não apenas com as mãos. Amém.",
     "passage": {
       "ref": "Levítico 27 · capítulo completo (NVI)",
       "verses": [

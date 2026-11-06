@@ -33,7 +33,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como cultivar o mesmo temor a Deus que deu coragem às parteiras?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma injustiça silenciosa ao seu redor e dê um passo concreto, mesmo pequeno, para proteger quem é vulnerável nela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me o mesmo temor a ti que deu coragem às parteiras do Egito. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me o mesmo temor a ti que deu coragem às parteiras do Egito. Amém.",
     "passage": {
       "ref": "Êxodo 1 · capítulo completo (NVI)",
       "verses": [
@@ -155,7 +155,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como o clamor de outros, não apenas o seu, pode estar sendo ouvido por Deus agora mesmo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, leve hoje a Deus, em oração, uma situação de espera prolongada, confiando que ele já ouviu, lembrou e viu.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por ouvires, lembrares e veres, mesmo quando pareces em silêncio. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por ouvires, lembrares e veres, mesmo quando pareces em silêncio. Amém.",
     "passage": {
       "ref": "Êxodo 2 · capítulo completo (NVI)",
       "verses": [
@@ -289,7 +289,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que 'sarça ardente' comum em sua rotina pode se tornar lugar de encontro com Deus hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve hoje um momento de adoração focado apenas em quem Deus é, antes de pedir qualquer coisa a ele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és Eu Sou o que Sou. Adoro teu caráter antes de pedir qualquer coisa a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és Eu Sou o que Sou. Adoro teu caráter antes de pedir qualquer coisa a ti. Amém.",
     "passage": {
       "ref": "Êxodo 3 · capítulo completo (NVI)",
       "verses": [
@@ -411,7 +411,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que 'Aarão' Deus pode estar providenciando para complementar sua própria fraqueza reconhecida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, fale hoje algo importante que você tem adiado por insegurança, confiando que Deus estará com suas palavras.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. estarás com minha boca. Ajuda-me a falar o que preciso dizer, apesar da minha insegurança. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Estarás com minha boca. Ajuda-me a falar o que preciso dizer, apesar da minha insegurança. Amém.",
     "passage": {
       "ref": "Êxodo 4 · capítulo completo (NVI)",
       "verses": [
@@ -569,7 +569,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como perseverar em obediência mesmo quando as circunstâncias parecem piorar antes de melhorar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, persista hoje em um passo de obediência a Deus, mesmo que as circunstâncias imediatas pareçam ter piorado por causa dele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que todos ao meu redor venham a te conhecer através da minha perseverança em obediência. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que todos ao meu redor venham a te conhecer através da minha perseverança em obediência. Amém.",
     "passage": {
       "ref": "Êxodo 5 · capítulo completo (NVI)",
       "verses": [
@@ -849,7 +849,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que situação atual você gostaria que revelasse claramente 'que o Senhor é Deus' a quem duvida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje pedindo que uma situação específica em sua vida revele claramente o poder e o caráter de Deus a alguém que observa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. estende tua mão para que todos ao meu redor saibam que tu és o Senhor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Estende tua mão para que todos ao meu redor saibam que tu és o Senhor. Amém.",
     "passage": {
       "ref": "Êxodo 7 · capítulo completo (NVI)",
       "verses": [
@@ -983,7 +983,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como evitar que o reconhecimento de uma verdade permaneça apenas teórico, sem se tornar obediência prática?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma verdade sobre Deus que você já reconhece intelectualmente, mas ainda não traduziu em mudança prática de comportamento.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero apenas reconhecer tua mão — quero submeter meu coração a ela. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero apenas reconhecer tua mão — quero submeter meu coração a ela. Amém.",
     "passage": {
       "ref": "Êxodo 8 · capítulo completo (NVI)",
       "verses": [
@@ -1145,7 +1145,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: O que significa viver de modo que o nome de Deus seja mais conhecido através da sua própria história?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita hoje sobre como uma dificuldade prolongada em sua vida pode estar tornando o nome de Deus mais conhecido através de você.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. usa até minhas dificuldades para que teu nome seja proclamado através de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Usa até minhas dificuldades para que teu nome seja proclamado através de mim. Amém.",
     "passage": {
       "ref": "Êxodo 9 · capítulo completo (NVI)",
       "verses": [
@@ -1319,7 +1319,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que 'milagre' recente em sua vida merece ser registrado e contado no futuro?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, conte hoje, deliberadamente, uma história específica da fidelidade de Deus a alguém mais jovem em sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a contar fielmente tua história aos que vêm depois de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a contar fielmente tua história aos que vêm depois de mim. Amém.",
     "passage": {
       "ref": "Êxodo 10 · capítulo completo (NVI)",
       "verses": [
@@ -1469,7 +1469,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que detalhe aparentemente pequeno de proteção divina você pode ter deixado de notar e agradecer?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje um detalhe pequeno de proteção de Deus em sua vida recente que você talvez não tenha notado antes.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por fazeres distinção e me proteger, mesmo em detalhes que eu nem percebo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por fazeres distinção e me proteger, mesmo em detalhes que eu nem percebo. Amém.",
     "passage": {
       "ref": "Êxodo 11 · capítulo completo (NVI)",
       "verses": [
@@ -1543,7 +1543,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Você vive com a segurança de estar 'marcado' e protegido pelo sangue, mesmo em meio a um mundo sob julgamento?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, agradeça hoje especificamente pelo sangue de Cristo que protege sua vida, refletindo sobre esta primeira Páscoa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelo sangue que me protege. Que eu nunca subestime seu valor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelo sangue que me protege. Que eu nunca subestime seu valor. Amém.",
     "passage": {
       "ref": "Êxodo 12 · capítulo completo (NVI)",
       "verses": [
@@ -1781,7 +1781,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Você reconhece a presença constante de Deus tanto nos momentos 'claros' quanto nos mais escuros da sua jornada?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje, especificamente, como Deus tem guiado tanto os momentos claros quanto os escuros da sua jornada recente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guia-me de dia e de noite. Obrigado por nunca me deixares sem tua presença visível. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guia-me de dia e de noite. Obrigado por nunca me deixares sem tua presença visível. Amém.",
     "passage": {
       "ref": "Êxodo 13 · capítulo completo (NVI)",
       "verses": [
@@ -1903,7 +1903,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como lembranças de milagres passados de Deus podem acalmar seu pânico diante de uma nova crise?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, diante de uma ansiedade atual, pratique hoje conscientemente 'calar-se' em vez de reagir com pânico, confiando que Deus lutará por você.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu lutarás por mim. Ajuda-me a acalmar meu coração e confiar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu lutarás por mim. Ajuda-me a acalmar meu coração e confiar. Amém.",
     "passage": {
       "ref": "Êxodo 14 · capítulo completo (NVI)",
       "verses": [
@@ -2061,7 +2061,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que 'água amarga' em sua vida você precisa confiar a Deus, que já provou poder torná-la doce?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, cante ou declare hoje, em voz alta, um louvor pessoal e específico por uma vitória concreta que Deus já lhe deu.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és minha força e minha canção. Torna doce a amargura que ainda enfrento. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és minha força e minha canção. Torna doce a amargura que ainda enfrento. Amém.",
     "passage": {
       "ref": "Êxodo 15 · capítulo completo (NVI)",
       "verses": [
@@ -2203,7 +2203,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como a disciplina de confiar 'um dia de cada vez' pode transformar sua ansiedade atual?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje confiar em Deus apenas para as necessidades deste dia específico, resistindo à ansiedade sobre o amanhã.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me hoje o pão de cada dia. Ensina-me a confiar sem acumular ansiosamente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me hoje o pão de cada dia. Ensina-me a confiar sem acumular ansiosamente. Amém.",
     "passage": {
       "ref": "Êxodo 16 · capítulo completo (NVI)",
       "verses": [
@@ -2381,7 +2381,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como transformar uma queixa recorrente em clamor genuíno e específico a Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, busque hoje alguém para sustentar, ou peça a alguém que sustente você, em uma área específica de cansaço.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és minha Rocha. Provê para minha sede e sustenta-me quando meus braços cansam. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és minha Rocha. Provê para minha sede e sustenta-me quando meus braços cansam. Amém.",
     "passage": {
       "ref": "Êxodo 17 · capítulo completo (NVI)",
       "verses": [
@@ -2479,7 +2479,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que responsabilidade específica você precisa delegar hoje para evitar esgotamento futuro?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, delegue hoje, concretamente, uma responsabilidade que você tem insistido em carregar completamente sozinho.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me humildade para receber conselho sábio e delegar o que não preciso carregar sozinho. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me humildade para receber conselho sábio e delegar o que não preciso carregar sozinho. Amém.",
     "passage": {
       "ref": "Êxodo 18 · capítulo completo (NVI)",
       "verses": [
@@ -2621,7 +2621,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que preparação e consagração você precisa fazer antes de um encontro significativo com Deus hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, viva hoje conscientemente sua identidade de 'tesouro pessoal' de Deus em pelo menos uma decisão concreta.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por me chamares teu tesouro pessoal. Que eu viva como sacerdote e nação santa diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por me chamares teu tesouro pessoal. Que eu viva como sacerdote e nação santa diante de ti. Amém.",
     "passage": {
       "ref": "Êxodo 19 · capítulo completo (NVI)",
       "verses": [
@@ -2755,7 +2755,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como cultivar temor apropriado diante da santidade de Deus, sem perder a intimidade que ele também oferece?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje um 'outro deus' — prioridade concorrente — e reafirme conscientemente a exclusividade da devoção a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me tiraste da escravidão. Não terei outros deuses diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me tiraste da escravidão. Não terei outros deuses diante de ti. Amém.",
     "passage": {
       "ref": "Êxodo 20 · capítulo completo (NVI)",
       "verses": [
@@ -2893,7 +2893,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que lei ou princípio bíblico você já julgou 'severo demais' sem entender seu propósito protetor original?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, diante de uma ofensa recente, avalie hoje se sua resposta tem sido proporcional, nem excessiva nem omissa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me sabedoria para responder com justiça proporcional, sem vingança desmedida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me sabedoria para responder com justiça proporcional, sem vingança desmedida. Amém.",
     "passage": {
       "ref": "Êxodo 21 · capítulo completo (NVI)",
       "verses": [
@@ -3071,7 +3071,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: O que significaria, na prática, aplicar esta lei específica em sua comunidade hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje um ato concreto de acolhimento a alguém que se sente estrangeiro ou deslocado em seu contexto.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. lembro que já fui estrangeiro. Ensina-me a acolher, não a oprimir, quem é estrangeiro hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Lembro que já fui estrangeiro. Ensina-me a acolher, não a oprimir, quem é estrangeiro hoje. Amém.",
     "passage": {
       "ref": "Êxodo 22 · capítulo completo (NVI)",
       "verses": [
@@ -3229,7 +3229,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como cultivar discernimento pessoal que não depende de aprovação social para se manter firme?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma situação em que você tem seguido a maioria contra seu próprio discernimento, e reconsidere sua posição.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me coragem para não seguir a maioria quando ela se afasta da tua justiça. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me coragem para não seguir a maioria quando ela se afasta da tua justiça. Amém.",
     "passage": {
       "ref": "Êxodo 23 · capítulo completo (NVI)",
       "verses": [
@@ -3395,7 +3395,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Você reserva tempo prolongado na presença de Deus, ou apenas momentos rápidos e superficiais?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve hoje um tempo mais longo do que o habitual na presença de Deus, sem pressa para terminar.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelo sangue da aliança, antiga e nova. Quero permanecer mais tempo em tua presença. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelo sangue da aliança, antiga e nova. Quero permanecer mais tempo em tua presença. Amém.",
     "passage": {
       "ref": "Êxodo 24 · capítulo completo (NVI)",
       "verses": [
@@ -3501,7 +3501,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como Cristo, o tabernáculo definitivo, cumpre o desejo de Deus de 'habitar no meio' do seu povo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça hoje a Deus um ato de adoração com cuidado e excelência intencionais, não apenas cumprimento apressado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. faze de mim um santuário onde tu habitas. Obrigado por escolheres estar no meio de nós. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Faze de mim um santuário onde tu habitas. Obrigado por escolheres estar no meio de nós. Amém.",
     "passage": {
       "ref": "Êxodo 25 · capítulo completo (NVI)",
       "verses": [
@@ -3695,7 +3695,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que instrução detalhada de Deus você tem seguido apenas parcialmente, por não entender completamente seu propósito?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, siga hoje, com atenção redobrada aos detalhes, uma instrução específica de Deus que você tem cumprido apenas superficialmente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a seguir fielmente o padrão que revelaste, mesmo nos detalhes que não entendo completamente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a seguir fielmente o padrão que revelaste, mesmo nos detalhes que não entendo completamente. Amém.",
     "passage": {
       "ref": "Êxodo 26 · capítulo completo (NVI)",
       "verses": [
@@ -3877,7 +3877,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: O que você precisa renovar hoje para que sua 'lâmpada' não se apague por falta de manutenção?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, renove hoje uma prática espiritual que tem se apagado por falta de manutenção e cuidado consistente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha lâmpada arda continuamente. Ajuda-me a trazer, com fidelidade, o que sustenta essa luz. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha lâmpada arda continuamente. Ajuda-me a trazer, com fidelidade, o que sustenta essa luz. Amém.",
     "passage": {
       "ref": "Êxodo 27 · capítulo completo (NVI)",
       "verses": [
@@ -4201,7 +4201,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: O que significaria, na prática, experimentar Deus 'no meio' da sua rotina diária, não apenas em momentos especiais?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, convide hoje, conscientemente, a presença de Deus para 'habitar' em uma parte específica da sua rotina onde você normalmente não a reconhece.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por quereres habitar no meio de mim. Que essa seja a meta final de toda a minha liberdade em ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por quereres habitar no meio de mim. Que essa seja a meta final de toda a minha liberdade em ti. Amém.",
     "passage": {
       "ref": "Êxodo 29 · capítulo completo (NVI)",
       "verses": [
@@ -4419,7 +4419,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como equilibrar a segurança da sua posição em Cristo com a seriedade apropriada diante da santidade de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje um momento intencional de confissão e purificação espiritual antes de qualquer ato de serviço ou adoração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. purifica-me continuamente antes de me aproximar de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Purifica-me continuamente antes de me aproximar de ti. Amém.",
     "passage": {
       "ref": "Êxodo 30 · capítulo completo (NVI)",
       "verses": [
@@ -4605,7 +4605,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Você tem permitido que a urgência de projetos importantes o leve a negligenciar o descanso que Deus ordena?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dedique hoje conscientemente uma habilidade prática ou profissional sua como oferta de serviço a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. enche-me do teu Espírito para o trabalho prático que tenho pela frente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Enche-me do teu Espírito para o trabalho prático que tenho pela frente. Amém.",
     "passage": {
       "ref": "Êxodo 31 · capítulo completo (NVI)",
       "verses": [
@@ -4711,7 +4711,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como equilibrar ira apropriada diante do pecado com amor intercessório genuíno pela pessoa que pecou?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, interceda hoje por alguém que cometeu um erro sério, pedindo a Deus misericórdia específica para essa pessoa.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. como Moisés, intercedo por quem pecou. Que tua misericórdia alcance mesmo quem falhou gravemente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Como Moisés, intercedo por quem pecou. Que tua misericórdia alcance mesmo quem falhou gravemente. Amém.",
     "passage": {
       "ref": "Êxodo 32 · capítulo completo (NVI)",
       "verses": [
@@ -4885,7 +4885,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como a presença de Deus, e não apenas circunstâncias favoráveis, pode ser a fonte do seu descanso hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, faça hoje um pedido ousado a Deus por sua presença mais profunda em uma área específica da sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que tua presença me acompanhe e me dê descanso, não apenas orientação à distância. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que tua presença me acompanhe e me dê descanso, não apenas orientação à distância. Amém.",
     "passage": {
       "ref": "Êxodo 33 · capítulo completo (NVI)",
       "verses": [
@@ -5185,7 +5185,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que habilidade específica sua, mesmo que pareça comum, pode contribuir para a obra maior de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, contribua hoje, voluntariamente e com alegria, para uma obra específica de Deus com um recurso ou habilidade que você possui.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que meu coração seja disposto a oferecer, voluntariamente, tudo o que tenho para tua obra. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que meu coração seja disposto a oferecer, voluntariamente, tudo o que tenho para tua obra. Amém.",
     "passage": {
       "ref": "Êxodo 35 · capítulo completo (NVI)",
       "verses": [
@@ -5359,7 +5359,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: O que esta abundância revela sobre a transformação real que pode acontecer depois de um período de rebeldia confessada?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, celebre hoje, com gratidão, um momento em que a generosidade de sua comunidade de fé excedeu suas expectativas.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha generosidade nunca seja escassa, mas abundante o suficiente para exceder a necessidade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha generosidade nunca seja escassa, mas abundante o suficiente para exceder a necessidade. Amém.",
     "passage": {
       "ref": "Êxodo 36 · capítulo completo (NVI)",
       "verses": [
@@ -5545,7 +5545,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que 'imagem visual' de fé você poderia criar ou manter para lembrar constantemente uma verdade espiritual importante?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, volte hoje, conscientemente, seu olhar espiritual para a misericórdia de Deus antes de qualquer outra preocupação.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que meu olhar esteja sempre voltado para o lugar da tua misericórdia. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que meu olhar esteja sempre voltado para o lugar da tua misericórdia. Amém.",
     "passage": {
       "ref": "Êxodo 37 · capítulo completo (NVI)",
       "verses": [
@@ -5695,7 +5695,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como o serviço fiel e muitas vezes invisível de pessoas comuns sustenta estruturas maiores de fé que você talvez nem perceba?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça hoje algo pessoal e cotidiano — tempo, objeto ou talento — para ser usado por Deus em um propósito maior.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. transforma até o que é comum na minha vida em algo útil para o teu propósito. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Transforma até o que é comum na minha vida em algo útil para o teu propósito. Amém.",
     "passage": {
       "ref": "Êxodo 38 · capítulo completo (NVI)",
       "verses": [
@@ -5853,7 +5853,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como buscar terminar bem, com inspeção cuidadosa, em vez de apenas terminar rapidamente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje explicitamente, com palavras de bênção, o trabalho bem feito de alguém ao seu redor.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu conclua fielmente o que começo, exatamente como tu ordenaste. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu conclua fielmente o que começo, exatamente como tu ordenaste. Amém.",
     "passage": {
       "ref": "Êxodo 39 · capítulo completo (NVI)",
       "verses": [
@@ -6059,7 +6059,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como a jornada inteira, do Egito ao tabernáculo, resume o padrão de Deus de libertar para depois habitar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve hoje um tempo de adoração silenciosa, reconhecendo conscientemente o peso e a realidade da glória de Deus presente com você.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que tua glória encha minha vida como encheu o tabernáculo. Obrigado por esta jornada inteira por Êxodo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que tua glória encha minha vida como encheu o tabernáculo. Obrigado por esta jornada inteira por Êxodo. Amém.",
     "passage": {
       "ref": "Êxodo 40 · capítulo completo (NVI)",
       "verses": [
@@ -6245,7 +6245,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que 'relatório assustador' você tem escutado que precisa ser confrontado com a fé, não com pânico?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, relembre hoje, especificamente, uma vitória passada de Deus em sua vida para enfrentar um medo atual.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu lutaste por mim antes e lutarás de novo. Não temerei o que está à frente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu lutaste por mim antes e lutarás de novo. Não temerei o que está à frente. Amém.",
     "passage": {
       "ref": "Deuteronômio 1 · capítulo completo (NVI)",
       "verses": [
@@ -6463,7 +6463,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que testemunho de longo prazo sobre a fidelidade de Deus você pode oferecer a partir da sua própria história?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje um breve testemunho sobre um longo período difícil em que, olhando para trás, nada realmente lhe faltou.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por não me deixares faltar nada, mesmo nos anos mais difíceis do deserto. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por não me deixares faltar nada, mesmo nos anos mais difíceis do deserto. Amém.",
     "passage": {
       "ref": "Deuteronômio 2 · capítulo completo (NVI)",
       "verses": [
@@ -6645,7 +6645,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Você já teve, como Moisés, um pedido legítimo negado por Deus, mesmo permanecendo fiel? Como lidou com isso?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, liste hoje três vitórias específicas e passadas que Deus já lhe deu, como evidência concreta para a batalha atual.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu lutarás por mim como já lutaste antes. Ajuda-me a aceitar também os pedidos que negas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu lutarás por mim como já lutaste antes. Ajuda-me a aceitar também os pedidos que negas. Amém.",
     "passage": {
       "ref": "Deuteronômio 3 · capítulo completo (NVI)",
       "verses": [
@@ -6795,7 +6795,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como equilibrar advertências sérias sobre consequências com a esperança genuína de restauração que Deus sempre oferece?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, busque hoje a Deus com intensidade renovada e total, não apenas com esforço parcial ou ocasional.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. busco-te de todo o coração e de toda a alma. Confio que te encontrarei. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Busco-te de todo o coração e de toda a alma. Confio que te encontrarei. Amém.",
     "passage": {
       "ref": "Deuteronômio 4 · capítulo completo (NVI)",
       "verses": [
@@ -7025,7 +7025,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como cultivar uma disposição de coração que permaneça constante, não apenas em momentos de crise ou temor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje cultivar, conscientemente, uma disposição permanente de coração em uma área que você tem tratado apenas como reação temporária.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que meu coração tenha sempre esta disposição de te temer e obedecer, não apenas em momentos de crise. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que meu coração tenha sempre esta disposição de te temer e obedecer, não apenas em momentos de crise. Amém.",
     "passage": {
       "ref": "Deuteronômio 5 · capítulo completo (NVI)",
       "verses": [
@@ -7191,7 +7191,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: O que significaria, na prática, 'ouvir' este mandamento de forma que gere ação responsiva imediata?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, grave hoje este mandamento em um lugar visível de sua casa e ensine-o intencionalmente a alguém mais jovem.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és o único Senhor. Amo-te de todo o meu coração, alma e forças. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és o único Senhor. Amo-te de todo o meu coração, alma e forças. Amém.",
     "passage": {
       "ref": "Deuteronômio 6 · capítulo completo (NVI)",
       "verses": [
@@ -7325,7 +7325,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como a fidelidade de Deus por 'mil gerações' muda sua confiança em promessas que ele fez à sua própria família?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, elimine hoje, completamente e sem compromisso parcial, uma influência específica que compete pela lealdade que pertence a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és o Deus fiel por mil gerações. Obrigado por me escolheres não por mérito, mas por amor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és o Deus fiel por mil gerações. Obrigado por me escolheres não por mérito, mas por amor. Amém.",
     "passage": {
       "ref": "Deuteronômio 7 · capítulo completo (NVI)",
       "verses": [
@@ -7463,7 +7463,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Você se alimenta tão regularmente da palavra de Deus quanto se alimenta de pão físico?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, alimente-se hoje intencionalmente da palavra de Deus com a mesma regularidade e prioridade que você dá ao alimento físico.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não vivo só de pão, mas de cada palavra que procede da tua boca. Alimenta-me hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não vivo só de pão, mas de cada palavra que procede da tua boca. Alimenta-me hoje. Amém.",
     "passage": {
       "ref": "Deuteronômio 8 · capítulo completo (NVI)",
       "verses": [
@@ -7577,7 +7577,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como evitar sentir-se moralmente superior a outros que enfrentam julgamento ou consequências difíceis?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje, especificamente, uma bênção que você tem atribuído ao próprio mérito, devolvendo o crédito à graça de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não é pela minha justiça que recebo tuas bênçãos, mas pela tua graça. Guarda-me do orgulho. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não é pela minha justiça que recebo tuas bênçãos, mas pela tua graça. Guarda-me do orgulho. Amém.",
     "passage": {
       "ref": "Deuteronômio 9 · capítulo completo (NVI)",
       "verses": [
@@ -7727,7 +7727,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como esta exigência de coração circuncidado, repetida ao longo de toda a Escritura, molda sua compreensão de obediência genuína?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, peça hoje a Deus, especificamente, que circuncide uma área obstinada do seu coração que resiste à transformação interior.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. circuncida meu coração. Não quero apenas rituais externos, mas transformação genuína e interior. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Circuncida meu coração. Não quero apenas rituais externos, mas transformação genuína e interior. Amém.",
     "passage": {
       "ref": "Deuteronômio 10 · capítulo completo (NVI)",
       "verses": [
@@ -7849,7 +7849,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que área da sua vida você trata como autossuficiente quando, na verdade, depende inteiramente da provisão de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje um versículo específico para memorizar intencionalmente e mantenha-o visível em algum lugar do seu cotidiano.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. grava tua palavra em meu coração e minha mente. Que ela esteja sempre diante de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Grava tua palavra em meu coração e minha mente. Que ela esteja sempre diante de mim. Amém.",
     "passage": {
       "ref": "Deuteronômio 11 · capítulo completo (NVI)",
       "verses": [
@@ -8011,7 +8011,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como celebrar mais intencionalmente, em família ou comunidade, as bênçãos específicas que Deus já lhe deu?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, celebre hoje, com alegria genuína e junto a outras pessoas, uma bênção específica que Deus já lhe concedeu.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu me alegre diante de ti pelas bênçãos que já me deste. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu me alegre diante de ti pelas bênçãos que já me deste. Amém.",
     "passage": {
       "ref": "Deuteronômio 12 · capítulo completo (NVI)",
       "verses": [
@@ -8173,7 +8173,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: O que significa, na prática, 'apegar-se' a Deus com a mesma intimidade descrita nesta palavra?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma mensagem ou influência espiritual recente à luz da fidelidade genuína ao caráter de Deus, não apenas de sinais impressionantes.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sigo somente a ti e me apego somente a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sigo somente a ti e me apego somente a ti. Amém.",
     "passage": {
       "ref": "Deuteronômio 13 · capítulo completo (NVI)",
       "verses": [
@@ -8279,7 +8279,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como seu dízimo ou generosidade regular sustenta tanto a adoração quanto o cuidado com os necessitados ao seu redor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reveja hoje sua prática de generosidade regular, garantindo que ela reflita genuinamente sua identidade como tesouro pessoal de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sou teu tesouro pessoal, consagrado a ti. Que minhas práticas reflitam essa identidade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sou teu tesouro pessoal, consagrado a ti. Que minhas práticas reflitam essa identidade. Amém.",
     "passage": {
       "ref": "Deuteronômio 14 · capítulo completo (NVI)",
       "verses": [
@@ -8429,7 +8429,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que estrutura em sua própria vida ou comunidade poderia ajudar a quebrar ciclos de pobreza, não apenas aliviar sintomas temporários?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, abra hoje seu coração de forma prática e concreta para uma pessoa específica em necessidade real ao seu redor.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. abre meu coração para o pobre e o necessitado ao meu redor, sempre. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Abre meu coração para o pobre e o necessitado ao meu redor, sempre. Amém.",
     "passage": {
       "ref": "Deuteronômio 15 · capítulo completo (NVI)",
       "verses": [
@@ -8555,7 +8555,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como você contribui para estruturas de justiça íntegras em sua própria comunidade, não apenas para piedade pessoal isolada?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, calcule hoje uma oferta específica e proporcional às bênçãos recentes que Deus lhe deu, e ofereça-a conscientemente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero vir a ti de mãos vazias. Que minha oferta seja proporcional a tudo o que já me deste. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero vir a ti de mãos vazias. Que minha oferta seja proporcional a tudo o que já me deste. Amém.",
     "passage": {
       "ref": "Deuteronômio 16 · capítulo completo (NVI)",
       "verses": [
@@ -8913,7 +8913,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como aplicar este princípio de múltiplas testemunhas em conflitos ou julgamentos que você enfrenta em sua própria comunidade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de aceitar ou repetir uma acusação séria hoje, busque confirmação através de mais de uma fonte confiável.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me sabedoria para julgar com cuidado, buscando confirmação antes de condenar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me sabedoria para julgar com cuidado, buscando confirmação antes de condenar. Amém.",
     "passage": {
       "ref": "Deuteronômio 19 · capítulo completo (NVI)",
       "verses": [
@@ -9031,7 +9031,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que etapa importante da sua própria vida merece proteção e prioridade, mesmo diante de pressões urgentes ao seu redor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, diante de um confronto ou desafio iminente, declare hoje conscientemente que o Senhor o acompanha e luta por você.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me acompanhas e lutas por mim. Não temerei o confronto que tenho pela frente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me acompanhas e lutas por mim. Não temerei o confronto que tenho pela frente. Amém.",
     "passage": {
       "ref": "Deuteronômio 20 · capítulo completo (NVI)",
       "verses": [
@@ -9271,7 +9271,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como a integridade nos pequenos detalhes práticos reflete uma disposição espiritual mais profunda de coração?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje ativamente devolver ou restituir algo que não lhe pertence, resistindo à tentação de ignorar o fato.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me integridade para não ignorar responsabilidades práticas, mesmo pequenas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me integridade para não ignorar responsabilidades práticas, mesmo pequenas. Amém.",
     "passage": {
       "ref": "Deuteronômio 22 · capítulo completo (NVI)",
       "verses": [
@@ -9425,7 +9425,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que história específica de proteção divina em sua vida você pode relembrar para fortalecer sua confiança presente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, relembre hoje uma situação específica em que Deus transformou algo que parecia maldição em bênção genuína, e agradeça por ela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por transformares maldições em bênçãos, porque me amas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por transformares maldições em bênçãos, porque me amas. Amém.",
     "passage": {
       "ref": "Deuteronômio 23 · capítulo completo (NVI)",
       "verses": [
@@ -9559,7 +9559,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que pequena obediência prática sua hoje pode ter consequências que você nem imagina para gerações futuras?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, estruture hoje, deliberadamente, uma forma regular e sustentável de compartilhar recursos com pessoas vulneráveis ao seu redor.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a deixar deliberadamente parte do que tenho para quem precisa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a deixar deliberadamente parte do que tenho para quem precisa. Amém.",
     "passage": {
       "ref": "Deuteronômio 24 · capítulo completo (NVI)",
       "verses": [
@@ -9681,7 +9681,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como conectar sua prosperidade e bem-estar de longo prazo com a prática consistente de honestidade diária?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma prática comercial ou financeira sua e garanta que ela reflita honestidade total, mesmo nos detalhes menores.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que meus pesos e medidas sejam sempre exatos e honestos diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que meus pesos e medidas sejam sempre exatos e honestos diante de ti. Amém.",
     "passage": {
       "ref": "Deuteronômio 25 · capítulo completo (NVI)",
       "verses": [
@@ -9791,7 +9791,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Você tem oferecido a Deus suas 'primícias' — o melhor e o primeiro — ou apenas o que sobra depois de outras prioridades?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje uma breve confissão pessoal da sua própria história de origem humilde e da graça que Deus concedeu desde então.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. lembro de onde vim. Obrigado pela graça que me tornou o que sou hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Lembro de onde vim. Obrigado pela graça que me tornou o que sou hoje. Amém.",
     "passage": {
       "ref": "Deuteronômio 26 · capítulo completo (NVI)",
       "verses": [
@@ -9901,7 +9901,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que memorial ou registro permanente você poderia criar para que gerações futuras entendam claramente sua fé?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, comunique hoje, com clareza intencional, uma verdade espiritual importante a alguém que precisa ouvi-la de forma acessível.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a comunicar tua verdade com clareza, não com confusão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a comunicar tua verdade com clareza, não com confusão. Amém.",
     "passage": {
       "ref": "Deuteronômio 27 · capítulo completo (NVI)",
       "verses": [
@@ -10039,7 +10039,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: O que significa, na prática, viver como 'povo santo', não apenas em teoria, mas em conduta diária consistente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma área específica de obediência ou desobediência e reconheça honestamente suas consequências reais em sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. quero ser teu povo santo. Ajuda-me a andar nos teus caminhos com seriedade renovada. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Quero ser teu povo santo. Ajuda-me a andar nos teus caminhos com seriedade renovada. Amém.",
     "passage": {
       "ref": "Deuteronômio 28 · capítulo completo (NVI)",
       "verses": [
@@ -10345,7 +10345,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que renovação pública de compromisso com Deus você precisa fazer, junto com sua comunidade de fé?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, descanse hoje conscientemente uma pergunta teológica sem resposta, confiando-a a Deus em vez de carregá-la ansiosamente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. as coisas ocultas pertencem a ti. Ajuda-me a viver fielmente o que já revelaste. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. As coisas ocultas pertencem a ti. Ajuda-me a viver fielmente o que já revelaste. Amém.",
     "passage": {
       "ref": "Deuteronômio 29 · capítulo completo (NVI)",
       "verses": [
@@ -10495,7 +10495,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que efeito sua escolha presente por vida ou morte espiritual terá sobre as gerações que vêm depois de você?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje, de forma consciente e declarada, a vida em uma área específica onde você tem hesitado entre dois caminhos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. hoje escolho a vida. Que essa escolha beneficie também os que vêm depois de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Hoje escolho a vida. Que essa escolha beneficie também os que vêm depois de mim. Amém.",
     "passage": {
       "ref": "Deuteronômio 30 · capítulo completo (NVI)",
       "verses": [
@@ -10609,7 +10609,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Que prática regular de leitura ou estudo da Palavra você precisa estabelecer para proteger contra o esquecimento gradual?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, encoraje hoje, com as mesmas palavras deste versículo, alguém que está prestes a assumir uma responsabilidade nova e desafiadora.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sou forte e corajoso, pois tu vais comigo e nunca me abandonarás. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sou forte e corajoso, pois tu vais comigo e nunca me abandonarás. Amém.",
     "passage": {
       "ref": "Deuteronômio 31 · capítulo completo (NVI)",
       "verses": [
@@ -10763,7 +10763,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Você confia que os caminhos de Deus são justos mesmo quando as circunstâncias ao seu redor parecem confusas ou injustas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, declare hoje, especificamente sobre uma circunstância confusa, que Deus é a Rocha cujas obras são perfeitas e caminhos justos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és a minha Rocha. Tuas obras são perfeitas e teus caminhos são justos, mesmo quando não entendo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és a minha Rocha. Tuas obras são perfeitas e teus caminhos são justos, mesmo quando não entendo. Amém.",
     "passage": {
       "ref": "Deuteronômio 32 · capítulo completo (NVI)",
       "verses": [
@@ -11005,7 +11005,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Você vive com a segurança de um refúgio permanente, ou busca refúgios temporários e instáveis?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pronuncie hoje, verbalmente, uma bênção específica e detalhada sobre uma pessoa importante em sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és meu refúgio eterno. Descanso seguro em teus braços eternos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és meu refúgio eterno. Descanso seguro em teus braços eternos. Amém.",
     "passage": {
       "ref": "Deuteronômio 33 · capítulo completo (NVI)",
       "verses": [
@@ -11155,7 +11155,7 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Pensando na sua caminhada de hoje: Como sua própria jornada de fé está preparando, deliberadamente ou não, a próxima geração que vem depois de você?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje uma breve reflexão final sobre o que esta jornada por Êxodo e Deuteronômio revelou sobre buscar conhecer a Deus face a face.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu também te conheça, cada vez mais, face a face. Obrigado por esta jornada inteira contigo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu também te conheça, cada vez mais, face a face. Obrigado por esta jornada inteira contigo. Amém.",
     "passage": {
       "ref": "Deuteronômio 34 · capítulo completo (NVI)",
       "verses": [

@@ -32,7 +32,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Você tem buscado experimentar a presença de Deus, ou apenas aprender fatos a respeito dele?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve alguns minutos hoje apenas para adorar em silêncio, sem pedir nada, diante da grandeza de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tua glória ultrapassa tudo que consigo compreender ou descrever. Encontra-me também no meu exílio. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tua glória ultrapassa tudo que consigo compreender ou descrever. Encontra-me também no meu exílio. Amém.",
     "passage": {
       "ref": "Ezequiel 1 · capítulo completo (NVI)",
       "verses": [
@@ -252,7 +252,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como você lida com o peso emocional de carregar responsabilidades espirituais por outras pessoas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma pessoa a quem você tem evitado dizer uma verdade necessária, e ore por coragem para falar com amor.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que tua palavra seja doce em mim antes de se tornar advertência para outros. Dá-me coragem de sentinela. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que tua palavra seja doce em mim antes de se tornar advertência para outros. Dá-me coragem de sentinela. Amém.",
     "passage": {
       "ref": "Ezequiel 3 · capítulo completo (NVI)",
       "verses": [
@@ -394,7 +394,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Há alguma obediência custosa que Deus está pedindo de você, mesmo que pareça estranha aos outros?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, assuma hoje, em oração intercessora, o peso de alguém que você ama e que está distante de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a levar a sério o peso do pecado, o meu e o dos que amo. Dá-me disposição para obedecer mesmo quando custoso. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a levar a sério o peso do pecado, o meu e o dos que amo. Dá-me disposição para obedecer mesmo quando custoso. Amém.",
     "passage": {
       "ref": "Ezequiel 4 · capítulo completo (NVI)",
       "verses": [
@@ -496,7 +496,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que significa, para você hoje, ser 'colocado no centro' com um propósito que ultrapassa a si mesmo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, faça um inventário sincero de um privilégio espiritual que você recebeu e pergunte se está honrando-o com fidelidade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pelos privilégios que me deste. Que eu nunca os trate com leviandade ou rebeldia. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pelos privilégios que me deste. Que eu nunca os trate com leviandade ou rebeldia. Amém.",
     "passage": {
       "ref": "Ezequiel 5 · capítulo completo (NVI)",
       "verses": [
@@ -598,7 +598,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que significaria, concretamente, derrubar um ídolo específico esta semana?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique um substituto sutil de Deus em sua vida hoje e dê um passo concreto para removê-lo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. revela os ídolos escondidos no meu coração. Quero me lembrar de ti antes que a perda me ensine. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Revela os ídolos escondidos no meu coração. Quero me lembrar de ti antes que a perda me ensine. Amém.",
     "passage": {
       "ref": "Ezequiel 6 · capítulo completo (NVI)",
       "verses": [
@@ -688,7 +688,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como a certeza de que todo tempo de graça um dia se encerra deveria mudar suas prioridades hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, trate como urgente, hoje mesmo, um arrependimento que você tem adiado indefinidamente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não me deixes viver como se sempre houvesse mais tempo. Ensina-me a urgência do arrependimento genuíno. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não me deixes viver como se sempre houvesse mais tempo. Ensina-me a urgência do arrependimento genuíno. Amém.",
     "passage": {
       "ref": "Ezequiel 7 · capítulo completo (NVI)",
       "verses": [
@@ -830,7 +830,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: De que forma você pode estar, sem perceber, 'de costas' para Deus enquanto aparenta adorá-lo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma área privada da sua vida que você mantém escondida da sua prática pública de fé, e leve-a à luz diante de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. examina meu coração e revela o que escondo até de mim mesmo. Não quero adorar-te de costas voltadas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Examina meu coração e revela o que escondo até de mim mesmo. Não quero adorar-te de costas voltadas. Amém.",
     "passage": {
       "ref": "Ezequiel 8 · capítulo completo (NVI)",
       "verses": [
@@ -936,7 +936,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que significaria hoje carregar, visivelmente, uma vida marcada pela sensibilidade espiritual em meio a um ambiente indiferente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, deixe que algo que entristece o coração de Deus ao seu redor genuinamente o mova à oração hoje, em vez de indiferença.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não me deixes ficar indiferente ao pecado que vejo ao meu redor. Dá-me um coração que geme com o que te entristece. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não me deixes ficar indiferente ao pecado que vejo ao meu redor. Dá-me um coração que geme com o que te entristece. Amém.",
     "passage": {
       "ref": "Ezequiel 9 · capítulo completo (NVI)",
       "verses": [
@@ -1014,7 +1014,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Que passos você pode dar hoje para convidar, e não afastar, a presença de Deus da sua vida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine se alguma rotina espiritual em sua vida se tornou vazia de presença real, e busque renová-la genuinamente hoje.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não permitas que minha vida se torne um templo vazio de tua presença. Habita comigo de verdade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não permitas que minha vida se torne um templo vazio de tua presença. Habita comigo de verdade. Amém.",
     "passage": {
       "ref": "Ezequiel 10 · capítulo completo (NVI)",
       "verses": [
@@ -1136,7 +1136,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como a promessa de um coração novo muda a forma como você enxerga seus próprios fracassos espirituais?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, peça hoje, especificamente, que Deus substitua uma área endurecida do seu coração por sensibilidade renovada.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tira de mim o coração de pedra e dá-me um coração de carne, sensível à tua voz. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tira de mim o coração de pedra e dá-me um coração de carne, sensível à tua voz. Amém.",
     "passage": {
       "ref": "Ezequiel 11 · capítulo completo (NVI)",
       "verses": [
@@ -1270,7 +1270,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como você reage quando a realidade contraria seu otimismo espiritual confortável?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, confronte hoje, com honestidade, uma situação em que você tem escolhido otimismo confortável em vez de realidade bíblica.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tira de mim a falsa segurança que ignora tuas advertências. Ajuda-me a levar a sério o que dizes. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tira de mim a falsa segurança que ignora tuas advertências. Ajuda-me a levar a sério o que dizes. Amém.",
     "passage": {
       "ref": "Ezequiel 12 · capítulo completo (NVI)",
       "verses": [
@@ -1416,7 +1416,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como você discerne entre uma palavra que vem genuinamente de Deus e uma que apenas agrada os ouvidos?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma área da sua vida onde você tem aceitado conforto superficial em vez de lidar com um problema real.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me discernimento para reconhecer paz falsa e coragem para buscar a verdade, mesmo quando dói. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me discernimento para reconhecer paz falsa e coragem para buscar a verdade, mesmo quando dói. Amém.",
     "passage": {
       "ref": "Ezequiel 13 · capítulo completo (NVI)",
       "verses": [
@@ -1542,7 +1542,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Que idolatria 'escondida no coração' você precisa reconhecer e confessar honestamente hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, confesse a Deus hoje, sem rodeios, algo que você tem escondido enquanto finge buscá-lo sinceramente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero te buscar com um coração dividido. Revela e remove o que escondo de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero te buscar com um coração dividido. Revela e remove o que escondo de ti. Amém.",
     "passage": {
       "ref": "Ezequiel 14 · capítulo completo (NVI)",
       "verses": [
@@ -1668,7 +1668,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que significaria, para você, recuperar hoje o propósito de dar fruto genuíno para Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma área em que você tem sido infrutífero por infidelidade e dê um passo concreto para restaurá-la hoje.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. quero dar o fruto para o qual fui criado. Não me deixes tornar-me inútil pela infidelidade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Quero dar o fruto para o qual fui criado. Não me deixes tornar-me inútil pela infidelidade. Amém.",
     "passage": {
       "ref": "Ezequiel 15 · capítulo completo (NVI)",
       "verses": [
@@ -1734,7 +1734,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Você crê que a graça de Deus é capaz de restaurar mesmo a traição mais profunda, transformando-a em aliança eterna?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça diante de Deus hoje um dom que você recebeu dele e que tem usado para se afastar, em vez de se aproximar dele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. perdoa-me por usar contra ti os próprios dons que me deste. Obrigado por seres fiel mesmo quando eu não fui. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Perdoa-me por usar contra ti os próprios dons que me deste. Obrigado por seres fiel mesmo quando eu não fui. Amém.",
     "passage": {
       "ref": "Ezequiel 16 · capítulo completo (NVI)",
       "verses": [
@@ -2020,7 +2020,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como lidar com o desapontamento diante de líderes ou estruturas humanas que falham repetidamente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, entregue a Deus hoje uma situação em que você tem confiado mais em esforço humano do que na fidelidade divina.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. onde a liderança humana falha, confio que tu plantas e fazes crescer o que é eterno. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Onde a liderança humana falha, confio que tu plantas e fazes crescer o que é eterno. Amém.",
     "passage": {
       "ref": "Ezequiel 17 · capítulo completo (NVI)",
       "verses": [
@@ -2150,7 +2150,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Você realmente acredita que Deus não tem prazer no seu fracasso, mas deseja genuinamente sua restauração?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, assuma hoje responsabilidade pessoal por uma escolha específica, sem culpar seu passado ou sua criação.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por não teres prazer na minha queda. Ajuda-me a assumir responsabilidade e a me voltar para ti hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por não teres prazer na minha queda. Ajuda-me a assumir responsabilidade e a me voltar para ti hoje. Amém.",
     "passage": {
       "ref": "Ezequiel 18 · capítulo completo (NVI)",
       "verses": [
@@ -2312,7 +2312,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como equilibrar lamento sincero com a aceitação de que algumas consequências já não podem ser revertidas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, permita-se hoje lamentar genuinamente, diante de Deus, uma situação ou pessoa cujo potencial foi desperdiçado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a lamentar com honestidade as perdas causadas pelo pecado, sem me tornar indiferente a elas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a lamentar com honestidade as perdas causadas pelo pecado, sem me tornar indiferente a elas. Amém.",
     "passage": {
       "ref": "Ezequiel 19 · capítulo completo (NVI)",
       "verses": [
@@ -2402,7 +2402,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como a ideia de que Deus age 'por amor do seu nome' muda sua compreensão da própria salvação?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, agradeça hoje especificamente a Deus por uma situação em que ele o poupou não por seu mérito, mas por sua própria fidelidade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por seres fiel ao teu nome mesmo quando eu não mereço. Que minha vida reflita gratidão, não presunção. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por seres fiel ao teu nome mesmo quando eu não mereço. Que minha vida reflita gratidão, não presunção. Amém.",
     "passage": {
       "ref": "Ezequiel 20 · capítulo completo (NVI)",
       "verses": [
@@ -2632,7 +2632,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Que áreas da sua vida ou comunidade precisam de um alerta tão sério quanto este cântico da espada?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, leve a sério hoje uma advertência espiritual que você tem tratado com leveza demais.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és soberano até sobre as espadas deste mundo. Ajuda-me a levar teus avisos a sério. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és soberano até sobre as espadas deste mundo. Ajuda-me a levar teus avisos a sério. Amém.",
     "passage": {
       "ref": "Ezequiel 21 · capítulo completo (NVI)",
       "verses": [
@@ -2794,7 +2794,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que impede você, hoje, de ser a pessoa que Deus procura para interceder por sua geração?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, comprometa-se hoje a interceder ativamente, em oração específica, por uma situação de injustiça que você tem apenas observado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. torna-me alguém que se põe na brecha por minha geração, e não apenas um espectador do seu colapso moral. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Torna-me alguém que se põe na brecha por minha geração, e não apenas um espectador do seu colapso moral. Amém.",
     "passage": {
       "ref": "Ezequiel 22 · capítulo completo (NVI)",
       "verses": [
@@ -2952,7 +2952,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que significaria, concretamente, realinhar sua confiança para depender exclusivamente de Deus esta semana?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma 'aliança' de segurança que você tem priorizado sobre a confiança em Deus, e entregue-a a ele hoje em oração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. perdoa-me por buscar segurança em lugares que não és tu. Quero que minha confiança esteja exclusivamente em ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Perdoa-me por buscar segurança em lugares que não és tu. Quero que minha confiança esteja exclusivamente em ti. Amém.",
     "passage": {
       "ref": "Ezequiel 23 · capítulo completo (NVI)",
       "verses": [
@@ -3182,7 +3182,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que este sinal revela sobre o alto custo pessoal que às vezes acompanha o chamado profético de anunciar a verdade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça diante de Deus, hoje, um sofrimento pessoal que você tem carregado em silêncio, confiando que ele vê e entende mesmo quando não há explicação fácil.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. quando a dor for grande demais para palavras, ajuda-me a confiar em ti mesmo sem entender completamente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Quando a dor for grande demais para palavras, ajuda-me a confiar em ti mesmo sem entender completamente. Amém.",
     "passage": {
       "ref": "Ezequiel 24 · capítulo completo (NVI)",
       "verses": [
@@ -3324,7 +3324,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como tenho tratado quem está passando por humilhação ou perda — com compaixão ou com distância satisfeita?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, hoje, escolha ativamente interceder por alguém cuja queda você secretamente considerou merecida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. perdoa-me pelas vezes em que me alegrei com a dor de outros. Ensina-me a chorar com quem chora. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Perdoa-me pelas vezes em que me alegrei com a dor de outros. Ensina-me a chorar com quem chora. Amém.",
     "passage": {
       "ref": "Ezequiel 25 · capítulo completo (NVI)",
       "verses": [
@@ -3426,7 +3426,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que estou construindo hoje que não resistiria ao teste do tempo e do juízo de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje se algum ganho seu, financeiro ou relacional, foi construído à custa do sofrimento de outra pessoa, e busque corrigir isso.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és fiel para cumprir tuas palavras através dos tempos. Ajuda-me a construir minha vida sobre a rocha que é Cristo, não sobre a exploração alheia. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és fiel para cumprir tuas palavras através dos tempos. Ajuda-me a construir minha vida sobre a rocha que é Cristo, não sobre a exploração alheia. Amém.",
     "passage": {
       "ref": "Ezequiel 26 · capítulo completo (NVI)",
       "verses": [
@@ -3544,7 +3544,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Sou capaz de reconhecer beleza genuína até mesmo naquilo que o juízo de Deus alcança?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma área da sua vida onde sua segurança depende mais de recursos materiais do que de Deus, e ore especificamente sobre ela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha esperança não esteja ancorada em riquezas que o vento pode dispersar. Firma meu coração em ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha esperança não esteja ancorada em riquezas que o vento pode dispersar. Firma meu coração em ti. Amém.",
     "passage": {
       "ref": "Ezequiel 27 · capítulo completo (NVI)",
       "verses": [
@@ -3722,7 +3722,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como recebo a promessa de restauração de Deus depois de reconhecer minha própria queda?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje um dom ou conquista da sua vida e devolva-o conscientemente a Deus em gratidão, recusando-se a se orgulhar dele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda meu coração do orgulho que nasce dos teus próprios dons em mim. Que eu jamais esqueça de onde vem tudo o que tenho. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda meu coração do orgulho que nasce dos teus próprios dons em mim. Que eu jamais esqueça de onde vem tudo o que tenho. Amém.",
     "passage": {
       "ref": "Ezequiel 28 · capítulo completo (NVI)",
       "verses": [
@@ -3860,7 +3860,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como recebo a notícia de que a disciplina de Deus, mesmo quando longa, tem um propósito e um fim?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, liste hoje as fontes de segurança em que você tende a confiar mais do que em Deus, e entregue essa lista a ele em oração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és quem sustenta os rios e as nações. Perdoa-me quando confio em outras seguranças além de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és quem sustenta os rios e as nações. Perdoa-me quando confio em outras seguranças além de ti. Amém.",
     "passage": {
       "ref": "Ezequiel 29 · capítulo completo (NVI)",
       "verses": [
@@ -3978,7 +3978,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como a ideia de que Deus intervém na história de nações inteiras molda minha confiança nele hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve um tempo hoje para orar por uma situação nacional ou global que pareça fora de controle, entregando-a à soberania de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu marcas os dias das nações. Ajuda-me a viver preparado, sem depender de alianças que não podem me salvar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu marcas os dias das nações. Ajuda-me a viver preparado, sem depender de alianças que não podem me salvar. Amém.",
     "passage": {
       "ref": "Ezequiel 30 · capítulo completo (NVI)",
       "verses": [
@@ -4116,7 +4116,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como reajo quando vejo alguém no auge sendo advertido — com humildade própria ou com distanciamento?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha uma pessoa ou instituição sob sua influência hoje e use essa influência deliberadamente para abrigar e proteger, não para se exaltar.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu nunca esqueça que toda altura que alcanço vem de ti. Guarda-me da queda que atinge os que se orgulham. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu nunca esqueça que toda altura que alcanço vem de ti. Guarda-me da queda que atinge os que se orgulham. Amém.",
     "passage": {
       "ref": "Ezequiel 31 · capítulo completo (NVI)",
       "verses": [
@@ -4222,7 +4222,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Que consolo ou advertência encontro ao saber que todo poder humano, no fim, se iguala diante de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita hoje sobre uma decisão que você vem adiando por causa de status ou aparência, e escolha agir com a eternidade em vista.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a contar os meus dias, para que eu ganhe um coração sábio. Que minha vida busque glória que dura além da morte. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a contar os meus dias, para que eu ganhe um coração sábio. Que minha vida busque glória que dura além da morte. Amém.",
     "passage": {
       "ref": "Ezequiel 32 · capítulo completo (NVI)",
       "verses": [
@@ -4384,7 +4384,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Escuto a Palavra de Deus como quem aprecia uma bela mensagem, ou como quem realmente deixa que ela mude sua vida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma verdade que você tem ouvido repetidamente mas ainda não praticado, e dê um passo concreto de obediência hoje.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. torna-me um sentinela fiel para os que amo, e livra-me de ouvir tua Palavra sem obedecer. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Torna-me um sentinela fiel para os que amo, e livra-me de ouvir tua Palavra sem obedecer. Amém.",
     "passage": {
       "ref": "Ezequiel 33 · capítulo completo (NVI)",
       "verses": [
@@ -4550,7 +4550,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que significa, na prática, reconhecer Jesus como meu único e verdadeiro Pastor hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, procure hoje ativamente por alguém 'disperso' ou negligenciado ao seu redor e ofereça cuidado concreto, como um verdadeiro pastor faria.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és o meu Pastor; nada me faltará. Ensina-me a cuidar dos que confiaste a mim como tu cuidas de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és o meu Pastor; nada me faltará. Ensina-me a cuidar dos que confiaste a mim como tu cuidas de mim. Amém.",
     "passage": {
       "ref": "Ezequiel 34 · capítulo completo (NVI)",
       "verses": [
@@ -4708,7 +4708,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Reconheço a presença de Deus nas situações e pessoas ao meu redor, mesmo quando ela não é óbvia?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma inimizade antiga que você mantém viva e dê o primeiro passo, mesmo pequeno, para deixá-la ir.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. revela-me qualquer hostilidade enraizada que carrego. Liberta meu coração para amar mesmo os que considero meus rivais. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Revela-me qualquer hostilidade enraizada que carrego. Liberta meu coração para amar mesmo os que considero meus rivais. Amém.",
     "passage": {
       "ref": "Ezequiel 35 · capítulo completo (NVI)",
       "verses": [
@@ -4802,7 +4802,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como a verdade de que a graça de Deus não depende do meu mérito muda minha forma de me relacionar com ele?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje pedindo especificamente que Deus amoleça uma área endurecida do seu coração, confiando no seu Espírito para operar essa mudança.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tira de mim o coração de pedra e dá-me um coração sensível ao teu Espírito. Faz por mim o que eu não consigo fazer sozinho. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tira de mim o coração de pedra e dá-me um coração sensível ao teu Espírito. Faz por mim o que eu não consigo fazer sozinho. Amém.",
     "passage": {
       "ref": "Ezequiel 36 · capítulo completo (NVI)",
       "verses": [
@@ -4988,7 +4988,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Onde tenho resistido à unidade que Deus deseja trazer entre pessoas ou grupos divididos?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje uma situação que você já desistiu de esperar mudança e ore por ela com fé renovada, como quem profetiza aos ossos secos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sopra teu fôlego de vida sobre o que em mim está seco e sem esperança. Creio que podes ressuscitar o que parece morto. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sopra teu fôlego de vida sobre o que em mim está seco e sem esperança. Creio que podes ressuscitar o que parece morto. Amém.",
     "passage": {
       "ref": "Ezequiel 37 · capítulo completo (NVI)",
       "verses": [
@@ -5134,7 +5134,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que significa, para mim hoje, que o propósito final de Deus na história é revelar sua santidade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, avalie hoje se alguma área de conforto ou prosperidade tem gerado descuido espiritual em você, e retome uma disciplina de vigilância — oração, Palavra, comunidade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és soberano até sobre as ameaças que parecem maiores do que eu. Guarda-me da falsa segurança e ensina-me a vigilância. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és soberano até sobre as ameaças que parecem maiores do que eu. Guarda-me da falsa segurança e ensina-me a vigilância. Amém.",
     "passage": {
       "ref": "Ezequiel 38 · capítulo completo (NVI)",
       "verses": [
@@ -5260,7 +5260,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que significa, na prática do dia a dia, viver derramado e cheio do Espírito de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, agradeça hoje especificamente por um momento em que sentiu a proximidade de Deus depois de um período de distância, e compartilhe esse testemunho com alguém.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por não esconderes para sempre o teu rosto de mim. Derrama teu Espírito sobre minha vida hoje. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por não esconderes para sempre o teu rosto de mim. Derrama teu Espírito sobre minha vida hoje. Amém.",
     "passage": {
       "ref": "Ezequiel 39 · capítulo completo (NVI)",
       "verses": [
@@ -5410,7 +5410,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Tenho permitido que a esperança concreta em promessas futuras sustente minha fidelidade no presente, como aconteceu com os exilados?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje, com detalhes concretos, uma esperança específica que você está confiando a Deus, como um exercício de fé tangível.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu cuidas até dos menores detalhes da restauração que prometes. Ajuda-me a esperar com fé aquilo que ainda não vejo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu cuidas até dos menores detalhes da restauração que prometes. Ajuda-me a esperar com fé aquilo que ainda não vejo. Amém.",
     "passage": {
       "ref": "Ezequiel 40 · capítulo completo (NVI)",
       "verses": [
@@ -5640,7 +5640,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: O que significa para mim que Deus deseja restaurar um espaço de comunhão que lembra o Éden original?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, separe hoje um tempo deliberado e sem pressa para se aproximar de Deus em oração, tratando esse momento com a reverência de quem se aproxima do Santíssimo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a reverência diante da tua santidade e o privilégio de me aproximar de ti. Torna minha vida um lugar habitável para a tua presença. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a reverência diante da tua santidade e o privilégio de me aproximar de ti. Torna minha vida um lugar habitável para a tua presença. Amém.",
     "passage": {
       "ref": "Ezequiel 41 · capítulo completo (NVI)",
       "verses": [
@@ -5778,7 +5778,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Que limites saudáveis eu preciso estabelecer para proteger áreas sagradas da minha vida — tempo com Deus, família, integridade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, estabeleça hoje um limite prático e saudável que proteja um espaço sagrado da sua rotina — seu tempo devocional, seu descanso ou sua integridade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a diferença entre o santo e o comum na minha própria vida. Ajuda-me a proteger com sabedoria o que te pertence. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a diferença entre o santo e o comum na minha própria vida. Ajuda-me a proteger com sabedoria o que te pertence. Amém.",
     "passage": {
       "ref": "Ezequiel 42 · capítulo completo (NVI)",
       "verses": [
@@ -5892,7 +5892,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Que áreas da minha vida preciso proteger de profanação para que a presença de Deus continue habitando ali livremente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dedique um tempo hoje para celebrar deliberadamente, em oração e gratidão, um momento em que sentiu a presença de Deus retornar depois de um período de distância.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que a tua glória habite em mim como habitou naquele templo. Guarda meu coração de qualquer coisa que te afaste de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que a tua glória habite em mim como habitou naquele templo. Guarda meu coração de qualquer coisa que te afaste de mim. Amém.",
     "passage": {
       "ref": "Ezequiel 43 · capítulo completo (NVI)",
       "verses": [
@@ -6034,7 +6034,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Que padrão de santidade pessoal eu sustento quando ninguém está observando?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça e agradeça hoje a alguém que permaneceu fiel a Deus em um momento em que outros se desviaram, e deixe-se inspirar por esse exemplo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. torna-me fiel mesmo quando a maioria ao meu redor se afasta de ti. Que eu guarde com integridade o que me confiaste. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Torna-me fiel mesmo quando a maioria ao meu redor se afasta de ti. Que eu guarde com integridade o que me confiaste. Amém.",
     "passage": {
       "ref": "Ezequiel 44 · capítulo completo (NVI)",
       "verses": [
@@ -6192,7 +6192,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como posso, na minha esfera de influência, proteger os mais vulneráveis contra a exploração de quem tem mais poder?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, revise hoje uma área da sua vida financeira ou comercial em busca de qualquer injustiça, por menor que seja, e corrija-a.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha integridade se estenda a todas as áreas da minha vida, incluindo o dinheiro e os negócios. Torna-me justo nas pequenas coisas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha integridade se estenda a todas as áreas da minha vida, incluindo o dinheiro e os negócios. Torna-me justo nas pequenas coisas. Amém.",
     "passage": {
       "ref": "Ezequiel 45 · capítulo completo (NVI)",
       "verses": [
@@ -6326,7 +6326,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como minha submissão a Deus se expressa em ordem e disciplina prática, não apenas em sentimentos religiosos?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça-se hoje para realizar uma tarefa prática e pouco visível em sua comunidade de fé, reconhecendo seu valor espiritual genuíno.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que eu reconheça tua soberania acima de toda autoridade humana, e que sirva com alegria até nas tarefas mais simples. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que eu reconheça tua soberania acima de toda autoridade humana, e que sirva com alegria até nas tarefas mais simples. Amém.",
     "passage": {
       "ref": "Ezequiel 46 · capítulo completo (NVI)",
       "verses": [
@@ -6456,7 +6456,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como recebo a inclusão de pessoas diferentes de mim como igualmente herdeiras das promessas de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, permita que a presença de Deus alcance uma área específica da sua vida que você considerava seca demais para mudar, buscando-o ativamente nela hoje.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. deixa que o rio da tua presença cresça em mim e alcance até os lugares mais secos da minha vida. Traz vida onde só havia morte. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Deixa que o rio da tua presença cresça em mim e alcance até os lugares mais secos da minha vida. Traz vida onde só havia morte. Amém.",
     "passage": {
       "ref": "Ezequiel 47 · capítulo completo (NVI)",
       "verses": [
@@ -6582,7 +6582,7 @@ window.EZEQUIEL_CARTA = [
       "Pensando na sua vida de hoje: Como a promessa final de Ezequiel — 'o Senhor está ali' — muda a forma como encaro as áreas mais difíceis e desanimadoras da minha vida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, encerre esta jornada por Ezequiel escrevendo uma oração pessoal declarando que deseja que sua vida seja conhecida, acima de tudo, pela presença de Deus nela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha vida inteira possa ser resumida nestas palavras: o Senhor está ali. Habita em mim, hoje e sempre. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha vida inteira possa ser resumida nestas palavras: o Senhor está ali. Habita em mim, hoje e sempre. Amém.",
     "passage": {
       "ref": "Ezequiel 48 · capítulo completo (NVI)",
       "verses": [

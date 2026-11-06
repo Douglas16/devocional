@@ -32,7 +32,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: O que significaria, para você hoje, 'se levantar e subir' para reconstruir algo que foi destruído?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma promessa antiga de Deus em sua vida e dê um primeiro passo concreto de fé em direção a ela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por seres fiel às tuas promessas através do tempo. Desperta em mim a disposição de me levantar quando tu chamares. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por seres fiel às tuas promessas através do tempo. Desperta em mim a disposição de me levantar quando tu chamares. Amém.",
     "passage": {
       "ref": "Esdras 1 · capítulo completo (NVI)",
       "verses": [
@@ -110,7 +110,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Sua identidade em Cristo está apoiada em algo sólido, como a linhagem que esses sacerdotes buscavam comprovar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, agradeça hoje por alguém da sua história de fé — pais, avós, mentores — que tornou possível você estar onde está.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por me conhecer pelo nome em meio à multidão. Dá-me coragem para deixar o conforto quando for hora de reconstruir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por me conhecer pelo nome em meio à multidão. Dá-me coragem para deixar o conforto quando for hora de reconstruir. Amém.",
     "passage": {
       "ref": "Esdras 2 · capítulo completo (NVI)",
       "verses": [
@@ -424,7 +424,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Você consegue celebrar o que Deus faz hoje, mesmo que seja menor do que já foi um dia?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, comece hoje algo que estava adiando até 'as condições ideais' — dê o primeiro passo de adoração ou obediência agora.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a adorar mesmo quando o alicerce ainda é pequeno. Recebe minhas lágrimas e minha alegria como uma só oferta. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a adorar mesmo quando o alicerce ainda é pequeno. Recebe minhas lágrimas e minha alegria como uma só oferta. Amém.",
     "passage": {
       "ref": "Esdras 3 · capítulo completo (NVI)",
       "verses": [
@@ -510,7 +510,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Que vozes ao seu redor têm tentado enfraquecer sua determinação de continuar uma obra que Deus começou?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, avalie hoje uma 'ajuda' ou conselho que você recebeu recentemente e pergunte, em oração, se ela realmente serve ao propósito de Deus em sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me discernimento diante de ofertas que parecem boas mas escondem intenções contrárias a ti. Sustenta minha perseverança mesmo em tempos de atraso. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me discernimento diante de ofertas que parecem boas mas escondem intenções contrárias a ti. Sustenta minha perseverança mesmo em tempos de atraso. Amém.",
     "passage": {
       "ref": "Esdras 4 · capítulo completo (NVI)",
       "verses": [
@@ -640,7 +640,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Você tem permitido que o desânimo prolongado silencie uma obra que Deus ainda quer que você continue?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, busque hoje uma palavra de encorajamento — nas Escrituras ou de alguém maduro na fé — para retomar algo que você abandonou por desânimo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. envia tua palavra para reanimar o que em mim está paralisado. Dá-me integridade para responder com verdade quando for questionado. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Envia tua palavra para reanimar o que em mim está paralisado. Dá-me integridade para responder com verdade quando for questionado. Amém.",
     "passage": {
       "ref": "Esdras 5 · capítulo completo (NVI)",
       "verses": [
@@ -742,7 +742,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Você tem reservado tempo para celebrar com alegria genuína as vitórias que Deus concede?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, celebre hoje, de forma concreta e visível, uma obra de Deus que se cumpriu em sua vida, mesmo que tenha levado anos.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por completares o que começaste, ainda que o caminho tenha sido longo. Enche-me de alegria genuína diante da tua fidelidade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por completares o que começaste, ainda que o caminho tenha sido longo. Enche-me de alegria genuína diante da tua fidelidade. Amém.",
     "passage": {
       "ref": "Esdras 6 · capítulo completo (NVI)",
       "verses": [
@@ -864,7 +864,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Que favor ou abertura inesperada Deus tem lhe dado para servir a outros com o que você aprendeu?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, separe hoje um tempo deliberado para estudar as Escrituras com o propósito específico de praticar, não apenas de saber.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dispõe meu coração para buscar tua Palavra com seriedade. Que eu a viva antes de ensiná-la aos outros. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dispõe meu coração para buscar tua Palavra com seriedade. Que eu a viva antes de ensiná-la aos outros. Amém.",
     "passage": {
       "ref": "Esdras 7 · capítulo completo (NVI)",
       "verses": [
@@ -1010,7 +1010,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Você planeja com responsabilidade e, ao mesmo tempo, confia verdadeiramente no cuidado de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, diante de uma situação incerta que você enfrenta, escolha hoje buscar a Deus em oração humilde antes de recorrer a outras seguranças.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minhas ações sejam coerentes com o que declaro crer sobre ti. Ensina-me a buscar tua proteção antes de qualquer outra. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minhas ações sejam coerentes com o que declaro crer sobre ti. Ensina-me a buscar tua proteção antes de qualquer outra. Amém.",
     "passage": {
       "ref": "Esdras 8 · capítulo completo (NVI)",
       "verses": [
@@ -1188,7 +1188,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Como você distingue entre uma vergonha paralisante e uma tristeza segundo Deus que leva ao arrependimento?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje por um padrão de pecado presente em sua família ou comunidade, identificando-se com humildade diante de Deus, mesmo que não seja sua culpa pessoal.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. perdoa-nos quando repetimos os erros que já nos custaram tanto. Dá-me um coração que se importa com a santidade do teu povo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Perdoa-nos quando repetimos os erros que já nos custaram tanto. Dá-me um coração que se importa com a santidade do teu povo. Amém.",
     "passage": {
       "ref": "Esdras 9 · capítulo completo (NVI)",
       "verses": [
@@ -1282,7 +1282,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Como você pode conduzir uma mudança necessária em sua vida com cuidado, sem precipitação nem covardia?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma área em que o arrependimento pede uma ação concreta de separação, e dê o primeiro passo estruturado nessa direção esta semana.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me coragem para não parar apenas na tristeza pelo pecado, mas agir em obediência real. Conduz minhas decisões difíceis com sabedoria. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me coragem para não parar apenas na tristeza pelo pecado, mas agir em obediência real. Conduz minhas decisões difíceis com sabedoria. Amém.",
     "passage": {
       "ref": "Esdras 10 · capítulo completo (NVI)",
       "verses": [
@@ -1492,7 +1492,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Sua posição confortável na vida tem impedido ou fortalecido sua compaixão por quem sofre?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, separe tempo hoje para orar, com detalhes específicos e apelando às promessas de Deus, por uma situação de sofrimento que tem tocado seu coração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me um coração que se comove genuinamente com o sofrimento do teu povo. Ensina-me a orar antes de agir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me um coração que se comove genuinamente com o sofrimento do teu povo. Ensina-me a orar antes de agir. Amém.",
     "passage": {
       "ref": "Neemias 1 · capítulo completo (NVI)",
       "verses": [
@@ -1570,7 +1570,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Você avalia cuidadosamente uma situação antes de agir, ou tende a agir por impulso?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de iniciar um projeto importante que você tem orado, reserve um tempo de avaliação cuidadosa e silenciosa, como Neemias fez ao inspecionar os muros à noite.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pela tua boa mão sobre minha vida. Dá-me sabedoria para planejar com cuidado o que já me chamaste a fazer. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pela tua boa mão sobre minha vida. Dá-me sabedoria para planejar com cuidado o que já me chamaste a fazer. Amém.",
     "passage": {
       "ref": "Neemias 2 · capítulo completo (NVI)",
       "verses": [
@@ -1684,7 +1684,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Como você pode trabalhar melhor 'ao lado' de outros, reconhecendo que a obra de Deus é coletiva?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje seu 'trecho do muro' específico — uma responsabilidade concreta diante de você — e dedique-se a ele com fidelidade esta semana.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mostra-me qual é o meu trecho na tua obra. Ajuda-me a trabalhar com fidelidade ao lado de quem colocaste perto de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Mostra-me qual é o meu trecho na tua obra. Ajuda-me a trabalhar com fidelidade ao lado de quem colocaste perto de mim. Amém.",
     "passage": {
       "ref": "Neemias 3 · capítulo completo (NVI)",
       "verses": [
@@ -1846,7 +1846,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Você tem buscado apoio e organização coletiva diante de ameaças, ou tenta enfrentar tudo sozinho?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma ameaça real (desânimo, distração, oposição) à sua obra atual e tome uma medida prática de vigilância, sem abandonar o trabalho.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me discernimento para vigiar e perseverar ao mesmo tempo. Protege a obra que colocaste em minhas mãos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me discernimento para vigiar e perseverar ao mesmo tempo. Protege a obra que colocaste em minhas mãos. Amém.",
     "passage": {
       "ref": "Neemias 4 · capítulo completo (NVI)",
       "verses": [
@@ -1972,7 +1972,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Como você reage diante da necessidade de confrontar publicamente uma injustiça cometida por pessoas próximas?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma forma prática de aliviar o peso financeiro ou social de alguém vulnerável ao seu redor.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me coragem para confrontar injustiças, mesmo quando vêm de dentro da minha própria comunidade. Ensina-me a renunciar a privilégios por amor aos mais fracos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me coragem para confrontar injustiças, mesmo quando vêm de dentro da minha própria comunidade. Ensina-me a renunciar a privilégios por amor aos mais fracos. Amém.",
     "passage": {
       "ref": "Neemias 5 · capítulo completo (NVI)",
       "verses": [
@@ -2082,7 +2082,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: O que significaria, hoje, recusar-se a 'descer' da obra que Deus colocou diante de você?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma distração ou manipulação que tem tentado tirar seu foco de uma obra importante, e reafirme hoje seu compromisso de não abandoná-la.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me discernimento para reconhecer armadilhas disfarçadas de conselho. Fortalece-me para não abandonar o que me chamaste a fazer. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me discernimento para reconhecer armadilhas disfarçadas de conselho. Fortalece-me para não abandonar o que me chamaste a fazer. Amém.",
     "passage": {
       "ref": "Neemias 6 · capítulo completo (NVI)",
       "verses": [
@@ -2192,7 +2192,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Como você tem preservado a memória da fidelidade de Deus em sua própria história ou família?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, registre hoje, por escrito, uma lembrança específica da fidelidade de Deus em sua vida, para preservar essa memória.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. põe em meu coração as ideias e iniciativas que vêm de ti. Ajuda-me a cuidar tanto da estrutura quanto da memória da minha fé. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Põe em meu coração as ideias e iniciativas que vêm de ti. Ajuda-me a cuidar tanto da estrutura quanto da memória da minha fé. Amém.",
     "passage": {
       "ref": "Neemias 7 · capítulo completo (NVI)",
       "verses": [
@@ -2518,7 +2518,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: O que significaria, na prática, buscar hoje a alegria do Senhor como fonte de força, e não apenas como sentimento?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, celebre hoje, com alguém próximo, algo específico que a Palavra de Deus tem ensinado ou corrigido em você recentemente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que tua Palavra me traga tanto convicção quanto alegria genuína. Que a tua alegria seja hoje minha força. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que tua Palavra me traga tanto convicção quanto alegria genuína. Que a tua alegria seja hoje minha força. Amém.",
     "passage": {
       "ref": "Neemias 8 · capítulo completo (NVI)",
       "verses": [
@@ -2624,7 +2624,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Como a prática de confissão coletiva, e não apenas individual, poderia fortalecer sua comunidade de fé?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje um breve resumo honesto da sua trajetória de fé, destacando tanto suas falhas repetidas quanto a paciência constante de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por seres paciente e compassivo mesmo diante da minha rebeldia repetida. Ajuda-me a recontar minha história com honestidade diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por seres paciente e compassivo mesmo diante da minha rebeldia repetida. Ajuda-me a recontar minha história com honestidade diante de ti. Amém.",
     "passage": {
       "ref": "Neemias 9 · capítulo completo (NVI)",
       "verses": [
@@ -2810,7 +2810,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Como você tem sustentado praticamente, com tempo ou recursos, a obra de Deus em sua comunidade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje, de forma específica, um compromisso espiritual concreto que você assume diante de Deus, como se estivesse assinando um documento.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. transforma minhas boas intenções em compromissos reais e duradouros. Ajuda-me a sustentar fielmente a tua obra. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Transforma minhas boas intenções em compromissos reais e duradouros. Ajuda-me a sustentar fielmente a tua obra. Amém.",
     "passage": {
       "ref": "Neemias 10 · capítulo completo (NVI)",
       "verses": [
@@ -3000,7 +3000,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Você reconhece e valoriza aqueles que se oferecem voluntariamente para tarefas mais difíceis na sua comunidade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ofereça-se voluntariamente hoje para uma tarefa necessária, mas pouco desejada, na sua comunidade de fé.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me disposição para abrir mão de conforto pelo bem da tua obra. Que eu valorize quem se oferece voluntariamente para servir. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me disposição para abrir mão de conforto pelo bem da tua obra. Que eu valorize quem se oferece voluntariamente para servir. Amém.",
     "passage": {
       "ref": "Neemias 11 · capítulo completo (NVI)",
       "verses": [
@@ -3178,7 +3178,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Que obra concluída em sua vida merece hoje uma celebração mais intensa e pública de gratidão a Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, expresse hoje, de forma pública e audível, gratidão a Deus por uma obra que Ele concluiu em sua vida ou comunidade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por levares tua obra à conclusão. Que minha gratidão seja tão audível quanto a alegria de Jerusalém naquele dia. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por levares tua obra à conclusão. Que minha gratidão seja tão audível quanto a alegria de Jerusalém naquele dia. Amém.",
     "passage": {
       "ref": "Neemias 12 · capítulo completo (NVI)",
       "verses": [
@@ -3400,7 +3400,7 @@ window.ESDRAS_NEEMIAS_CARTA = [
       "Pensando na sua caminhada de hoje: Você confia que Deus se lembra das obras fiéis que você faz, mesmo quando ninguém mais parece notar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reavalie hoje uma área de sua vida que já foi reformada espiritualmente, mas pode estar silenciosamente regredindo, e tome uma atitude firme de correção.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. lembra-te de mim e das obras que faço com dedicação por ti. Dá-me firmeza para vigiar contra o retrocesso espiritual em minha vida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Lembra-te de mim e das obras que faço com dedicação por ti. Dá-me firmeza para vigiar contra o retrocesso espiritual em minha vida. Amém.",
     "passage": {
       "ref": "Neemias 13 · capítulo completo (NVI)",
       "verses": [

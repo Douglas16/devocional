@@ -32,7 +32,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Que tarefa você tem adiado por medo de não estar à altura?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dê um passo concreto hoje em direção a um chamado que você tem adiado por sentir-se despreparado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me conheceste antes de eu nascer. Vai comigo onde me enviares. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me conheceste antes de eu nascer. Vai comigo onde me enviares. Amém.",
     "passage": {
       "ref": "Jeremias 1 · capítulo completo (NVI)",
       "verses": [
@@ -142,7 +142,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Onde você tem confundido esforço próprio com fonte de vida real?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique hoje uma fonte alternativa de segurança que você tem cavado sozinho e volte-se, em oração, para a fonte viva.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és a fonte de água viva. Perdoa-me por cavar cisternas que não retêm nada. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és a fonte de água viva. Perdoa-me por cavar cisternas que não retêm nada. Amém.",
     "passage": {
       "ref": "Jeremias 2 · capítulo completo (NVI)",
       "verses": [
@@ -324,7 +324,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: O que impede você de voltar hoje mesmo a algo que abandonou com Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, dê hoje o primeiro passo concreto de volta em uma área que você vem evitando lidar com Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. eu volto. Cura a minha rebeldia como prometeste. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Eu volto. Cura a minha rebeldia como prometeste. Amém.",
     "passage": {
       "ref": "Jeremias 3 · capítulo completo (NVI)",
       "verses": [
@@ -458,7 +458,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: O que a urgência da pergunta de Deus revela sobre o adiamento espiritual?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, nomeie diante de Deus, hoje, um pensamento ou intenção interior que precisa ser lavado, não apenas escondido.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. lava o mal do meu coração. Não quero mais adiar essa limpeza. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Lava o mal do meu coração. Não quero mais adiar essa limpeza. Amém.",
     "passage": {
       "ref": "Jeremias 4 · capítulo completo (NVI)",
       "verses": [
@@ -616,7 +616,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Onde você tem confundido conformidade com honestidade real?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje um ato concreto de honestidade, mesmo quando ninguém mais ao redor parecer fazer o mesmo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. faz de mim alguém que busca a verdade, disponível para o teu perdão alcançar outros através de mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Faz de mim alguém que busca a verdade, disponível para o teu perdão alcançar outros através de mim. Amém.",
     "passage": {
       "ref": "Jeremias 5 · capítulo completo (NVI)",
       "verses": [
@@ -774,7 +774,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Como discernir entre conforto verdadeiro e minimização perigosa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, nomeie hoje, com honestidade, um problema que você tem tratado como mais leve do que realmente é.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não me deixes tratar como leve o que é grave. Dá-me coragem para a verdadeira cura. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não me deixes tratar como leve o que é grave. Dá-me coragem para a verdadeira cura. Amém.",
     "passage": {
       "ref": "Jeremias 6 · capítulo completo (NVI)",
       "verses": [
@@ -928,7 +928,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Que injustiça você pratica e depois 'esconde' atrás de uma fachada religiosa?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma área de injustiça pessoal que você tem coberto com aparência religiosa, e corrija-a.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha vida fora do culto seja tão íntegra quanto minha aparência dentro dele. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha vida fora do culto seja tão íntegra quanto minha aparência dentro dele. Amém.",
     "passage": {
       "ref": "Jeremias 7 · capítulo completo (NVI)",
       "verses": [
@@ -1098,7 +1098,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Como distinguir entre ferida sem remédio e remédio que você ainda não buscou?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, busque hoje ativamente o remédio de Deus — oração, confissão, conselho sábio — para uma ferida que você tem ignorado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és o bálsamo e o médico. Ajuda-me a buscar tua cura em vez de ignorar minha ferida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és o bálsamo e o médico. Ajuda-me a buscar tua cura em vez de ignorar minha ferida. Amém.",
     "passage": {
       "ref": "Jeremias 8 · capítulo completo (NVI)",
       "verses": [
@@ -1220,7 +1220,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Como refletir hoje lealdade, justiça e retidão como resposta a esse conhecimento?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escolha hoje conscientemente gloriar-se em conhecer a Deus, evitando qualquer alarde de sabedoria, força ou riqueza pessoal.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. que minha única glória seja te conhecer e refletir tua justiça e retidão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que minha única glória seja te conhecer e refletir tua justiça e retidão. Amém.",
     "passage": {
       "ref": "Jeremias 9 · capítulo completo (NVI)",
       "verses": [
@@ -1358,7 +1358,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Como pedir a correção de Deus com confiança, e não com medo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, entregue hoje, conscientemente, o controle de uma decisão específica que você insiste em dirigir sozinho.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sei que meus passos não me pertencem. Dirige-me com justiça, não me abandones. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sei que meus passos não me pertencem. Dirige-me com justiça, não me abandones. Amém.",
     "passage": {
       "ref": "Jeremias 10 · capítulo completo (NVI)",
       "verses": [
@@ -1618,7 +1618,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Que injustiça aparente você precisa trazer abertamente diante de Deus hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje, sem filtros, uma pergunta honesta que você tem evitado fazer a Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és justo mesmo quando não entendo teus caminhos. Recebo minhas perguntas diante de ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és justo mesmo quando não entendo teus caminhos. Recebo minhas perguntas diante de ti. Amém.",
     "passage": {
       "ref": "Jeremias 12 · capítulo completo (NVI)",
       "verses": [
@@ -1720,7 +1720,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Onde você precisa da graça transformadora de Deus, não apenas de mais força de vontade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, nomeie um padrão de pecado repetido e peça hoje, especificamente, a graça de Deus para transformá-lo — não apenas sua própria força.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sozinho não consigo mudar. Transforma o que só a tua graça pode transformar em mim. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sozinho não consigo mudar. Transforma o que só a tua graça pode transformar em mim. Amém.",
     "passage": {
       "ref": "Jeremias 13 · capítulo completo (NVI)",
       "verses": [
@@ -1862,7 +1862,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Como manter a oração viva mesmo sem garantia de alívio imediato?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, interceda hoje por alguém em crise, mesmo que a situação pareça sem solução aparente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu estás em nosso meio. Não nos abandones, mesmo na seca. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu estás em nosso meio. Não nos abandones, mesmo na seca. Amém.",
     "passage": {
       "ref": "Jeremias 14 · capítulo completo (NVI)",
       "verses": [
@@ -2102,7 +2102,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Em que área você precisa reconhecer Deus como sua força e abrigo hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reflita sobre uma renúncia atual em sua vida e ofereça-a conscientemente a Deus como ato de obediência, não apenas de perda.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. minha força e minha fortaleza, sê meu abrigo seguro na hora da adversidade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Minha força e minha fortaleza, sê meu abrigo seguro na hora da adversidade. Amém.",
     "passage": {
       "ref": "Jeremias 16 · capítulo completo (NVI)",
       "verses": [
@@ -2220,7 +2220,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: O que significa, na prática, ser 'árvore plantada junto às águas' descrita neste capítulo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, peça a Deus hoje, especificamente, que revele algo em seu coração que você mesmo não consegue enxergar.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sonda meu coração enganoso e revela o que preciso ver. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sonda meu coração enganoso e revela o que preciso ver. Amém.",
     "passage": {
       "ref": "Jeremias 17 · capítulo completo (NVI)",
       "verses": [
@@ -2362,7 +2362,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Como o arrependimento genuíno pode mudar o rumo anunciado de uma consequência?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, entregue hoje, conscientemente, uma área 'malformada' de sua vida às mãos do Oleiro para ser refeita.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. sou barro em tuas mãos. Refaze o que em mim está malformado. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Sou barro em tuas mãos. Refaze o que em mim está malformado. Amém.",
     "passage": {
       "ref": "Jeremias 18 · capítulo completo (NVI)",
       "verses": [
@@ -2488,7 +2488,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Como distinguir entre urgência genuína e desespero diante de um chamado à mudança?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, responda hoje, sem mais adiar, a um chamado de mudança que você reconhece como ainda 'maleável' em sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero endurecer além do ponto de retorno. Molda-me enquanto ainda sou maleável. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero endurecer além do ponto de retorno. Molda-me enquanto ainda sou maleável. Amém.",
     "passage": {
       "ref": "Jeremias 19 · capítulo completo (NVI)",
       "verses": [
@@ -2582,7 +2582,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Que 'fogo' interior você tem tentado conter além do razoável?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, expresse hoje, de alguma forma concreta, algo que Deus tem colocado em seu coração e que você tem tentado silenciar.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tua palavra arde em mim como fogo. Não me deixes silenciá-la por cansaço ou medo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tua palavra arde em mim como fogo. Não me deixes silenciá-la por cansaço ou medo. Amém.",
     "passage": {
       "ref": "Jeremias 20 · capítulo completo (NVI)",
       "verses": [
@@ -2688,7 +2688,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Que rendição você tem evitado, mesmo sendo o caminho que Deus aponta?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, considere hoje uma situação em que resistir pode não ser sabedoria, e pergunte a Deus se render-se é, na verdade, o caminho da vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu pões diante de mim o caminho da vida. Dá-me discernimento para escolhê-lo, mesmo quando custa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu pões diante de mim o caminho da vida. Dá-me discernimento para escolhê-lo, mesmo quando custa. Amém.",
     "passage": {
       "ref": "Jeremias 21 · capítulo completo (NVI)",
       "verses": [
@@ -2778,7 +2778,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Onde você exerce alguma forma de liderança que precisa ser medida por este padrão?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, pratique hoje um ato concreto de justiça em favor de alguém vulnerável em seu contexto — estrangeiro, órfão, viúva ou equivalente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a administrar justiça e direito, especialmente aos mais vulneráveis ao meu redor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a administrar justiça e direito, especialmente aos mais vulneráveis ao meu redor. Amém.",
     "passage": {
       "ref": "Jeremias 22 · capítulo completo (NVI)",
       "verses": [
@@ -2932,7 +2932,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: O que significa, para você hoje, ter 'o Senhor' como sua justiça?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje declarando sobre uma situação de injustiça que 'o Senhor é a minha justiça' nela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és a minha justiça. Firmo minha esperança em ti, não em lideranças que falham. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és a minha justiça. Firmo minha esperança em ti, não em lideranças que falham. Amém.",
     "passage": {
       "ref": "Jeremias 23 · capítulo completo (NVI)",
       "verses": [
@@ -3126,7 +3126,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Que área do seu coração precisa de uma transformação que só Deus pode dar?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje um período difícil de sua vida como possível 'figo bom' — lugar onde Deus estava formando seu coração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me um coração capaz de te conhecer verdadeiramente, mesmo em tempos de exílio. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me um coração capaz de te conhecer verdadeiramente, mesmo em tempos de exílio. Amém.",
     "passage": {
       "ref": "Jeremias 24 · capítulo completo (NVI)",
       "verses": [
@@ -3200,7 +3200,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Onde você precisa aceitar que também está sujeito ao escrutínio de Deus, não apenas os outros?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, persista hoje em algo fiel que você tem feito sem ver fruto visível, confiando no tempo determinado por Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. confio no teu prazo determinado, mesmo quando a espera é longa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Confio no teu prazo determinado, mesmo quando a espera é longa. Amém.",
     "passage": {
       "ref": "Jeremias 25 · capítulo completo (NVI)",
       "verses": [
@@ -3386,7 +3386,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Como lembranças de fidelidade passada de Deus fortalecem sua coragem presente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, corrija hoje uma conduta específica em resposta a uma advertência que você tem ignorado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. corrijo minha conduta diante de ti. Que te arrependas da desgraça que minha desobediência mereceria. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Corrijo minha conduta diante de ti. Que te arrependas da desgraça que minha desobediência mereceria. Amém.",
     "passage": {
       "ref": "Jeremias 26 · capítulo completo (NVI)",
       "verses": [
@@ -3516,7 +3516,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Como discernir entre lutar pela vontade de Deus e lutar contra ela por orgulho?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique uma situação em que resistir tem sido mais orgulho do que fé, e escolha hoje um passo de submissão sábia.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a discernir quando aceitar um jugo é, na verdade, o caminho da vida. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a discernir quando aceitar um jugo é, na verdade, o caminho da vida. Amém.",
     "passage": {
       "ref": "Jeremias 27 · capítulo completo (NVI)",
       "verses": [
@@ -3638,7 +3638,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Que verdade difícil você precisa sustentar, mesmo sem vencer o debate imediato?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma mensagem popular que você tem aceitado sem verificar se realmente vem de Deus.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me discernimento entre palavra verdadeira e promessa confortável e falsa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me discernimento entre palavra verdadeira e promessa confortável e falsa. Amém.",
     "passage": {
       "ref": "Jeremias 28 · capítulo completo (NVI)",
       "verses": [
@@ -3740,7 +3740,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Que 'casa' e 'horta' — investimentos de longo prazo — você precisa começar hoje, mesmo em tempos difíceis?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, faça hoje um investimento concreto de longo prazo — relacional, espiritual ou prático — no lugar onde você está, mesmo que pareça temporário.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. confio nos teus planos de esperança e futuro, mesmo que exijam tempo de espera. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Confio nos teus planos de esperança e futuro, mesmo que exijam tempo de espera. Amém.",
     "passage": {
       "ref": "Jeremias 29 · capítulo completo (NVI)",
       "verses": [
@@ -3902,7 +3902,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Como a mudança de tom deste capítulo muda sua leitura dos capítulos anteriores de juízo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, nomeie uma ferida específica e ore hoje pedindo a Deus a cura completa que ele promete neste capítulo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. cicatriza meu ferimento e cura minhas feridas, como prometeste. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Cicatriza meu ferimento e cura minhas feridas, como prometeste. Amém.",
     "passage": {
       "ref": "Jeremias 30 · capítulo completo (NVI)",
       "verses": [
@@ -4032,7 +4032,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Você realmente crê que Deus 'não se lembra mais' dos pecados perdoados, ou ainda carrega culpa antiga?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje, fisicamente, esta promessa em um lugar visível como lembrete da aliança gravada em seu coração.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado pela nova aliança gravada em meu coração. Obrigado por não te lembrares mais dos meus pecados. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado pela nova aliança gravada em meu coração. Obrigado por não te lembrares mais dos meus pecados. Amém.",
     "passage": {
       "ref": "Jeremias 31 · capítulo completo (NVI)",
       "verses": [
@@ -4226,7 +4226,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Como um ato concreto, e não apenas uma oração, poderia expressar sua fé nesta semana?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, realize hoje um investimento concreto — de tempo, recurso ou compromisso — como ato de fé na restauração futura de Deus em uma situação difícil.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. nada é difícil demais para ti. Ajuda-me a investir em esperança mesmo em meio à crise. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Nada é difícil demais para ti. Ajuda-me a investir em esperança mesmo em meio à crise. Amém.",
     "passage": {
       "ref": "Jeremias 32 · capítulo completo (NVI)",
       "verses": [
@@ -4436,7 +4436,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Como a fidelidade histórica de Deus a promessas antigas fortalece sua confiança presente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, clame hoje a Deus especificamente sobre algo que você tem hesitado em pedir por parecer grande demais.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. clamo a ti. Revela-me coisas grandiosas e insondáveis que ainda não conheço. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Clamo a ti. Revela-me coisas grandiosas e insondáveis que ainda não conheço. Amém.",
     "passage": {
       "ref": "Jeremias 33 · capítulo completo (NVI)",
       "verses": [
@@ -4574,7 +4574,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Como manter fidelidade a um compromisso mesmo quando a pressão inicial diminui?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, revise hoje um compromisso que você assumiu com Deus em um momento de crise e verifique se ainda o está honrando.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a honrar de forma permanente os compromissos que assumo contigo, não apenas sob pressão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a honrar de forma permanente os compromissos que assumo contigo, não apenas sob pressão. Amém.",
     "passage": {
       "ref": "Jeremias 34 · capítulo completo (NVI)",
       "verses": [
@@ -4696,7 +4696,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Como a fidelidade geracional dos recabitas desafia sua própria constância na fé?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique um compromisso simples e específico com Deus e mantenha-o com a mesma consistência descrita neste capítulo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ensina-me a te ouvir e obedecer com a mesma fidelidade que os recabitas tiveram com seu antepassado. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ensina-me a te ouvir e obedecer com a mesma fidelidade que os recabitas tiveram com seu antepassado. Amém.",
     "passage": {
       "ref": "Jeremias 35 · capítulo completo (NVI)",
       "verses": [
@@ -4806,7 +4806,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Que mensagem de Deus precisa ser 'reescrita' — retomada — em sua vida depois de você tê-la abandonado?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, retome hoje uma verdade ou convicção espiritual que você abandonou depois de rejeição ou dificuldade.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. nenhum poder humano pode destruir tua palavra. Reescreve em mim o que tentei apagar. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Nenhum poder humano pode destruir tua palavra. Reescreve em mim o que tentei apagar. Amém.",
     "passage": {
       "ref": "Jeremias 36 · capítulo completo (NVI)",
       "verses": [
@@ -4968,7 +4968,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Como manter consistência na mensagem, mesmo diante de pressão de autoridade?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, seja hoje consistente e público, não apenas 'secreto', sobre uma convicção de fé que você tem escondido por medo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. dá-me coragem para viver e falar tua verdade abertamente, não apenas em segredo. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Dá-me coragem para viver e falar tua verdade abertamente, não apenas em segredo. Amém.",
     "passage": {
       "ref": "Jeremias 37 · capítulo completo (NVI)",
       "verses": [
@@ -5086,7 +5086,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Como continuar fiel ao seu chamado mesmo depois de ser ferido por cumpri-lo?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, agradeça hoje a Deus por alguém que já o resgatou de forma inesperada, e considere arriscar-se por outra pessoa da mesma forma.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por resgates vindos de onde eu menos esperava. Dá-me coragem para arriscar por outros também. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por resgates vindos de onde eu menos esperava. Dá-me coragem para arriscar por outros também. Amém.",
     "passage": {
       "ref": "Jeremias 38 · capítulo completo (NVI)",
       "verses": [
@@ -5232,7 +5232,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: O que significa confiar em Deus especificamente 'no meio' de uma catástrofe, e não apenas depois dela?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje um ato pessoal de fé que você praticou em meio a uma crise maior, e agradeça a Deus por não tê-lo esquecido.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mesmo em meio ao colapso ao redor, confio que não esqueces atos individuais de fé. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Mesmo em meio ao colapso ao redor, confio que não esqueces atos individuais de fé. Amém.",
     "passage": {
       "ref": "Jeremias 39 · capítulo completo (NVI)",
       "verses": [
@@ -5338,7 +5338,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Como o exemplo de Jeremias, escolhendo ficar, desafia suas próprias prioridades?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, considere hoje permanecer, em vez de partir, ao lado de alguém vulnerável que precisa da sua presença.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. ajuda-me a escolher permanecer ao lado de quem precisa de mim, mesmo quando a saída parece mais fácil. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Ajuda-me a escolher permanecer ao lado de quem precisa de mim, mesmo quando a saída parece mais fácil. Amém.",
     "passage": {
       "ref": "Jeremias 40 · capítulo completo (NVI)",
       "verses": [
@@ -5436,7 +5436,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Que tragédia dentro de sua própria comunidade você ainda precisa processar diante de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, leve a Deus hoje um medo específico que tem dirigido suas decisões recentes, pedindo discernimento em vez de reação por pânico.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não me deixes decidir por medo. Dá-me discernimento mesmo diante de tragédias inesperadas. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não me deixes decidir por medo. Dá-me discernimento mesmo diante de tragédias inesperadas. Amém.",
     "passage": {
       "ref": "Jeremias 41 · capítulo completo (NVI)",
       "verses": [
@@ -5542,7 +5542,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Que resposta de Deus você tem adiado obedecer por não gostar dela?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, antes de pedir direção a Deus hoje sobre algo específico, comprometa-se sinceramente a obedecer, seja qual for a resposta.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mostra-me o caminho e dá-me coragem para segui-lo, mesmo que não seja o que eu esperava. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Mostra-me o caminho e dá-me coragem para segui-lo, mesmo que não seja o que eu esperava. Amém.",
     "passage": {
       "ref": "Jeremias 42 · capítulo completo (NVI)",
       "verses": [
@@ -5664,7 +5664,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Que 'Egito' — solução fácil e proibida — você tem sido tentado a buscar apesar do conselho de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconsidere hoje uma decisão que você já tomou antes de realmente buscar e aceitar a direção de Deus sobre ela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me da arrogância que rejeita tua palavra só porque ela contraria meus planos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Guarda-me da arrogância que rejeita tua palavra só porque ela contraria meus planos. Amém.",
     "passage": {
       "ref": "Jeremias 43 · capítulo completo (NVI)",
       "verses": [
@@ -5750,7 +5750,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Que 'abominação' — pecado específico e repetido — você precisa finalmente abandonar de vez?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique um padrão de pecado que você já repetiu apesar de suas consequências e peça a Deus uma transformação real, não apenas temporária.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não quero repetir os mesmos erros depois de já ter sofrido suas consequências. Transforma meu coração de verdade. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não quero repetir os mesmos erros depois de já ter sofrido suas consequências. Transforma meu coração de verdade. Amém.",
     "passage": {
       "ref": "Jeremias 44 · capítulo completo (NVI)",
       "verses": [
@@ -5904,7 +5904,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Que promessa aparentemente 'pequena' de Deus você precisa reconhecer como suficiente agora?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reconheça hoje o valor de um serviço discreto e fiel que você tem prestado, mesmo sem reconhecimento visível.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não busco grandes coisas para mim. Basta-me saber que estás comigo em meio ao caos. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não busco grandes coisas para mim. Basta-me saber que estás comigo em meio ao caos. Amém.",
     "passage": {
       "ref": "Jeremias 45 · capítulo completo (NVI)",
       "verses": [
@@ -5958,7 +5958,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Que medo específico você precisa entregar hoje à luz desta promessa repetida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, declare hoje, em voz alta, 'não temerei' sobre uma situação de instabilidade que você enfrenta, à luz da promessa deste texto.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não temerei, pois estás comigo mesmo em meio à instabilidade ao meu redor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não temerei, pois estás comigo mesmo em meio à instabilidade ao meu redor. Amém.",
     "passage": {
       "ref": "Jeremias 46 · capítulo completo (NVI)",
       "verses": [
@@ -6104,7 +6104,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Como equilibrar aceitação da justiça de Deus com o desejo humano por alívio rápido?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje por alguém passando por uma consequência dolorosa mas necessária, pedindo que o processo termine logo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. reconheço tua justiça, mas peço que o sofrimento necessário encontre seu fim breve. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Reconheço tua justiça, mas peço que o sofrimento necessário encontre seu fim breve. Amém.",
     "passage": {
       "ref": "Jeremias 47 · capítulo completo (NVI)",
       "verses": [
@@ -6166,7 +6166,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Como enxergar adversidade atual como possível processo de purificação, não apenas como punição?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, examine hoje uma área de conforto prolongado em sua vida espiritual e pergunte a Deus se ela esconde sedimentos não tratados.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. não me deixes estagnar na minha própria borra. Purifica-me, mesmo que isso exija mudança dolorosa. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Não me deixes estagnar na minha própria borra. Purifica-me, mesmo que isso exija mudança dolorosa. Amém.",
     "passage": {
       "ref": "Jeremias 48 · capítulo completo (NVI)",
       "verses": [
@@ -6388,7 +6388,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Como refletir a mesma misericórdia seletiva de Deus por quem mais precisa dela ao seu redor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, identifique alguém vulnerável dentro de um grupo ou situação que você tende a julgar coletivamente, e ofereça a essa pessoa cuidado específico.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por tua misericórdia que alcança até os mais vulneráveis em meio ao julgamento. Ensina-me a mesma compaixão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por tua misericórdia que alcança até os mais vulneráveis em meio ao julgamento. Ensina-me a mesma compaixão. Amém.",
     "passage": {
       "ref": "Jeremias 49 · capítulo completo (NVI)",
       "verses": [
@@ -6578,7 +6578,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Que poder humano ao seu redor parece intocável, mas na verdade tem um limite determinado por Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje confiando que Deus, como Redentor forte, está defendendo ativamente uma causa sua que parece humanamente sem solução.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. meu Redentor forte, defende minha causa e traz descanso onde hoje só vejo opressão. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Meu Redentor forte, defende minha causa e traz descanso onde hoje só vejo opressão. Amém.",
     "passage": {
       "ref": "Jeremias 50 · capítulo completo (NVI)",
       "verses": [
@@ -6796,7 +6796,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Como viver hoje com a segurança de pertencer à 'propriedade' de Deus?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reafirme hoje, conscientemente, que Deus é sua porção principal acima de qualquer segurança material ou social.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu és a minha porção. Nenhum ídolo fabricado se compara a ti. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu és a minha porção. Nenhum ídolo fabricado se compara a ti. Amém.",
     "passage": {
       "ref": "Jeremias 51 · capítulo completo (NVI)",
       "verses": [
@@ -7086,7 +7086,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Onde você precisa confiar que, mesmo em exílio, a bondade de Deus ainda pode alcançá-lo concretamente?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje um sinal concreto de graça que Deus já colocou em meio a uma temporada difícil da sua vida.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por, mesmo no exílio, ainda haver sinais da tua bondade. Confio que a última palavra é sempre graça. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por, mesmo no exílio, ainda haver sinais da tua bondade. Confio que a última palavra é sempre graça. Amém.",
     "passage": {
       "ref": "Jeremias 52 · capítulo completo (NVI)",
       "verses": [
@@ -7256,7 +7256,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Que dor você tem minimizado, quando na verdade merece ser plenamente reconhecida?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, compartilhe hoje, com alguém de confiança ou em oração escrita, uma dor que você tem sofrido isoladamente.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. vê meu sofrimento. Não me deixes sofrer sozinho ou em silêncio. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Vê meu sofrimento. Não me deixes sofrer sozinho ou em silêncio. Amém.",
     "passage": {
       "ref": "Lamentações 1 · capítulo completo (NVI)",
       "verses": [
@@ -7378,7 +7378,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Por quem, especialmente mais vulnerável, você precisa interceder mesmo em meio à sua própria dor?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, reserve hoje um tempo de oração sem filtro, derramando diante de Deus uma dor que você tem controlado demais.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. derramo diante de ti meu coração, sem filtro. Ouve também minha súplica pelos mais vulneráveis. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Derramo diante de ti meu coração, sem filtro. Ouve também minha súplica pelos mais vulneráveis. Amém.",
     "passage": {
       "ref": "Lamentações 2 · capítulo completo (NVI)",
       "verses": [
@@ -7500,7 +7500,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Pensando no próximo passo possível: Que fracasso de ontem você precisa deixar de carregar, confiando na renovação de hoje?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, comece amanhã reconhecendo conscientemente, antes de qualquer outra coisa, que as misericórdias de Deus são novas naquele dia específico.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tuas misericórdias são novas a cada manhã. Grande é a tua fidelidade, mesmo em meio à minha dor. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tuas misericórdias são novas a cada manhã. Grande é a tua fidelidade, mesmo em meio à minha dor. Amém.",
     "passage": {
       "ref": "Lamentações 3 · capítulo completo (NVI)",
       "verses": [
@@ -7798,7 +7798,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Na prática de hoje: Que sofrimento atual você precisa reconceber como temporário, não eterno?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, escreva hoje uma dificuldade atual e a palavra 'temporário' ao lado dela, como declaração de fé em seu fim determinado.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. creio que este castigo terminará. Não prolongues meu exílio além do necessário. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Creio que este castigo terminará. Não prolongues meu exílio além do necessário. Amém.",
     "passage": {
       "ref": "Lamentações 4 · capítulo completo (NVI)",
       "verses": [
@@ -7920,7 +7920,7 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "O que caberia fazer agora: Como viver em fé quando uma súplica sincera ainda não recebeu resposta clara?"
     ],
     "application": "Hoje, sem transformar este convite em cobrança, ore hoje, especificamente, pedindo a Deus para restaurar e renovar uma área da sua vida, mesmo sem garantia de quando ou como isso acontecerá.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. restaura-nos para ti. Renova nossos dias como os de antigamente. Amém.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Restaura-nos para ti. Renova nossos dias como os de antigamente. Amém.",
     "passage": {
       "ref": "Lamentações 5 · capítulo completo (NVI)",
       "verses": [

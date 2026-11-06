@@ -32,7 +32,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Você confia que Deus está tecendo um propósito mesmo nas partes da sua história que parecem anônimas ou sem destaque?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escreva o nome de três antepassados ou pessoas que moldaram sua fé e agradeça a Deus especificamente por cada um deles hoje.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. obrigado por te lembrares de cada nome, de cada geração, de cada família na minha história. Como Jabez, também clamo: abençoa-me, amplia meu território e guarda-me do mal. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Obrigado por te lembrares de cada nome, de cada geração, de cada família na minha história. Como Jabez, também clamo: abençoa-me, amplia meu território e guarda-me do mal. Amém.",
     "passage": {
       "ref": "1 Crônicas 1–8 · seleção de versículos",
       "verses": [
@@ -102,7 +102,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Depois de um período difícil em sua vida, o que significaria para você 'reocupar seu lugar' com fidelidade, como fez esse povo restaurado?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, identifique uma responsabilidade recorrente e discreta em sua rotina (na igreja, no trabalho, em casa) e exerça-a hoje com a mesma fidelidade dos porteiros do templo.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ensina-me a ser fiel nas tarefas pequenas e invisíveis, assim como os guardiões das portas do teu templo. Que eu seja encontrado digno de confiança onde quer que me coloques. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ensina-me a ser fiel nas tarefas pequenas e invisíveis, assim como os guardiões das portas do teu templo. Que eu seja encontrado digno de confiança onde quer que me coloques. Amém.",
     "passage": {
       "ref": "1 Crônicas 9 · capítulo completo (NVI)",
       "verses": [
@@ -312,7 +312,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que herança você recebeu que custou caro a outra pessoa, e que talvez você trate como óbvia?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, identifique uma decisão pendente na qual você já sabe a quem tem recorrido primeiro. Antes de qualquer outra consulta hoje, leve essa decisão a Deus em oração.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. guarda-me da infidelidade silenciosa, aquela que não nega a tua existência mas deixa de te consultar. Que eu te procure primeiro, e não por último. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Guarda-me da infidelidade silenciosa, aquela que não nega a tua existência mas deixa de te consultar. Que eu te procure primeiro, e não por último. Amém.",
     "passage": {
       "ref": "1 Crônicas 10 · capítulo completo (NVI)",
       "verses": [
@@ -402,7 +402,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Quais nomes deveriam aparecer na lista ao lado do seu, e quando foi a última vez que você os disse em voz alta?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escreva o nome de três pessoas sem as quais algo que você conquistou não teria acontecido. Agradeça a pelo menos uma delas ainda hoje, dizendo especificamente o que ela fez.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. que eu nunca confunda o teu acompanhamento com a minha capacidade. Ensina-me a reconhecer o preço que outros pagaram pelo que hoje me parece normal. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Que eu nunca confunda o teu acompanhamento com a minha capacidade. Ensina-me a reconhecer o preço que outros pagaram pelo que hoje me parece normal. Amém.",
     "passage": {
       "ref": "1 Crônicas 11 · capítulo completo (NVI)",
       "verses": [
@@ -624,7 +624,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que lealdade sua hoje custa algum desconforto com o seu próprio grupo de origem?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escolha uma decisão que você vem adiando à espera do momento perfeito. Defina hoje um prazo concreto para ela, mesmo que curto.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me o entendimento dos tempos: não apenas saber o que é certo, mas reconhecer a hora de fazê-lo. E coragem para me comprometer antes que seja confortável. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Dá-me o entendimento dos tempos: não apenas saber o que é certo, mas reconhecer a hora de fazê-lo. E coragem para me comprometer antes que seja confortável. Amém.",
     "passage": {
       "ref": "1 Crônicas 12 · capítulo completo (NVI)",
       "verses": [
@@ -818,7 +818,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Há alguma contrariedade sua com Deus que você não tem permitido a si mesmo admitir?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, pense em um projeto em andamento e pergunte não \"isto é bom?\", mas \"isto está sendo feito do jeito certo?\". Escreva uma resposta honesta.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. perdoa as vezes em que a minha boa intenção me dispensou de te perguntar como. Recebe também a minha contrariedade quando eu não entendo, e ensina-me no caminho. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Perdoa as vezes em que a minha boa intenção me dispensou de te perguntar como. Recebe também a minha contrariedade quando eu não entendo, e ensina-me no caminho. Amém.",
     "passage": {
       "ref": "1 Crônicas 13 · capítulo completo (NVI)",
       "verses": [
@@ -908,7 +908,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que erro recente poderia estar te ensinando a perguntar melhor, em vez de só te envergonhar?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, identifique uma situação em que você está repetindo o que funcionou antes. Pare hoje e pergunte a Deus se o caminho desta vez é o mesmo.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. livra-me de transformar tuas respostas em fórmulas. Ensina-me a perguntar de novo, mesmo quando tudo parece igual ao que já vivi. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Livra-me de transformar tuas respostas em fórmulas. Ensina-me a perguntar de novo, mesmo quando tudo parece igual ao que já vivi. Amém.",
     "passage": {
       "ref": "1 Crônicas 14 · capítulo completo (NVI)",
       "verses": [
@@ -1010,7 +1010,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que expressão sincera sua já foi desprezada por alguém próximo, e como isso afetou sua liberdade?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escolha um fracasso recente e escreva em uma frase o que exatamente falhou no método, não no resultado. Guarde essa frase antes de tentar de novo.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me a humildade de dizer em voz alta onde errei, e a paciência de me preparar antes de agir. Que a minha alegria diante de ti não dependa da aprovação de quem olha. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Dá-me a humildade de dizer em voz alta onde errei, e a paciência de me preparar antes de agir. Que a minha alegria diante de ti não dependa da aprovação de quem olha. Amém.",
     "passage": {
       "ref": "1 Crônicas 15 · capítulo completo (NVI)",
       "verses": [
@@ -1160,7 +1160,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que prática diária poderia sustentar aquilo que você só vive em momentos altos?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, conte a uma pessoa hoje, com detalhe, uma coisa concreta pela qual você é grato a Deus. Não generalize.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. tira a minha gratidão do campo do sentimento e coloca-a na boca. Que eu saiba contar o que fizeste e sustentar, na rotina, o que celebrei na festa. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Tira a minha gratidão do campo do sentimento e coloca-a na boca. Que eu saiba contar o que fizeste e sustentar, na rotina, o que celebrei na festa. Amém.",
     "passage": {
       "ref": "1 Crônicas 16 · capítulo completo (NVI)",
       "verses": [
@@ -1366,7 +1366,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Se orasse hoje \"quem sou eu para que me trouxesses até aqui\", o que viria em seguida?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, liste o que você tem tentado construir para Deus. Ao lado de cada item, escreva o que, nele, você na verdade recebeu.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. quem sou eu para que me trouxesses até aqui. Livra-me de querer te pagar com edifícios e ensina-me a receber o que só tu constróis. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Quem sou eu para que me trouxesses até aqui. Livra-me de querer te pagar com edifícios e ensina-me a receber o que só tu constróis. Amém.",
     "passage": {
       "ref": "1 Crônicas 17 · capítulo completo (NVI)",
       "verses": [
@@ -1508,7 +1508,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Sua rotina de trabalho reflete os mesmos valores que você defende nos momentos importantes?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escolha uma decisão pequena da sua semana e verifique se ela trata igualmente quem não tem como cobrar de você. Ajuste o que for preciso.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ensina-me a praticar direito e justiça sem recorte, também com quem não pode me cobrar. E que aquilo que eu conquisto encontre um destino digno de ti. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ensina-me a praticar direito e justiça sem recorte, também com quem não pode me cobrar. E que aquilo que eu conquisto encontre um destino digno de ti. Amém.",
     "passage": {
       "ref": "1 Crônicas 18 · capítulo completo (NVI)",
       "verses": [
@@ -1610,7 +1610,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Em que situação você precisa agir com tudo e, ao mesmo tempo, soltar o resultado?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, pense em alguém que passou por um constrangimento público recente. Ofereça a essa pessoa algo concreto que respeite o tempo dela, sem exigir que já esteja bem.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. quando a minha bondade for mal lida, guarda-me do ressentimento. Dá-me coragem para fazer a minha parte e paz para deixar contigo o que não me cabe. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Quando a minha bondade for mal lida, guarda-me do ressentimento. Dá-me coragem para fazer a minha parte e paz para deixar contigo o que não me cabe. Amém.",
     "passage": {
       "ref": "1 Crônicas 19 · capítulo completo (NVI)",
       "verses": [
@@ -1720,7 +1720,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Onde você tem recebido honra por um lugar em que não esteve presente?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escolha uma história sua que você costuma contar pela metade. Conte-a inteira a alguém de confiança, ou escreva-a inteira para si mesmo.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. tu conheces o que eu deixo de fora quando conto a minha história. Dá-me coragem para não esconder de ti o que omito dos outros. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Tu conheces o que eu deixo de fora quando conto a minha história. Dá-me coragem para não esconder de ti o que omito dos outros. Amém.",
     "passage": {
       "ref": "1 Crônicas 20 · capítulo completo (NVI)",
       "verses": [
@@ -1786,7 +1786,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Existe um lugar de dor na sua história que talvez esteja se tornando alicerce de algo novo?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escolha uma oferta desta semana — de tempo, dinheiro ou atenção — e torne-a deliberadamente custosa o suficiente para você sentir.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. não quero te oferecer o que não me custa nada. Livra-me de confiar nos meus números e transforma em alicerce o lugar onde eu quase me perdi. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Não quero te oferecer o que não me custa nada. Livra-me de confiar nos meus números e transforma em alicerce o lugar onde eu quase me perdi. Amém.",
     "passage": {
       "ref": "1 Crônicas 21 · capítulo completo (NVI)",
       "verses": [
@@ -1940,7 +1940,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Você tem investido em pessoas mais jovens ou inexperientes, como Davi investiu em Salomão, mobilizando outros para apoiá-las?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, separe hoje algo — tempo, recursos ou conhecimento — para investir na obra de Deus através de outra pessoa, mesmo sabendo que talvez você não veja o resultado final.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ajuda-me a buscar-te de todo o coração antes de qualquer obra que eu empreenda. Torna-me generoso em preparar o caminho para os que virão depois de mim. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ajuda-me a buscar-te de todo o coração antes de qualquer obra que eu empreenda. Torna-me generoso em preparar o caminho para os que virão depois de mim. Amém.",
     "passage": {
       "ref": "1 Crônicas 22 · capítulo completo (NVI)",
       "verses": [
@@ -2050,7 +2050,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como você tem se adaptado a mudanças de estação na vida sem perder de vista sua vocação de servir a Deus?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, estabeleça hoje um momento fixo de manhã e outro à tarde para agradecer a Deus, transformando sua rotina em ritmo de adoração.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. que todo o meu trabalho, visível ou administrativo, seja também um ato de adoração a ti. Ensina-me a viver em ritmo constante de gratidão. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Que todo o meu trabalho, visível ou administrativo, seja também um ato de adoração a ti. Ensina-me a viver em ritmo constante de gratidão. Amém.",
     "passage": {
       "ref": "1 Crônicas 23 · capítulo completo (NVI)",
       "verses": [
@@ -2212,7 +2212,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como a fidelidade em estruturas rotineiras e pouco visíveis pode preparar você para um chamado maior, como aconteceu com Zacarias?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, aceite hoje, sem reclamar, uma tarefa ou 'turno' de serviço que não escolheria, confiando que Deus honra igualmente todo trabalho feito para ele.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ensina-me a servir com alegria, seja qual for meu lugar ou minha vez. Confio a ti as decisões que não posso controlar. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ensina-me a servir com alegria, seja qual for meu lugar ou minha vez. Confio a ti as decisões que não posso controlar. Amém.",
     "passage": {
       "ref": "1 Crônicas 24 · capítulo completo (NVI)",
       "verses": [
@@ -2370,7 +2370,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Você reconhece disciplina e estrutura como aliadas — e não inimigas — de um dom genuíno e inspirado?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escolha um louvor ou canção que fale profundamente à sua alma hoje e use-o deliberadamente como oração diante de Deus.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. recebe minha voz, meus dons e minha criatividade como oferta de louvor. Que minha vida também 'profetize' a tua verdade ao mundo. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Recebe minha voz, meus dons e minha criatividade como oferta de louvor. Que minha vida também 'profetize' a tua verdade ao mundo. Amém.",
     "passage": {
       "ref": "1 Crônicas 25 · capítulo completo (NVI)",
       "verses": [
@@ -2528,7 +2528,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como você tem cuidado daquilo que gerações anteriores dedicaram e confiaram a você — seja recursos, fé ou valores?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, revise hoje uma área de responsabilidade financeira ou administrativa que você tende a negligenciar, e cuide dela com integridade renovada.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. torna-me íntegro nos bastidores, fiel onde ninguém vê. Ajuda-me a guardar bem tudo o que me confiaste. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Torna-me íntegro nos bastidores, fiel onde ninguém vê. Ajuda-me a guardar bem tudo o que me confiaste. Amém.",
     "passage": {
       "ref": "1 Crônicas 26 · capítulo completo (NVI)",
       "verses": [
@@ -2690,7 +2690,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como você administra os recursos materiais que Deus colocou sob seus cuidados?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, organize hoje uma área prática da sua vida (finanças, agenda, tarefas domésticas) que você tem deixado em desordem, como um ato de mordomia diante de Deus.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ajuda-me a ser fiel também nos detalhes práticos da vida. Que minha administração reflita cuidado e responsabilidade diante de ti. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ajuda-me a ser fiel também nos detalhes práticos da vida. Que minha administração reflita cuidado e responsabilidade diante de ti. Amém.",
     "passage": {
       "ref": "1 Crônicas 27 · capítulo completo (NVI)",
       "verses": [
@@ -2860,7 +2860,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Em que áreas da sua vida você precisa confiar que Deus, e não a ambição ou a pressa humana, tem a palavra final?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, se você está esperando o cumprimento de uma promessa de Deus, ore hoje pedindo discernimento para agir, como Natã, no tempo certo, sem passividade nem afobação.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. tu estabeleces reis e propósitos segundo a tua vontade, mesmo em meio ao caos humano. Dá-me coragem para agir quando for necessário proteger o que vem de ti. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Tu estabeleces reis e propósitos segundo a tua vontade, mesmo em meio ao caos humano. Dá-me coragem para agir quando for necessário proteger o que vem de ti. Amém.",
     "passage": {
       "ref": "1 Reis 1 · capítulo completo (NVI)",
       "verses": [
@@ -3106,7 +3106,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Se você está preparando alguém para assumir uma responsabilidade importante, tem sido claro e público em sua exortação, como Davi foi com Salomão?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, antes de tomar uma decisão importante hoje, busque primeiro o 'modelo' de Deus na sua Palavra, ao invés de confiar apenas na sua própria intuição.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. que eu sirva a ti de todo o coração e de boa vontade, sabendo que sondas minhas intenções mais profundas. Ajuda-me a seguir fielmente o modelo que revelaste. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Que eu sirva a ti de todo o coração e de boa vontade, sabendo que sondas minhas intenções mais profundas. Ajuda-me a seguir fielmente o modelo que revelaste. Amém.",
     "passage": {
       "ref": "1 Crônicas 28 · capítulo completo (NVI)",
       "verses": [
@@ -3224,7 +3224,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que legado de fidelidade você está construindo, dia após dia, para terminar bem, como Davi?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, dê hoje algo — tempo, recursos ou talento — com alegria genuína, reconhecendo que está apenas devolvendo a Deus o que já era dele.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. tudo o que tenho vem de ti. Ensina-me a dar com alegria e a viver de forma que, ao final, minha vida glorifique teu nome. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Tudo o que tenho vem de ti. Ensina-me a dar com alegria e a viver de forma que, ao final, minha vida glorifique teu nome. Amém.",
     "passage": {
       "ref": "1 Crônicas 29 · capítulo completo (NVI)",
       "verses": [
@@ -3378,7 +3378,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Você busca segurança mais em obediência fiel a Deus ou em controle e força próprios?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, diga hoje, a alguém importante para você, uma palavra de sabedoria ou bênção que normalmente deixaria para 'depois'.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me sabedoria para tomar decisões difíceis com integridade. Que minha segurança esteja em obedecer aos teus caminhos, não em minha própria força. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Dá-me sabedoria para tomar decisões difíceis com integridade. Que minha segurança esteja em obedecer aos teus caminhos, não em minha própria força. Amém.",
     "passage": {
       "ref": "1 Reis 2 · capítulo completo (NVI)",
       "verses": [
@@ -3596,7 +3596,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Em que decisão recente você precisou discernir entre o que parecia certo e o que realmente era certo?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, antes de tomar uma decisão importante hoje, peça a Deus especificamente por um 'coração que ouve' e discernimento genuíno.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me um coração que ouve, capaz de discernir entre o bem e o mal. Não confio em minha própria sabedoria, mas na tua. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Dá-me um coração que ouve, capaz de discernir entre o bem e o mal. Não confio em minha própria sabedoria, mas na tua. Amém.",
     "passage": {
       "ref": "1 Reis 3 · capítulo completo (NVI)",
       "verses": [
@@ -3742,7 +3742,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Em que ordem você tem buscado sabedoria e prosperidade material em sua vida — qual vem primeiro?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, busque hoje sabedoria de Deus especificamente para uma responsabilidade que envolve cuidar de outras pessoas, não apenas de si mesmo.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me sabedoria e conhecimento para servir bem as pessoas que colocaste sob meus cuidados. Que minha busca por ti venha sempre antes de qualquer bênção material. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Dá-me sabedoria e conhecimento para servir bem as pessoas que colocaste sob meus cuidados. Que minha busca por ti venha sempre antes de qualquer bênção material. Amém.",
     "passage": {
       "ref": "2 Crônicas 1 · capítulo completo (NVI)",
       "verses": [
@@ -3844,7 +3844,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como você administra a prosperidade e os recursos que Deus colocou em suas mãos?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, agradeça hoje especificamente por um sinal concreto de paz e provisão em sua vida, por menor que pareça.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. obrigado pela paz e provisão que me concedes. Ajuda-me a administrar bem tudo o que tenho e a refletir tua sabedoria diante dos que me observam. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Obrigado pela paz e provisão que me concedes. Ajuda-me a administrar bem tudo o que tenho e a refletir tua sabedoria diante dos que me observam. Amém.",
     "passage": {
       "ref": "1 Reis 4 · capítulo completo (NVI)",
       "verses": [
@@ -4014,7 +4014,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Há alguma 'aliança' ou parceria que você precisa buscar hoje para realizar algo maior do que conseguiria sozinho?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, identifique uma tarefa importante que você tem adiado por falta de habilidade própria e busque hoje a ajuda de alguém mais capacitado nessa área.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me humildade para reconhecer meus limites e sabedoria para buscar as parcerias certas. Que minha vida seja testemunho da tua bondade a todos ao meu redor. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Dá-me humildade para reconhecer meus limites e sabedoria para buscar as parcerias certas. Que minha vida seja testemunho da tua bondade a todos ao meu redor. Amém.",
     "passage": {
       "ref": "2 Crônicas 2 · capítulo completo (NVI)",
       "verses": [
@@ -4120,7 +4120,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que decisões você está tomando hoje que podem ter consequências não percebidas para as próximas gerações?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, avalie hoje uma meta ou projeto seu e pergunte honestamente se ele está sendo alcançado às custas do bem-estar de outras pessoas.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me discernimento para perceber quando meu sucesso está custando caro demais a outras pessoas. Ajuda-me a buscar grandeza que não sacrifica ninguém em seu caminho. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Dá-me discernimento para perceber quando meu sucesso está custando caro demais a outras pessoas. Ajuda-me a buscar grandeza que não sacrifica ninguém em seu caminho. Amém.",
     "passage": {
       "ref": "1 Reis 5 · capítulo completo (NVI)",
       "verses": [
@@ -4226,7 +4226,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: O que significa, na prática, construir hoje um 'lugar santíssimo' interior — reservado, protegido e dedicado somente a Deus?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, reserve hoje um tempo e um espaço específicos, sem distrações, como seu próprio 'lugar santíssimo' de encontro com Deus.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. quero que habites não apenas na aparência da minha vida, mas no lugar mais interno do meu coração. Ajuda-me a viver em obediência fiel a ti. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Quero que habites não apenas na aparência da minha vida, mas no lugar mais interno do meu coração. Ajuda-me a viver em obediência fiel a ti. Amém.",
     "passage": {
       "ref": "1 Reis 6 · capítulo completo (NVI)",
       "verses": [
@@ -4412,7 +4412,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que 'eira' ou lugar comum da sua vida Deus pode transformar num espaço sagrado de encontro com ele?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, revisite hoje um momento antigo da sua história de fé e busque identificar como Deus estava, silenciosamente, preparando o que viria depois.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. obrigado por tecer minha história com propósito, mesmo quando não percebo no momento. Que eu enxergue tua mão fiel unindo o passado, o presente e o futuro da minha fé. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Obrigado por tecer minha história com propósito, mesmo quando não percebo no momento. Que eu enxergue tua mão fiel unindo o passado, o presente e o futuro da minha fé. Amém.",
     "passage": {
       "ref": "2 Crônicas 3 · capítulo completo (NVI)",
       "verses": [
@@ -4514,7 +4514,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como equilibrar a construção de coisas boas e legítimas (como o palácio de Salomão) sem que elas ofusquem o que é mais essencial?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escolha hoje um símbolo físico simples (uma nota, um objeto, um lembrete visual) para reforçar que é Deus quem estabelece e sustenta sua vida.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. tu és quem estabelece e fortalece. Ajuda-me a manter minhas prioridades alinhadas ao que é eterno, não apenas ao que é confortável. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Tu és quem estabelece e fortalece. Ajuda-me a manter minhas prioridades alinhadas ao que é eterno, não apenas ao que é confortável. Amém.",
     "passage": {
       "ref": "1 Reis 7 · capítulo completo (NVI)",
       "verses": [
@@ -4752,7 +4752,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como você reage a detalhes que parecem pequenos demais para importar, na sua vida de fé e obediência a Deus?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, busque hoje um momento de confissão sincera diante de Deus, permitindo que ele purifique algo específico antes de buscar 'brilhar' externamente.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. multiplica tua luz em mim e purifica meu coração. Que cada detalhe da minha vida reflita cuidado genuíno por ti. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Multiplica tua luz em mim e purifica meu coração. Que cada detalhe da minha vida reflita cuidado genuíno por ti. Amém.",
     "passage": {
       "ref": "2 Crônicas 4 · capítulo completo (NVI)",
       "verses": [
@@ -4874,7 +4874,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Onde você tem buscado a presença concreta de Deus hoje, já que não há mais um templo físico para isso?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, reserve um tempo hoje para simplesmente esperar diante de Deus, sem pedir nada, apenas reconhecendo sua glória e presença.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. que tua glória encha minha vida como encheu o templo de Salomão. Ouve minhas orações, e as de todos que te buscam sinceramente. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Que tua glória encha minha vida como encheu o templo de Salomão. Ouve minhas orações, e as de todos que te buscam sinceramente. Amém.",
     "passage": {
       "ref": "1 Reis 8 · capítulo completo (NVI)",
       "verses": [
@@ -5172,7 +5172,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: O que impede, hoje, a unidade de louvor em sua comunidade de fé — e o que você pode fazer para promovê-la?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, busque hoje unir-se de coração a outros crentes em louvor — mesmo que apenas em oração conjunta — e observe o efeito dessa unidade.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. une nossos corações e vozes como um só, para que tua glória se manifeste entre nós. Tu és bom, e o teu amor dura para sempre. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Une nossos corações e vozes como um só, para que tua glória se manifeste entre nós. Tu és bom, e o teu amor dura para sempre. Amém.",
     "passage": {
       "ref": "2 Crônicas 5 · capítulo completo (NVI)",
       "verses": [
@@ -5262,7 +5262,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como a certeza de que Deus já previu e providenciou para seus fracassos muda sua forma de lidar com a culpa?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, ore hoje antecipadamente por uma área de fraqueza recorrente em sua vida, pedindo que Deus ouça e perdoe mesmo antes de você falhar.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ouve minhas súplicas onde quer que eu esteja. Quando eu falhar, que tu ouças dos céus e perdoes. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ouve minhas súplicas onde quer que eu esteja. Quando eu falhar, que tu ouças dos céus e perdoes. Amém.",
     "passage": {
       "ref": "2 Crônicas 6 · capítulo completo (NVI)",
       "verses": [
@@ -5464,7 +5464,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que 'maus caminhos' você precisa abandonar para experimentar a restauração que Deus promete em 7.14?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, identifique hoje um 'mau caminho' específico em sua vida e dê um passo concreto de arrependimento e humildade diante de Deus.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. humilho-me diante de ti hoje. Busco tua face, não apenas tuas bênçãos. Perdoa meus pecados e restaura o que precisa ser sarado em mim. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Humilho-me diante de ti hoje. Busco tua face, não apenas tuas bênçãos. Perdoa meus pecados e restaura o que precisa ser sarado em mim. Amém.",
     "passage": {
       "ref": "2 Crônicas 7 · capítulo completo (NVI)",
       "verses": [
@@ -5586,7 +5586,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como a imagem de uma aliança que pode 'estabelecer' ou 'cortar' — dependendo da fidelidade — molda sua compreensão da seriedade do compromisso com Deus?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, reexamine hoje um aviso de Deus que você já ouviu mais de uma vez em sua vida e que ainda não levou a sério o suficiente para agir.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. que meus olhos permaneçam voltados para ti em fidelidade constante, não apenas em momentos de sucesso visível. Guarda-me fiel à aliança que fizeste comigo. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Que meus olhos permaneçam voltados para ti em fidelidade constante, não apenas em momentos de sucesso visível. Guarda-me fiel à aliança que fizeste comigo. Amém.",
     "passage": {
       "ref": "1 Reis 9 · capítulo completo (NVI)",
       "verses": [
@@ -5732,7 +5732,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Minha devoção a Deus é feita de rotinas fiéis ou apenas de momentos ocasionais de emoção?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, escolha hoje uma disciplina espiritual regular — oração, leitura bíblica ou culto familiar — e cumpra-a com a mesma constância dos sacrifícios diários do templo.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ensina-me a ser fiel nas coisas pequenas e regulares da vida. Que minha administração e meu trabalho sejam também formas de te adorar. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ensina-me a ser fiel nas coisas pequenas e regulares da vida. Que minha administração e meu trabalho sejam também formas de te adorar. Amém.",
     "passage": {
       "ref": "2 Crônicas 8 · capítulo completo (NVI)",
       "verses": [
@@ -5838,7 +5838,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Já experimentei algo de Deus que superou tudo o que eu tinha ouvido a respeito dele?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, peça hoje a Deus sabedoria prática para uma decisão específica que você enfrenta, confiando que ele a concede generosamente a quem pede.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. tu és a fonte de toda sabedoria verdadeira. Concede-me discernimento para viver de um jeito que aponte para ti. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Tu és a fonte de toda sabedoria verdadeira. Concede-me discernimento para viver de um jeito que aponte para ti. Amém.",
     "passage": {
       "ref": "1 Reis 10 · capítulo completo (NVI)",
       "verses": [
@@ -5988,7 +5988,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Consigo reconhecer o bem que Deus fez através de pessoas imperfeitas, sem idealizá-las?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, agradeça hoje a Deus por uma bênção específica em sua vida, reconhecendo que toda glória verdadeira vem dele e aponta de volta para ele.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. toda glória que tenho vem de ti. Ajuda-me a não me apegar à glória passageira, mas a buscar a tua glória eterna. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Toda glória que tenho vem de ti. Ajuda-me a não me apegar à glória passageira, mas a buscar a tua glória eterna. Amém.",
     "passage": {
       "ref": "2 Crônicas 9 · capítulo completo (NVI)",
       "verses": [
@@ -6146,7 +6146,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Meu coração está totalmente dedicado ao Senhor, ou dividido entre ele e outras devoções?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, identifique hoje uma influência ou hábito que tem inclinado seu coração para longe de Deus, e dê um passo concreto para corrigir o rumo.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. guarda meu coração para que seja totalmente teu. Não permitas que nenhuma influência me desvie de ti. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Guarda meu coração para que seja totalmente teu. Não permitas que nenhuma influência me desvie de ti. Amém.",
     "passage": {
       "ref": "1 Reis 11 · capítulo completo (NVI)",
       "verses": [
@@ -6352,7 +6352,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Tenho criado 'atalhos' religiosos convenientes em vez de confiar no caminho que Deus estabeleceu?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, antes de tomar sua próxima decisão importante, busque o conselho de alguém mais experiente e maduro na fé, e esteja disposto a segui-lo mesmo que seja mais difícil.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me humildade para ouvir bons conselhos e sabedoria para não agir por orgulho. Guarda-me de criar atalhos que me afastem de ti. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Dá-me humildade para ouvir bons conselhos e sabedoria para não agir por orgulho. Guarda-me de criar atalhos que me afastem de ti. Amém.",
     "passage": {
       "ref": "1 Reis 12 · capítulo completo (NVI)",
       "verses": [
@@ -6518,7 +6518,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Minha recusa em ouvir outras pessoas já revelou, no fundo, uma recusa em ouvir a Deus?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, pratique hoje a escuta atenta: em uma conversa importante, resista ao impulso de responder rápido e realmente ouça antes de falar.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ensina-me a ouvir de verdade — as pessoas ao meu redor e, acima de tudo, a tua voz. Confio que tu estás no controle mesmo quando não entendo o rumo dos acontecimentos. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ensina-me a ouvir de verdade — as pessoas ao meu redor e, acima de tudo, a tua voz. Confio que tu estás no controle mesmo quando não entendo o rumo dos acontecimentos. Amém.",
     "passage": {
       "ref": "2 Crônicas 10 · capítulo completo (NVI)",
       "verses": [
@@ -6628,7 +6628,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Meu coração está genuinamente 'disposto' a buscar o Senhor, ou apenas confortavelmente acomodado?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, identifique uma comunidade ou prática que fortalece sua fé e invista tempo nela nesta semana, mesmo que exija sacrifício.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. disponho meu coração para te buscar, custe o que custar. Fortalece-me não com muralhas, mas com tua presença. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Disponho meu coração para te buscar, custe o que custar. Fortalece-me não com muralhas, mas com tua presença. Amém.",
     "passage": {
       "ref": "2 Crônicas 11 · capítulo completo (NVI)",
       "verses": [
@@ -6754,7 +6754,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Tenho sido fiel até o fim naquilo que sei que Deus me pediu, ou paro no meio do caminho?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, reveja hoje uma instrução clara que Deus já lhe deu através da Escritura e certifique-se de que nenhuma voz externa o está desviando dela.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ajuda-me a discernir tua voz verdadeira e a permanecer fiel à tua palavra até o fim, sem me deixar enganar. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ajuda-me a discernir tua voz verdadeira e a permanecer fiel à tua palavra até o fim, sem me deixar enganar. Amém.",
     "passage": {
       "ref": "1 Reis 13 · capítulo completo (NVI)",
       "verses": [
@@ -6924,7 +6924,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Reconheço a bondade de Deus mesmo em meio a consequências difíceis que eu mesmo provoquei?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, examine hoje se há algum 'atalho' espiritual conveniente que você criou em vez de buscar a Deus como ele pede, e abandone-o.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. tira de mim qualquer idolatria disfarçada de conveniência. Que minha vida traga bênção, e não julgamento, sobre aqueles que amo. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Tira de mim qualquer idolatria disfarçada de conveniência. Que minha vida traga bênção, e não julgamento, sobre aqueles que amo. Amém.",
     "passage": {
       "ref": "1 Reis 14 · capítulo completo (NVI)",
       "verses": [
@@ -7082,7 +7082,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: A que 'reinos' tenho me sujeitado quando me afasto de servir ao Senhor?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, diante de uma correção recente que você recebeu — de Deus ou de alguém confiável — escolha hoje respondê-la com humildade em vez de defensividade.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ensina-me a me humilhar diante da tua correção. Obrigado por seres misericordioso mesmo quando mereço julgamento maior. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ensina-me a me humilhar diante da tua correção. Obrigado por seres misericordioso mesmo quando mereço julgamento maior. Amém.",
     "passage": {
       "ref": "2 Crônicas 12 · capítulo completo (NVI)",
       "verses": [
@@ -7180,7 +7180,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Consigo perseverar fielmente ao longo de uma vida inteira, e não apenas em momentos isolados de fervor?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, identifique uma área de compromisso 'incompleto' em sua fé — algo que você sabe que deveria remover ou corrigir — e dê o primeiro passo para resolvê-la hoje.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. quero um coração inteiramente dedicado a ti, por toda a minha vida, mesmo em meio às minhas imperfeições. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Quero um coração inteiramente dedicado a ti, por toda a minha vida, mesmo em meio às minhas imperfeições. Amém.",
     "passage": {
       "ref": "1 Reis 15 · capítulo completo (NVI)",
       "verses": [
@@ -7350,7 +7350,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Minha confiança está baseada em recursos visíveis, ou genuinamente apoiada no Senhor?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, diante de uma situação em que você se sente em desvantagem, escreva ou declare em voz alta uma lembrança concreta da fidelidade passada de Deus antes de agir.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. apoio-me em ti, e não em minha própria força. Concede-me vitórias que só possam ser explicadas pela tua fidelidade. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Apoio-me em ti, e não em minha própria força. Concede-me vitórias que só possam ser explicadas pela tua fidelidade. Amém.",
     "passage": {
       "ref": "2 Crônicas 13 · capítulo completo (NVI)",
       "verses": [
@@ -7472,7 +7472,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que reformas internas — hábitos, prioridades, lealdades — preciso fazer para estar preparado espiritualmente para as pressões que virão?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, diante do maior desafio que você enfrenta esta semana, ore com as próprias palavras de Asa: 'não há ninguém como tu para ajudar os fracos contra os poderosos'.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. não há ninguém como tu. Ajuda-me, pois em ti me apoio diante do que parece grande demais para mim. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Não há ninguém como tu. Ajuda-me, pois em ti me apoio diante do que parece grande demais para mim. Amém.",
     "passage": {
       "ref": "2 Crônicas 14 · capítulo completo (NVI)",
       "verses": [
@@ -7566,7 +7566,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Há alguma área em que tenho, na prática, abandonado a busca por Deus?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, renove hoje, de forma concreta e talvez em voz alta ou por escrito, um compromisso pessoal de buscar a Deus de todo o coração nesta temporada da sua vida.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. quero te buscar de todo o coração e de toda a alma. Que eu nunca te abandone, pois sei que tu não abandonas quem te busca. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Quero te buscar de todo o coração e de toda a alma. Que eu nunca te abandone, pois sei que tu não abandonas quem te busca. Amém.",
     "passage": {
       "ref": "2 Crônicas 15 · capítulo completo (NVI)",
       "verses": [
@@ -7676,7 +7676,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Vivo consciente de que os olhos de Deus estão atentos a mim, prontos para fortalecer meu coração dedicado a ele?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, reconheça hoje uma área em que você tem confiado mais em soluções humanas do que em Deus, e traga-a de volta a ele em oração.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. teus olhos percorrem toda a terra. Que meu coração seja encontrado totalmente dedicado a ti, hoje e sempre. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Teus olhos percorrem toda a terra. Que meu coração seja encontrado totalmente dedicado a ti, hoje e sempre. Amém.",
     "passage": {
       "ref": "2 Crônicas 16 · capítulo completo (NVI)",
       "verses": [
@@ -7766,7 +7766,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Como identifico instabilidade espiritual escondida atrás de aparente estabilidade externa?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, avalie hoje uma relação ou compromisso importante em sua vida e pergunte se ele está aproximando ou afastando você de Deus.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. guarda-me de alianças que me afastem de ti. Que cada geração da minha família se aproxime mais de ti, não menos. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Guarda-me de alianças que me afastem de ti. Que cada geração da minha família se aproxime mais de ti, não menos. Amém.",
     "passage": {
       "ref": "1 Reis 16 · capítulo completo (NVI)",
       "verses": [
@@ -7936,7 +7936,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Reconheço que a provisão de Deus não conhece as fronteiras que eu mesmo estabeleço?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, dê hoje algo do 'pouco' que você tem — tempo, recursos ou atenção — para alguém em necessidade, confiando na provisão contínua de Deus para você.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. tu és quem sustenta minha vida, mesmo quando os recursos parecem escassos. Ensina-me a confiar e a compartilhar com generosidade. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Tu és quem sustenta minha vida, mesmo quando os recursos parecem escassos. Ensina-me a confiar e a compartilhar com generosidade. Amém.",
     "passage": {
       "ref": "1 Reis 17 · capítulo completo (NVI)",
       "verses": [
@@ -8066,7 +8066,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Já experimentei uma resposta clara de Deus depois de um clamor sincero, como Elias no Carmelo?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, identifique hoje uma área específica de indecisão espiritual na sua vida e faça um compromisso claro e definitivo diante de Deus a respeito dela.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. não quero mais mancar entre dois pensamentos. Tu és Deus, e escolho hoje seguir somente a ti. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Não quero mais mancar entre dois pensamentos. Tu és Deus, e escolho hoje seguir somente a ti. Amém.",
     "passage": {
       "ref": "1 Reis 18 · capítulo completo (NVI)",
       "verses": [
@@ -8284,7 +8284,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que nova missão ou passo Deus pode estar me chamando a dar, mesmo em meio ao meu cansaço atual?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, reserve hoje um tempo de silêncio genuíno, sem distrações, para simplesmente escutar o que Deus pode estar sussurrando ao seu coração.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. fala comigo no silêncio. Renova minhas forças quando estou esgotado e mostra-me o próximo passo que preparaste para mim. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Fala comigo no silêncio. Renova minhas forças quando estou esgotado e mostra-me o próximo passo que preparaste para mim. Amém.",
     "passage": {
       "ref": "1 Reis 19 · capítulo completo (NVI)",
       "verses": [
@@ -8402,7 +8402,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Vejo conexão entre o compromisso com a verdade de Deus e a paz que experimento na minha vida?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, ensine hoje algo da Palavra de Deus a alguém — um filho, um amigo, um novo crente — mesmo que de forma simples e breve.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. que eu conheça tua palavra profundamente e a compartilhe com generosidade com quem está ao meu redor. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Que eu conheça tua palavra profundamente e a compartilhe com generosidade com quem está ao meu redor. Amém.",
     "passage": {
       "ref": "2 Crônicas 17 · capítulo completo (NVI)",
       "verses": [
@@ -8512,7 +8512,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Tenho sido plenamente obediente às vitórias e libertações que Deus já me concedeu, ou negocio os termos por conta própria?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, examine uma decisão recente em que você pode ter escolhido conveniência em vez de obediência plena, e busque corrigir o rumo hoje.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. ajuda-me a obedecer plenamente, sem negociar o que já determinaste, mesmo quando pareça vantajoso fazer diferente. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Ajuda-me a obedecer plenamente, sem negociar o que já determinaste, mesmo quando pareça vantajoso fazer diferente. Amém.",
     "passage": {
       "ref": "1 Reis 20 · capítulo completo (NVI)",
       "verses": [
@@ -8718,7 +8718,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Confio que Deus vê e responde à injustiça, mesmo quando a resposta demora a chegar?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, se você exerce alguma posição de influência, examine hoje se a está usando para servir ou para tomar o que pertence a outros.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. guarda-me da cobiça e do abuso de poder. Que eu sempre respeite o que pertence aos outros e confie que tu vês toda injustiça. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Guarda-me da cobiça e do abuso de poder. Que eu sempre respeite o que pertence aos outros e confie que tu vês toda injustiça. Amém.",
     "passage": {
       "ref": "1 Reis 21 · capítulo completo (NVI)",
       "verses": [
@@ -8868,7 +8868,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Já percebi um risco espiritual claro em uma aliança ou decisão, mas segui em frente mesmo assim?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, na próxima vez em que precisar dizer uma verdade difícil, escolha a fidelidade a Deus em vez da aprovação imediata das pessoas ao redor.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. dá-me coragem para falar somente a tua verdade, mesmo quando isso for impopular ou custoso. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Dá-me coragem para falar somente a tua verdade, mesmo quando isso for impopular ou custoso. Amém.",
     "passage": {
       "ref": "2 Crônicas 18 · capítulo completo (NVI)",
       "verses": [
@@ -9038,7 +9038,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Vivo com humildade diante da minha própria vulnerabilidade, reconhecendo que só Deus tem controle final sobre a vida?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, abandone hoje qualquer tentativa de 'disfarçar' ou evitar uma consequência que Deus já deixou clara, e escolha a obediência direta em vez disso.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. tu és soberano até sobre o que parece acaso. Ajuda-me a viver em obediência, sem tentar escapar do que sei ser certo. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Tu és soberano até sobre o que parece acaso. Ajuda-me a viver em obediência, sem tentar escapar do que sei ser certo. Amém.",
     "passage": {
       "ref": "1 Reis 22 · capítulo completo (NVI)",
       "verses": [
@@ -9284,7 +9284,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Lembro que toda autoridade que exerço é, em última instância, exercida diante de Deus?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, em uma decisão que você precisa tomar hoje envolvendo justiça ou avaliação de outra pessoa, pergunte-se conscientemente: 'Estou julgando isso como diante do Senhor?'",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. que eu exerça toda autoridade que me deste com integridade e temor a ti, lembrando que julgo diante de ti, e não apenas dos homens. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Que eu exerça toda autoridade que me deste com integridade e temor a ti, lembrando que julgo diante de ti, e não apenas dos homens. Amém.",
     "passage": {
       "ref": "2 Crônicas 19 · capítulo completo (NVI)",
       "verses": [
@@ -9362,7 +9362,7 @@ window.REIS_1_CARTA = [
       "Diante de Deus: Que batalha da minha vida preciso entregar a Deus, reconhecendo que ela não é minha para vencer sozinho?"
     ],
     "application": "Hoje, sem transformar esta aplicação em peso, diante do problema que mais pesa sobre você agora, ore reconhecendo abertamente sua incapacidade e escolha louvar a Deus antes de ver a solução.",
-    "prayer": "Senhor, aproxima esta verdade do meu coração. não sei o que fazer diante de tudo o que enfrento, mas meus olhos estão voltados para ti. A batalha é tua; eu escolho confiar e louvar. Amém.",
+    "prayer": "Senhor, aproxima esta verdade do meu coração. Não sei o que fazer diante de tudo o que enfrento, mas meus olhos estão voltados para ti. A batalha é tua; eu escolho confiar e louvar. Amém.",
     "passage": {
       "ref": "2 Crônicas 20 · capítulo completo (NVI)",
       "verses": [
