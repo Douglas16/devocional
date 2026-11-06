@@ -184,7 +184,7 @@ function Header({ theme, onSetTheme, mode, onSetMode, fontSize, onSetFontSize })
     <header className="header">
       <div className="brand">
         <span className="brand-mark">Lectio</span>
-        <span className="brand-sub">Sinóticos · 35 dias · NVI</span>
+        <span className="brand-sub">Sinóticos · 70 dias · NVI</span>
       </div>
       <div className="header-actions">
         <window.LectioModeMenu mode={mode} onSetMode={onSetMode} available={true} />
@@ -377,7 +377,7 @@ function Journey({ days, currentDay, readMap, onSelect, readCount }) {
     <div className="fade-in">
       <div className="journey-header">
         <h1 className="journey-title">Setenta dias com os Sinóticos</h1>
-        <p className="journey-sub">Mateus, Marcos e Lucas lado a lado — 20 dias de passagens comuns em ordem cronológica, mais 15 dias de material exclusivo de cada evangelho. Tradução NVI.</p>
+        <p className="journey-sub">Mateus, Marcos e Lucas lado a lado — 20 dias de passagens comuns em ordem cronológica, 15 dias de material exclusivo de cada evangelho e 35 dias para os capítulos restantes. Tradução NVI.</p>
         <div className="progress-line">
           <div className="progress-fill" style={{ width: `${pct}%` }} />
         </div>

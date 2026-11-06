@@ -1,4 +1,4 @@
-// Lectio — Atos dos Apóstolos (NVI), 20 dias
+// Lectio — Atos dos Apóstolos (NVI), 28 dias
 (function () {
   function build(mode) {
     const first = window.LectioMode.resolveDays(window.ATOS_1 || [], window.ATOS_1_CARTA, mode);

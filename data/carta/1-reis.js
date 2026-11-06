@@ -1,6 +1,6 @@
 // REIS_1 — Opção 2: Carta ao Coração
 // Escopo preservado exatamente como no arquivo original enviado:
-// 52 dias, incluindo 1 Crônicas, 2 Crônicas e 1 Reis na mesma ordem.
+// 64 dias, incluindo 1 Crônicas, 2 Crônicas e 1 Reis na mesma ordem.
 // Versículos, palavras hebraicas e passagens bíblicas preservados.
 // Tom devocional: caloroso, íntimo e pastoral.
 
