@@ -4022,8 +4022,8 @@ window.NUMEROS = [
       "Que pressão externa você tem enfrentado, tentando reverter algo que Deus já determinou em sua vida?",
       "Você trata a palavra de Deus com a mesma confiabilidade absoluta descrita aqui, ou duvida facilmente dela?"
     ],
-    "application": "Releia hoje uma promessa específica de Deus e declare, com base neste versículo, que ela certamente se cumprirá.",
-    "prayer": "Senhor, tu não mentes nem te arrependes. O que prometes, cumpres. Confio inteiramente em ti. Amém.",
+    "application": "Pense em uma promessa de Deus que você tem duvidado e declare o versículo 19: 'Deus não é homem para que minta'. Entregue a ele a pressão de quem quer desfazê-la, como Balaque quis amaldiçoar Israel.",
+    "prayer": "Senhor, tu não mentes nem te arrependes. O que abençoaste, ninguém pode amaldiçoar. Confio inteiramente na tua palavra, mesmo quando a pressão ao meu redor diz o contrário. Amém.",
     "passage": {
       "ref": "Números 23 · capítulo completo (NVI)",
       "verses": [

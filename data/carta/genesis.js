@@ -7559,7 +7559,7 @@ window.GENESIS_CARTA = [
       "Diante de Deus, sem precisar apresentar uma resposta perfeita: Que palavras finais ou bênçãos de figuras espirituais em sua vida ainda ressoam e orientam suas decisões hoje?",
       "Pensando apenas no próximo passo possível: Como toda a jornada de Gênesis, desde a primeira promessa no jardim, converge nesta bênção específica sobre Judá?"
     ],
-    "application": "Hoje, sem transformar este convite em cobrança, releia hoje a promessa de Gênesis 3.15 e trace, em oração de gratidão, como ela se conecta a esta bênção sobre Judá e, finalmente, a Jesus.",
+    "application": "Hoje, sem transformar este convite em cobrança, volte à promessa de Gênesis 3.15 e trace, em oração de gratidão, como ela se conecta à bênção sobre Judá e, finalmente, a Jesus.",
     "prayer": "Senhor, recebe meu coração como ele está hoje. Jesus, tu és aquele a quem o cetro pertence. Toda nação te obedecerá. Amém.",
     "passage": {
       "ref": "Gênesis 49 · capítulo completo (NVI)",

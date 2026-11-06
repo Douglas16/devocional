@@ -340,7 +340,7 @@ window.TIMOTEO_2 = [
       "Você permite que a Palavra o corrija?",
       "Qual boa obra Deus pode estar preparando por meio de você?"
     ],
-    "application": "Leia um trecho bíblico hoje com esta pergunta: 'o que preciso aprender, corrigir ou praticar?'.",
+    "application": "Escolha uma passagem da Escritura e responda por escrito, a partir de 2 Timóteo 3.16: o que ela ensina, onde repreende, o que corrige e que boa obra me prepara para fazer?",
     "prayer": "Deus, abre minha vida à tua Palavra. Torna-me sábio em Cristo e preparado para toda boa obra. Amém."
   },
   {

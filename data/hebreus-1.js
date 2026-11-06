@@ -86,8 +86,8 @@ window.HEBREUS_1 = [
       "Onde você precisa escutar novamente a Palavra do Filho?",
       "Como a glória de Cristo sustenta seu dia?"
     ],
-    "application": "Leia um trecho dos evangelhos e anote algo que Jesus revela sobre o Pai.",
-    "prayer": "Pai, obrigado porque falaste pelo Filho. Faz-me ouvir Jesus e confiar em sua glória e graça. Amém."
+    "application": "Escreva uma imagem de Deus que você carrega e confronte-a com Hebreus 1.3: o Filho é 'a expressão exata do seu ser'. O que muda se Deus for como Jesus?",
+    "prayer": "Pai, obrigado porque falaste pelo Filho. Corrige em mim toda imagem de ti que não combina com Jesus e faz-me confiar em sua glória e em sua obra de purificar meus pecados. Amém."
   },
   {
     "theme": "Cristo, revelação e sacerdote · O irmão que liberta",

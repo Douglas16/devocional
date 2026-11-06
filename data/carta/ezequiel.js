@@ -177,8 +177,8 @@ window.EZEQUIEL_CARTA = [
       "Diante de Deus, sem precisar apresentar uma resposta perfeita: De que forma você tem 'se alimentado' da palavra de Deus antes de tentar compartilhá-la com outros?",
       "Pensando na sua vida de hoje: O que significaria, na prática, deixar o Espírito de Deus te levantar hoje para uma tarefa difícil?"
     ],
-    "application": "Hoje, sem transformar este convite em cobrança, antes de falar sobre fé com alguém hoje, passe um tempo a sós lendo e absorvendo a Palavra.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. levanta-me pelo teu Espírito para obedecer, mesmo quando eu esperar resistência. Amém.",
+    "application": "Hoje, sem transformar este convite em cobrança, pense em alguém a quem Deus pode estar enviando você com uma palavra, mesmo sem garantia de resposta, e decida ser fiel, deixando o resultado com ele (v.5).",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Levanta-me pelo teu Espírito, como levantaste Ezequiel, para falar e viver com fidelidade mesmo quando eu esperar resistência. Amém.",
     "passage": {
       "ref": "Ezequiel 2 · capítulo completo (NVI)",
       "verses": [

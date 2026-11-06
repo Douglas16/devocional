@@ -4022,7 +4022,7 @@ window.SINOTICOS_RESTANTES_CARTA = [
       "Que texto, música ou oração de outra pessoa tem dito por você o que você não consegue?",
       "Onde você precisa de esperança sem que ninguém apresse o seu processo?"
     ],
-    "application": "Escolha um salmo de lamento e leia em voz alta, sem tentar chegar a uma conclusão positiva no fim.",
+    "application": "Diga a Deus em voz alta o seu 'por quê?', como Jesus fez no Salmo 22.1, sem tentar chegar a uma conclusão positiva no fim.",
     "prayer": "Jesus, tu conheces por dentro a sensação de abandono. Fica comigo quando eu não te sentir, e guarda em mim a esperança de que algo se abre. Amém."
   },
   {

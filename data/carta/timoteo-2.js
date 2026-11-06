@@ -349,7 +349,7 @@ window.TIMOTEO_2_CARTA = [
       "Você consegue receber correção sem interpretá-la imediatamente como rejeição?",
       "Que boa obra sua leitura bíblica pode estar preparando hoje?"
     ],
-    "application": "Leia um trecho bíblico com três perguntas: “o que preciso aprender?”, “o que preciso corrigir?” e “que bem posso praticar?”. Escolha uma resposta concreta.",
+    "application": "Sem se esmagar, escolha uma passagem e faça-lhe as perguntas de 2 Timóteo 3.16: o que ensina, o que repreende, o que corrige e que bem me prepara para fazer? Escolha uma resposta concreta.",
     "prayer": "Deus, deixa tua Palavra me formar de verdade. Corrige-me sem me esmagar, ensina-me sem alimentar orgulho e prepara-me para fazer o bem. Amém."
   },
   {

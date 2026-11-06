@@ -4866,8 +4866,8 @@ window.REIS_2 = [
       "Como você costuma reagir ao ouvir algo na Palavra de Deus que expõe erro em sua vida — com defesa ou com um coração tenro como o de Josias?",
       "Você confia que a humildade sincera importa para Deus, mesmo quando ela não muda todas as consequências?"
     ],
-    "application": "Releia hoje uma passagem das Escrituras que você conhece bem, mas pede a Deus um coração tenro para ouvi-la como se fosse a primeira vez.",
-    "prayer": "Senhor, mantém meu coração tenro diante da tua Palavra, mesmo quando ela expõe o que preciso mudar. Humilha-me e ensina-me a te ouvir de verdade. Amém.",
+    "application": "Pense em uma verdade da Palavra que você conhecia e que 'se perdeu' na rotina. Ouça-a hoje como Josias: sem se defender, diga a Deus o que ela expõe em você e peça um coração tenro.",
+    "prayer": "Senhor, como Josias, mantém meu coração tenro diante da tua Palavra, mesmo quando ela expõe o que preciso mudar. Recupera em mim o que se perdeu na rotina e ensina-me a me humilhar diante de ti. Amém.",
     "passage": {
       "ref": "2 Reis 22 · capítulo completo (NVI)",
       "verses": [

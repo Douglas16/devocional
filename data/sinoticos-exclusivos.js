@@ -3292,7 +3292,7 @@ window.SINOTICOS_EXCLUSIVOS = [
       "Seu 'coração arde' quando as Escrituras são abertas? Se não, examine — talvez leia sem Ele.",
       "Você tem esperado 'visão' quando Cristo já se manifesta 'no pão partido' — comunhão comum?"
     ],
-    "application": "Leia uma passagem qualquer do AT hoje com esta pergunta: 'onde Cristo está aqui?'. Deixe o Emaús acontecer.",
+    "application": "Escolha um trecho do Antigo Testamento e pergunte, como Jesus fez no caminho de Emaús: 'o que isto diz sobre mim?' (Lc 24.27). Anote onde seu coração arde.",
     "prayer": "Jesus ressuscitado, caminha comigo hoje mesmo que eu não te reconheça. Abre as Escrituras e faz meu coração arder. E quando partires o pão da rotina, abre-me os olhos. Amém."
   }
 ];

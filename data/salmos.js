@@ -10842,7 +10842,7 @@ window.SALMOS = [
       "Como o Deus que não muda lhe dá segurança?",
       "Que esperança você gostaria de deixar às próximas gerações?"
     ],
-    "application": "Leia o verso 27 diante de algo que está mudando na sua vida e agradeça pela constância de Deus.",
+    "application": "Escreva algo que está mudando ou envelhecendo na sua vida e, ao lado, o versículo 27: 'Tu, porém, permaneces o mesmo'. Agradeça a Deus pela constância dele diante dessa mudança.",
     "prayer": "Senhor, tu permaneces o mesmo. Guarda-me na tua constância e faz dos meus dias uma oferta a ti. Amém."
   },
   {
@@ -11399,7 +11399,7 @@ window.SALMOS = [
       "Que palavra de Deus tem provado você?",
       "Como confiar quando os caminhos parecem ao contrário?"
     ],
-    "application": "Releia um período difícil da sua vida procurando sinais de que Deus estava preparando algo.",
+    "application": "Lembre um período difícil — sua 'fome' ou seus 'grilhões' — e procure sinais de que Deus foi adiante, como fez com José até a palavra dele se cumprir. Anote um sinal e agradeça.",
     "prayer": "Senhor, tu foste adiante de mim mesmo quando eu não via. Prova-me e sustenta-me com a tua palavra. Amém."
   },
   {
@@ -15344,7 +15344,7 @@ window.SALMOS = [
       "O que você agradeceria de criação e de libertação?",
       "Como o refrão muda a sua leitura da história?"
     ],
-    "application": "Leia o salmo em voz alta, respondendo a cada verso com o refrão.",
+    "application": "Escreva três motivos de gratidão — um da criação, um da libertação e um da sua própria história — e termine cada um com o refrão: 'o seu amor dura para sempre'.",
     "prayer": "Dou-te graças, Senhor, porque és bom. O teu amor dura para sempre. Amém."
   },
   {

@@ -4871,8 +4871,8 @@ window.REIS_2_CARTA = [
       "Diante de Deus, sem precisar ter uma resposta perfeita: Como você costuma reagir ao ouvir algo na Palavra de Deus que expõe erro em sua vida — com defesa ou com um coração tenro como o de Josias?",
       "Pensando na sua caminhada de hoje: Você confia que a humildade sincera importa para Deus, mesmo quando ela não muda todas as consequências?"
     ],
-    "application": "Hoje, sem transformar este convite em cobrança, releia hoje uma passagem das Escrituras que você conhece bem, mas pede a Deus um coração tenro para ouvi-la como se fosse a primeira vez.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. mantém meu coração tenro diante da tua Palavra, mesmo quando ela expõe o que preciso mudar. Humilha-me e ensina-me a te ouvir de verdade. Amém.",
+    "application": "Hoje, sem transformar este convite em cobrança, pense em uma verdade da Palavra que se perdeu na sua rotina e ouça-a como Josias: sem se defender, diga a Deus o que ela expõe em você e peça um coração tenro.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que meu coração seja tenro como o de Josias diante da tua Palavra, mesmo quando ela expõe o que preciso mudar. Recupera o que se perdeu na rotina e ensina-me a me humilhar diante de ti. Amém.",
     "passage": {
       "ref": "2 Reis 22 · capítulo completo (NVI)",
       "verses": [

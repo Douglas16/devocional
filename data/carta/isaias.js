@@ -5807,8 +5807,8 @@ window.ISAIAS_CARTA = [
       "Com o coração aberto diante de Deus: Que exemplo de fé de alguém antes de você fortalece sua própria caminhada hoje?",
       "O que caberia fazer agora: Como viver ancorado no que é eterno, em meio a um mundo que 'se gasta como uma roupa'?"
     ],
-    "application": "Hoje, sem transformar este convite em cobrança, leia ou relembre hoje uma história de fé de alguém que te precedeu, e deixe que ela fortaleça sua confiança atual.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tua salvação durará para sempre. Ancoro minha confiança no que não passa. Amém.",
+    "application": "Hoje, sem transformar este convite em cobrança, escreva em uma coluna aquilo em que você confia e que 'se gasta como roupa', e em outra a promessa do versículo 6: 'a minha salvação durará para sempre'. Entregue a primeira coluna a Deus.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tua salvação dura para sempre. Ancoro minha confiança no que não passa e lembro que, de quase nada, como em Abraão e Sara, tu fazes multidão. Amém.",
     "passage": {
       "ref": "Isaías 51 · capítulo completo (NVI)",
       "verses": [
@@ -6027,8 +6027,8 @@ window.ISAIAS_CARTA = [
       "Se você pudesse falar disso com Deus sem medo: Você já parou para agradecer especificamente pela cura que vem 'pelas suas feridas'?",
       "Na prática de hoje: Como este capítulo desafia qualquer tentativa sua de merecer a própria salvação?"
     ],
-    "application": "Hoje, sem transformar este convite em cobrança, leia o capítulo inteiro em voz alta hoje como ato de gratidão pessoal, não apenas de estudo.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. obrigado por seres transpassado por minhas transgressões. Pelas tuas feridas fui curado. Amém.",
+    "application": "Hoje, sem transformar este convite em cobrança, leia os versículos 4-5 trocando 'nossas' por 'minhas' e agradeça a Deus por uma culpa ou dor específica que o Servo carregou por você.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Obrigado por seres transpassado por minhas transgressões. O castigo que me trouxe paz estava sobre ti, e pelas tuas feridas fui curado. Amém.",
     "passage": {
       "ref": "Isaías 53 · capítulo completo (NVI)",
       "verses": [

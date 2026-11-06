@@ -875,7 +875,7 @@ window.PEDRO = [
       "Você tem elevado experiências espirituais pessoais acima da Palavra? Ou submete as duas na ordem certa?",
       "A Palavra brilha em você 'como luz em lugar escuro'? Ou você tem procurado luz em outros lugares?"
     ],
-    "application": "Antes de dormir, leia 10 versículos da Bíblia com esta pergunta: 'onde essa luz está brilhando em mim hoje?'. Sem análise; só recepção.",
+    "application": "Antes de dormir, lembre de um momento em que a Palavra brilhou 'como luz em lugar escuro' (v.19) e escreva em uma frase onde essa luz brilha em você hoje. Sem análise; só recepção.",
     "prayer": "Senhor, tu falaste por meio de homens impelidos pelo teu Espírito. Que a tua Palavra brilhe em mim como luz em lugar escuro, até que o dia clareie. Amém."
   },
   {

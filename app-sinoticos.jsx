@@ -376,7 +376,7 @@ function Journey({ days, currentDay, readMap, onSelect, readCount }) {
   return (
     <div className="fade-in">
       <div className="journey-header">
-        <h1 className="journey-title">Trinta e cinco dias com os Sinóticos</h1>
+        <h1 className="journey-title">Setenta dias com os Sinóticos</h1>
         <p className="journey-sub">Mateus, Marcos e Lucas lado a lado — 20 dias de passagens comuns em ordem cronológica, mais 15 dias de material exclusivo de cada evangelho. Tradução NVI.</p>
         <div className="progress-line">
           <div className="progress-fill" style={{ width: `${pct}%` }} />

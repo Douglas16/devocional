@@ -1983,8 +1983,8 @@ window.JEREMIAS_LAMENTACOES_CARTA = [
       "Com o coração aberto diante de Deus: Que memória de alegria espiritual passada pode sustentar seu presente difícil?",
       "O que caberia fazer agora: Como equilibrar honestidade sobre o cansaço com gratidão pela Palavra recebida?"
     ],
-    "application": "Hoje, sem transformar este convite em cobrança, leia hoje um texto bíblico que já foi fonte de alegria para você, e agradeça conscientemente por ele.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tua Palavra é minha alegria e meu júbilo. Sustenta-me quando estou cansado. Amém.",
+    "application": "Hoje, sem transformar este convite em cobrança, lembre de um tempo em que a Palavra foi 'alegria e júbilo' para você (v.16) e conte a Deus, com sinceridade, o cansaço de hoje, como Jeremias fez.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tua Palavra foi minha alegria e meu júbilo. Quando eu estiver cansado, ouve minha queixa sem me soltar e faz-me voltar a comer das tuas palavras, pois pertenço a ti. Amém.",
     "passage": {
       "ref": "Jeremias 15 · capítulo completo (NVI)",
       "verses": [

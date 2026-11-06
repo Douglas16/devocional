@@ -172,8 +172,8 @@ window.EZEQUIEL = [
       "De que forma você tem 'se alimentado' da palavra de Deus antes de tentar compartilhá-la com outros?",
       "O que significaria, na prática, deixar o Espírito de Deus te levantar hoje para uma tarefa difícil?"
     ],
-    "application": "Antes de falar sobre fé com alguém hoje, passe um tempo a sós lendo e absorvendo a Palavra.",
-    "prayer": "Senhor, levanta-me pelo teu Espírito para obedecer, mesmo quando eu esperar resistência. Amém.",
+    "application": "Pense em alguém a quem Deus pode estar enviando você com uma palavra, mesmo sem garantia de resposta. Decida obedecer com amor e verdade e deixe o resultado com ele: 'ouçam ou deixem de ouvir' (v.5).",
+    "prayer": "Senhor, levanta-me pelo teu Espírito, como levantaste Ezequiel, para obedecer e falar mesmo quando eu esperar resistência. Amém.",
     "passage": {
       "ref": "Ezequiel 2 · capítulo completo (NVI)",
       "verses": [

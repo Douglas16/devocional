@@ -89,7 +89,7 @@ window.HEBREUS_1_CARTA = [
       "Em que área você sente que Deus ficou distante ou silencioso?",
       "O que muda ao lembrar que Cristo sustenta todas as coisas — inclusive aquilo que hoje parece instável?"
     ],
-    "application": "Leia hoje um pequeno trecho de um dos evangelhos e faça apenas uma pergunta: 'O que Jesus me mostra sobre o coração de Deus?' Anote uma frase.",
+    "application": "Escolha uma imagem de Deus que você carrega e leve-a ao versículo 3: o Filho é 'a expressão exata do seu ser'. Pergunte o que muda se Deus for como Jesus e anote uma frase.",
     "prayer": "Pai, obrigado porque não permaneceste distante. Falaste por meio do Filho. Corrige em mim toda imagem de ti que não combina com Jesus e sustenta meu coração com tua presença. Amém.",
     "day": 1
   },

@@ -284,7 +284,7 @@ window.APOCALIPSE = [
       "Você tem mantido a doutrina certa mas perdido o primeiro amor, ou o contrário — tem amor sem compromisso com a verdade?",
       "Que pequena tolerância ou compromisso você tem permitido que, aos poucos, tem te afastado de Cristo?"
     ],
-    "application": "Releia hoje uma dessas cartas (Éfeso, Esmirna, Pérgamo, Tiatira ou Sardes) como se fosse endereçada a você e identifique um passo concreto de retorno ou fidelidade.",
+    "application": "Escolha a carta (Éfeso, Esmirna, Pérgamo, Tiatira ou Sardes) que mais se parece com a sua vida e responda por escrito: o que Cristo elogia, o que ele cobra e qual é o passo concreto de volta?",
     "prayer": "Senhor, tu conheces minha igreja e minha vida em detalhe. Mostra-me onde perdi o amor ou onde tolerei o que não deveria, e me dá coragem para vencer. Amém."
   },
   {

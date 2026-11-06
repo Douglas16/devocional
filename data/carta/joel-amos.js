@@ -1132,7 +1132,7 @@ window.JOEL_AMOS_CARTA = [
       "Sua rotina deixa espaço real para ouvir, ou você vive apenas esperando voltar à próxima tarefa?",
       "Que palavra de Deus você já conhece, mas há muito tempo não escuta com atenção?"
     ],
-    "application": "Crie hoje um pequeno intervalo sem tela, trabalho ou consumo e use-o apenas para ler lentamente um trecho bíblico e permanecer em silêncio.",
+    "application": "Crie hoje um intervalo sem tela, trabalho ou consumo e peça a Deus fome da voz dele (v.11). Fique em silêncio e escute, em vez de preencher o tempo.",
     "prayer": "Senhor, não permitas que uma vida cheia me deixe faminto por dentro. Dá-me novamente fome da tua voz e espaço para ouvi-la. Amém.",
     "passage": {
       "ref": "Amós 8 · capítulo completo (NVI)",

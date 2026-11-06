@@ -688,8 +688,8 @@ window.EXODO_DEUTERONOMIO = [
       "Como a imagem de um Deus que resgata ativamente, com 'braço forte', muda sua confiança em uma situação difícil?",
       "Você vive a liberdade que Deus já lhe deu como fim em si mesma, ou como caminho para pertencer a ele?"
     ],
-    "application": "Releia hoje uma promessa específica de Deus que o desânimo tem feito você esquecer, e reafirme sua confiança nela.",
-    "prayer": "Senhor, tu me resgataste com braço forte. Que eu viva pertencendo plenamente a ti. Amém.",
+    "application": "Escreva uma promessa de Deus que o desânimo tem calado em você, como o povo que 'não deu ouvidos a Moisés', e repita ao lado um dos 'eu farei' dos versículos 6-8: 'Eu os libertarei... Eu os farei meu povo'.",
+    "prayer": "Senhor, tu me resgataste com braço forte. Quando o desânimo me impedir de ouvir, repete tuas promessas e faz-me viver como parte do povo que é teu, conhecendo-te como meu Deus. Amém.",
     "passage": {
       "ref": "Êxodo 6 · capítulo completo (NVI)",
       "verses": [
@@ -8670,8 +8670,8 @@ window.EXODO_DEUTERONOMIO = [
       "Que posição de liderança ou influência você ocupa que exige a mesma submissão que você espera dos outros?",
       "Como estruturas de limitação de poder, mesmo em posições legítimas de autoridade, protegem tanto líderes quanto liderados?"
     ],
-    "application": "Leia hoje a Palavra de Deus com o propósito específico de guardar-se contra qualquer tentação de se considerar superior aos outros.",
-    "prayer": "Senhor, guarda-me de me exaltar sobre meus irmãos. Que tua palavra diária me mantenha humilde. Amém.",
+    "application": "Anote uma posição de influência que você tem (casa, trabalho, igreja) e uma forma concreta de se submeter ali à Palavra todos os dias, para não se considerar superior aos outros (v.19-20).",
+    "prayer": "Senhor, guarda-me de me exaltar sobre meus irmãos. Que tua Palavra, lida todos os dias, me mantenha humilde e submisso à tua vontade onde tenho influência. Amém.",
     "passage": {
       "ref": "Deuteronômio 17 · capítulo completo (NVI)",
       "verses": [

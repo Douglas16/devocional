@@ -489,8 +489,8 @@ window.CORINTIOS_2B = [
       "Como você avalia líderes e mensagens que ouve?",
       "Que fraqueza pode se tornar lugar de honestidade diante de Deus?"
     ],
-    "application": "Leia hoje um trecho dos evangelhos e compare suas expectativas sobre Jesus com o Jesus que encontra no texto.",
-    "prayer": "Jesus, guarda-me em devoção sincera a ti. Dá-me discernimento e livra-me da necessidade de parecer forte diante dos outros. Amém."
+    "application": "Compare o Jesus que você segue com o 'Jesus' que Paulo teme que a igreja suporte com facilidade (v.4). Anote uma imagem de Jesus sem cruz que anda atraente para você e entregue-a a Deus.",
+    "prayer": "Jesus, guarda-me em devoção sincera e pura a ti. Livra-me de evangelhos sem cruz e da necessidade de parecer forte; ensina-me a me gloriar nas minhas fraquezas. Amém."
   },
   {
     "theme": "Força na fraqueza · Tua graça me basta",

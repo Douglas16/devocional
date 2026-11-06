@@ -1978,8 +1978,8 @@ window.JEREMIAS_LAMENTACOES = [
       "Que memória de alegria espiritual passada pode sustentar seu presente difícil?",
       "Como equilibrar honestidade sobre o cansaço com gratidão pela Palavra recebida?"
     ],
-    "application": "Leia hoje um texto bíblico que já foi fonte de alegria para você, e agradeça conscientemente por ele.",
-    "prayer": "Senhor, tua Palavra é minha alegria e meu júbilo. Sustenta-me quando estou cansado. Amém.",
+    "application": "Lembre de um tempo em que a Palavra foi 'alegria e júbilo' para você (v.16) e conte a Deus, com sinceridade, o cansaço de hoje, como Jeremias fez.",
+    "prayer": "Senhor, tua Palavra foi minha alegria e meu júbilo. Quando eu estiver cansado, ouve minha queixa sem me soltar e faz-me voltar a comer das tuas palavras, pois pertenço a ti. Amém.",
     "passage": {
       "ref": "Jeremias 15 · capítulo completo (NVI)",
       "verses": [

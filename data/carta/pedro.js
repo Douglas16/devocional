@@ -886,7 +886,7 @@ window.PEDRO_CARTA = [
       "Que texto bíblico tem funcionado como pequena lâmpada numa fase ainda escura?",
       "Sua fé depende excessivamente de uma pessoa específica para continuar de pé?"
     ],
-    "application": "Escolha um pequeno trecho bíblico que tenha sido importante para você e releia-o durante três momentos do dia, sem tentar extrair algo novo a cada vez.",
+    "application": "Pense em um tempo escuro em que a Escritura serviu de luz (v.19) e agradeça. Depois escolha uma frase dela como luz suficiente para o próximo passo de hoje.",
     "prayer": "Senhor, quando muitas vozes competirem, dá-me atenção para tua Palavra. Que ela seja luz suficiente para o próximo passo enquanto espero o amanhecer. Amém."
   },
   {

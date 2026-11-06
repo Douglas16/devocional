@@ -4030,8 +4030,8 @@ window.NUMEROS_CARTA = [
       "Sem transformar a pergunta em julgamento: Que pressão externa você tem enfrentado, tentando reverter algo que Deus já determinou em sua vida?",
       "Na prática de hoje: Você trata a palavra de Deus com a mesma confiabilidade absoluta descrita aqui, ou duvida facilmente dela?"
     ],
-    "application": "Hoje, sem transformar este convite em cobrança, releia hoje uma promessa específica de Deus e declare, com base neste versículo, que ela certamente se cumprirá.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu não mentes nem te arrependes. O que prometes, cumpres. Confio inteiramente em ti. Amém.",
+    "application": "Hoje, sem transformar este convite em cobrança, pense em uma promessa de Deus que você tem duvidado e declare o versículo 19: 'Deus não é homem para que minta'. Entregue a ele a pressão de quem quer desfazê-la, como Balaque quis amaldiçoar Israel.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu não mentes nem te arrependes. O que prometes, cumpres, e o que abençoas ninguém consegue amaldiçoar. Confio inteiramente em ti. Amém.",
     "passage": {
       "ref": "Números 23 · capítulo completo (NVI)",
       "verses": [

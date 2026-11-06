@@ -493,8 +493,8 @@ window.CORINTIOS_2B_CARTA = [
       "Como você avalia líderes, mensagens e influências espirituais?",
       "Que fraqueza você precisa parar de esconder como se ela anulasse sua fé?"
     ],
-    "application": "Leia hoje um trecho dos evangelhos e compare com ele uma mensagem, expectativa ou imagem de Jesus que você tem ouvido.",
-    "prayer": "Jesus, guarda meu coração em devoção simples e sincera a ti. Dá-me discernimento e livra-me da necessidade de ser impressionado por aparências. Amém."
+    "application": "Diante de uma mensagem ou líder que você admira, pergunte: 'Este é o Jesus da cruz ou um Jesus mais confortável?' (v.4). Depois nomeie uma fraqueza que você esconde e conte-a a Deus sem vergonha.",
+    "prayer": "Jesus, guarda meu coração em devoção simples e sincera a ti. Livra-me de me impressionar com aparências e de seguir um Jesus sem cruz. Ensina-me a não esconder minhas fraquezas, pois é nelas que tua graça me basta. Amém."
   },
   {
     "theme": "Talvez a graça não remova tudo, mas ainda possa sustentar você",

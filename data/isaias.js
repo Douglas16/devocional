@@ -5802,8 +5802,8 @@ window.ISAIAS = [
       "Que exemplo de fé de alguém antes de você fortalece sua própria caminhada hoje?",
       "Como viver ancorado no que é eterno, em meio a um mundo que 'se gasta como uma roupa'?"
     ],
-    "application": "Leia ou relembre hoje uma história de fé de alguém que te precedeu, e deixe que ela fortaleça sua confiança atual.",
-    "prayer": "Senhor, tua salvação durará para sempre. Ancoro minha confiança no que não passa. Amém.",
+    "application": "Escreva em uma coluna aquilo em que você confia e que 'se gasta como roupa', e em outra a promessa do versículo 6: 'a minha salvação durará para sempre'. Entregue a primeira coluna a Deus.",
+    "prayer": "Senhor, tua salvação durará para sempre. Quando o que parece firme se gastar como roupa, ancoro minha confiança em ti, que fizeste de Abraão e Sara uma multidão. Amém.",
     "passage": {
       "ref": "Isaías 51 · capítulo completo (NVI)",
       "verses": [
@@ -6022,8 +6022,8 @@ window.ISAIAS = [
       "Você já parou para agradecer especificamente pela cura que vem 'pelas suas feridas'?",
       "Como este capítulo desafia qualquer tentativa sua de merecer a própria salvação?"
     ],
-    "application": "Leia o capítulo inteiro em voz alta hoje como ato de gratidão pessoal, não apenas de estudo.",
-    "prayer": "Senhor, obrigado por seres transpassado por minhas transgressões. Pelas tuas feridas fui curado. Amém.",
+    "application": "Releia os versículos 4-5 trocando 'nossas' por 'minhas' e agradeça a Deus por uma culpa ou dor específica que o Servo carregou por você.",
+    "prayer": "Senhor, obrigado por seres transpassado por minhas transgressões e esmagado por minhas iniquidades. Pelas tuas feridas fui curado. Amém.",
     "passage": {
       "ref": "Isaías 53 · capítulo completo (NVI)",
       "verses": [

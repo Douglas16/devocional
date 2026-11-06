@@ -694,8 +694,8 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Diante de Deus, sem precisar apresentar uma resposta perfeita: Como a imagem de um Deus que resgata ativamente, com 'braço forte', muda sua confiança em uma situação difícil?",
       "Pensando na sua caminhada de hoje: Você vive a liberdade que Deus já lhe deu como fim em si mesma, ou como caminho para pertencer a ele?"
     ],
-    "application": "Hoje, sem transformar este convite em cobrança, releia hoje uma promessa específica de Deus que o desânimo tem feito você esquecer, e reafirme sua confiança nela.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. tu me resgataste com braço forte. Que eu viva pertencendo plenamente a ti. Amém.",
+    "application": "Hoje, sem transformar este convite em cobrança, escreva uma promessa de Deus que o desânimo tem calado em você e repita ao lado dela um dos 'eu farei' de Êxodo 6.6-8, como quem volta a ouvir.",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Tu me resgatas com braço forte. Quando o desânimo me impedir de ouvir, repete tuas promessas e ensina-me a viver como parte do povo que é teu. Amém.",
     "passage": {
       "ref": "Êxodo 6 · capítulo completo (NVI)",
       "verses": [
@@ -8676,8 +8676,8 @@ window.EXODO_DEUTERONOMIO_CARTA = [
       "Diante de Deus, sem precisar apresentar uma resposta perfeita: Que posição de liderança ou influência você ocupa que exige a mesma submissão que você espera dos outros?",
       "Pensando na sua caminhada de hoje: Como estruturas de limitação de poder, mesmo em posições legítimas de autoridade, protegem tanto líderes quanto liderados?"
     ],
-    "application": "Hoje, sem transformar este convite em cobrança, leia hoje a Palavra de Deus com o propósito específico de guardar-se contra qualquer tentação de se considerar superior aos outros.",
-    "prayer": "Senhor, recebe meu coração como ele está hoje. guarda-me de me exaltar sobre meus irmãos. Que tua palavra diária me mantenha humilde. Amém.",
+    "application": "Hoje, sem transformar este convite em cobrança, anote uma posição de influência que você tem e uma forma concreta de se submeter ali à Palavra, para não se considerar superior aos outros (v.19-20).",
+    "prayer": "Senhor, recebe meu coração como ele está hoje. Que tua Palavra, sempre comigo, me mantenha humilde e livre de me achar superior aos outros. Amém.",
     "passage": {
       "ref": "Deuteronômio 17 · capítulo completo (NVI)",
       "verses": [

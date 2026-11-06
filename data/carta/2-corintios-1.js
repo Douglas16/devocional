@@ -336,8 +336,8 @@ window.CORINTIOS_2A_CARTA = [
       "Que condenação tem ocupado o lugar da liberdade no seu coração?",
       "Que característica de Jesus você gostaria de refletir mais nesta fase?"
     ],
-    "application": "Leia hoje um pequeno trecho de um evangelho e escolha uma atitude de Jesus para contemplar e praticar conscientemente.",
-    "prayer": "Espírito do Senhor, liberta-me da necessidade de viver provando meu valor. Volta meus olhos para Cristo e transforma-me com paciência e graça. Amém."
+    "application": "Escolha uma área em que você vive provando seu valor e escreva ao lado o versículo 17: 'Onde está o Espírito do Senhor, aí há liberdade'. Fique alguns minutos pedindo que ele escreva ali o que o desempenho nunca conseguiu.",
+    "prayer": "Espírito do Senhor, escreve em meu coração o que as letras não conseguem escrever. Tira o véu da condenação, liberta-me da necessidade de provar meu valor e transforma-me à imagem de Cristo, com paciência e graça. Amém."
   },
   {
     "theme": "Sua fragilidade não torna o tesouro menos precioso",

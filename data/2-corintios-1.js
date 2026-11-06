@@ -332,8 +332,8 @@ window.CORINTIOS_2A = [
       "Que tipo de condenação o Espírito quer substituir por liberdade?",
       "Como contemplar Cristo pode mudar seu modo de viver hoje?"
     ],
-    "application": "Reserve alguns minutos para ler um evangelho e observar uma atitude de Jesus que você deseja refletir nesta semana.",
-    "prayer": "Espírito do Senhor, escreve tua vida em mim. Liberta-me da condenação e transforma-me à imagem de Cristo. Amém."
+    "application": "Pense em uma área em que você tenta provar seu valor por desempenho e escreva ao lado o versículo 17: 'Onde está o Espírito do Senhor, aí há liberdade'. Peça ao Espírito que escreva ali o que as letras não conseguem.",
+    "prayer": "Espírito do Senhor, escreve tua vida em mim, não em tábuas, mas no coração. Tira o véu que me prende à condenação e transforma-me, de glória em glória, à imagem de Cristo. Amém."
   },
   {
     "theme": "Consolo e reconciliação · Tesouro em vasos de barro",
