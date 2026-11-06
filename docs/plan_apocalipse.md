@@ -41,7 +41,5 @@ Cuidados editoriais
 
 Arquitetura
 
-- `data/apocalipse-1.js` — dias 1–7
-- `data/apocalipse-2.js` — dias 8–14
-- `data/apocalipse.js`, `app-apocalipse.jsx`, `apocalipse.html`
+- `data/apocalipse.js` — dias 1–14 (arquivo único), mais `data/carta/apocalipse.js`, `app-apocalipse.jsx`, `apocalipse.html`
 - Progresso em `lectio-apocalipse-v1`.

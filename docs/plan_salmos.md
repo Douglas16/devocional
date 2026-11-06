@@ -54,12 +54,8 @@ Cuidados teológicos e pastorais
 
 Arquitetura de arquivos
 
-- `data/salmos-1.js` — Salmos 1–41 (Livro I)
-- `data/salmos-2.js` — Salmos 42–72 (Livro II)
-- `data/salmos-3.js` — Salmos 73–89 (Livro III)
-- `data/salmos-4.js` — Salmos 90–106 (Livro IV)
-- `data/salmos-5.js` — Salmos 107–150 (Livro V)
-- `data/salmos.js` — loader, ordem e numeração de 1 a 150
+- `data/salmos.js` — todos os 150 salmos em 184 leituras, na ordem canônica (Livros I–V), mais `data/carta/salmos.js` para o modo Carta ao Coração
+- `salmos-layout.js` — mapeia leituras ↔ salmos e migra o progresso salvo
 - `app-salmos.jsx` — configuração da jornada, com `storageKey: 'lectio-salmos-v1'`
 - `salmos.html` — página da jornada
 - `jornadas.html` — adicionar Salmos na posição alfabética

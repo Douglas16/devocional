@@ -1,4 +1,6 @@
 Novo estudo: Sinóticos harmonizados (NVI)
+
+> Estado atual: o plano abaixo previa ~34 dias; a jornada publicada tem 70 dias (20 comuns + 15 exclusivos + 35 para os capítulos restantes, em ordem canônica). Arquivos atuais: data/sinoticos-comuns-1.js, sinoticos-comuns-2.js, sinoticos-exclusivos.js, sinoticos-restantes.js e o loader data/sinoticos.js.
 Conceito
 Ordem cronológica dos eventos da vida de Jesus, mostrando em cada dia:
 
