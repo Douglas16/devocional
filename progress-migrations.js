@@ -53,6 +53,31 @@
     if (cur >= 3) state.currentDay = cur + 12;
   });
 
+  // Atos passou de 20 para 28 dias: Atos 6–7, 10–11, 13–14 e 21–26 foram
+  // divididos em leituras menores. Cada dia antigo aponta para um ou mais dias novos;
+  // "lido" vale para todos eles, notas e destaques ficam no primeiro.
+  var ATOS = {
+    1: [1], 2: [2], 3: [3], 4: [4], 5: [5], 6: [6], 7: [7, 8], 8: [9], 9: [10],
+    10: [11, 12], 11: [13], 12: [14, 15], 13: [16], 14: [17], 15: [18], 16: [19],
+    17: [20], 18: [21], 19: [22, 23, 24, 25, 26], 20: [27, 28]
+  };
+  var expandKeys = function (obj, table, all) {
+    var out = {};
+    Object.keys(obj || {}).forEach(function (k) {
+      var novos = table[k];
+      if (!novos) return;
+      (all ? novos : [novos[0]]).forEach(function (n) { out[n] = obj[k]; });
+    });
+    return out;
+  };
+  migrate('lectio-atos-v1', 2, function (state) {
+    state.read = expandKeys(state.read, ATOS, true);
+    state.notes = expandKeys(state.notes, ATOS, false);
+    state.highlights = expandKeys(state.highlights, ATOS, false);
+    var cur = ATOS[state.currentDay];
+    if (cur) state.currentDay = cur[0];
+  });
+
   // Sinóticos passou de 35 para 70 dias: os 35 capítulos que faltavam entraram
   // e a jornada foi reordenada em ordem canônica (Mateus, Marcos, Lucas).
   // Cada dia antigo foi para uma posição nova, sem padrão aritmético.

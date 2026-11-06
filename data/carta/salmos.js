@@ -1,6 +1,6 @@
 // Salmos 1–150 — Opção 2: Carta ao Coração
 // Escopo preservado exatamente como no arquivo original enviado.
-// 150 dias, um salmo por dia, de Salmo 1 a Salmo 150.
+// 184 leituras, de Salmo 1 a Salmo 150 (salmos longos divididos em partes).
 // Campo 'day' preservado.
 // 'verse', dados lexicais e texto integral da NVI em 'passage' preservados exatamente.
 // Reescritos: theme, word.note, context, meditation, questions, application e prayer.
