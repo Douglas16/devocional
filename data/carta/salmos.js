@@ -18,8 +18,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode escolher raízes antes de frutos",
     "date": "Salmo 1",
     "verse": {
-      "text": "Ore e leia o Salmo 1 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 1"
+      "text": "Ao contrário, sua satisfação está na lei do Senhor, e nessa lei medita dia e noite. É como árvore plantada à beira de águas correntes: Dá fruto no tempo certo e suas folhas não murcham. Tudo o que ele faz prospera!",
+      "ref": "Salmo 1.2–3"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -79,8 +79,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando poderes se levantam, o trono de Deus não entra em pânico",
     "date": "Salmo 2",
     "verse": {
-      "text": "Ore e leia o Salmo 2 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 2"
+      "text": "Beijem o filho, para que ele não se ire e vocês não sejam destruídos de repente, pois num instante acende-se a sua ira. Como são felizes todos os que nele se refugiam!",
+      "ref": "Salmo 2.12"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -164,8 +164,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode dormir mesmo cercado, se souber quem o sustenta",
     "date": "Salmo 3",
     "verse": {
-      "text": "Ore e leia o Salmo 3 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 3"
+      "text": "Eu me deito e durmo, e torno a acordar, porque é o Senhor que me sustém.",
+      "ref": "Salmo 3.5"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -233,8 +233,8 @@ window.SALMOS_CARTA = [
     "theme": "Há uma paz que chega antes de todos os problemas irem embora",
     "date": "Salmo 4",
     "verse": {
-      "text": "Ore e leia o Salmo 4 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 4"
+      "text": "Em paz me deito e logo adormeço, pois só tu, Senhor, me fazes viver em segurança.",
+      "ref": "Salmo 4.8"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -302,8 +302,8 @@ window.SALMOS_CARTA = [
     "theme": "Começar o dia falando com Deus pode mudar o jeito de atravessá-lo",
     "date": "Salmo 5",
     "verse": {
-      "text": "Ore e leia o Salmo 5 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 5"
+      "text": "De manhã ouves, Senhor, o meu clamor; de manhã te apresento a minha oração e aguardo com esperança.",
+      "ref": "Salmo 5.3"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -387,8 +387,8 @@ window.SALMOS_CARTA = [
     "theme": "Suas lágrimas não tornam sua oração menos espiritual",
     "date": "Salmo 6",
     "verse": {
-      "text": "Ore e leia o Salmo 6 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 6"
+      "text": "Estou exausto de tanto gemer. De tanto chorar inundo de noite a minha cama; de lágrimas encharco o meu leito.",
+      "ref": "Salmo 6.6"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -464,8 +464,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode pedir justiça sem precisar se tornar juiz de tudo",
     "date": "Salmo 7",
     "verse": {
-      "text": "Ore e leia o Salmo 7 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 7"
+      "text": "Deus justo, que sondas as mentes e os corações, dá fim à maldade dos ímpios e ao justo dá segurança.",
+      "ref": "Salmo 7.9"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -569,8 +569,8 @@ window.SALMOS_CARTA = [
     "theme": "Diante de um universo imenso, sua vida ainda é lembrada",
     "date": "Salmo 8",
     "verse": {
-      "text": "Ore e leia o Salmo 8 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 8"
+      "text": "pergunto: Que é o homem, para que com ele te importes? E o filho do homem, para que com ele te preocupes?",
+      "ref": "Salmo 8.4"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -642,8 +642,8 @@ window.SALMOS_CARTA = [
     "theme": "O clamor do oprimido não desaparece no silêncio",
     "date": "Salmo 9",
     "verse": {
-      "text": "Ore e leia o Salmo 9 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 9"
+      "text": "O Senhor é refúgio para os oprimidos, uma torre segura na hora da adversidade. Os que conhecem o teu nome confiam em ti, pois tu, Senhor, jamais abandonas os que te buscam.",
+      "ref": "Salmo 9.9–10"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -759,8 +759,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando Deus parece longe, você ainda pode chamá-lo de Rei",
     "date": "Salmo 10",
     "verse": {
-      "text": "Ore e leia o Salmo 10 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 10"
+      "text": "Mas tu enxergas o sofrimento e a dor; observa-os para tomá-los em tuas mãos. A vítima deles entrega-se a ti; tu és o protetor do órfão.",
+      "ref": "Salmo 10.14"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -868,8 +868,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando os fundamentos tremem, nem tudo perdeu o lugar",
     "date": "Salmo 11",
     "verse": {
-      "text": "Ore e leia o Salmo 11 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 11"
+      "text": "Quando os fundamentos estão sendo destruídos, que pode fazer o justo?",
+      "ref": "Salmo 11.3"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -933,8 +933,8 @@ window.SALMOS_CARTA = [
     "theme": "Num mundo de palavras manipuladas, a verdade ainda pode ser refúgio",
     "date": "Salmo 12",
     "verse": {
-      "text": "Ore e leia o Salmo 12 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 12"
+      "text": "As palavras do Senhor são puras, são como prata purificada num forno, sete vezes refinada.",
+      "ref": "Salmo 12.6"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -1002,8 +1002,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode dizer 'até quando?' e ainda terminar a oração em confiança",
     "date": "Salmo 13",
     "verse": {
-      "text": "Ore e leia o Salmo 13 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 13"
+      "text": "Eu, porém, confio em teu amor; o meu coração exulta em tua salvação.",
+      "ref": "Salmo 13.5"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -1063,8 +1063,8 @@ window.SALMOS_CARTA = [
     "theme": "Ver a corrupção do mundo não precisa transformar você em cinismo",
     "date": "Salmo 14",
     "verse": {
-      "text": "Ore e leia o Salmo 14 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 14"
+      "text": "O Senhor olha dos céus para os filhos dos homens, para ver se há alguém que tenha entendimento, alguém que busque a Deus.",
+      "ref": "Salmo 14.2"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -1128,8 +1128,8 @@ window.SALMOS_CARTA = [
     "theme": "Integridade aparece no modo como tratamos pessoas quando ninguém está vendo",
     "date": "Salmo 15",
     "verse": {
-      "text": "Ore e leia o Salmo 15 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 15"
+      "text": "Senhor, quem habitará no teu santuário? Quem poderá morar no teu santo monte? Aquele que é íntegro em sua conduta e pratica o que é justo, que de coração fala a verdade",
+      "ref": "Salmo 15.1–2"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -1185,8 +1185,8 @@ window.SALMOS_CARTA = [
     "theme": "Sua porção pode ser Deus antes de qualquer outra segurança",
     "date": "Salmo 16",
     "verse": {
-      "text": "Ore e leia o Salmo 16 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 16"
+      "text": "Tu me farás conhecer a vereda da vida, a alegria plena da tua presença, eterno prazer à tua direita.",
+      "ref": "Salmo 16.11"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -1266,8 +1266,8 @@ window.SALMOS_CARTA = [
     "theme": "Pedir exame a Deus é diferente de viver sob acusação constante",
     "date": "Salmo 17",
     "verse": {
-      "text": "Ore e leia o Salmo 17 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 17"
+      "text": "Protege-me como à menina dos teus olhos; esconde-me à sombra das tuas asas,",
+      "ref": "Salmo 17.8"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -1674,8 +1674,8 @@ window.SALMOS_CARTA = [
     "theme": "A criação pode lembrar seu coração de que a voz de Deus ainda alcança você",
     "date": "Salmo 19",
     "verse": {
-      "text": "Ore e leia o Salmo 19 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 19"
+      "text": "Os céus declaram a glória de Deus; o firmamento proclama a obra das suas mãos.",
+      "ref": "Salmo 19.1"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -1767,8 +1767,8 @@ window.SALMOS_CARTA = [
     "theme": "Algumas batalhas pedem menos confiança em força e mais em quem sustenta",
     "date": "Salmo 20",
     "verse": {
-      "text": "Ore e leia o Salmo 20 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 20"
+      "text": "Alguns confiam em carros e outros em cavalos, mas nós confiamos no nome do Senhor nosso Deus.",
+      "ref": "Salmo 20.7"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -1840,8 +1840,8 @@ window.SALMOS_CARTA = [
     "theme": "É possível agradecer pela vitória sem esquecer quem a concedeu",
     "date": "Salmo 21",
     "verse": {
-      "text": "Ore e leia o Salmo 21 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 21"
+      "text": "Ele te pediu vida, e tu lhe deste! Vida longa e duradoura.",
+      "ref": "Salmo 21.4"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2127,8 +2127,8 @@ window.SALMOS_CARTA = [
     "theme": "Você não precisa conhecer todo o caminho quando conhece o Pastor",
     "date": "Salmo 23",
     "verse": {
-      "text": "Ore e leia o Salmo 23 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 23"
+      "text": "O Senhor é o meu pastor; de nada terei falta.",
+      "ref": "Salmo 23.1"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2188,8 +2188,8 @@ window.SALMOS_CARTA = [
     "theme": "Há portas interiores que precisam se abrir para a presença de Deus",
     "date": "Salmo 24",
     "verse": {
-      "text": "Ore e leia o Salmo 24 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 24"
+      "text": "Do Senhor é a terra e tudo o que nela existe, o mundo e os que nele vivem;",
+      "ref": "Salmo 24.1"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2265,8 +2265,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando você não sabe a direção, pode pedir que Deus ensine o caminho",
     "date": "Salmo 25",
     "verse": {
-      "text": "Ore e leia o Salmo 25 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 25"
+      "text": "Mostra-me, Senhor, os teus caminhos, ensina-me as tuas veredas; guia-me com a tua verdade e ensina-me, pois tu és Deus, meu Salvador, e a minha esperança está em ti o tempo todo.",
+      "ref": "Salmo 25.4–5"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2390,8 +2390,8 @@ window.SALMOS_CARTA = [
     "theme": "Integridade não é perfeição; é disposição de ser examinado",
     "date": "Salmo 26",
     "verse": {
-      "text": "Ore e leia o Salmo 26 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 26"
+      "text": "Sonda-me, Senhor, e prova-me, examina o meu coração e a minha mente;",
+      "ref": "Salmo 26.2"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2475,8 +2475,8 @@ window.SALMOS_CARTA = [
     "theme": "Antes de pedir respostas, talvez seu coração queira apenas habitar perto de Deus",
     "date": "Salmo 27",
     "verse": {
-      "text": "Ore e leia o Salmo 27 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 27"
+      "text": "Uma coisa pedi ao Senhor, é o que procuro: que eu possa viver na casa do Senhor todos os dias da minha vida, para contemplar a bondade do Senhor e buscar sua orientação no seu templo.",
+      "ref": "Salmo 27.4"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2568,8 +2568,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando Deus parece silencioso, você ainda pode levantar as mãos",
     "date": "Salmo 28",
     "verse": {
-      "text": "Ore e leia o Salmo 28 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 28"
+      "text": "O Senhor é a minha força e o meu escudo; nele o meu coração confia, e dele recebo ajuda. Meu coração exulta de alegria, e com o meu cântico lhe darei graças.",
+      "ref": "Salmo 28.7"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2641,8 +2641,8 @@ window.SALMOS_CARTA = [
     "theme": "A voz de Deus continua maior que a tempestade",
     "date": "Salmo 29",
     "verse": {
-      "text": "Ore e leia o Salmo 29 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 29"
+      "text": "A voz do Senhor ressoa sobre as águas; o Deus da glória troveja, o Senhor troveja sobre as muitas águas. A voz do Senhor é poderosa; a voz do Senhor é majestosa.",
+      "ref": "Salmo 29.3–4"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2722,8 +2722,8 @@ window.SALMOS_CARTA = [
     "theme": "A noite pode durar, mas não recebe direito sobre toda a história",
     "date": "Salmo 30",
     "verse": {
-      "text": "Ore e leia o Salmo 30 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 30"
+      "text": "Pois a sua ira só dura um instante, mas o seu favor dura a vida toda; o choro pode persistir uma noite, mas de manhã irrompe a alegria.",
+      "ref": "Salmo 30.5"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2807,8 +2807,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode entregar seu espírito a Deus antes de entender o desfecho",
     "date": "Salmo 31",
     "verse": {
-      "text": "Ore e leia o Salmo 31 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 31"
+      "text": "Mas eu confio em ti, Senhor, e digo: \"Tu és o meu Deus\". O meu futuro está nas tuas mãos; livra-me dos meus inimigos e daqueles que me perseguem.",
+      "ref": "Salmo 31.14–15"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -2940,8 +2940,8 @@ window.SALMOS_CARTA = [
     "theme": "Confessar pode aliviar o peso que o silêncio tornou pesado",
     "date": "Salmo 32",
     "verse": {
-      "text": "Ore e leia o Salmo 32 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 32"
+      "text": "Então reconheci diante de ti o meu pecado e não encobri as minhas culpas. Eu disse: \"Confessarei as minhas transgressões ao Senhor\", e tu perdoaste a culpa do meu pecado.",
+      "ref": "Salmo 32.5"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -3021,8 +3021,8 @@ window.SALMOS_CARTA = [
     "theme": "Louvor também é aprender a perceber a fidelidade espalhada pela terra",
     "date": "Salmo 33",
     "verse": {
-      "text": "Ore e leia o Salmo 33 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 33"
+      "text": "Mas os planos do Senhor permanecem para sempre, os propósitos do seu coração, por todas as gerações.",
+      "ref": "Salmo 33.11"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -3146,8 +3146,8 @@ window.SALMOS_CARTA = [
     "theme": "Buscar Deus não exige fingir que o medo desapareceu",
     "date": "Salmo 34",
     "verse": {
-      "text": "Ore e leia o Salmo 34 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 34"
+      "text": "Provem, e vejam como o Senhor é bom. Como é feliz o homem que nele se refugia!",
+      "ref": "Salmo 34.8"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -3457,8 +3457,8 @@ window.SALMOS_CARTA = [
     "theme": "A maldade pode parecer profunda, mas o amor leal de Deus vai mais longe",
     "date": "Salmo 36",
     "verse": {
-      "text": "Ore e leia o Salmo 36 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 36"
+      "text": "Pois em ti está a fonte da vida; graças à tua luz, vemos a luz.",
+      "ref": "Salmo 36.9"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -3813,8 +3813,8 @@ window.SALMOS_CARTA = [
     "theme": "Há dores que precisam ser confessadas, cuidadas e acompanhadas, não escondidas",
     "date": "Salmo 38",
     "verse": {
-      "text": "Ore e leia o Salmo 38 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 38"
+      "text": "Senhor, em ti espero; Tu me responderás, ó Senhor meu Deus!",
+      "ref": "Salmo 38.15"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -3938,8 +3938,8 @@ window.SALMOS_CARTA = [
     "theme": "Lembrar que a vida é breve pode devolver peso ao que realmente importa",
     "date": "Salmo 39",
     "verse": {
-      "text": "Ore e leia o Salmo 39 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 39"
+      "text": "Mostra-me, Senhor, o fim da minha vida e o número dos meus dias, para que eu saiba quão frágil sou.",
+      "ref": "Salmo 39.4"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -4027,8 +4027,8 @@ window.SALMOS_CARTA = [
     "theme": "Esperar pode ser uma história de lama, rocha e uma nova canção",
     "date": "Salmo 40",
     "verse": {
-      "text": "Ore e leia o Salmo 40 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 40"
+      "text": "Coloquei toda minha esperança no Senhor; ele se inclinou para mim e ouviu o meu grito de socorro. Ele me tirou de um poço de destruição, de um atoleiro de lama; pôs os meus pés sobre uma rocha e firmou-me num local seguro.",
+      "ref": "Salmo 40.1–2"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -4132,8 +4132,8 @@ window.SALMOS_CARTA = [
     "theme": "Cuidar do vulnerável também faz parte de uma vida lembrada por Deus",
     "date": "Salmo 41",
     "verse": {
-      "text": "Ore e leia o Salmo 41 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 41"
+      "text": "Como é feliz aquele que se interessa pelo pobre! O Senhor o livra em tempos de adversidade.",
+      "ref": "Salmo 41.1"
     },
     "word": {
       "original": "תְּהִלָּה",
@@ -4221,8 +4221,8 @@ window.SALMOS_CARTA = [
     "theme": "Sua alma pode ter sede sem que isso signifique que Deus desapareceu",
     "date": "Salmo 42",
     "verse": {
-      "text": "Ore e leia o Salmo 42 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 42"
+      "text": "Como a corça anseia por águas correntes, a minha alma anseia por ti, ó Deus.",
+      "ref": "Salmo 42.1"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -4302,8 +4302,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode pedir luz quando seus sentimentos não conseguem conduzir você",
     "date": "Salmo 43",
     "verse": {
-      "text": "Ore e leia o Salmo 43 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 43"
+      "text": "Envia a tua luz e a tua verdade; elas me guiarão e me levarão ao teu santo monte, ao lugar onde habitas.",
+      "ref": "Salmo 43.3"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -4537,8 +4537,8 @@ window.SALMOS_CARTA = [
     "theme": "Beleza e justiça não precisam viver separadas",
     "date": "Salmo 45",
     "verse": {
-      "text": "Ore e leia o Salmo 45 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 45"
+      "text": "És dos homens o mais notável; derramou-se graça em teus lábios, visto que Deus te abençoou para sempre.",
+      "ref": "Salmo 45.2"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -4642,8 +4642,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando tudo se move, existe um refúgio que não precisa se mover",
     "date": "Salmo 46",
     "verse": {
-      "text": "Ore e leia o Salmo 46 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 46"
+      "text": "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade.",
+      "ref": "Salmo 46.1"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -4723,8 +4723,8 @@ window.SALMOS_CARTA = [
     "theme": "O governo de Deus é maior que as fronteiras que nós desenhamos",
     "date": "Salmo 47",
     "verse": {
-      "text": "Ore e leia o Salmo 47 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 47"
+      "text": "Batam palmas, vocês, todos os povos; aclamem a Deus com cantos de alegria.",
+      "ref": "Salmo 47.1"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -4796,8 +4796,8 @@ window.SALMOS_CARTA = [
     "theme": "Algumas cidades se tornam memória porque pessoas aprendem a contar fidelidade",
     "date": "Salmo 48",
     "verse": {
-      "text": "Ore e leia o Salmo 48 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 48"
+      "text": "Percorram Sião, contornando-a, contem as suas torres, observem bem as suas muralhas, examinem as suas cidadelas, para que vocês falem à próxima geração que este Deus é o nosso Deus para todo o sempre; ele será o nosso guia até o fim.",
+      "ref": "Salmo 48.12–14"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -4889,8 +4889,8 @@ window.SALMOS_CARTA = [
     "theme": "Riqueza pode comprar muita coisa, menos a vida que termina",
     "date": "Salmo 49",
     "verse": {
-      "text": "Ore e leia o Salmo 49 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 49"
+      "text": "Mas Deus redimirá a minha vida da sepultura e me levará para si.",
+      "ref": "Salmo 49.15"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5006,8 +5006,8 @@ window.SALMOS_CARTA = [
     "theme": "Deus não precisa de performance religiosa para saber se seu coração é verdadeiro",
     "date": "Salmo 50",
     "verse": {
-      "text": "Ore e leia o Salmo 50 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 50"
+      "text": "Quem me oferece sua gratidão como sacrifício, honra-me, e eu mostrarei a salvação de Deus ao que anda nos meus caminhos. \"",
+      "ref": "Salmo 50.23"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5135,8 +5135,8 @@ window.SALMOS_CARTA = [
     "theme": "Arrependimento não pede que você se odeie; pede um coração que aceite ser renovado",
     "date": "Salmo 51",
     "verse": {
-      "text": "Ore e leia o Salmo 51 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 51"
+      "text": "Cria em mim um coração puro, ó Deus, e renova dentro de mim um espírito estável.",
+      "ref": "Salmo 51.10"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5248,8 +5248,8 @@ window.SALMOS_CARTA = [
     "theme": "Palavras destrutivas podem parecer fortes, mas não são uma casa segura",
     "date": "Salmo 52",
     "verse": {
-      "text": "Ore e leia o Salmo 52 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 52"
+      "text": "Mas eu sou como uma oliveira que floresce na casa de Deus; confio no amor de Deus para todo o sempre.",
+      "ref": "Salmo 52.8"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5321,8 +5321,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando a corrupção parece universal, Deus ainda enxerga quem busca refúgio",
     "date": "Salmo 53",
     "verse": {
-      "text": "Ore e leia o Salmo 53 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 53"
+      "text": "Deus olha lá dos céus para os filhos dos homens, para ver se há alguém que tenha entendimento, alguém que busque a Deus.",
+      "ref": "Salmo 53.2"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5382,8 +5382,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode pedir socorro sem vergonha de precisar dele",
     "date": "Salmo 54",
     "verse": {
-      "text": "Ore e leia o Salmo 54 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 54"
+      "text": "Certamente Deus é o meu auxílio; é o Senhor que me sustém.",
+      "ref": "Salmo 54.4"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5447,8 +5447,8 @@ window.SALMOS_CARTA = [
     "theme": "A ferida de um amigo pode doer de um jeito que inimigos nunca conseguiriam",
     "date": "Salmo 55",
     "verse": {
-      "text": "Ore e leia o Salmo 55 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 55"
+      "text": "Entregue suas preocupações ao Senhor, e ele o susterá; jamais permitirá que o justo venha a cair.",
+      "ref": "Salmo 55.22"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5576,8 +5576,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando o medo vier, você pode colocá-lo ao lado da confiança, não escondê-lo",
     "date": "Salmo 56",
     "verse": {
-      "text": "Ore e leia o Salmo 56 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 56"
+      "text": "Mas eu, quando estiver com medo, confiarei em ti. Em Deus, cuja palavra eu louvo, em Deus eu confio, e não temerei. Que poderá fazer-me o simples mortal?",
+      "ref": "Salmo 56.3–4"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5665,8 +5665,8 @@ window.SALMOS_CARTA = [
     "theme": "Há cavernas onde seu coração ainda pode escolher despertar para o louvor",
     "date": "Salmo 57",
     "verse": {
-      "text": "Ore e leia o Salmo 57 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 57"
+      "text": "Meu coração está firme, ó Deus, meu coração está firme; cantarei ao som de instrumentos!",
+      "ref": "Salmo 57.7"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5746,8 +5746,8 @@ window.SALMOS_CARTA = [
     "theme": "Raiva diante da injustiça precisa de um lugar seguro para ser entregue",
     "date": "Salmo 58",
     "verse": {
-      "text": "Ore e leia o Salmo 58 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 58"
+      "text": "Então os homens comentarão: \"De fato os justos têm a sua recompensa; com certeza há um Deus que faz justiça na terra\".",
+      "ref": "Salmo 58.11"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5827,8 +5827,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando pessoas armam emboscadas, você pode esperar por Deus sem se transformar numa emboscada",
     "date": "Salmo 59",
     "verse": {
-      "text": "Ore e leia o Salmo 59 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 59"
+      "text": "Mas eu cantarei louvores à tua força, de manhã louvarei a tua fidelidade; pois tu és o meu alto refúgio, abrigo seguro nos tempos difíceis.",
+      "ref": "Salmo 59.16"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -5932,8 +5932,8 @@ window.SALMOS_CARTA = [
     "theme": "Depois de uma derrota, ainda existe caminho para pedir restauração",
     "date": "Salmo 60",
     "verse": {
-      "text": "Ore e leia o Salmo 60 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 60"
+      "text": "Mas aos que te temem deste um sinal para que fugissem das flechas.",
+      "ref": "Salmo 60.4"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -6017,8 +6017,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando o coração está no limite, ele ainda pode pedir uma rocha mais alta",
     "date": "Salmo 61",
     "verse": {
-      "text": "Ore e leia o Salmo 61 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 61"
+      "text": "Desde os confins da terra eu clamo a ti, com o coração abatido; põe-me à salvo na rocha mais alta do que eu.",
+      "ref": "Salmo 61.2"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -6086,8 +6086,8 @@ window.SALMOS_CARTA = [
     "theme": "Sua alma não precisa oscilar na mesma velocidade das ameaças",
     "date": "Salmo 62",
     "verse": {
-      "text": "Ore e leia o Salmo 62 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 62"
+      "text": "A minha alma descansa somente em Deus; dele vem a minha salvação. Somente ele é a rocha que me salva; ele é a minha torre segura! Jamais serei abalado!",
+      "ref": "Salmo 62.1–2"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -6171,8 +6171,8 @@ window.SALMOS_CARTA = [
     "theme": "A sede por Deus pode atravessar até os desertos mais secos",
     "date": "Salmo 63",
     "verse": {
-      "text": "Ore e leia o Salmo 63 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 63"
+      "text": "O teu amor é melhor do que a vida! Por isso os meus lábios te exaltarão.",
+      "ref": "Salmo 63.3"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -6252,8 +6252,8 @@ window.SALMOS_CARTA = [
     "theme": "Há palavras escondidas contra você que Deus não precisa esconder de si",
     "date": "Salmo 64",
     "verse": {
-      "text": "Ore e leia o Salmo 64 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 64"
+      "text": "Mas Deus atirará neles suas flechas; repentinamente serão atingidos. Pelas próprias palavras farão cair uns aos outros; menearão a cabeça e zombarão deles todos os que os virem.",
+      "ref": "Salmo 64.7–8"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -6329,8 +6329,8 @@ window.SALMOS_CARTA = [
     "theme": "Perdão e abundância podem nascer do mesmo Deus que escuta oração",
     "date": "Salmo 65",
     "verse": {
-      "text": "Ore e leia o Salmo 65 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 65"
+      "text": "Cuidas da terra e a regas; fartamente a enriqueces. Os riachos de Deus transbordam para que nunca falte o trigo, pois assim ordenaste. Encharcas os seus sulcos e aplainas os seus torrões; tu a amoleces com chuvas e abençoas as suas colheitas. Coroas o ano com a tua bondade, e por onde passas emana fartura;",
+      "ref": "Salmo 65.9–11"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -6418,8 +6418,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode transformar livramento em testemunho sem fingir que a travessia foi fácil",
     "date": "Salmo 66",
     "verse": {
-      "text": "Ore e leia o Salmo 66 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 66"
+      "text": "Pois tu, ó Deus, nos submeteste à prova e nos refinaste como a prata. Fizeste-nos cair numa armadilha e sobre nossas costas puseste fardos. Deixaste que os inimigos cavalgassem sobre a nossa cabeça; passamos pelo fogo e pela água, mas a um lugar de fartura nos trouxeste.",
+      "ref": "Salmo 66.10–12"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -6535,8 +6535,8 @@ window.SALMOS_CARTA = [
     "theme": "A bênção recebida nunca foi feita para terminar só em você",
     "date": "Salmo 67",
     "verse": {
-      "text": "Ore e leia o Salmo 67 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 67"
+      "text": "Que Deus tenha misericórdia de nós e nos abençoe, e faça resplandecer o seu rosto sobre nós, para que sejam conhecidos na terra os teus caminhos, a tua salvação entre todas as nações.",
+      "ref": "Salmo 67.1–2"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -7069,8 +7069,8 @@ window.SALMOS_CARTA = [
     "theme": "Há momentos em que a oração mais espiritual é simplesmente: vem depressa",
     "date": "Salmo 70",
     "verse": {
-      "text": "Ore e leia o Salmo 70 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 70"
+      "text": "Quanto a mim, sou pobre e necessitado; apressa-te, ó Deus. Tu és o meu socorro e o meu libertador; Senhor, não te demores!",
+      "ref": "Salmo 70.5"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -7126,8 +7126,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode envelhecer sem aposentar a esperança",
     "date": "Salmo 71",
     "verse": {
-      "text": "Ore e leia o Salmo 71 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 71"
+      "text": "Desde a minha juventude, ó Deus, tens me ensinado, e até hoje eu anuncio as tuas maravilhas. Agora que estou velho, de cabelos brancos, não me abandones, ó Deus, para que eu possa falar da tua força aos nossos filhos, e do teu poder às futuras gerações.",
+      "ref": "Salmo 71.17–18"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -7259,8 +7259,8 @@ window.SALMOS_CARTA = [
     "theme": "Um rei justo é reconhecido pelo modo como trata o pobre",
     "date": "Salmo 72",
     "verse": {
-      "text": "Ore e leia o Salmo 72 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 72"
+      "text": "Pois ele liberta os pobres que pedem socorro, os oprimidos que não têm quem os ajude. Ele se compadece dos fracos e dos pobres, e os salva da morte. Ele os resgata da opressão e da violência, pois aos seus olhos a vida deles é preciosa.",
+      "ref": "Salmo 72.12–14"
     },
     "word": {
       "original": "נֶפֶשׁ",
@@ -7562,8 +7562,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando lugares sagrados viram ruínas, a memória ainda pode perguntar onde Deus está",
     "date": "Salmo 74",
     "verse": {
-      "text": "Ore e leia o Salmo 74 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 74"
+      "text": "Mas tu, ó Deus, és o meu rei desde a antigüidade; trazes salvação sobre a terra.",
+      "ref": "Salmo 74.12"
     },
     "word": {
       "original": "חֶסֶד",
@@ -7691,8 +7691,8 @@ window.SALMOS_CARTA = [
     "theme": "Não precisamos empurrar a nós mesmos para cima; Deus sabe o tempo de levantar",
     "date": "Salmo 75",
     "verse": {
-      "text": "Ore e leia o Salmo 75 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 75"
+      "text": "Não é do Oriente nem do Ocidente nem do deserto que vem a exaltação. É Deus quem julga: Humilha a um, a outro exalta.",
+      "ref": "Salmo 75.6–7"
     },
     "word": {
       "original": "חֶסֶד",
@@ -7768,8 +7768,8 @@ window.SALMOS_CARTA = [
     "theme": "O poder que realmente merece temor não depende de armas humanas",
     "date": "Salmo 76",
     "verse": {
-      "text": "Ore e leia o Salmo 76 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 76"
+      "text": "quando tu, ó Deus, te levantaste para julgar, para salvar todos os oprimidos da terra.",
+      "ref": "Salmo 76.9"
     },
     "word": {
       "original": "חֶסֶד",
@@ -7853,8 +7853,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando você não consegue dormir, pode transformar a memória em caminho de oração",
     "date": "Salmo 77",
     "verse": {
-      "text": "Ore e leia o Salmo 77 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 77"
+      "text": "Então pensei: a razão da minha dor é que a mão direita do Altíssimo não age mais. Recordarei os feitos do Senhor; recordarei os teus antigos milagres.",
+      "ref": "Salmo 77.10–11"
     },
     "word": {
       "original": "חֶסֶד",
@@ -8406,8 +8406,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando a comunidade sofre, o lamento pode ser coletivo",
     "date": "Salmo 79",
     "verse": {
-      "text": "Ore e leia o Salmo 79 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 79"
+      "text": "Ajuda-nos, ó Deus, nosso Salvador, para a glória do teu nome; livra-nos e perdoa os nossos pecados, por amor do teu nome.",
+      "ref": "Salmo 79.9"
     },
     "word": {
       "original": "חֶסֶד",
@@ -8495,8 +8495,8 @@ window.SALMOS_CARTA = [
     "theme": "Às vezes a oração precisa repetir 'restaura-nos' até o coração acreditar de novo",
     "date": "Salmo 80",
     "verse": {
-      "text": "Ore e leia o Salmo 80 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 80"
+      "text": "Restaura-nos, ó Deus! Faze resplandecer sobre nós o teu rosto, para que sejamos salvos. Ó Senhor, Deus dos Exércitos, até quando arderá a tua ira contra as orações do teu povo? Tu o alimentaste com pão de lágrimas e o fizeste beber copos de lágrimas. Fizeste de nós um motivo de disputas entre as nações vizinhas, e os nossos inimigos caçoam de nós. Restaura-nos, ó Deus dos Exércitos; faze resplandecer sobre nós o teu rosto, para que sejamos salvos. Do Egito trouxeste uma videira; expulsaste as nações e a plantaste. Limpaste o terreno, ela lançou raízes e encheu a terra. Os montes foram cobertos pela sua sombra, e os mais altos cedros, pelos seus ramos. Seus ramos se estenderam até o Mar, e os seus brotos, até o Rio. Por que derrubaste as suas cercas, permitindo que todos os que passam apanhem as suas uvas? Javalis da floresta a devastam e as criaturas do campo dela se alimentam. Volta-te para nós, ó Deus dos Exércitos! Dos altos céus olha e vê! Toma conta desta videira, da raiz que a tua mão direita plantou, do filho que para ti fizeste crescer! Tua videira foi derrubada; como lixo, foi consumida pelo fogo. Pela tua repreensão perece o teu povo! Repouse a tua mão sobre aquele que puseste à tua mão direita, o filho do homem que para ti fizeste crescer. Então não nos desviaremos de ti; vivifica-nos, e invocaremos o teu nome. Restaura-nos, ó Senhor, Deus dos Exércitos; faze resplandecer sobre nós o teu rosto, para que sejamos salvos.",
+      "ref": "Salmo 80.3–19"
     },
     "word": {
       "original": "חֶסֶד",
@@ -8608,8 +8608,8 @@ window.SALMOS_CARTA = [
     "theme": "A voz que liberta também continua chamando para escutar",
     "date": "Salmo 81",
     "verse": {
-      "text": "Ore e leia o Salmo 81 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 81"
+      "text": "Eu sou o Senhor, o seu Deus, que o tirei da terra do Egito. Abra a sua boca, e eu o alimentarei.",
+      "ref": "Salmo 81.10"
     },
     "word": {
       "original": "חֶסֶד",
@@ -8709,8 +8709,8 @@ window.SALMOS_CARTA = [
     "theme": "Deus leva a sério a justiça de quem governa",
     "date": "Salmo 82",
     "verse": {
-      "text": "Ore e leia o Salmo 82 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 82"
+      "text": "Garantam justiça para os fracos e para os órfãos; mantenham os direitos dos necessitados e dos oprimidos.",
+      "ref": "Salmo 82.3"
     },
     "word": {
       "original": "חֶסֶד",
@@ -8778,8 +8778,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando muitos se unem contra você, sua oração ainda pode recusar o pânico",
     "date": "Salmo 83",
     "verse": {
-      "text": "Ore e leia o Salmo 83 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 83"
+      "text": "Saibam eles que tu, cujo nome é Senhor, somente tu, és o Altíssimo sobre toda a terra.",
+      "ref": "Salmo 83.18"
     },
     "word": {
       "original": "חֶסֶד",
@@ -8887,8 +8887,8 @@ window.SALMOS_CARTA = [
     "theme": "Sentir saudade da presença de Deus também é uma forma de amor",
     "date": "Salmo 84",
     "verse": {
-      "text": "Ore e leia o Salmo 84 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 84"
+      "text": "Melhor é um dia nos teus átrios do que mil noutro lugar; prefiro ficar à porta da casa do meu Deus a habitar nas tendas dos ímpios.",
+      "ref": "Salmo 84.10"
     },
     "word": {
       "original": "חֶסֶד",
@@ -8972,8 +8972,8 @@ window.SALMOS_CARTA = [
     "theme": "Misericórdia e verdade não precisam disputar espaço",
     "date": "Salmo 85",
     "verse": {
-      "text": "Ore e leia o Salmo 85 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 85"
+      "text": "O amor e a fidelidade se encontrarão; a justiça e a paz se beijarão.",
+      "ref": "Salmo 85.10"
     },
     "word": {
       "original": "חֶסֶד",
@@ -9061,8 +9061,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode pedir um coração inteiro quando se sente dividido",
     "date": "Salmo 86",
     "verse": {
-      "text": "Ore e leia o Salmo 86 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 86"
+      "text": "Ensina-me o teu caminho, Senhor, para que eu ande na tua verdade; dá-me um coração inteiramente fiel, para que eu tema o teu nome.",
+      "ref": "Salmo 86.11"
     },
     "word": {
       "original": "חֶסֶד",
@@ -9166,8 +9166,8 @@ window.SALMOS_CARTA = [
     "theme": "Pertencer a Deus pode incluir pessoas que você nunca imaginou no mesmo mapa",
     "date": "Salmo 87",
     "verse": {
-      "text": "Ore e leia o Salmo 87 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 87"
+      "text": "De fato, acerca de Sião se dirá: \"Todos estes nasceram nela, e o próprio Altíssimo a estabelecerá\". O Senhor escreverá no registro dos povos: \"Este nasceu ali\".",
+      "ref": "Salmo 87.5–6"
     },
     "word": {
       "original": "חֶסֶד",
@@ -9231,8 +9231,8 @@ window.SALMOS_CARTA = [
     "theme": "Há noites que terminam sem solução — e ainda assim a oração pode permanecer",
     "date": "Salmo 88",
     "verse": {
-      "text": "Ore e leia o Salmo 88 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 88"
+      "text": "Mas eu, Senhor, a ti clamo por socorro; já de manhã a minha oração chega à tua presença. Por que, Senhor, me rejeitas e escondes de mim o teu rosto?",
+      "ref": "Salmo 88.13–14"
     },
     "word": {
       "original": "חֶסֶד",
@@ -9659,8 +9659,8 @@ window.SALMOS_CARTA = [
     "theme": "Contar os dias não é pessimismo; é aprender a investir a vida com sabedoria",
     "date": "Salmo 90",
     "verse": {
-      "text": "Ore e leia o Salmo 90 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 90"
+      "text": "Ensina-nos a contar os nossos dias para que o nosso coração alcance sabedoria.",
+      "ref": "Salmo 90.12"
     },
     "word": {
       "original": "בָּטַח",
@@ -9764,8 +9764,8 @@ window.SALMOS_CARTA = [
     "theme": "Refúgio não significa que nada ruim tocará você; significa que você não atravessa sozinho",
     "date": "Salmo 91",
     "verse": {
-      "text": "Ore e leia o Salmo 91 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 91"
+      "text": "Aquele que habita no abrigo do Altíssimo e descansa à sombra do Todo-poderoso pode dizer ao Senhor: Tu és o meu refúgio e a minha fortaleza, o meu Deus, em quem confio.",
+      "ref": "Salmo 91.1–2"
     },
     "word": {
       "original": "בָּטַח",
@@ -9865,8 +9865,8 @@ window.SALMOS_CARTA = [
     "theme": "Há fidelidade que continua florescendo mesmo quando ninguém aplaude",
     "date": "Salmo 92",
     "verse": {
-      "text": "Ore e leia o Salmo 92 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 92"
+      "text": "Os justos florescerão como a palmeira, crescerão como o cedro do Líbano; plantados na casa do Senhor, florescerão nos átrios do nosso Deus. Mesmo na velhice darão fruto, permanecerão viçosos e verdejantes,",
+      "ref": "Salmo 92.12–14"
     },
     "word": {
       "original": "בָּטַח",
@@ -9962,8 +9962,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando as águas levantam a voz, Deus continua acima delas",
     "date": "Salmo 93",
     "verse": {
-      "text": "Ore e leia o Salmo 93 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 93"
+      "text": "Mais poderoso do que o estrondo das águas impetuosas, mais poderoso do que as ondas do mar é o Senhor nas alturas.",
+      "ref": "Salmo 93.4"
     },
     "word": {
       "original": "בָּטַח",
@@ -10019,8 +10019,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode desejar justiça sem entregar o coração à vingança",
     "date": "Salmo 94",
     "verse": {
-      "text": "Ore e leia o Salmo 94 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 94"
+      "text": "Quando eu disse: \"Os meus pés escorregaram\", o teu amor leal, Senhor, me amparou! Quando a ansiedade já me dominava no íntimo, o teu consolo trouxe alívio à minha alma.",
+      "ref": "Salmo 94.18–19"
     },
     "word": {
       "original": "בָּטַח",
@@ -10148,8 +10148,8 @@ window.SALMOS_CARTA = [
     "theme": "Adoração também é não endurecer o coração depois de ouvir",
     "date": "Salmo 95",
     "verse": {
-      "text": "Ore e leia o Salmo 95 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 95"
+      "text": "Venham! Adoremos prostrados e ajoelhemos diante do Senhor, o nosso Criador; pois ele é o nosso Deus, e nós somos o povo do seu pastoreio, o rebanho que ele conduz. Hoje, se vocês ouvirem a sua voz,",
+      "ref": "Salmo 95.6–7"
     },
     "word": {
       "original": "בָּטַח",
@@ -10229,8 +10229,8 @@ window.SALMOS_CARTA = [
     "theme": "O louvor fica maior quando inclui as nações e a criação",
     "date": "Salmo 96",
     "verse": {
-      "text": "Ore e leia o Salmo 96 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 96"
+      "text": "Digam entre as nações: \"O Senhor reina! \" Por isso firme está o mundo, e não se abalará, e ele julgará os povos com justiça.",
+      "ref": "Salmo 96.10"
     },
     "word": {
       "original": "בָּטַח",
@@ -10318,8 +10318,8 @@ window.SALMOS_CARTA = [
     "theme": "A alegria dos justos não precisa vir da queda de alguém, mas da presença de Deus",
     "date": "Salmo 97",
     "verse": {
-      "text": "Ore e leia o Salmo 97 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 97"
+      "text": "A luz nasce sobre o justo e a alegria sobre os retos de coração.",
+      "ref": "Salmo 97.11"
     },
     "word": {
       "original": "בָּטַח",
@@ -10403,8 +10403,8 @@ window.SALMOS_CARTA = [
     "theme": "Deus pode fazer uma coisa nova diante de quem já perdeu expectativa",
     "date": "Salmo 98",
     "verse": {
-      "text": "Ore e leia o Salmo 98 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 98"
+      "text": "Batam palmas os rios, e juntos, cantem de alegria os montes; cantem diante do Senhor, porque ele vem, vem julgar a terra; julgará o mundo com justiça e os povos, com retidão.",
+      "ref": "Salmo 98.8–9"
     },
     "word": {
       "original": "בָּטַח",
@@ -10476,8 +10476,8 @@ window.SALMOS_CARTA = [
     "theme": "Santidade e misericórdia podem habitar no mesmo trono",
     "date": "Salmo 99",
     "verse": {
-      "text": "Ore e leia o Salmo 99 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 99"
+      "text": "Exaltem o Senhor, o nosso Deus, prostrem-se diante do estrado dos seus pés. Ele é santo! Moisés e Arão estavam entre os seus sacerdotes, Samuel, entre os que invocavam o seu nome; eles clamavam pelo Senhor, e ele lhes respondia.",
+      "ref": "Salmo 99.5–6"
     },
     "word": {
       "original": "בָּטַח",
@@ -10549,8 +10549,8 @@ window.SALMOS_CARTA = [
     "theme": "Gratidão começa quando você percebe de quem realmente é",
     "date": "Salmo 100",
     "verse": {
-      "text": "Ore e leia o Salmo 100 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 100"
+      "text": "Reconheçam que ele é o nosso Deus. Ele nos fez e somos dele: somos o seu povo, e rebanho do seu pastoreio.",
+      "ref": "Salmo 100.3"
     },
     "word": {
       "original": "בָּטַח",
@@ -10606,8 +10606,8 @@ window.SALMOS_CARTA = [
     "theme": "Integridade pública começa nas decisões privadas",
     "date": "Salmo 101",
     "verse": {
-      "text": "Ore e leia o Salmo 101 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 101"
+      "text": "Seguirei o caminho da integridade; quando virás ao meu encontro? Em minha casa viverei de coração íntegro.",
+      "ref": "Salmo 101.2"
     },
     "word": {
       "original": "בָּטַח",
@@ -10861,8 +10861,8 @@ window.SALMOS_CARTA = [
     "theme": "Não se esqueça dos benefícios quando sua memória só quer guardar as feridas",
     "date": "Salmo 103",
     "verse": {
-      "text": "Ore e leia o Salmo 103 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 103"
+      "text": "Bendiga ao Senhor a minha alma! Não esqueça de nenhuma de suas bênçãos! É ele que perdoa todos os seus pecados e cura todas as suas doenças,",
+      "ref": "Salmo 103.2–3"
     },
     "word": {
       "original": "בָּטַח",
@@ -12077,8 +12077,8 @@ window.SALMOS_CARTA = [
     "theme": "Seu coração pode ficar firme antes que a batalha termine",
     "date": "Salmo 108",
     "verse": {
-      "text": "Ore e leia o Salmo 108 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 108"
+      "text": "Meu coração está firme, ó Deus! Cantarei e louvarei, ó Glória minha! Acordem, harpa e lira! Despertarei a alvorada.",
+      "ref": "Salmo 108.1–2"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -12364,8 +12364,8 @@ window.SALMOS_CARTA = [
     "theme": "O reinado de Deus combina autoridade e serviço de um jeito que nenhum poder humano copia perfeitamente",
     "date": "Salmo 110",
     "verse": {
-      "text": "Ore e leia o Salmo 110 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 110"
+      "text": "O Senhor disse ao meu Senhor: \"Senta-te à minha direita até que eu faça dos teus inimigos um estrado para os teus pés\". O Senhor estenderá o cetro de teu poder desde Sião, e dominarás sobre os teus inimigos! Quando convocares as tuas tropas, o teu povo se apresentará voluntariamente. Trajando vestes santas, desde o romper da alvorada os teus jovens virão como o orvalho. O Senhor jurou e não se arrependerá: \"Tu és sacerdote para sempre, segundo a ordem de Melquisedeque\".",
+      "ref": "Salmo 110.1–4"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -12429,8 +12429,8 @@ window.SALMOS_CARTA = [
     "theme": "Lembrar as obras de Deus pode reorganizar aquilo que hoje parece caótico",
     "date": "Salmo 111",
     "verse": {
-      "text": "Ore e leia o Salmo 111 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 111"
+      "text": "O temor do Senhor é o princípio da sabedoria; todos os que cumprem os seus preceitos revelam bom senso. Ele será louvado para sempre!",
+      "ref": "Salmo 111.10"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -12506,8 +12506,8 @@ window.SALMOS_CARTA = [
     "theme": "Uma vida justa pode ser firme sem precisar ser rígida",
     "date": "Salmo 112",
     "verse": {
-      "text": "Ore e leia o Salmo 112 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 112"
+      "text": "Não temerá más notícias; seu coração está firme, confiante no Senhor.",
+      "ref": "Salmo 112.7"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -12583,8 +12583,8 @@ window.SALMOS_CARTA = [
     "theme": "O Deus alto o bastante para governar é também baixo o bastante para levantar o pobre",
     "date": "Salmo 113",
     "verse": {
-      "text": "Ore e leia o Salmo 113 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 113"
+      "text": "Quem é como o Senhor, o nosso Deus, que reina em seu trono nas alturas, mas se inclina para contemplar o que acontece nos céus e na terra? Ele levanta do pó o necessitado e ergue do lixo o pobre,",
+      "ref": "Salmo 113.5–7"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -12656,8 +12656,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando Deus conduz um povo, até o mar aprende a abrir caminho",
     "date": "Salmo 114",
     "verse": {
-      "text": "Ore e leia o Salmo 114 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 114"
+      "text": "O mar olhou e fugiu, o Jordão retrocedeu; os montes saltaram como carneiros, as colinas, como cordeiros.",
+      "ref": "Salmo 114.3–4"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -12725,8 +12725,8 @@ window.SALMOS_CARTA = [
     "theme": "Você se torna parecido com aquilo em que deposita sua confiança",
     "date": "Salmo 115",
     "verse": {
-      "text": "Ore e leia o Salmo 115 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 115"
+      "text": "Não a nós, Senhor, nenhuma glória para nós, mas sim ao teu nome, por teu amor e por tua fidelidade!",
+      "ref": "Salmo 115.1"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -12834,8 +12834,8 @@ window.SALMOS_CARTA = [
     "theme": "Amar a Deus também pode nascer do dia em que você percebeu que foi ouvido",
     "date": "Salmo 116",
     "verse": {
-      "text": "Ore e leia o Salmo 116 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 116"
+      "text": "Como posso retribuir ao Senhor toda a sua bondade para comigo? Erguerei o cálice da salvação e invocarei o nome do Senhor.",
+      "ref": "Salmo 116.12–13"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -12947,8 +12947,8 @@ window.SALMOS_CARTA = [
     "theme": "Às vezes dois versículos bastam para lembrar que a fidelidade de Deus alcança todos",
     "date": "Salmo 117",
     "verse": {
-      "text": "Ore e leia o Salmo 117 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 117"
+      "text": "Louvem o Senhor, todas as nações; exaltem-no, todos os povos! Porque imenso é o seu amor leal por nós, e a fidelidade do Senhor dura para sempre. Aleluia!",
+      "ref": "Salmo 117.1–2"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14182,8 +14182,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando você vive cercado de mentira, ainda pode pedir uma língua e um coração verdadeiros",
     "date": "Salmo 120",
     "verse": {
-      "text": "Ore e leia o Salmo 120 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 120"
+      "text": "Tenho vivido tempo demais entre os que odeiam a paz. Sou um homem de paz; mas, ainda que eu fale de paz, eles só falam de guerra.",
+      "ref": "Salmo 120.6–7"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14247,8 +14247,8 @@ window.SALMOS_CARTA = [
     "theme": "Seu socorro não depende de você vigiar tudo",
     "date": "Salmo 121",
     "verse": {
-      "text": "Ore e leia o Salmo 121 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 121"
+      "text": "Levanto os meus olhos para os montes e pergunto: De onde me vem o socorro? O meu socorro vem do Senhor, que fez os céus e a terra.",
+      "ref": "Salmo 121.1–2"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14316,8 +14316,8 @@ window.SALMOS_CARTA = [
     "theme": "A alegria de chegar também pode se transformar em oração pela paz da cidade",
     "date": "Salmo 122",
     "verse": {
-      "text": "Ore e leia o Salmo 122 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 122"
+      "text": "Orem pela paz de Jerusalém: \"Vivam em segurança aqueles que te amam! Haja paz dentro dos teus muros e segurança nas tuas cidadelas! \"",
+      "ref": "Salmo 122.6–7"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14389,8 +14389,8 @@ window.SALMOS_CARTA = [
     "theme": "Levantar os olhos é diferente de negar a humilhação",
     "date": "Salmo 123",
     "verse": {
-      "text": "Ore e leia o Salmo 123 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 123"
+      "text": "Assim como os olhos dos servos estão atentos à mão de seu senhor, e como os olhos das servas estão atentos à mão de sua senhora, também os nossos olhos estão atentos ao Senhor, ao nosso Deus, esperando que ele tenha misericórdia de nós.",
+      "ref": "Salmo 123.2"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14442,8 +14442,8 @@ window.SALMOS_CARTA = [
     "theme": "Às vezes olhar para trás revela que você só não foi engolido porque houve ajuda",
     "date": "Salmo 124",
     "verse": {
-      "text": "Ore e leia o Salmo 124 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 124"
+      "text": "Se o Senhor não estivesse do nosso lado; que Israel o repita: Se o Senhor não estivesse do nosso lado quando os inimigos nos atacaram,",
+      "ref": "Salmo 124.1–2"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14511,8 +14511,8 @@ window.SALMOS_CARTA = [
     "theme": "Quem confia em Deus pode aprender uma estabilidade que não depende do terreno",
     "date": "Salmo 125",
     "verse": {
-      "text": "Ore e leia o Salmo 125 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 125"
+      "text": "Os que confiam no Senhor são como o monte Sião, que não se pode abalar, mas permanece para sempre. Como os montes cercam Jerusalém, assim o Senhor protege o seu povo, desde agora e para sempre.",
+      "ref": "Salmo 125.1–2"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14568,8 +14568,8 @@ window.SALMOS_CARTA = [
     "theme": "Há lágrimas que carregam sementes sem saber ainda como será a colheita",
     "date": "Salmo 126",
     "verse": {
-      "text": "Ore e leia o Salmo 126 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 126"
+      "text": "Aqueles que semeiam com lágrimas, com cantos de alegria colherão. Aquele que sai chorando enquanto lança a semente, voltará com cantos de alegria, trazendo os seus feixes.",
+      "ref": "Salmo 126.5–6"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14629,8 +14629,8 @@ window.SALMOS_CARTA = [
     "theme": "Nem toda construção precisa ser sustentada por ansiedade",
     "date": "Salmo 127",
     "verse": {
-      "text": "Ore e leia o Salmo 127 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 127"
+      "text": "Se não for o Senhor o construtor da casa, será inútil trabalhar na construção. Se não é o Senhor que vigia a cidade, será inútil a sentinela montar guarda. Será inútil levantar cedo e dormir tarde, trabalhando arduamente por alimento. O Senhor concede o sono àqueles a quem ama.",
+      "ref": "Salmo 127.1–2"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14686,8 +14686,8 @@ window.SALMOS_CARTA = [
     "theme": "Bênção pode parecer uma mesa simples, trabalho honesto e paz em casa",
     "date": "Salmo 128",
     "verse": {
-      "text": "Ore e leia o Salmo 128 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 128"
+      "text": "Como é feliz quem teme ao Senhor, quem anda em seus caminhos! Você comerá do fruto do seu trabalho, e será feliz e próspero. Sua mulher será como videira frutífera em sua casa; seus filhos serão como brotos de oliveira ao redor da sua mesa.",
+      "ref": "Salmo 128.1–3"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14747,8 +14747,8 @@ window.SALMOS_CARTA = [
     "theme": "Ter sido ferido muitas vezes não significa ter sido destruído",
     "date": "Salmo 129",
     "verse": {
-      "text": "Ore e leia o Salmo 129 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 129"
+      "text": "muitas vezes me oprimiram desde a minha juventude, mas jamais conseguiram vencer-me. Passaram o arado em minhas costas e fizeram longos sulcos. O Senhor é justo! Ele libertou-me das algemas dos ímpios.",
+      "ref": "Salmo 129.2–4"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14816,8 +14816,8 @@ window.SALMOS_CARTA = [
     "theme": "Do fundo ainda existe uma direção para a voz",
     "date": "Salmo 130",
     "verse": {
-      "text": "Ore e leia o Salmo 130 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 130"
+      "text": "Se tu, Soberano Senhor, registrasses os pecados, quem escaparia? Mas contigo está o perdão para que sejas temido.",
+      "ref": "Salmo 130.3–4"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14885,8 +14885,8 @@ window.SALMOS_CARTA = [
     "theme": "Maturidade também é aprender a aquietar desejos que queriam dominar tudo",
     "date": "Salmo 131",
     "verse": {
-      "text": "Ore e leia o Salmo 131 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 131"
+      "text": "De fato, acalmei e tranqüilizei a minha alma. Sou como uma criança recém-amamentada por sua mãe; a minha alma é como essa criança.",
+      "ref": "Salmo 131.2"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -14934,8 +14934,8 @@ window.SALMOS_CARTA = [
     "theme": "Promessas antigas podem continuar dando forma ao futuro",
     "date": "Salmo 132",
     "verse": {
-      "text": "Ore e leia o Salmo 132 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 132"
+      "text": "O Senhor escolheu Sião, com o desejo de fazê-la sua habitação: \"Este será o meu lugar de descanso para sempre; aqui firmarei o meu trono, pois esse é o meu desejo.",
+      "ref": "Salmo 132.13–14"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15043,8 +15043,8 @@ window.SALMOS_CARTA = [
     "theme": "A unidade é preciosa demais para ser tratada como detalhe",
     "date": "Salmo 133",
     "verse": {
-      "text": "Ore e leia o Salmo 133 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 133"
+      "text": "Como é bom e agradável quando os irmãos convivem em união!",
+      "ref": "Salmo 133.1"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15092,8 +15092,8 @@ window.SALMOS_CARTA = [
     "theme": "Há louvor que acontece no turno da noite",
     "date": "Salmo 134",
     "verse": {
-      "text": "Ore e leia o Salmo 134 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 134"
+      "text": "Venham! Bendigam ao Senhor todos vocês, servos do Senhor, vocês, que servem de noite na casa do Senhor. Levantem as mãos na direção do santuário e bendigam ao Senhor!",
+      "ref": "Salmo 134.1–2"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15141,8 +15141,8 @@ window.SALMOS_CARTA = [
     "theme": "Lembrar quem Deus é ajuda a não se ajoelhar diante do que nossas mãos fabricaram",
     "date": "Salmo 135",
     "verse": {
-      "text": "Ore e leia o Salmo 135 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 135"
+      "text": "Na verdade, sei que o Senhor é grande, que o nosso Soberano é maior do que todos os deuses. O Senhor faz tudo o que lhe agrada, nos céus e na terra, nos mares e em todas as suas profundezas.",
+      "ref": "Salmo 135.5–6"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15440,8 +15440,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode lamentar o exílio e a raiva sem transformar violência em mandamento",
     "date": "Salmo 137",
     "verse": {
-      "text": "Ore e leia o Salmo 137 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 137"
+      "text": "Junto aos rios da Babilônia nós nos sentamos e choramos com saudade de Sião. Ali, nos salgueiros penduramos as nossas harpas; ali os nossos captores pediam-nos canções, os nossos opressores exigiam canções alegres, dizendo: \"Cantem para nós uma das canções de Sião! \" Como poderíamos cantar as canções do Senhor numa terra estrangeira?",
+      "ref": "Salmo 137.1–4"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15513,8 +15513,8 @@ window.SALMOS_CARTA = [
     "theme": "Mesmo entre poderes grandes, sua oração pode permanecer inteira",
     "date": "Salmo 138",
     "verse": {
-      "text": "Ore e leia o Salmo 138 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 138"
+      "text": "Ainda que eu passe por angústias, tu me preservas a vida da ira dos meus inimigos; estendes a tua mão direita e me livras. O Senhor cumprirá o seu propósito para comigo! Teu amor, Senhor, permanece para sempre; não abandones as obras das tuas mãos!",
+      "ref": "Salmo 138.7–8"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15582,8 +15582,8 @@ window.SALMOS_CARTA = [
     "theme": "Ser completamente conhecido por Deus não precisa ser motivo de medo",
     "date": "Salmo 139",
     "verse": {
-      "text": "Ore e leia o Salmo 139 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 139"
+      "text": "Tu criaste o íntimo do meu ser e me teceste no ventre de minha mãe. Eu te louvo porque me fizeste de modo especial e admirável. Tuas obras são maravilhosas! Disso tenho plena certeza.",
+      "ref": "Salmo 139.13–14"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15715,8 +15715,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode pedir proteção contra pessoas violentas sem aprender a amar a violência",
     "date": "Salmo 140",
     "verse": {
-      "text": "Ore e leia o Salmo 140 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 140"
+      "text": "Sei que o Senhor defenderá a causa do necessitado e fará justiça aos pobres. Com certeza os justos darão graças ao teu nome, e os homens íntegros viverão na tua presença.",
+      "ref": "Salmo 140.12–13"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15804,8 +15804,8 @@ window.SALMOS_CARTA = [
     "theme": "Antes de controlar o mundo ao redor, peça ajuda para guardar sua própria boca",
     "date": "Salmo 141",
     "verse": {
-      "text": "Ore e leia o Salmo 141 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 141"
+      "text": "Seja a minha oração como incenso diante de ti, e o levantar das minhas mãos, como a oferta da tarde. Coloca, Senhor, uma guarda à minha boca; vigia a porta de meus lábios.",
+      "ref": "Salmo 141.2–3"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15881,8 +15881,8 @@ window.SALMOS_CARTA = [
     "theme": "Quando você se sente sozinho numa caverna, ainda existe alguém a quem derramar a queixa",
     "date": "Salmo 142",
     "verse": {
-      "text": "Ore e leia o Salmo 142 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 142"
+      "text": "Olha para a minha direita e vê; ninguém se preocupa comigo. Não tenho abrigo seguro; ninguém se importa com a minha vida. Clamo a ti, Senhor, e digo: \"Tu és o meu refúgio; és tudo o que tenho que na terra dos viventes.",
+      "ref": "Salmo 142.4–5"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -15946,8 +15946,8 @@ window.SALMOS_CARTA = [
     "theme": "Pedir direção pode ser mais urgente do que pedir vitória",
     "date": "Salmo 143",
     "verse": {
-      "text": "Ore e leia o Salmo 143 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 143"
+      "text": "Estendo as minhas mãos para ti; como a terra árida, tenho sede de ti. Apressa-te em responder-me, Senhor! O meu espírito se abate. Não escondas de mim o teu rosto, ou serei como os que descem à cova. Faze-me ouvir do teu amor leal pela manhã, pois em ti confio. Mostra-me o caminho que devo seguir, pois a ti elevo a minha alma.",
+      "ref": "Salmo 143.6–8"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -16031,8 +16031,8 @@ window.SALMOS_CARTA = [
     "theme": "Você pode reconhecer fragilidade sem esquecer que Deus treina suas mãos para servir",
     "date": "Salmo 144",
     "verse": {
-      "text": "Ore e leia o Salmo 144 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 144"
+      "text": "Senhor, que é o homem para que te importes com ele, ou o filho do homem para que por ele te interesses? O homem é como um sopro; seus dias são como uma sombra passageira.",
+      "ref": "Salmo 144.3–4"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -16128,8 +16128,8 @@ window.SALMOS_CARTA = [
     "theme": "A grandeza de Deus aparece também na sua ternura com quem cai",
     "date": "Salmo 145",
     "verse": {
-      "text": "Ore e leia o Salmo 145 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 145"
+      "text": "O Senhor é misericordioso e compassivo, paciente e transbordante de amor. O Senhor é bom para todos; a sua compaixão alcança todas as suas criaturas.",
+      "ref": "Salmo 145.8–9"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -16249,8 +16249,8 @@ window.SALMOS_CARTA = [
     "theme": "Não coloque esperança final em pessoas poderosas, por melhores que pareçam",
     "date": "Salmo 146",
     "verse": {
-      "text": "Ore e leia o Salmo 146 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 146"
+      "text": "Não confiem em príncipes, em meros mortais, incapazes de salvar. Quando o espírito deles se vai, voltam ao pó; naquele mesmo dia acabam-se os seus planos. Como é feliz aquele cujo auxílio é o Deus de Jacó, cuja esperança está no Senhor, no seu Deus,",
+      "ref": "Salmo 146.3–5"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -16326,8 +16326,8 @@ window.SALMOS_CARTA = [
     "theme": "O Deus que conta estrelas também cuida de corações quebrantados",
     "date": "Salmo 147",
     "verse": {
-      "text": "Ore e leia o Salmo 147 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 147"
+      "text": "Só ele cura os de coração quebrantado e cuida das suas feridas. Ele determina o número de estrelas e chama cada uma pelo nome.",
+      "ref": "Salmo 147.3–4"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -16443,8 +16443,8 @@ window.SALMOS_CARTA = [
     "theme": "Toda a criação pode participar de um louvor que não gira ao redor de nós",
     "date": "Salmo 148",
     "verse": {
-      "text": "Ore e leia o Salmo 148 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 148"
+      "text": "moços e moças, velhos e crianças. Louvem todos o nome do Senhor, pois somente o seu nome é exaltado; a sua majestade está acima da terra e dos céus.",
+      "ref": "Salmo 148.12–13"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -16536,8 +16536,8 @@ window.SALMOS_CARTA = [
     "theme": "Louvor e justiça precisam caminhar com responsabilidade, não com violência religiosa",
     "date": "Salmo 149",
     "verse": {
-      "text": "Ore e leia o Salmo 149 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 149"
+      "text": "O Senhor agrada-se do seu povo; ele coroa de vitória os oprimidos.",
+      "ref": "Salmo 149.4"
     },
     "word": {
       "original": "שָׁלוֹם",
@@ -16609,8 +16609,8 @@ window.SALMOS_CARTA = [
     "theme": "No fim, tudo que respira é convidado a transformar vida em louvor",
     "date": "Salmo 150",
     "verse": {
-      "text": "Ore e leia o Salmo 150 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 150"
+      "text": "Tudo o que tem vida louve o Senhor! Aleluia!",
+      "ref": "Salmo 150.6"
     },
     "word": {
       "original": "שָׁלוֹם",

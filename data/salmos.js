@@ -7,20 +7,20 @@ window.SALMOS = [
     "psalm": 1,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 1",
+    "theme": "Livro I · Confiança e lamento · Salmo 1 · Raízes junto às águas",
     "date": "Salmo 1",
     "verse": {
-      "text": "Ore e leia o Salmo 1 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 1"
+      "text": "Ao contrário, sua satisfação está na lei do Senhor, e nessa lei medita dia e noite. É como árvore plantada à beira de águas correntes: Dá fruto no tempo certo e suas folhas não murcham. Tudo o que ele faz prospera!",
+      "ref": "Salmo 1.2–3"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "הָגָה",
+      "translit": "hagah",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "meditar, murmurar",
+      "note": "Hagah é o som baixo de quem repete algo para si: o mesmo verbo descreve o rugido contido do leão e o arrulhar da pomba. Meditar, aqui, não é esvaziar a mente, mas mastigar a Palavra em voz baixa até que ela se torne parte de você."
     },
-    "context": "Este é o dia 1 da jornada pelo Saltério. Leia o Salmo 1 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O Salmo 1 é o portal do Saltério. Antes de qualquer louvor ou lamento, ele coloca dois caminhos diante do leitor: o de quem se deixa formar pela lei do Senhor e o de quem é levado pelo vento. É um salmo de sabedoria que funciona como convite: as 149 orações seguintes serão lidas por quem decidiu enraizar-se na Palavra.",
     "passage": {
       "ref": "Salmo 1 · capítulo completo (NVI)",
       "verses": [
@@ -51,16 +51,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 1 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Repare na progressão do versículo 1: seguir, imitar, assentar-se. Ninguém começa sentado na roda dos zombadores; chega-se lá aos poucos, aceitando conselhos, depois copiando condutas, até que o cinismo vira lugar fixo. O salmo nos alerta para a direção, não apenas para o destino.",
+      "A árvore não se esforça para dar fruto; ela está plantada perto da água. O verbo “plantada” sugere que alguém a colocou ali. A vida fecunda nasce de um enraizamento que é dom e escolha ao mesmo tempo, e o fruto vem “no tempo certo”, não no tempo da nossa ansiedade.",
+      "A palha é leve porque não tem raiz. O ímpio do salmo não é necessariamente alguém escandaloso, mas alguém sem peso, empurrado por qualquer vento. O final é sóbrio: o Senhor “aprova o caminho” do justo — literalmente, conhece-o. Ser conhecido por Deus é a raiz de toda estabilidade."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que conselhos você tem ouvido com tanta frequência que já começou a imitá-los sem perceber?",
+      "Onde a Palavra de Deus está, de fato, “plantada” na sua semana, e onde ela é apenas visita ocasional?",
+      "Em que área você tem exigido fruto fora de época, esquecendo que ele vem “no tempo certo”?"
     ],
-    "application": "Identifique uma voz, hábito ou companhia que tem sido 'conselho dos ímpios' na sua rotina e substitua hoje esse espaço por alguns minutos de meditação na Palavra.",
+    "application": "Escolha um único versículo deste salmo e repita-o em voz baixa três vezes ao longo do dia — ao acordar, no almoço e antes de dormir —, praticando o hagah: deixar a Palavra ser murmurada até criar raiz.",
     "prayer": "Senhor, planta-me junto às águas correntes da tua lei. Afasta-me do conselho que me seca e faz que minha alegria esteja em ti, para que eu dê fruto no tempo certo. Amém."
   },
   {
@@ -68,20 +68,20 @@ window.SALMOS = [
     "psalm": 2,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 2",
+    "theme": "Livro I · Confiança e lamento · Salmo 2 · O Rei que o mundo não derruba",
     "date": "Salmo 2",
     "verse": {
-      "text": "Ore e leia o Salmo 2 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 2"
+      "text": "Beijem o filho, para que ele não se ire e vocês não sejam destruídos de repente, pois num instante acende-se a sua ira. Como são felizes todos os que nele se refugiam!",
+      "ref": "Salmo 2.12"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "מָשִׁיחַ",
+      "translit": "mashiach",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ungido",
+      "note": "Mashiach é aquele sobre quem o óleo foi derramado para uma missão real. Em Israel, era o rei davídico; na leitura cristã, o título encontra plenitude em Jesus, o Cristo (tradução grega da mesma palavra)."
     },
-    "context": "Este é o dia 2 da jornada pelo Saltério. Leia o Salmo 2 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Junto ao Salmo 1, o Salmo 2 forma a dupla de abertura do Saltério: o primeiro começa com “Como é feliz” e o segundo termina com “Como são felizes”. Se o Salmo 1 fala do indivíduo diante da Palavra, o Salmo 2 olha para as nações diante do Rei. É um salmo real, provavelmente usado em coroações, que o Novo Testamento aplica a Jesus (At 4.25–28; Hb 1.5).",
     "passage": {
       "ref": "Salmo 2 · capítulo completo (NVI)",
       "verses": [
@@ -136,16 +136,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 2 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com uma pergunta quase irônica: por que tanto barulho? As nações se agitam, os governantes se reúnem, os planos se multiplicam — e tudo é “em vão”. A palavra hebraica sugere algo vazio, oco. O poder que se levanta contra Deus faz muito ruído, mas tem pouco peso.",
+      "A cena muda da terra para o céu, e o tom muda com ela. Enquanto os reis conspiram, o Senhor “põe-se a rir”. Não é desprezo pela dor humana, mas a serenidade de quem não está ameaçado. A ansiedade diante do noticiário encontra aqui um contrapeso: o trono do céu não está vago.",
+      "O fim do salmo não é uma ameaça seca, mas um convite: “sejam prudentes”, “adorem”, “beijem o filho”. Mesmo aos inimigos é oferecida a chance de se render. E a última linha abre a porta para todos: felizes os que nele se refugiam. O Rei que governa as nações também é abrigo."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Qual “conspiração” do seu tempo — política, econômica ou pessoal — tem ocupado mais espaço no seu coração do que o trono de Deus?",
+      "O que muda na sua forma de reagir às notícias quando você lembra que o Senhor não está ansioso?",
+      "Em que área da sua vida você ainda resiste ao governo do Rei, querendo “fazer em pedaços as suas correntes”?"
     ],
-    "application": "Liste uma 'conspiração' do seu tempo — notícias, poderes ou ameaças — que tem tirado sua paz e declare sobre ela o versículo 4: 'Do seu trono nos céus o Senhor põe-se a rir'.",
+    "application": "Hoje, ao consumir notícias, faça uma pausa a cada manchete pesada e diga em voz baixa: “O Senhor está no seu trono”. Depois ore por um governante pelo nome, pedindo que ele seja “prudente” (v. 10).",
     "prayer": "Senhor, as nações se agitam, mas o teu Rei já está entronizado. Livra-me de temer os poderosos e ensina-me a servir-te com temor e a encontrar refúgio no teu Filho. Amém."
   },
   {
@@ -153,20 +153,20 @@ window.SALMOS = [
     "psalm": 3,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 3",
+    "theme": "Livro I · Confiança e lamento · Salmo 3 · Dormir cercado",
     "date": "Salmo 3",
     "verse": {
-      "text": "Ore e leia o Salmo 3 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 3"
+      "text": "Eu me deito e durmo, e torno a acordar, porque é o Senhor que me sustém.",
+      "ref": "Salmo 3.5"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "מָגֵן",
+      "translit": "magen",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "escudo",
+      "note": "Magen era o escudo pequeno e redondo do guerreiro, levado no braço durante o combate. Davi não diz que Deus lhe dá um escudo, mas que Deus é o escudo — “ao redor de mim”, segundo o hebraico. A proteção não é um objeto, é uma presença."
     },
-    "context": "Este é o dia 3 da jornada pelo Saltério. Leia o Salmo 3 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título liga este salmo à fuga de Davi diante de Absalão (2Sm 15–18), quando seu próprio filho tomou o trono. É o primeiro lamento individual do Saltério e tem um movimento claro: a ameaça (v. 1–2), a confiança (v. 3–4), o descanso (v. 5–6) e o pedido final (v. 7–8). Também é conhecido como uma oração da manhã.",
     "passage": {
       "ref": "Salmo 3 · capítulo completo (NVI)",
       "verses": [
@@ -205,16 +205,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 3 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "A ferida mais funda não são os adversários, mas o que eles dizem: “Deus nunca o salvará!”. O ataque mira a fé. Quando a crise se arrasta, a voz mais perigosa é a que sussurra que você está fora do alcance de Deus. Davi não ignora essa voz; ele a nomeia e a leva para a oração.",
+      "Davi diz que Deus é “a minha glória” e o faz “andar de cabeça erguida”. Imagine um rei fugindo descalço, com a cabeça coberta de vergonha (2Sm 15.30). É exatamente aí que ele confessa que Deus ergue a sua cabeça. A dignidade que o mundo tira, Deus devolve.",
+      "O versículo 5 é talvez o ato de fé mais subestimado da Bíblia: deitar e dormir. Com um exército no encalço, Davi fecha os olhos. O sono é rendição: admitir que você não pode vigiar tudo. Acordar, então, torna-se testemunho de que outro vigiou por você."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que frase do tipo “Deus nunca vai resolver isso” tem ecoado em você, e de onde ela vem?",
+      "Em que situação você precisa que Deus erga a sua cabeça em vez de você tentar se justificar sozinho?",
+      "O que tem roubado o seu sono, e o que significaria, concretamente, entregar essa vigília a Deus esta noite?"
     ],
-    "application": "Escreva o nome de algo que tem 'se levantado contra' você nesta fase e, ao lado, a frase do versículo 3: 'Tu, Senhor, és o escudo que me protege'. Durma hoje com essa confissão.",
+    "application": "Esta noite, antes de deitar, diga a Deus em voz alta o nome do que mais o preocupa. Depois apague a luz repetindo o versículo 5. Amanhã, ao acordar, agradeça em uma frase por ter sido sustentado durante a noite.",
     "prayer": "Senhor, muitos dizem que não há livramento para mim, mas tu és meu escudo e minha glória. Faz-me deitar e dormir em paz, porque és tu quem me sustenta. Amém."
   },
   {
@@ -222,20 +222,20 @@ window.SALMOS = [
     "psalm": 4,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 4",
+    "theme": "Livro I · Confiança e lamento · Salmo 4 · Alegria maior que a colheita",
     "date": "Salmo 4",
     "verse": {
-      "text": "Ore e leia o Salmo 4 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 4"
+      "text": "Em paz me deito e logo adormeço, pois só tu, Senhor, me fazes viver em segurança.",
+      "ref": "Salmo 4.8"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "רָגַז",
+      "translit": "ragaz",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "tremer, agitar-se",
+      "note": "Ragaz descreve o corpo que treme de raiva, medo ou inquietação. No versículo 4, “quando vocês ficarem irados” é literalmente “agitem-se”. O salmo não proíbe a emoção; ensina o que fazer com ela: levá-la para o leito, refletir e aquietar-se."
     },
-    "context": "Este é o dia 4 da jornada pelo Saltério. Leia o Salmo 4 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O Salmo 4 é companheiro do Salmo 3: se aquele é a oração da manhã, este é a oração da noite. Davi fala primeiro com Deus, depois com os “poderosos” que o difamam, e por fim volta a Deus em paz. O pano de fundo parece ser uma crise de reputação e talvez de escassez (v. 6–7), em que muitos perguntavam se haveria dias bons.",
     "passage": {
       "ref": "Salmo 4 · capítulo completo (NVI)",
       "verses": [
@@ -274,16 +274,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 4 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Davi lembra a Deus de um alívio passado: “Dá-me alívio da minha angústia” traduz a ideia de abrir espaço num lugar apertado. A memória de que Deus já alargou caminhos antes vira argumento para orar de novo. A fé bíblica tem memória.",
+      "O conselho do versículo 4 é quase terapêutico: sentiu raiva? Não aja ainda. Deite-se, reflita, fique em silêncio. A ira não precisa ser negada, mas também não precisa ser obedecida. Há uma sabedoria em deixar a emoção passar pelo travesseiro antes de passar pela boca.",
+      "Muitos perguntam: “Quem nos fará desfrutar o bem?” A resposta do salmo não é uma colheita maior, mas um rosto: “Faze, ó Senhor, resplandecer sobre nós a luz do teu rosto!”. A alegria que Davi descreve é maior que a de quem tem celeiro cheio — não porque despreze o pão, mas porque descobriu algo que o pão não dá."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que irritação de hoje ainda está “agitando” você, e o que aconteceria se você a levasse ao silêncio antes de responder?",
+      "Onde você tem buscado alegria em “trigo e vinho” — resultados, posses, aprovação — esperando que eles façam o que só o rosto de Deus faz?",
+      "Que alívio passado Deus já lhe deu e que você pode usar como argumento na oração de hoje?"
     ],
-    "application": "Antes de dormir hoje, faça o exercício do versículo 4: em silêncio no leito, examine o coração diante de Deus e entregue a ele uma inquietação específica.",
+    "application": "Se algo o irritou hoje, não responda por mensagem ou palavra até amanhã. Leve o assunto ao travesseiro, como no versículo 4, e só depois decida o que dizer.",
     "prayer": "Deus da minha justiça, responde quando eu clamar. Tu me deste alegria maior que a fartura de trigo e vinho; faz-me deitar e dormir em paz, porque só tu me fazes viver em segurança. Amém."
   },
   {
@@ -291,20 +291,20 @@ window.SALMOS = [
     "psalm": 5,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 5",
+    "theme": "Livro I · Confiança e lamento · Salmo 5 · A oração da manhã",
     "date": "Salmo 5",
     "verse": {
-      "text": "Ore e leia o Salmo 5 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 5"
+      "text": "De manhã ouves, Senhor, o meu clamor; de manhã te apresento a minha oração e aguardo com esperança.",
+      "ref": "Salmo 5.3"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "בֹּקֶר",
+      "translit": "boqer",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "manhã",
+      "note": "Boqer é o romper do dia, a hora em que o sacerdote preparava a oferta da manhã no templo. O verbo “apresentar” do versículo 3 é o mesmo usado para arrumar a lenha do sacrifício: Davi arruma sua oração diante de Deus como quem prepara um altar e depois espera o fogo."
     },
-    "context": "Este é o dia 5 da jornada pelo Saltério. Leia o Salmo 5 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento individual de Davi, o Salmo 5 é uma oração matinal em meio a pessoas mentirosas. O salmo alterna entre a descrição dos ímpios (v. 4–6, 9–10) e a postura do salmista (v. 1–3, 7–8, 11–12). Paulo cita o versículo 9 em Romanos 3.13 para mostrar como a língua humana se corrompe.",
     "passage": {
       "ref": "Salmo 5 · capítulo completo (NVI)",
       "verses": [
@@ -359,16 +359,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 5 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Davi começa pedindo que Deus considere o seu “gemer” — algo menos que palavra, mais que silêncio. Há orações que ainda não têm forma. O salmo legitima esse murmúrio: Deus ouve até o que não conseguimos articular.",
+      "“Aguardo com esperança” é o verbo da sentinela que fica no alto do muro olhando o horizonte. A oração da manhã não termina quando dizemos amém; ela continua no olhar atento ao longo do dia. Orar é também vigiar para ver o que Deus fará.",
+      "Davi não entra na casa de Deus por mérito, mas “pelo teu grande amor”. Diante da maldade alheia, seria fácil se sentir o justo da história. Mas o salmista sabe que o acesso a Deus é graça. O contraste não é entre bons e maus, mas entre quem se apoia no amor de Deus e quem se apoia na própria língua."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Como seria arrumar sua oração amanhã cedo como quem prepara um altar, com intenção e ordem?",
+      "Ao longo do dia, você costuma “vigiar” as respostas de Deus ou esquece o que pediu pela manhã?",
+      "Em que relação você se sente tentado a se ver como o justo e o outro como o ímpio, esquecendo que também depende do “grande amor” de Deus?"
     ],
-    "application": "Comece amanhã cedo como o versículo 3: apresente a Deus seu pedido pela manhã e, ao longo do dia, observe com expectativa onde ele responde.",
+    "application": "Amanhã, antes de abrir qualquer tela, faça um pedido específico a Deus. Anote-o num papel e, à noite, releia-o e registre onde você percebeu algum sinal da resposta — ou do silêncio — de Deus.",
     "prayer": "Senhor, de manhã ouves a minha voz; de manhã te apresento a minha oração e aguardo com esperança. Guia-me na tua justiça e endireita diante de mim o teu caminho. Amém."
   },
   {
@@ -376,20 +376,20 @@ window.SALMOS = [
     "psalm": 6,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 6",
+    "theme": "Livro I · Confiança e lamento · Salmo 6 · Lágrimas que encharcam o leito",
     "date": "Salmo 6",
     "verse": {
-      "text": "Ore e leia o Salmo 6 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 6"
+      "text": "Estou exausto de tanto gemer. De tanto chorar inundo de noite a minha cama; de lágrimas encharco o meu leito.",
+      "ref": "Salmo 6.6"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "חָנַן",
+      "translit": "chanan",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ter misericórdia, mostrar favor",
+      "note": "Chanan é o favor imerecido de quem se inclina para o fraco. “Misericórdia, Senhor, pois vou desfalecendo!” não argumenta com méritos, mas com a própria fraqueza. A necessidade é o único argumento de quem não tem outro."
     },
-    "context": "Este é o dia 6 da jornada pelo Saltério. Leia o Salmo 6 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O Salmo 6 é o primeiro dos sete chamados salmos penitenciais da tradição cristã (6, 32, 38, 51, 102, 130, 143). Mais do que confissão de pecado, porém, é um grito de quem está doente no corpo e na alma. O texto passa de uma angústia que encharca a cama (v. 6) para uma súbita certeza: “o Senhor ouviu o meu choro” (v. 8).",
     "passage": {
       "ref": "Salmo 6 · capítulo completo (NVI)",
       "verses": [
@@ -436,16 +436,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 6 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Até quando, Senhor, até quando?” A frase fica incompleta. O salmista não termina a pergunta porque não tem fôlego. Há dores que só conseguem balbuciar. O Saltério não exige gramática perfeita de quem sofre; ele acolhe a frase quebrada.",
+      "O versículo 6 é de uma honestidade física rara: exausto de gemer, a cama inundada, o leito encharcado. A fé não está acima do corpo. Tristeza dói nos ossos, tira o sono, cansa os olhos. Levar isso a Deus não é falta de espiritualidade; é exatamente o que este salmo faz.",
+      "Algo acontece entre os versículos 7 e 8. Não sabemos o quê. A situação externa não parece ter mudado, mas o salmista declara: “o Senhor ouviu”. Às vezes a primeira resposta de Deus não é o fim da dor, mas a certeza de ter sido ouvido. E isso já muda a postura diante dela."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que dor você tem tentado descrever a Deus com frases bonitas, quando o que realmente sai é um “até quando”?",
+      "Como seu corpo tem expressado o que sua alma carrega, e você já incluiu isso na oração?",
+      "O que significaria para você hoje saber que foi ouvido, mesmo antes de ver a situação mudar?"
     ],
-    "application": "Se há um cansaço ou tristeza que você tem escondido de Deus, diga-o hoje com as palavras do versículo 3: 'Até quando, Senhor?'. Não maquie a oração.",
+    "application": "Se há um cansaço profundo em você, procure hoje alguém de confiança — amigo, pastor ou profissional — e diga com simplicidade como está. Lágrimas levadas a Deus também podem ser compartilhadas com o próximo.",
     "prayer": "Senhor, não me repreendas na tua ira. Estou exausto de tanto gemer e minhas lágrimas molham a cama. Volta-te para mim e salva-me por causa do teu amor leal. Amém."
   },
   {
@@ -453,20 +453,20 @@ window.SALMOS = [
     "psalm": 7,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 7",
+    "theme": "Livro I · Confiança e lamento · Salmo 7 · O Juiz que sonda o coração",
     "date": "Salmo 7",
     "verse": {
-      "text": "Ore e leia o Salmo 7 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 7"
+      "text": "Deus justo, que sondas as mentes e os corações, dá fim à maldade dos ímpios e ao justo dá segurança.",
+      "ref": "Salmo 7.9"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "שָׁפַט",
+      "translit": "shafat",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "julgar, fazer justiça",
+      "note": "Shafat não é apenas condenar: é pôr as coisas no lugar, defender quem foi lesado e restaurar a ordem. Por isso o injustiçado pede “julga-me”. Para ele, o juízo de Deus não é ameaça, é esperança."
     },
-    "context": "Este é o dia 7 da jornada pelo Saltério. Leia o Salmo 7 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título menciona “Cuxe, o benjamita”, um personagem desconhecido, provavelmente aliado de Saul que caluniou Davi. O salmo é a oração de alguém falsamente acusado que leva sua causa ao tribunal de Deus. Começa com um juramento de inocência (v. 3–5), passa pela visão de Deus como juiz (v. 6–13) e termina mostrando que o mal cava a própria cova (v. 14–16).",
     "passage": {
       "ref": "Salmo 7 · capítulo completo (NVI)",
       "verses": [
@@ -541,16 +541,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 7 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Antes de pedir que Deus julgue os inimigos, Davi se coloca no banco dos réus: “se nas minhas mãos há injustiça...”. Quem clama por justiça precisa aceitar ser examinado por ela. O pedido mais corajoso do salmo não é contra os outros, é sobre si mesmo.",
+      "Deus é aquele que “sondas as mentes e os corações”, diz Davi — no hebraico, os rins e o coração, as entranhas e a vontade. Ele vê o que ninguém vê: as intenções por trás das ações. Isso é assustador e libertador ao mesmo tempo. Quem foi mal-entendido por todos encontra alívio em ser plenamente conhecido por Um.",
+      "O versículo 14 descreve o mal como uma gravidez: quem gera maldade dá à luz a desilusão. O pecado promete muito e entrega vazio. E o buraco cavado para o outro se torna armadilha para quem cavou. A justiça de Deus às vezes não vem como raio do céu, mas como a lógica interna do mal voltando sobre si."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Diante de uma acusação injusta, você costuma se defender sozinho ou entregar a causa a Deus?",
+      "Que área do seu coração você teria receio de que Deus sondasse — e por que não pedir isso a ele hoje?",
+      "Que “buraco” você já viu se voltar contra quem o cavou, e o que isso lhe ensina sobre a paciência com a justiça de Deus?"
     ],
-    "application": "Pense em uma acusação injusta que você sofreu. Em vez de defender-se sozinho, entregue a causa ao 'justo juiz' (v. 11) e examine se há algo em você que precise ser corrigido.",
+    "application": "Se alguém o difamou, escreva o que aconteceu numa folha e ore o versículo 9 sobre ela. Depois, em vez de buscar revanche, pergunte a Deus se há algo em você que também precisa ser corrigido.",
     "prayer": "Senhor meu Deus, em ti me refugio. Sonda minha mente e meu coração; se há mal em mim, mostra-me. E onde fui acusado injustamente, sê tu o meu juiz e o meu escudo. Amém."
   },
   {
@@ -558,20 +558,20 @@ window.SALMOS = [
     "psalm": 8,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 8",
+    "theme": "Livro I · Confiança e lamento · Salmo 8 · Pequenos sob as estrelas",
     "date": "Salmo 8",
     "verse": {
-      "text": "Ore e leia o Salmo 8 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 8"
+      "text": "pergunto: Que é o homem, para que com ele te importes? E o filho do homem, para que com ele te preocupes?",
+      "ref": "Salmo 8.4"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "אֱנוֹשׁ",
+      "translit": "enosh",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ser humano mortal, frágil",
+      "note": "Enosh vem de uma raiz que indica fraqueza e enfermidade. No versículo 4, “Que é o homem?” usa justamente essa palavra: não o ser humano poderoso, mas o mortal vulnerável. O espanto do salmo é que Deus se importa com algo tão frágil."
     },
-    "context": "Este é o dia 8 da jornada pelo Saltério. Leia o Salmo 8 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O Salmo 8 é o primeiro hino de louvor do Saltério, emoldurado pela mesma frase no início e no fim (v. 1 e 9). No centro está a pergunta sobre o lugar do ser humano no universo. Ecoa Gênesis 1 (domínio sobre as criaturas) e é citado em Hebreus 2.6–9, que o aplica a Jesus, o verdadeiro ser humano coroado de glória.",
     "passage": {
       "ref": "Salmo 8 · capítulo completo (NVI)",
       "verses": [
@@ -614,16 +614,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 8 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Deus firma seu nome como fortaleza “dos lábios das crianças”. É uma inversão deliberada: contra o inimigo poderoso, Deus usa a voz mais fraca. Jesus citou este versículo quando crianças o aclamaram no templo (Mt 21.16). O louvor simples desarma o orgulho complicado.",
+      "Contemplar o céu à noite produz duas sensações ao mesmo tempo: pequenez e assombro. O salmista não fica no niilismo de “somos um grão de poeira”, nem no orgulho de “somos o centro”. Ele faz uma pergunta que se abre em gratidão: por que te importas conosco?",
+      "O ser humano é coroado “de glória e de honra” e recebe domínio sobre a criação. Mas o salmo começa e termina com a majestade do nome de Deus, não do homem. Nossa dignidade é real, mas derivada. Governar a criação é servir como representante, não como dono."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Quando foi a última vez que você parou para contemplar algo da criação sem pressa?",
+      "Você tende mais a se sentir insignificante ou a se sentir no centro de tudo? Como o salmo corrige esse desequilíbrio?",
+      "De que forma concreta você exerce “domínio” sobre a criação — e isso tem sido cuidado ou exploração?"
     ],
-    "application": "Saia hoje à noite e olhe o céu por alguns minutos. Repita o versículo 4 — 'Que é o homem, para que com ele te importes?' — e agradeça pelo cuidado específico de Deus com você.",
+    "application": "Esta noite, afaste-se das luzes por cinco minutos e olhe o céu. Faça a pergunta do versículo 4 em voz alta e, depois, nomeie três formas específicas em que Deus “se importou” com você nesta semana.",
     "prayer": "Senhor, nosso Senhor, como é majestoso o teu nome em toda a terra! Diante da obra dos teus dedos me sinto pequeno, e ainda assim tu te lembras de mim. Faz-me cuidar bem do que me confiaste. Amém."
   },
   {
@@ -631,20 +631,20 @@ window.SALMOS = [
     "psalm": 9,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 9",
+    "theme": "Livro I · Confiança e lamento · Salmo 9 · Torre segura dos oprimidos",
     "date": "Salmo 9",
     "verse": {
-      "text": "Ore e leia o Salmo 9 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 9"
+      "text": "O Senhor é refúgio para os oprimidos, uma torre segura na hora da adversidade. Os que conhecem o teu nome confiam em ti, pois tu, Senhor, jamais abandonas os que te buscam.",
+      "ref": "Salmo 9.9–10"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "מִשְׂגָּב",
+      "translit": "misgav",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "lugar alto, torre de refúgio",
+      "note": "Misgav é um ponto elevado e inacessível, onde o perseguido fica fora do alcance do inimigo. O versículo 9 usa a palavra duas vezes: o Senhor é misgav para o oprimido, misgav na hora da adversidade. Altura, aqui, é segurança."
     },
-    "context": "Este é o dia 9 da jornada pelo Saltério. Leia o Salmo 9 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Os Salmos 9 e 10 provavelmente formavam um único poema acróstico, cada estrofe começando com uma letra do alfabeto hebraico (na Septuaginta, aparecem unidos). O Salmo 9 é a parte de ação de graças: celebra vitórias passadas e o trono justo de Deus, mas termina pedindo de novo que ele se levante. O louvor e a súplica estão entrelaçados.",
     "passage": {
       "ref": "Salmo 9 · capítulo completo (NVI)",
       "verses": [
@@ -731,16 +731,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 9 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Davi quer falar de “todas as tuas maravilhas”. O louvor bíblico é narrativo: não diz apenas que Deus é bom, conta o que ele fez. Gratidão sem memória fica vaga. Cada vitória lembrada é uma pedra que sustenta a fé no dia seguinte.",
+      "O versículo 12 traz uma imagem forte: Deus “pede contas do sangue derramado” e “não esquece”. Os pobres podem ser esquecidos pela história, pelas estatísticas, pelos poderosos. Mas há um registro que não se apaga. A memória de Deus é a garantia dos esquecidos.",
+      "O salmo termina com um pedido curioso: “saibam as nações que não passam de seres humanos”. O problema do poder humano é se esquecer da própria mortalidade. Parte da justiça de Deus é devolver os arrogantes ao seu tamanho real. Isso vale para impérios e para corações."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que “maravilha” concreta de Deus você poderia contar hoje, com detalhes, a alguém?",
+      "Quem são os oprimidos e esquecidos ao seu redor de quem Deus se lembra e você talvez tenha esquecido?",
+      "Em que área você precisa ser lembrado de que “não passa de ser humano”?"
     ],
-    "application": "Faça como o versículo 1: conte a alguém hoje uma 'maravilha' concreta que Deus fez na sua vida, e agradeça a ele por ser refúgio dos oprimidos.",
+    "application": "Escreva uma pequena lista de três livramentos que Deus já lhe deu e envie um deles, em forma de testemunho curto, a alguém que esteja precisando de esperança.",
     "prayer": "Senhor, quero dar-te graças de todo o coração e contar todas as tuas maravilhas. Tu és refúgio para os oprimidos e não abandonas os que te buscam. Lembra-te dos aflitos de hoje. Amém."
   },
   {
@@ -748,20 +748,20 @@ window.SALMOS = [
     "psalm": 10,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 10",
+    "theme": "Livro I · Confiança e lamento · Salmo 10 · Quando Deus parece longe",
     "date": "Salmo 10",
     "verse": {
-      "text": "Ore e leia o Salmo 10 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 10"
+      "text": "Mas tu enxergas o sofrimento e a dor; observa-os para tomá-los em tuas mãos. A vítima deles entrega-se a ti; tu és o protetor do órfão.",
+      "ref": "Salmo 10.14"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "עָנִי",
+      "translit": "ani",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "pobre, aflito, oprimido",
+      "note": "Ani é o pobre que foi rebaixado, não por escolha, mas pela força de outros. A palavra aparece várias vezes no salmo. Na Bíblia, Deus se identifica com os anawim — os pobres que dependem dele —, e esse grupo se torna símbolo de todos os que esperam no Senhor."
     },
-    "context": "Este é o dia 10 da jornada pelo Saltério. Leia o Salmo 10 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Segunda metade do acróstico iniciado no Salmo 9, o Salmo 10 é um lamento sobre a injustiça social. Não há título nem autor indicado. Ele descreve com detalhes o ímpio predador (v. 2–11), que age como leão de tocaia, e termina com um apelo para que Deus se levante em favor do órfão e do oprimido (v. 12–18).",
     "passage": {
       "ref": "Salmo 10 · capítulo completo (NVI)",
       "verses": [
@@ -840,16 +840,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 10 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo abre com uma pergunta que muitos sentem e poucos verbalizam: “Senhor, por que estás tão longe?”. A Bíblia não censura a pergunta; ela a coloca na boca do povo de Deus. Questionar a aparente ausência de Deus pode ser um ato de fé — afinal, só se reclama da ausência de quem se espera que esteja presente.",
+      "O retrato do ímpio é perturbadoramente atual: arrogante, ganancioso, sem lugar para Deus em seus planos, convencido de que nunca será cobrado. Seu ateísmo é prático, não teórico: “Deus se esqueceu”. Vale perguntar quantas vezes vivemos como se Deus não estivesse vendo.",
+      "A virada vem no versículo 14: “Mas tu enxergas”. O mesmo Deus que parecia escondido vê o sofrimento “para tomá-los em tuas mãos”. A vítima pode se entregar a ele. A justiça não é imediata, mas o salmo termina com uma certeza: o homem, que é pó, não terá a última palavra sobre os fracos."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você já teve coragem de perguntar a Deus “por que estás tão longe”? O que essa pergunta revela sobre sua fé?",
+      "Em que área você age como se Deus não estivesse vendo ou não fosse pedir contas?",
+      "Quem, perto de você, está sendo apanhado nas “redes” de alguém mais forte — e como você pode ser instrumento da mão de Deus em favor dessa pessoa?"
     ],
-    "application": "Escolha uma injustiça concreta que você conhece — alguém explorado, enganado ou indefeso — e ore pelo nome dessa situação, pedindo também a Deus um passo prático de ajuda.",
+    "application": "Pesquise hoje uma iniciativa séria que defenda órfãos, vítimas de exploração ou pessoas em situação de rua na sua cidade. Ore por ela pelo nome e veja se pode contribuir com tempo, recursos ou voz.",
     "prayer": "Senhor, por que te manténs distante em tempos de angústia? Levanta-te e não te esqueças dos indefesos. Tu vês a desgraça e o sofrimento; sê o defensor do órfão e do oprimido. Amém."
   },
   {
@@ -857,20 +857,20 @@ window.SALMOS = [
     "psalm": 11,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 11",
+    "theme": "Livro I · Confiança e lamento · Salmo 11 · Quando os fundamentos tremem",
     "date": "Salmo 11",
     "verse": {
-      "text": "Ore e leia o Salmo 11 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 11"
+      "text": "Quando os fundamentos estão sendo destruídos, que pode fazer o justo?",
+      "ref": "Salmo 11.3"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "חָסָה",
+      "translit": "chasah",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "refugiar-se, abrigar-se",
+      "note": "Chasah é correr para debaixo de algo que protege: uma rocha, uma sombra, asas. O salmo começa com ela — “No Senhor me refugio” — e por isso a sugestão de fugir para os montes soa absurda. Quem já tem abrigo não precisa de outro esconderijo."
     },
-    "context": "Este é o dia 11 da jornada pelo Saltério. Leia o Salmo 11 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de confiança atribuído a Davi, provavelmente de um tempo de perigo na corte de Saul. Conselheiros bem-intencionados sugerem que ele fuja: os fundamentos da sociedade estão desabando. O salmista responde olhando para cima: o Senhor está no templo e no trono, e seus olhos examinam tudo.",
     "passage": {
       "ref": "Salmo 11 · capítulo completo (NVI)",
       "verses": [
@@ -905,16 +905,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 11 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Fuja como um pássaro para os montes” é um conselho que parece prudente. Às vezes a voz mais tentadora não é a do inimigo, mas a do amigo assustado. Fugir nem sempre é errado, mas aqui seria abandonar a confiança. O salmista discerne que o medo dos outros não precisa ser o seu.",
+      "A pergunta do versículo 3 é a pergunta de muitas épocas: quando as instituições, a moral e as estruturas desabam, que pode fazer o justo? O salmo não responde com um plano de ação, mas com uma mudança de perspectiva: o Senhor ainda está no seu templo. Os fundamentos humanos tremem; o trono não.",
+      "Os olhos de Deus “examinam” os seres humanos — a palavra é usada para quem testa metal no fogo. Deus prova o justo. Isso significa que a crise não é sinal de abandono, mas pode ser lugar de refino. E o fim é belo: “os retos verão a sua face”. O destino do justo não é apenas sobreviver, mas contemplar."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que voz ao seu redor está aconselhando fuga, e você tem discernido se esse conselho vem de fé ou de medo?",
+      "Que “fundamento” da sua vida parece estar desabando, e como seria olhar para o trono de Deus em vez de para os escombros?",
+      "Você consegue ver a crise atual como possível tempo de prova e refino, sem negar a dor dela?"
     ],
-    "application": "Quando a vontade for 'fugir como um pássaro para os montes' (v. 1), pare e pergunte: em que estou confiando? Escreva uma decisão em que você vai permanecer firme em vez de fugir.",
+    "application": "Escreva numa coluna os “fundamentos” que parecem estar ruindo à sua volta e, na outra, o que o versículo 4 diz que permanece. Ore lendo a segunda coluna em voz alta.",
     "prayer": "Senhor, em ti me refugio. Quando os fundamentos parecem destruídos, lembra-me de que estás no teu santo templo e o teu trono está nos céus. Firma-me no lugar onde me puseste. Amém."
   },
   {
@@ -922,20 +922,20 @@ window.SALMOS = [
     "psalm": 12,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 12",
+    "theme": "Livro I · Confiança e lamento · Salmo 12 · Prata sete vezes refinada",
     "date": "Salmo 12",
     "verse": {
-      "text": "Ore e leia o Salmo 12 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 12"
+      "text": "As palavras do Senhor são puras, são como prata purificada num forno, sete vezes refinada.",
+      "ref": "Salmo 12.6"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "אִמְרָה",
+      "translit": "imrah",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "palavra, dito",
+      "note": "Imrah é a palavra falada, o dito que sai da boca. O salmo contrasta as palavras humanas — bajuladoras e duplas — com as imrot do Senhor, que são puras como prata passada sete vezes pelo forno. Sete é o número da completude: não sobrou nenhuma impureza."
     },
-    "context": "Este é o dia 12 da jornada pelo Saltério. Leia o Salmo 12 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento comunitário sobre uma sociedade em que a verdade desapareceu. O tema central é a fala: lábios bajuladores, línguas arrogantes, gente que se diz dona das próprias palavras. No centro do salmo, o próprio Deus fala (v. 5), e sua palavra é o oposto de toda manipulação.",
     "passage": {
       "ref": "Salmo 12 · capítulo completo (NVI)",
       "verses": [
@@ -974,16 +974,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 12 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Já não há quem seja fiel” é o lamento de quem não sabe mais em quem confiar. A crise do salmo não é de violência física, mas de palavra: elogios falsos, segundas intenções, “coração duplo” no hebraico. Uma sociedade adoece quando ninguém mais acredita no que o outro diz.",
+      "O versículo 4 revela o fundo do problema: “somos donos dos nossos lábios! Quem é senhor sobre nós?”. A mentira, no fim, é uma declaração de independência de Deus. Quem usa a palavra como arma acredita que ela não tem dono além de si mesmo.",
+      "No meio do barulho, Deus fala — e se levanta por causa “do gemido do pobre”. As vítimas da língua manipuladora são, quase sempre, os mais fracos. A palavra de Deus é pura não só porque é verdadeira, mas porque não oprime. Ela é refinada; a nossa precisa ser."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Onde você tem usado bajulação, exagero ou meia-verdade para conseguir algo?",
+      "Em que situação você age como “dono dos seus lábios”, sem prestar contas a Deus pelo que fala?",
+      "Que palavra de Deus tem sido “prata refinada” para você em meio a tantas vozes confusas?"
     ],
-    "application": "Observe suas palavras hoje: evite bajulação, exagero e meias-verdades. À noite, compare o que você falou com 'as palavras puras do Senhor' (v. 6).",
+    "application": "Durante um dia inteiro, evite elogios que você não sente e frases ditas para impressionar. À noite, anote em que momento foi mais difícil falar com simplicidade e verdade.",
     "prayer": "Senhor, as palavras humanas estão cheias de bajulação e engano, mas as tuas palavras são puras como prata refinada. Guarda os pobres da mentira e purifica a minha boca. Amém."
   },
   {
@@ -991,20 +991,20 @@ window.SALMOS = [
     "psalm": 13,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 13",
+    "theme": "Livro I · Confiança e lamento · Salmo 13 · Até quando?",
     "date": "Salmo 13",
     "verse": {
-      "text": "Ore e leia o Salmo 13 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 13"
+      "text": "Eu, porém, confio em teu amor; o meu coração exulta em tua salvação.",
+      "ref": "Salmo 13.5"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "עַד־אָנָה",
+      "translit": "ad-anah",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "até quando?",
+      "note": "Ad-anah aparece quatro vezes nos dois primeiros versículos, como golpes repetidos numa porta fechada. É a pergunta de quem não questiona se Deus existe, mas por quanto tempo ele vai permanecer em silêncio."
     },
-    "context": "Este é o dia 13 da jornada pelo Saltério. Leia o Salmo 13 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O Salmo 13 é o lamento em forma pura e talvez o mais curto do Saltério. Em seis versículos, percorre o caminho completo da oração de lamento: queixa (v. 1–2), pedido (v. 3–4) e confiança (v. 5–6). Não há explicação de como a situação mudou, apenas a decisão de confiar.",
     "passage": {
       "ref": "Salmo 13 · capítulo completo (NVI)",
       "verses": [
@@ -1035,16 +1035,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 13 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "As quatro perguntas mostram as dimensões do sofrimento: “te esquecerás de mim?” (Deus), “esconderás de mim o teu rosto?” (relação), “terei inquietações?” (alma), “o meu inimigo triunfará?” (circunstâncias). O lamento não é uma reclamação genérica; ele mapeia a dor com precisão.",
+      "O pedido do versículo 3 é “ilumina os meus olhos”. Em hebraico, olhos apagados são sinal de doença, exaustão e morte. O salmista não pede primeiro a solução do problema, mas vida para continuar. Há momentos em que a oração mais honesta é: dá-me luz suficiente para mais um dia.",
+      "O versículo 5 começa com “Eu, porém”. Nada lá fora mudou, mas o salmista muda de posição. Ele se lembra do hesed de Deus — o amor leal — e decide cantar “pelo bem que me tem feito”. A confiança não apaga as perguntas; ela as coloca ao lado da memória da bondade."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Se você fosse mapear seu sofrimento atual como o salmista, qual das quatro perguntas mais o representa?",
+      "O que você pediria a Deus se pudesse pedir apenas luz suficiente para hoje?",
+      "Que “bem que ele me tem feito” você pode lembrar mesmo enquanto ainda pergunta “até quando”?"
     ],
-    "application": "Escreva sua própria pergunta 'Até quando?' (v. 1–2) sobre algo que se arrasta, e termine-a como o salmista: 'Eu, porém, confio em teu amor'.",
+    "application": "Escreva quatro linhas começando com “Até quando...” sobre algo que se arrasta na sua vida. Depois escreva uma linha começando com “Eu, porém...” e leia tudo como oração, sem apagar nenhuma das perguntas.",
     "prayer": "Até quando, Senhor? Até quando esconderás de mim o teu rosto? Ilumina os meus olhos. Mesmo sem respostas, confio no teu amor e cantarei porque tens sido bom para mim. Amém."
   },
   {
@@ -1052,20 +1052,20 @@ window.SALMOS = [
     "psalm": 14,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 14",
+    "theme": "Livro I · Confiança e lamento · Salmo 14 · O ateísmo do coração",
     "date": "Salmo 14",
     "verse": {
-      "text": "Ore e leia o Salmo 14 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 14"
+      "text": "O Senhor olha dos céus para os filhos dos homens, para ver se há alguém que tenha entendimento, alguém que busque a Deus.",
+      "ref": "Salmo 14.2"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "נָבָל",
+      "translit": "naval",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "tolo, insensato",
+      "note": "Naval não é o ignorante sem estudo, mas o moralmente insensato que vive como se Deus não importasse. É o mesmo nome do marido de Abigail (1Sm 25), cujo nome era seu retrato. A tolice bíblica é uma escolha de vida, não uma falha de inteligência."
     },
-    "context": "Este é o dia 14 da jornada pelo Saltério. Leia o Salmo 14 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo sapiencial e profético, quase idêntico ao Salmo 53. Descreve a corrupção humana universal e é citado por Paulo em Romanos 3.10–12 para mostrar que todos pecaram. Mas termina com esperança: Deus está no meio dos justos e é refúgio dos pobres.",
     "passage": {
       "ref": "Salmo 14 · capítulo completo (NVI)",
       "verses": [
@@ -1100,16 +1100,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 14 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O tolo diz “Deus não existe” “em seu coração”, não necessariamente com a boca. É possível frequentar cultos e ainda assim viver com esse ateísmo prático. A pergunta não é apenas o que confessamos com os lábios, mas o que nossas decisões revelam sobre o lugar de Deus.",
+      "O Senhor olha dos céus procurando “alguém que busque a Deus”. É uma cena que lembra o dilúvio e Babel. O diagnóstico é duro: “não há nem um sequer”. Ninguém está fora da necessidade de graça. Paulo usará este verso para mostrar que a salvação não pode vir de dentro de nós.",
+      "Os malfeitores devoram o povo “como quem come pão” — com naturalidade, sem remorso, como rotina. O mal mais perigoso é o que se torna normal. Mas o salmo não termina no pessimismo: “Deus está presente no meio dos justos”, e o refúgio dos pobres é o Senhor."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que decisão recente você agiu como se Deus não existisse, mesmo crendo nele?",
+      "Que forma de injustiça se tornou tão “normal” na sua cultura que você já não se escandaliza com ela?",
+      "Como o diagnóstico de que “não há ninguém que faça o bem” muda sua forma de olhar para si e para os outros?"
     ],
-    "application": "O 'tolo' do versículo 1 vive como se Deus não existisse. Identifique uma área da sua rotina em que você age assim e convide Deus para dentro dela hoje.",
+    "application": "Ao planejar a agenda de amanhã, pergunte em cada compromisso: “Se Deus não existisse, eu faria isso de forma diferente?”. Onde a resposta for “não”, convide-o conscientemente para aquele momento.",
     "prayer": "Senhor, não há quem faça o bem, nem um sequer — eu também preciso de ti. Olha desde os céus, encontra-me buscando-te e traz a salvação que vem de Sião. Amém."
   },
   {
@@ -1117,20 +1117,20 @@ window.SALMOS = [
     "psalm": 15,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 15",
+    "theme": "Livro I · Confiança e lamento · Salmo 15 · Quem pode morar com Deus?",
     "date": "Salmo 15",
     "verse": {
-      "text": "Ore e leia o Salmo 15 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 15"
+      "text": "Senhor, quem habitará no teu santuário? Quem poderá morar no teu santo monte? Aquele que é íntegro em sua conduta e pratica o que é justo, que de coração fala a verdade",
+      "ref": "Salmo 15.1–2"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "תָּמִים",
+      "translit": "tamim",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "íntegro, inteiro",
+      "note": "Tamim descreve algo completo, sem rachaduras, como o animal sem defeito oferecido no altar. A pessoa íntegra não é perfeita, mas inteira: o que ela é por dentro corresponde ao que mostra por fora."
     },
-    "context": "Este é o dia 15 da jornada pelo Saltério. Leia o Salmo 15 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Liturgia de entrada no templo. Os peregrinos perguntam quem pode subir ao monte de Deus, e um sacerdote responde com uma lista de condutas (v. 2–5). Não são rituais, mas atitudes éticas: verdade, lealdade, justiça econômica. O Salmo 24 tem estrutura parecida.",
     "passage": {
       "ref": "Salmo 15 · capítulo completo (NVI)",
       "verses": [
@@ -1157,16 +1157,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 15 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "A pergunta do versículo 1 não é “quem pode visitar”, mas “quem poderá morar”. O salmo fala de hospitalidade permanente na casa de Deus. E a resposta surpreende: não se trata de quantas orações você faz, mas de como você trata as pessoas.",
+      "Repare em quantas condutas têm a ver com a boca: falar a verdade, não difamar, não caluniar, manter a palavra. A língua aparece como termômetro da integridade. Quem habita com Deus aprende a falar como ele fala: com verdade e sem violência.",
+      "“Mantém a sua palavra, mesmo quando sai prejudicado.” Este é talvez o traço mais difícil e mais belo da lista. Integridade custa. A pessoa tamim não muda de compromisso quando ele fica caro. E a promessa final é estabilidade: “nunca será abalado”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que compromisso você fez e está tentado a quebrar porque ficou caro?",
+      "Como você tem usado sua língua quando fala de pessoas ausentes?",
+      "Em que área a sua vida por dentro ainda não corresponde ao que você mostra por fora?"
     ],
-    "application": "Use o salmo como espelho: escolha um dos traços (falar a verdade, não difamar, cumprir a palavra mesmo com prejuízo) e pratique-o de forma concreta hoje.",
+    "application": "Lembre-se de uma promessa que você deixou de cumprir — a alguém da família, um amigo, um colega — e dê hoje um passo concreto para honrá-la, mesmo que custe algo.",
     "prayer": "Senhor, quem poderá habitar no teu santo monte? Dá-me integridade, uma língua que não calunia e palavra que se cumpre mesmo quando custa. Que eu seja inabalável em ti. Amém."
   },
   {
@@ -1174,20 +1174,20 @@ window.SALMOS = [
     "psalm": 16,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 16",
+    "theme": "Livro I · Confiança e lamento · Salmo 16 · Minha porção e meu cálice",
     "date": "Salmo 16",
     "verse": {
-      "text": "Ore e leia o Salmo 16 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 16"
+      "text": "Tu me farás conhecer a vereda da vida, a alegria plena da tua presença, eterno prazer à tua direita.",
+      "ref": "Salmo 16.11"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "חֵלֶק",
+      "translit": "cheleq",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "porção, parte da herança",
+      "note": "Cheleq é a parte da terra que cabia a cada família em Israel. Os levitas não receberam terra: “o Senhor é a sua herança” (Nm 18.20). Davi faz dessa condição sacerdotal sua confissão: a minha porção não é um lote, é Deus."
     },
-    "context": "Este é o dia 16 da jornada pelo Saltério. Leia o Salmo 16 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de confiança, chamado no título de miktam (talvez “poema gravado”). Começa com um pedido de proteção e se transforma em uma das mais belas declarações de satisfação em Deus. Pedro (At 2.25–31) e Paulo (At 13.35) leem os versículos 8–11 como profecia da ressurreição de Jesus.",
     "passage": {
       "ref": "Salmo 16 · capítulo completo (NVI)",
       "verses": [
@@ -1238,16 +1238,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 16 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Não tenho bem nenhum além de ti” não é desprezo pelas coisas boas da vida, mas a descoberta de que nenhuma delas é boa fora de Deus. É uma frase que reordena prioridades. O que você perderia sem achar que perdeu tudo?",
+      "As “divisas” do versículo 6 são as cordas de medir terreno. Davi olha para sua vida e diz: o lote que me coube é bonito. Isso não é ingenuidade; é gratidão de quem aprendeu a ver os limites da própria vida como presente, não como prisão.",
+      "O salmo termina com uma esperança que atravessa a morte: Deus não abandonará seu santo no sepulcro. Para os apóstolos, isso se cumpriu em Jesus. Para nós, é a garantia de que a “vereda da vida” não termina num túmulo, mas na “alegria plena da tua presença”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Se Deus fosse sua única porção, o que deixaria de parecer indispensável para você?",
+      "Que limite da sua vida você tem visto como prisão, e como seria vê-lo como “lugar agradável”?",
+      "Como a esperança da ressurreição muda a forma como você encara perdas atuais?"
     ],
-    "application": "Faça uma lista curta das 'divisas que caíram em lugares agradáveis' (v. 6) da sua vida e agradeça a Deus por cada uma, declarando que ele é sua porção.",
+    "application": "Desenhe uma linha representando sua vida e marque nela as “divisas” — limites, lugares, pessoas — que Deus lhe deu. Ao lado de cada uma, escreva uma palavra de gratidão.",
     "prayer": "Senhor, tu és o meu Senhor; não tenho bem nenhum além de ti. Tu és a minha porção e o meu cálice. Mostra-me o caminho da vida e enche-me de alegria na tua presença. Amém."
   },
   {
@@ -1255,20 +1255,20 @@ window.SALMOS = [
     "psalm": 17,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 17",
+    "theme": "Livro I · Confiança e lamento · Salmo 17 · A menina dos olhos de Deus",
     "date": "Salmo 17",
     "verse": {
-      "text": "Ore e leia o Salmo 17 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 17"
+      "text": "Protege-me como à menina dos teus olhos; esconde-me à sombra das tuas asas,",
+      "ref": "Salmo 17.8"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "אִישׁוֹן",
+      "translit": "ishon",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "pupila, menina dos olhos",
+      "note": "Ishon significa literalmente “homenzinho”: o reflexo minúsculo de quem olhamos de perto aparece na pupila. Ser a menina dos olhos de Deus é estar tão perto dele que sua imagem está refletida no olhar divino — e é a parte do corpo que mais instintivamente protegemos."
     },
-    "context": "Este é o dia 17 da jornada pelo Saltério. Leia o Salmo 17 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Oração de Davi, um lamento de quem se sente perseguido e inocente. O salmo alterna entre a declaração de integridade (v. 1–5), o pedido de proteção (v. 6–9), a descrição dos inimigos como leões (v. 10–12) e a esperança final de ver a face de Deus (v. 15).",
     "passage": {
       "ref": "Salmo 17 · capítulo completo (NVI)",
       "verses": [
@@ -1335,16 +1335,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 17 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Davi pede que Deus o examine “de noite”. A noite é a hora em que as máscaras caem, os pensamentos se soltam e a consciência fala. Quem pede para ser sondado à noite está disposto a ser visto por inteiro. Integridade é o que sobra quando ninguém está olhando.",
+      "Duas imagens de proteção aparecem juntas: a pupila que a pálpebra protege por reflexo e as asas da ave que cobrem os filhotes. Uma é instintiva, a outra é maternal. Deus guarda os seus com a rapidez de um reflexo e com a ternura de uma mãe.",
+      "Os inimigos são homens “cuja recompensa está nesta vida”: estômago cheio, filhos fartos, herança. Davi não os inveja. A recompensa dele é outra: “verei a tua face”. O salmo termina com um despertar. Seja de manhã ou na ressurreição, a satisfação plena está em contemplar a Deus."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "O que Deus encontraria se sondasse seu coração esta noite?",
+      "Você consegue receber a ideia de que é a “menina dos olhos” de Deus, ou isso parece distante da sua autoimagem?",
+      "Que “recompensa nesta vida” você tem invejado em outros, esquecendo a recompensa maior de ver a face de Deus?"
     ],
-    "application": "Peça a Deus para examinar o seu coração à noite, como no versículo 3, e anote uma área que ele lhe mostrar. Depois descanse sob a 'sombra das suas asas' (v. 8).",
+    "application": "Antes de dormir hoje, fique dois minutos em silêncio e peça a Deus que o sonde. Anote o que vier à mente. Depois, deite-se imaginando-se debaixo das asas de Deus.",
     "prayer": "Senhor, ouve a minha causa justa. Guarda-me como a menina dos teus olhos e esconde-me à sombra das tuas asas. Quando eu acordar, ficarei satisfeito ao ver a tua face. Amém."
   },
   {
@@ -1663,20 +1663,20 @@ window.SALMOS = [
     "psalm": 19,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 19",
+    "theme": "Livro I · Confiança e lamento · Salmo 19 · Dois livros: o céu e a Palavra",
     "date": "Salmo 19",
     "verse": {
-      "text": "Ore e leia o Salmo 19 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 19"
+      "text": "Os céus declaram a glória de Deus; o firmamento proclama a obra das suas mãos.",
+      "ref": "Salmo 19.1"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "גֹּאֵל",
+      "translit": "go'el",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "resgatador, parente redentor",
+      "note": "Go'el era o parente próximo que tinha o dever de resgatar o familiar vendido como escravo, recuperar sua terra ou vingar seu sangue — como Boaz para Rute. O salmo termina chamando Deus de “meu Resgatador”: o Criador dos céus é também o parente que paga o preço por mim."
     },
-    "context": "Este é o dia 19 da jornada pelo Saltério. Leia o Salmo 19 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O Salmo 19 tem duas partes claras: a glória de Deus revelada na criação (v. 1–6) e na lei (v. 7–11), e termina com uma oração pessoal de purificação (v. 12–14). C. S. Lewis o chamou de “o maior poema do Saltério”. O nome de Deus muda de El (Deus) na primeira parte para YHWH (Senhor) na segunda: da revelação geral para a revelação pessoal da aliança.",
     "passage": {
       "ref": "Salmo 19 · capítulo completo (NVI)",
       "verses": [
@@ -1739,16 +1739,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 19 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Os céus falam “sem discurso nem palavras”, mas sua voz chega a toda a terra. A criação é uma pregação silenciosa e contínua: cada amanhecer é um sermão sobre a fidelidade de Deus. O sol é descrito como um noivo alegre e um atleta animado — imagens de energia e prazer, não de rotina cansada.",
+      "A lei do Senhor recebe seis nomes e seis efeitos: revigora a alma, dá sabedoria, alegra o coração, ilumina os olhos. Para o salmista, a Palavra não é peso, é mais doce que o mel. Se as Escrituras se tornaram cansativas para você, talvez seja hora de lê-las como quem prova algo, e não como quem cumpre tarefa.",
+      "A Palavra que ilumina também revela o que estava escondido: “Quem pode discernir os próprios erros?”. Há pecados que nem percebemos. O salmo termina pedindo que até a meditação do coração — o que ninguém vê — seja agradável a Deus. A Bíblia lida com seriedade nos leva sempre a essa oração."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que parte da criação mais “fala” com você sobre Deus, e quando foi a última vez que você a escutou?",
+      "As Escrituras têm sido para você mais doces que o mel ou mais pesadas que uma obrigação?",
+      "Que “erro que desconheço” você pediria a Deus para revelar e perdoar hoje?"
     ],
-    "application": "Hoje, observe o céu duas vezes (manhã e noite) e depois leia um trecho das Escrituras: reconheça que Deus fala pela criação e pela Palavra. Termine orando o versículo 14.",
+    "application": "Escolha um dos seis efeitos da Palavra nos versículos 7–8 (revigorar, dar sabedoria, alegrar, iluminar...) e leia hoje um trecho bíblico buscando especificamente aquele efeito. Termine orando o versículo 14.",
     "prayer": "Senhor, os céus declaram a tua glória e a tua lei restaura a alma. Purifica-me das faltas que desconheço e que as palavras da minha boca e a meditação do meu coração te agradem, minha Rocha e meu Redentor. Amém."
   },
   {
@@ -1756,20 +1756,20 @@ window.SALMOS = [
     "psalm": 20,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 20",
+    "theme": "Livro I · Confiança e lamento · Salmo 20 · Nem carros, nem cavalos",
     "date": "Salmo 20",
     "verse": {
-      "text": "Ore e leia o Salmo 20 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 20"
+      "text": "Alguns confiam em carros e outros em cavalos, mas nós confiamos no nome do Senhor nosso Deus.",
+      "ref": "Salmo 20.7"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "שֵׁם",
+      "translit": "shem",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "nome",
+      "note": "Shem é mais que um rótulo: representa a pessoa inteira, seu caráter e sua reputação. O salmo repete o “nome” do Senhor três vezes. Confiar no nome de Deus é confiar em quem ele revelou ser, e não em uma ideia vaga sobre ele."
     },
-    "context": "Este é o dia 20 da jornada pelo Saltério. Leia o Salmo 20 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo real em forma de oração do povo pelo rei antes de uma batalha. Os versículos 1–5 são a bênção da congregação; o versículo 6 é a resposta de alguém (talvez um sacerdote ou profeta) que recebeu a certeza da vitória; os versículos 7–9 são a confissão de fé coletiva. O Salmo 21 é o seu par: a ação de graças depois da vitória.",
     "passage": {
       "ref": "Salmo 20 · capítulo completo (NVI)",
       "verses": [
@@ -1812,16 +1812,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 20 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com o povo orando pelo líder. É uma oração intercessora: “Que o Senhor te responda no tempo da angústia”. Há algo de bonito em uma comunidade que carrega quem a governa diante de Deus em vez de apenas criticá-lo.",
+      "Carros e cavalos eram a tecnologia militar mais avançada da época. O versículo 7 não despreza recursos, mas recusa confiar neles. Hoje os carros e cavalos têm outros nomes: dinheiro, contatos, currículo, saúde, planejamento. A pergunta é onde está o peso do coração quando tudo isso falha.",
+      "“Eles vacilam e caem, mas nós nos erguemos e estamos firmes.” A firmeza não depende do tamanho do exército, mas do nome em que se confia. Quem se apoia em recursos cai quando eles caem. Quem se apoia em Deus pode até cair, mas se levanta."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que líder — familiar, eclesiástico ou político — precisa da sua intercessão mais do que da sua crítica?",
+      "Quais são os seus “carros e cavalos” hoje?",
+      "Como você reagiria se o recurso em que mais confia falhasse amanhã?"
     ],
-    "application": "Ore pelo nome de alguém que está enfrentando um 'dia de angústia' (v. 1), usando as bênçãos do salmo. Depois, identifique seu próprio 'carro ou cavalo' (v. 7) e renuncie a confiar nele.",
+    "application": "Escreva o nome de um líder que enfrenta um “tempo da angústia” e ore por ele os versículos 1–4, trocando “te” pelo nome da pessoa. Se possível, envie-lhe uma mensagem dizendo que orou.",
     "prayer": "Senhor, alguns confiam em carros e outros em cavalos, mas nós confiamos no teu nome. Responde no dia da angústia e concede o desejo do coração dos que te buscam. Amém."
   },
   {
@@ -1829,20 +1829,20 @@ window.SALMOS = [
     "psalm": 21,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 21",
+    "theme": "Livro I · Confiança e lamento · Salmo 21 · Vida que se pediu e se recebeu",
     "date": "Salmo 21",
     "verse": {
-      "text": "Ore e leia o Salmo 21 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 21"
+      "text": "Ele te pediu vida, e tu lhe deste! Vida longa e duradoura.",
+      "ref": "Salmo 21.4"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "עֹז",
+      "translit": "oz",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "força, poder",
+      "note": "Oz é a força que vence resistências. O salmo começa e termina com ela: o rei se alegra na força do Senhor (v. 1) e o povo canta essa força (v. 13). A moldura deixa claro que o protagonista da vitória não é o rei."
     },
-    "context": "Este é o dia 21 da jornada pelo Saltério. Leia o Salmo 21 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo real de ação de graças, gêmeo do Salmo 20. Se lá o povo pediu a vitória do rei, aqui agradece por ela. A primeira parte (v. 1–7) celebra o que Deus deu ao rei; a segunda (v. 8–12) dirige-se ao rei e anuncia vitórias futuras; o versículo 13 fecha com louvor coletivo.",
     "passage": {
       "ref": "Salmo 21 · capítulo completo (NVI)",
       "verses": [
@@ -1901,16 +1901,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 21 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Tu lhe concedeste o desejo do seu coração.” O salmo celebra uma oração atendida com alegria explícita. Às vezes somos rápidos para pedir e lentos para agradecer com a mesma intensidade. Gratidão também é uma forma de oração, e merece o mesmo fervor do pedido.",
+      "“Ele te pediu vida, e tu lhe deste!” Antes de coroas e vitórias, o pedido mais básico: viver. Cada dia de vida é uma resposta de oração que esquecemos de registrar. O salmo nos ensina a não tratar como óbvio o que é dom.",
+      "O centro do salmo é o versículo 7: o rei confia no Senhor, e por causa da fidelidade do Altíssimo não será abalado. A estabilidade do rei não está na coroa, mas na confiança. Lido à luz de Cristo, é o Rei perfeito que confia perfeitamente no Pai."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Qual foi a última oração atendida pela qual você agradeceu com o mesmo fervor com que pediu?",
+      "Que dons básicos — vida, fôlego, saúde — você tem tratado como óbvios?",
+      "Onde está a sua estabilidade: na “coroa” que você conquistou ou na fidelidade de Deus?"
     ],
-    "application": "Lembre-se de uma oração que Deus respondeu e escreva o que ele lhe deu (v. 2). Agradeça especificamente, reconhecendo que a força veio dele e não de você.",
+    "application": "Separe dez minutos para lembrar orações atendidas no último ano. Escolha uma e agradeça a Deus com o mesmo detalhamento com que você pediu — talvez até em voz alta ou com um cântico.",
     "prayer": "Senhor, tu concedeste o desejo do coração e não negaste o pedido dos lábios. A vitória é tua; exalta-te, Senhor, na tua força, e nós cantaremos o teu poder. Amém."
   },
   {
@@ -2116,20 +2116,20 @@ window.SALMOS = [
     "psalm": 23,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 23",
+    "theme": "Livro I · Confiança e lamento · Salmo 23 · O Pastor que não deixa faltar",
     "date": "Salmo 23",
     "verse": {
-      "text": "Ore e leia o Salmo 23 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 23"
+      "text": "O Senhor é o meu pastor; de nada terei falta.",
+      "ref": "Salmo 23.1"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "רֹעֶה",
+      "translit": "ro'eh",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "pastor",
+      "note": "Ro'eh é quem alimenta, guia e protege o rebanho. No antigo Oriente, reis eram chamados de pastores do povo. Davi, que foi pastor de verdade, usa o título para Deus com conhecimento de causa: ele sabe o que é cuidar de ovelhas frágeis e teimosas."
     },
-    "context": "Este é o dia 23 da jornada pelo Saltério. Leia o Salmo 23 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O salmo mais conhecido da Bíblia tem duas imagens: Deus como pastor (v. 1–4) e como anfitrião (v. 5–6). A mudança de pronome é significativa: Davi fala de Deus (“ele”) nos versículos 1–3 e, no vale escuro, passa a falar com Deus (“tu”). O versículo 6 diz que bondade e fidelidade “acompanharão” — o verbo hebraico radaf significa perseguir.",
     "passage": {
       "ref": "Salmo 23 · capítulo completo (NVI)",
       "verses": [
@@ -2160,16 +2160,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 23 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“De nada terei falta” não promete tudo o que eu quero, mas tudo o que preciso para seguir o Pastor. Às vezes o Pastor nos “faz repousar” — o verbo sugere que a ovelha não deitaria sozinha. Há descansos que só aceitamos quando Deus nos obriga a parar.",
+      "No vale de trevas, a linguagem muda: Davi deixa de falar sobre Deus e começa a falar com Deus. “Tu estás comigo.” A escuridão aproxima. Muitos descobrem a intimidade com Deus não nos pastos verdes, mas no vale onde não há outra companhia.",
+      "A mesa é preparada “à vista dos meus inimigos”. Deus não espera que os problemas desapareçam para nos honrar. E no fim, bondade e fidelidade “perseguem” o salmista. Durante a vida toda, somos fugitivos alcançados pelo amor de Deus."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que área você está resistindo ao repouso que o Pastor quer lhe dar?",
+      "Você já experimentou que o vale escuro pode ser lugar de maior intimidade com Deus?",
+      "Que “mesa” Deus tem preparado para você mesmo em meio a pessoas ou situações hostis?"
     ],
-    "application": "Escolha uma imagem do salmo — pastos verdes, águas tranquilas, vale escuro ou mesa preparada — que descreve seu momento e converse com o Pastor sobre ela hoje.",
+    "application": "Escolha a imagem do salmo que descreve sua fase atual — pasto, águas, vereda, vale ou mesa — e passe hoje dez minutos conversando com Deus a partir dela, começando com “Tu estás comigo...”.",
     "prayer": "Senhor, tu és o meu pastor; nada me faltará. Conduz-me a águas tranquilas, restaura a minha alma e, mesmo no vale da sombra da morte, faz-me sentir que estás comigo. Amém."
   },
   {
@@ -2177,20 +2177,20 @@ window.SALMOS = [
     "psalm": 24,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 24",
+    "theme": "Livro I · Confiança e lamento · Salmo 24 · O Rei da glória pede passagem",
     "date": "Salmo 24",
     "verse": {
-      "text": "Ore e leia o Salmo 24 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 24"
+      "text": "Do Senhor é a terra e tudo o que nela existe, o mundo e os que nele vivem;",
+      "ref": "Salmo 24.1"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "כָּבוֹד",
+      "translit": "kavod",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "glória, peso",
+      "note": "Kavod vem de uma raiz que significa ser pesado. A glória de Deus é seu peso, sua realidade incontornável. O título “Rei da glória” aparece cinco vezes no salmo, como quem anuncia alguém tão grande que as portas antigas precisam se erguer para deixá-lo passar."
     },
-    "context": "Este é o dia 24 da jornada pelo Saltério. Leia o Salmo 24 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Liturgia de procissão, talvez composta para a entrada da arca em Jerusalém (2Sm 6). Tem três momentos: a afirmação de que a terra pertence ao Senhor (v. 1–2), a pergunta sobre quem pode subir ao monte (v. 3–6) e o diálogo nas portas da cidade para a entrada do Rei (v. 7–10). A igreja antiga o cantava na festa da Ascensão.",
     "passage": {
       "ref": "Salmo 24 · capítulo completo (NVI)",
       "verses": [
@@ -2237,16 +2237,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 24 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Do Senhor é a terra e tudo o que nela existe.” Antes de falar sobre adoração, o salmo fala de propriedade. Nada do que temos é nosso. O tempo, o dinheiro, o corpo e a casa são do Senhor. Isso não diminui nossa responsabilidade; muda a categoria: somos administradores, não donos.",
+      "Quem pode subir? “Aquele que tem as mãos limpas e o coração puro.” As mãos representam as ações; o coração, as intenções. A adoração não começa no templo, mas na forma como vivemos durante a semana. E o salmo acrescenta: são assim “aqueles que o buscam”. A busca é parte da pureza.",
+      "As portas são personificadas — no hebraico, convidadas a “erguer a cabeça” — para o Rei entrar. É uma cena de chegada triunfal. Lida em Cristo, é o Rei que entra em Jerusalém, que sobe ao céu e que bate à porta do coração (Ap 3.20). Há portas antigas em nós que também precisam se abrir."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que área da sua vida você ainda trata como “sua” e não como do Senhor?",
+      "Como estão suas mãos (ações) e seu coração (intenções) nesta semana?",
+      "Que “porta antiga” em você — hábito, mágoa, área fechada — precisa se abrir para o Rei da glória entrar?"
     ],
-    "application": "Antes de entrar em algum lugar hoje (trabalho, casa, igreja), ore o versículo 7: 'Abram-se, portais, para que o Rei da glória entre'. Leve conscientemente o Senhor com você.",
+    "application": "Escolha um bem que você considera muito seu — tempo livre, dinheiro, um objeto — e use parte dele hoje de forma generosa, reconhecendo que “do Senhor é a terra”.",
     "prayer": "Senhor, ao Senhor pertencem a terra e tudo o que nela existe. Dá-me mãos limpas e coração puro para subir ao teu monte. Rei da glória, entra pelos portais da minha vida. Amém."
   },
   {
@@ -2254,20 +2254,20 @@ window.SALMOS = [
     "psalm": 25,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 25",
+    "theme": "Livro I · Confiança e lamento · Salmo 25 · Ensina-me as tuas veredas",
     "date": "Salmo 25",
     "verse": {
-      "text": "Ore e leia o Salmo 25 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 25"
+      "text": "Mostra-me, Senhor, os teus caminhos, ensina-me as tuas veredas; guia-me com a tua verdade e ensina-me, pois tu és Deus, meu Salvador, e a minha esperança está em ti o tempo todo.",
+      "ref": "Salmo 25.4–5"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "קָוָה",
+      "translit": "qavah",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "esperar, aguardar com expectativa",
+      "note": "Qavah vem de uma raiz ligada a corda esticada: esperar é estar tenso em direção a algo, como uma corda que liga duas pontas. Daí vem tiqvah, esperança. Os que “esperam em ti” estão amarrados a Deus pela expectativa."
     },
-    "context": "Este é o dia 25 da jornada pelo Saltério. Leia o Salmo 25 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo acróstico: cada versículo começa com uma letra do alfabeto hebraico, de alef a tav. É uma oração de alguém em aflição, sozinho e consciente dos próprios pecados. Mistura pedidos de orientação (v. 4–5), de perdão (v. 7, 11, 18) e de proteção (v. 20). Termina com uma linha extra pedindo pela redenção de todo Israel.",
     "passage": {
       "ref": "Salmo 25 · capítulo completo (NVI)",
       "verses": [
@@ -2362,16 +2362,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 25 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“A ti, Senhor, elevo a minha alma.” O primeiro gesto do salmo é levantar. Como quem ergue uma oferta, o salmista levanta sua nefesh — sua vida inteira — diante de Deus. Antes de pedir direção, ele se entrega por inteiro.",
+      "O salmo pede três vezes para ser ensinado e guiado. Mas observe o versículo 9: Deus ensina “os humildes”. A condição para aprender os caminhos de Deus não é inteligência, mas docilidade. Quem já sabe tudo não pode ser guiado.",
+      "O salmista pede que Deus não se lembre dos “pecados e transgressões da minha juventude”, mas que se lembre dele “conforme a tua misericórdia”. É um pedido de memória seletiva: esquece o que eu fiz, lembra quem tu és. A esperança do pecador não está em ter passado limpo, mas em ter um Deus bom."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há uma decisão na sua vida em que você está pedindo direção a Deus, mas sem disposição real de ser guiado?",
+      "Que “pecado da juventude” ainda volta à sua memória, e você já o entregou à memória misericordiosa de Deus?",
+      "Que solidão (v. 16) você precisa nomear diante de Deus hoje?"
     ],
-    "application": "Escolha uma decisão que você precisa tomar e ore o versículo 4: 'Mostra-me, Senhor, os teus caminhos'. Peça também perdão pelos 'pecados da juventude' (v. 7) que ainda o perseguem.",
+    "application": "Faça seu próprio pequeno acróstico: escreva cinco linhas de oração, cada uma começando com uma letra do seu nome, pedindo orientação, perdão e esperança.",
     "prayer": "Senhor, a ti elevo a minha alma; em ti confio. Mostra-me os teus caminhos, ensina-me as tuas veredas. Não te lembres dos pecados da minha juventude, mas lembra-te de mim segundo o teu amor. Amém."
   },
   {
@@ -2379,20 +2379,20 @@ window.SALMOS = [
     "psalm": 26,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 26",
+    "theme": "Livro I · Confiança e lamento · Salmo 26 · Sonda-me e prova-me",
     "date": "Salmo 26",
     "verse": {
-      "text": "Ore e leia o Salmo 26 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 26"
+      "text": "Sonda-me, Senhor, e prova-me, examina o meu coração e a minha mente;",
+      "ref": "Salmo 26.2"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "תֹּם",
+      "translit": "tom",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "integridade, inteireza",
+      "note": "Tom é a qualidade de quem é inteiro, sem divisão interior. O salmo começa e quase termina com essa palavra (v. 1 e 11). Não é perfeição sem falhas, mas uma vida que não está partida entre dois senhores."
     },
-    "context": "Este é o dia 26 da jornada pelo Saltério. Leia o Salmo 26 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Oração de alguém que se declara íntegro diante de uma acusação ou situação de risco. Pode ter sido usada por peregrinos que se preparavam para entrar no templo, como os Salmos 15 e 24. Tem uma estrutura em espelho: integridade (v. 1, 11), recusa das más companhias (v. 4–5, 9–10) e amor pela casa de Deus no centro (v. 6–8).",
     "passage": {
       "ref": "Salmo 26 · capítulo completo (NVI)",
       "verses": [
@@ -2447,16 +2447,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 26 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Pedir “Sonda-me, Senhor, e prova-me, examina o meu coração e a minha mente” é corajoso. São três verbos de laboratório: testar, examinar, refinar. Quem ora assim não tem medo do que Deus pode encontrar, ou ao menos prefere ser corrigido a continuar enganado sobre si.",
+      "A integridade do salmista não é solitária; ela se expressa nas escolhas de companhia. “Não me assento com os ímpios.” Não é desprezo pelas pessoas, mas cuidado com aquilo que nos forma. Somos moldados pelas mesas em que nos sentamos e pelas conversas que alimentamos.",
+      "No centro do salmo está o amor pelo lugar onde a glória de Deus habita. A integridade não é um fim em si, mas um caminho para a presença. Lavamos as mãos não para provar que somos bons, mas para nos aproximarmos do altar cantando."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você teria coragem de orar hoje “Sonda-me, Senhor, e prova-me”? O que o impede?",
+      "Que “mesas” e conversas têm formado seu caráter nesta fase?",
+      "Sua busca por integridade tem levado você mais perto da presença de Deus ou apenas a uma sensação de superioridade?"
     ],
-    "application": "Ore o versículo 2 — 'Sonda-me, Senhor, e prova-me' — e examine um compromisso desta semana: há alguma companhia ou prática com que você precise romper?",
+    "application": "Revise suas conversas da última semana — presenciais e digitais. Identifique uma que você precisa deixar de alimentar e outra, edificante, que vale a pena cultivar mais.",
     "prayer": "Senhor, sonda-me e prova-me; examina o meu coração e a minha mente. Amo a casa onde habitas. Redime-me e tem misericórdia de mim, para que eu ande em integridade. Amém."
   },
   {
@@ -2464,20 +2464,20 @@ window.SALMOS = [
     "psalm": 27,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 27",
+    "theme": "Livro I · Confiança e lamento · Salmo 27 · Uma só coisa",
     "date": "Salmo 27",
     "verse": {
-      "text": "Ore e leia o Salmo 27 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 27"
+      "text": "Uma coisa pedi ao Senhor, é o que procuro: que eu possa viver na casa do Senhor todos os dias da minha vida, para contemplar a bondade do Senhor e buscar sua orientação no seu templo.",
+      "ref": "Salmo 27.4"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "פָּנִים",
+      "translit": "panim",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "face, rosto, presença",
+      "note": "Panim é sempre plural em hebraico, como se o rosto tivesse muitas faces. Buscar a face de Deus é buscar sua presença pessoal, não apenas seus favores. O salmo usa a palavra três vezes nos versículos 8–9, como um eco do coração que insiste."
     },
-    "context": "Este é o dia 27 da jornada pelo Saltério. Leia o Salmo 27 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de confiança em duas partes de tom muito diferente: a primeira (v. 1–6) é segura e corajosa; a segunda (v. 7–12) é súplica ansiosa. O final (v. 13–14) une as duas numa exortação à espera. Alguns estudiosos viram aqui dois salmos unidos, mas a combinação reflete bem a experiência real: a fé oscila entre a ousadia e o pedido.",
     "passage": {
       "ref": "Salmo 27 · capítulo completo (NVI)",
       "verses": [
@@ -2540,16 +2540,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 27 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Uma coisa pedi ao Senhor.” Em meio a exércitos acampados e falsas testemunhas, o salmista não pede vitória, mas presença: morar na casa de Deus e contemplar sua beleza. Quando o coração se unifica em torno de uma só coisa, os medos perdem força.",
+      "O versículo 8 tem uma dinâmica bonita: o coração escuta Deus dizendo “Busque a minha face” e responde “A tua face, Senhor, buscarei”. A oração começa com um convite de Deus. Nós não iniciamos a busca; respondemos a ela.",
+      "“Ainda que me abandonem pai e mãe, o Senhor me acolherá.” O salmo toca na ferida mais profunda: o abandono das pessoas que deveriam nos amar. Para quem carrega essa dor, este verso não é teoria. Deus se apresenta como família quando a família falha."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Se você pudesse pedir “uma só coisa” a Deus hoje, o que seria? E o que esse pedido revela sobre seu coração?",
+      "Você percebe a busca por Deus como algo que você inicia ou como resposta a um convite dele?",
+      "Há alguma ferida de abandono que você precisa entregar ao Deus que “acolhe”?"
     ],
-    "application": "Nomeie o medo que mais o assombra hoje e responda a ele com o versículo 1. Depois separe um tempo para fazer 'a única coisa' do versículo 4: contemplar o Senhor.",
+    "application": "Separe quinze minutos hoje apenas para contemplar a Deus, sem pedidos. Leia o versículo 4 devagar e fique em silêncio, oferecendo sua atenção como resposta ao convite “Busque a minha face”.",
     "prayer": "Senhor, tu és a minha luz e a minha salvação; de quem terei medo? Uma coisa peço: habitar na tua casa e contemplar a tua bondade. Ensina-me a esperar por ti com coragem. Amém."
   },
   {
@@ -2557,20 +2557,20 @@ window.SALMOS = [
     "psalm": 28,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 28",
+    "theme": "Livro I · Confiança e lamento · Salmo 28 · Quando o céu parece mudo",
     "date": "Salmo 28",
     "verse": {
-      "text": "Ore e leia o Salmo 28 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 28"
+      "text": "O Senhor é a minha força e o meu escudo; nele o meu coração confia, e dele recebo ajuda. Meu coração exulta de alegria, e com o meu cântico lhe darei graças.",
+      "ref": "Salmo 28.7"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "חָרַשׁ",
+      "translit": "charash",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ficar calado, surdo",
+      "note": "Charash é ficar em silêncio, mas também ser surdo. “Não fiques indiferente para comigo” traduz o pedido de que Deus não seja surdo à oração. O silêncio de Deus é, para o salmista, mais assustador que qualquer inimigo: seria como descer à cova."
     },
-    "context": "Este é o dia 28 da jornada pelo Saltério. Leia o Salmo 28 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento individual que se transforma em ação de graças. Os versículos 1–5 são súplica e pedido de justiça contra os hipócritas; os versículos 6–7 celebram a resposta de Deus; os versículos 8–9 ampliam a oração para todo o povo. A virada súbita do lamento para o louvor sugere que o salmista recebeu uma palavra de segurança entre um trecho e outro.",
     "passage": {
       "ref": "Salmo 28 · capítulo completo (NVI)",
       "verses": [
@@ -2613,16 +2613,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 28 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Se permaneceres calado, serei como os que descem à cova.” Para o salmista, viver sem ouvir Deus é uma forma de morte. Este verso dá voz a quem ora e sente que fala sozinho. O silêncio de Deus é uma experiência real dos santos, não um sinal de fé fraca.",
+      "Os ímpios do salmo “falam como amigos” mas “abrigam maldade no coração”. A dor da hipocrisia é que ela vem disfarçada de proximidade. O salmista não se vinga; entrega a retribuição a Deus. Há injustiças que só podemos colocar nas mãos dele.",
+      "No fim, o salmista ora pelo povo: “Cuida deles como o seu pastor e conduze-os para sempre”. A experiência pessoal de ser ouvido vira intercessão coletiva. Quem foi socorrido não guarda o socorro para si; pede o mesmo cuidado para os outros."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há uma oração que parece cair no silêncio há muito tempo? Como você tem lidado com isso?",
+      "Alguém que “fala como amigo” tem lhe causado dor? O que significaria entregar essa situação a Deus?",
+      "Que experiência sua de ser ouvido por Deus pode virar intercessão por outros hoje?"
     ],
-    "application": "Pense em uma oração que parece cair no silêncio. Diga a Deus, como no versículo 1: 'Não fiques em silêncio'. Depois, leia o versículo 7 em voz alta como declaração de confiança.",
+    "application": "Ore hoje por três pessoas que estão em silêncio diante de Deus, usando o versículo 9: “Salva o teu povo e abençoa a tua herança”. Cite cada nome e peça que o Pastor as conduza.",
     "prayer": "Senhor, a ti eu clamo; tu és a minha rocha, não fiques em silêncio. Ouve a minha súplica. O Senhor é a minha força e o meu escudo; nele o meu coração confia. Amém."
   },
   {
@@ -2630,20 +2630,20 @@ window.SALMOS = [
     "psalm": 29,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 29",
+    "theme": "Livro I · Confiança e lamento · Salmo 29 · A voz sobre as águas",
     "date": "Salmo 29",
     "verse": {
-      "text": "Ore e leia o Salmo 29 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 29"
+      "text": "A voz do Senhor ressoa sobre as águas; o Deus da glória troveja, o Senhor troveja sobre as muitas águas. A voz do Senhor é poderosa; a voz do Senhor é majestosa.",
+      "ref": "Salmo 29.3–4"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "קוֹל",
+      "translit": "qol",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "voz, som, trovão",
+      "note": "Qol é voz e também trovão. O salmo repete “a voz do Senhor” sete vezes, como sete trovões que atravessam a terra de norte a sul — do Líbano ao deserto de Cades. O som da tempestade torna-se metáfora do poder da palavra de Deus."
     },
-    "context": "Este é o dia 29 da jornada pelo Saltério. Leia o Salmo 29 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino de louvor que descreve uma grande tempestade se deslocando do Mediterrâneo pelo Líbano até o deserto do sul. Muitos estudiosos veem nele uma resposta aos cultos cananeus de Baal, o deus da tempestade: não é Baal quem troveja, é o Senhor. Começa no céu (v. 1–2), atravessa a terra (v. 3–9) e termina com paz para o povo (v. 10–11).",
     "passage": {
       "ref": "Salmo 29 · capítulo completo (NVI)",
       "verses": [
@@ -2694,16 +2694,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 29 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa convocando seres celestiais a adorar. Antes de falar do poder de Deus na terra, mostra que até os anjos se curvam. A adoração não começa conosco; entramos em um coro que já está cantando.",
+      "A voz do Senhor quebra cedros, faz montes saltarem, retorce carvalhos e despe florestas. É uma voz que não pode ser domesticada. Às vezes reduzimos a palavra de Deus a conselhos suaves. Este salmo nos lembra que ela também derruba o que se acha forte.",
+      "A tempestade termina em duas promessas: força e paz. O Deus que se assentou soberano sobre o dilúvio é o mesmo que abençoa seu povo com shalom. A mesma voz que assusta também acalma, como Jesus no barco (Mc 4.39). Quem conhece o Senhor da tempestade pode descansar no meio dela."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você costuma ouvir a palavra de Deus mais como conselho suave ou como voz que transforma e derruba o que precisa cair?",
+      "Que “cedro” em sua vida — orgulho, autossuficiência, ídolo — precisa ser quebrado pela voz de Deus?",
+      "Como seria descansar hoje na paz do Senhor sem esperar que a tempestade passe?"
     ],
-    "application": "Na próxima chuva, trovão ou vento forte, pare por um minuto e reconheça a 'voz do Senhor' (v. 3–9). Peça a força e a paz prometidas no versículo 11.",
+    "application": "Na próxima vez em que ouvir chuva forte, vento ou trovão, pare um minuto e leia ou recite o versículo 11, pedindo a Deus força e paz para uma situação específica.",
     "prayer": "Senhor, tua voz é poderosa e majestosa; ela quebra os cedros e faz tremer o deserto. Tu reinas sobre o dilúvio. Dá força ao teu povo e abençoa-o com paz. Amém."
   },
   {
@@ -2711,20 +2711,20 @@ window.SALMOS = [
     "psalm": 30,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 30",
+    "theme": "Livro I · Confiança e lamento · Salmo 30 · A noite do choro, a manhã da alegria",
     "date": "Salmo 30",
     "verse": {
-      "text": "Ore e leia o Salmo 30 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 30"
+      "text": "Pois a sua ira só dura um instante, mas o seu favor dura a vida toda; o choro pode persistir uma noite, mas de manhã irrompe a alegria.",
+      "ref": "Salmo 30.5"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "מָחוֹל",
+      "translit": "machol",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "dança em roda",
+      "note": "Machol é a dança comunitária de celebração, como a de Miriã depois do mar Vermelho (Êx 15.20). O salmista diz que Deus trocou seu pranto por essa dança. Não é apenas alívio individual, mas festa que envolve o corpo e a comunidade."
     },
-    "context": "Este é o dia 30 da jornada pelo Saltério. Leia o Salmo 30 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de ação de graças com título curioso: “para a dedicação do templo” (ou da casa). Davi agradece por ter sido livrado da morte, possivelmente de uma doença grave. Ele confessa sua autoconfiança anterior (v. 6–7), lembra sua oração desesperada (v. 8–10) e celebra a transformação do lamento em dança (v. 11–12).",
     "passage": {
       "ref": "Salmo 30 · capítulo completo (NVI)",
       "verses": [
@@ -2779,16 +2779,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 30 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O versículo 5 contrasta durações: a ira dura um instante; o favor, a vida toda. O choro pode persistir “uma noite” — a palavra sugere um hóspede que chega para pernoitar. A tristeza pode se hospedar em nós, mas não é a dona da casa. A alegria vem pela manhã.",
+      "Davi confessa: “Quando me senti seguro, disse: Jamais serei abalado!”. A crise começou não com a doença, mas com a autoconfiança. Às vezes Deus permite que a estabilidade seja abalada para nos lembrar de onde ela vinha. A firmeza era favor dele, não mérito nosso.",
+      "O argumento da oração no versículo 9 é ousado: se eu morrer, quem vai te louvar? O salmista apela ao desejo de Deus de ser louvado. E Deus responde trocando a roupa de luto por roupa de festa. A gratidão final não é obrigação, é necessidade: “para que o meu coração cante louvores a ti e não se cale”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que tristeza está “pernoitando” em você hoje? Consegue tratá-la como hóspede e não como dona da casa?",
+      "Em que área você tem dito, mesmo sem palavras, “jamais serei abalado”?",
+      "Que lamento antigo Deus já transformou em dança na sua vida, e você já contou essa história?"
     ],
-    "application": "Recorde uma 'noite de choro' que terminou em 'alegria pela manhã' (v. 5) e conte essa história a alguém hoje, agradecendo a Deus por ter mudado seu lamento em dança.",
+    "application": "Escreva duas colunas: “minhas noites de choro” e “minhas manhãs de alegria”. Ligue com uma linha cada noite à manhã que veio depois. Se houver uma noite ainda sem manhã, deixe a linha em aberto e ore por ela.",
     "prayer": "Senhor, eu te exaltarei, porque me tiraste do abismo. O choro pode durar uma noite, mas a alegria vem pela manhã. Mudaste o meu pranto em dança; para sempre te darei graças. Amém."
   },
   {
@@ -2796,20 +2796,20 @@ window.SALMOS = [
     "psalm": 31,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 31",
+    "theme": "Livro I · Confiança e lamento · Salmo 31 · Meus tempos nas tuas mãos",
     "date": "Salmo 31",
     "verse": {
-      "text": "Ore e leia o Salmo 31 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 31"
+      "text": "Mas eu confio em ti, Senhor, e digo: \"Tu és o meu Deus\". O meu futuro está nas tuas mãos; livra-me dos meus inimigos e daqueles que me perseguem.",
+      "ref": "Salmo 31.14–15"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "עִתּוֹת",
+      "translit": "ittot",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "tempos, momentos, épocas",
+      "note": "Ittot é o plural de et, tempo. No versículo 15, a NVI traduz “o meu futuro está nas tuas mãos”, mas o hebraico diz literalmente “os meus tempos estão na tua mão”: não só o futuro, mas cada estação, crise e espera da vida."
     },
-    "context": "Este é o dia 31 da jornada pelo Saltério. Leia o Salmo 31 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento longo com várias ondas de súplica e confiança. Jesus citou o versículo 5 na cruz (“Nas tuas mãos entrego o meu espírito”, Lc 23.46), e Estêvão o ecoou ao morrer (At 7.59). O salmista descreve isolamento social intenso (v. 11–13), mas o salmo termina exortando a comunidade à coragem (v. 24).",
     "passage": {
       "ref": "Salmo 31 · capítulo completo (NVI)",
       "verses": [
@@ -2912,16 +2912,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 31 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Nas tuas mãos entrego o meu espírito” era uma oração que as crianças judias aprendiam para dizer antes de dormir. Jesus a usou como sua última oração na cruz. Entregar o espírito ao Pai é o gesto de quem confia até no fim — no sono de cada noite e no sono da morte.",
+      "Os versículos 11–12 são de uma solidão comovente: vizinhos que desprezam, amigos que fogem, “um pote quebrado” esquecido como os mortos. Há sofrimentos que nos isolam. O salmo dá linguagem a quem se sente descartado e não acrescenta uma explicação fácil.",
+      "O versículo 22 é de uma honestidade rara: “Alarmado, eu disse: Fui excluído da tua presença! Contudo, ouviste”. O salmista admite que chegou a pensar que Deus o abandonara. E estava errado. Nossas conclusões no desespero não são a última palavra sobre Deus."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que “tempo” da sua vida você precisa colocar hoje nas mãos de Deus?",
+      "Você já se sentiu um “pote quebrado”, esquecido pelos outros? Como Deus o encontrou ali?",
+      "Que conclusão sobre Deus você tirou em um momento de desespero e que talvez precise ser revista?"
     ],
-    "application": "Escreva o versículo 15 — 'O meu futuro está nas tuas mãos' — e coloque-o onde você verá ao longo do dia. Entregue a Deus um prazo, plano ou ameaça específica.",
+    "application": "Esta noite, antes de dormir, faça a oração que Jesus aprendeu criança: “Nas tuas mãos entrego o meu espírito”. Nomeie diante de Deus um plano, prazo ou espera específico que você está entregando a ele.",
     "prayer": "Senhor, nas tuas mãos entrego o meu espírito. O meu futuro está nas tuas mãos; livra-me dos que me perseguem. Faz brilhar o teu rosto sobre o teu servo. Amém."
   },
   {
@@ -2929,20 +2929,20 @@ window.SALMOS = [
     "psalm": 32,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 32",
+    "theme": "Livro I · Confiança e lamento · Salmo 32 · O alívio de não esconder",
     "date": "Salmo 32",
     "verse": {
-      "text": "Ore e leia o Salmo 32 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 32"
+      "text": "Então reconheci diante de ti o meu pecado e não encobri as minhas culpas. Eu disse: \"Confessarei as minhas transgressões ao Senhor\", e tu perdoaste a culpa do meu pecado.",
+      "ref": "Salmo 32.5"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "כָּסָה",
+      "translit": "kasah",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "cobrir, encobrir",
+      "note": "Kasah aparece duas vezes com sentidos opostos: feliz é aquele cujo pecado é “coberto” por Deus (v. 1), e o salmista declara que “não encobriu” sua culpa (v. 5). Quando escondemos o pecado, ele nos consome; quando o descobrimos diante de Deus, ele o cobre com perdão."
     },
-    "context": "Este é o dia 32 da jornada pelo Saltério. Leia o Salmo 32 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Segundo salmo penitencial, tradicionalmente ligado ao pecado de Davi com Bate-Seba e ao período de silêncio antes da confissão (2Sm 11–12). Paulo cita os versículos 1–2 em Romanos 4.7–8 como exemplo de justiça recebida pela graça. É um maskil, um salmo de instrução: Davi ensina a outros o que aprendeu sobre confissão.",
     "passage": {
       "ref": "Salmo 32 · capítulo completo (NVI)",
       "verses": [
@@ -2993,16 +2993,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 32 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com uma bem-aventurança dupla: feliz quem foi perdoado. Não é feliz quem não pecou, mas quem teve o pecado tratado. A felicidade bíblica não está na ausência de falhas, mas na presença de perdão.",
+      "Os versículos 3–4 descrevem o custo físico do pecado escondido: corpo definhando, força secando como terra na estiagem. Esconder cansa. A culpa guardada consome energia, sono e alegria. Davi descobriu que o silêncio sobre o pecado é mais pesado que a confissão.",
+      "Depois da confissão, Deus fala: “Eu o instruirei e o ensinarei”. Mas há um alerta: não sejam como o cavalo ou o burro, que precisam de rédeas. Deus prefere conduzir pelo olhar e pelo relacionamento, não pela força. Quem confessa aprende a ser guiado sem precisar de freio."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há algo que você tem escondido de Deus ou de si mesmo e que tem consumido sua energia?",
+      "Como você reage à ideia de que a felicidade não está em não falhar, mas em ser perdoado?",
+      "Em que área Deus tem precisado usar “freio e rédeas” com você, quando poderia guiá-lo pelo relacionamento?"
     ],
-    "application": "Confesse a Deus, de forma específica, um pecado que você vinha escondendo (v. 5). Experimente o alívio do perdão e, se necessário, procure alguém de confiança para conversar.",
+    "application": "Separe um momento a sós e confesse a Deus, em voz alta e de forma específica, algo que você vinha encobrindo. Se for apropriado, procure também alguém maduro na fé para compartilhar e pedir oração (Tg 5.16).",
     "prayer": "Senhor, como é feliz aquele que tem suas transgressões perdoadas! Enquanto eu me calei, meus ossos definharam. Confesso a ti o meu pecado; sê o meu esconderijo e instrui-me no caminho. Amém."
   },
   {
@@ -3010,20 +3010,20 @@ window.SALMOS = [
     "psalm": 33,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 33",
+    "theme": "Livro I · Confiança e lamento · Salmo 33 · Uma nova canção",
     "date": "Salmo 33",
     "verse": {
-      "text": "Ore e leia o Salmo 33 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 33"
+      "text": "Mas os planos do Senhor permanecem para sempre, os propósitos do seu coração, por todas as gerações.",
+      "ref": "Salmo 33.11"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "עֵצָה",
+      "translit": "etsah",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "plano, conselho, propósito",
+      "note": "Etsah é o conselho que se transforma em plano. O versículo 10 diz que o Senhor desfaz a etsah das nações; o versículo 11, que a etsah do Senhor permanece para sempre. Planos humanos vêm e vão; o propósito de Deus atravessa gerações."
     },
-    "context": "Este é o dia 33 da jornada pelo Saltério. Leia o Salmo 33 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino de louvor sem título, que continua o final do Salmo 32 (“Alegrem-se no Senhor... vocês que são justos”). Tem 22 versículos, o número de letras do alfabeto hebraico, sugerindo completude. Celebra Deus como Criador pela palavra (v. 6–9), Senhor da história (v. 10–12) e observador atento de cada ser humano (v. 13–19).",
     "passage": {
       "ref": "Salmo 33 · capítulo completo (NVI)",
       "verses": [
@@ -3118,16 +3118,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 33 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Cantem-lhe uma nova canção.” O louvor nunca precisa ficar velho, porque a misericórdia de Deus se renova a cada manhã. Cântico novo não é necessariamente melodia inédita, mas coração desperto que enxerga graça nova e responde a ela.",
+      "Deus “falou, e tudo se fez”. A palavra que criou céus e estrelas não precisa de esforço. Isso relativiza nossos planos: o que nos custa anos, Deus faz com uma palavra. E também nos consola: a mesma palavra que sustenta galáxias sustenta a sua vida.",
+      "O versículo 17 diz que “o cavalo é vã esperança de vitória”. O salmo termina com uma alternativa: “Nossa esperança está no Senhor”. Esperar não é passividade; é posicionar o coração em quem permanece quando os planos e os cavalos falham."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Seu louvor tem sido “cântico novo” ou repetição automática?",
+      "Que plano seu você tem tratado como se fosse eterno, esquecendo que só os planos do Senhor permanecem?",
+      "Em que você tem colocado sua “esperança de vitória”, e ela é sólida o suficiente?"
     ],
-    "application": "Cante ou ouça hoje um 'cântico novo' (v. 3). Depois, liste um plano pessoal e entregue-o a Deus, lembrando que 'os planos do Senhor permanecem para sempre' (v. 11).",
+    "application": "Escreva um verso novo de louvor a Deus — duas ou três linhas — sobre algo específico que ele fez nesta semana. Leia-o em voz alta ou cante-o com uma melodia conhecida.",
     "prayer": "Senhor, pela tua palavra foram feitos os céus. Os teus planos permanecem para sempre. O nosso coração se alegra em ti; esteja sobre nós o teu amor, como está em ti a nossa esperança. Amém."
   },
   {
@@ -3135,20 +3135,20 @@ window.SALMOS = [
     "psalm": 34,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 34",
+    "theme": "Livro I · Confiança e lamento · Salmo 34 · Provem e vejam",
     "date": "Salmo 34",
     "verse": {
-      "text": "Ore e leia o Salmo 34 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 34"
+      "text": "Provem, e vejam como o Senhor é bom. Como é feliz o homem que nele se refugia!",
+      "ref": "Salmo 34.8"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "טָעַם",
+      "translit": "ta'am",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "provar, saborear",
+      "note": "Ta'am é o verbo de quem põe algo na boca para sentir o gosto. No título do salmo, a mesma raiz descreve o “comportamento” que Davi mudou diante de Aquis. O convite do versículo 8 é sensorial: Deus não é apenas uma ideia para ser entendida, mas uma bondade para ser experimentada."
     },
-    "context": "Este é o dia 34 da jornada pelo Saltério. Leia o Salmo 34 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título liga o salmo ao episódio em que Davi fingiu loucura diante do rei filisteu para escapar com vida (1Sm 21.10–15). É um acróstico que começa como ação de graças pessoal (v. 1–10) e se torna uma aula de sabedoria para “filhos” (v. 11–22). João cita o versículo 20 ao narrar a morte de Jesus, cujos ossos não foram quebrados (Jo 19.36).",
     "passage": {
       "ref": "Salmo 34 · capítulo completo (NVI)",
       "verses": [
@@ -3243,16 +3243,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 34 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Este salmo nasceu de um momento pouco heroico: Davi babando na barba para parecer louco. Não há glória nesse livramento, só sobrevivência humilhante. Mesmo assim ele começa com “Bendirei o Senhor o tempo todo”. Deus também merece louvor pelos resgates sem glamour.",
+      "“Os que olham para ele estão radiantes.” O rosto revela para onde olhamos. Quem fixa o olhar no problema carrega a sombra dele; quem olha para Deus começa a refletir sua luz. A palavra hebraica sugere o brilho de quem recebe luz de fora — como Moisés descendo do monte.",
+      "O versículo 18 é um dos mais ternos da Bíblia: o Senhor está perto “dos que têm o coração quebrantado”. Não diz que Deus evita a dor, mas que se aproxima dela. E o versículo 19 é realista: o justo passa por “muitas adversidades”. A fé não é seguro contra sofrimento; é a certeza de não atravessá-lo sozinho."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que livramento “sem glamour” Deus já lhe deu e pelo qual você nunca agradeceu?",
+      "Para onde seu rosto tem olhado nesta semana, e o que ele tem refletido?",
+      "Você acredita que Deus está perto justamente quando seu coração está quebrado?"
     ],
-    "application": "Faça o teste do versículo 8: 'Provem e vejam como o Senhor é bom'. Registre hoje três momentos em que você percebeu a bondade de Deus, por menores que sejam.",
+    "application": "Faça hoje um “teste de sabor”: escolha uma refeição e, antes de comer, agradeça por algo específico em que você provou a bondade de Deus nos últimos dias. Repita o versículo 8 antes da primeira garfada.",
     "prayer": "Senhor, bendirei o teu nome em todo o tempo. Busquei-te, e tu me respondeste e me livraste de todos os meus temores. Tu estás perto dos que têm o coração quebrantado. Amém."
   },
   {
@@ -3446,20 +3446,20 @@ window.SALMOS = [
     "psalm": 36,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 36",
+    "theme": "Livro I · Confiança e lamento · Salmo 36 · Fonte da vida, luz para ver",
     "date": "Salmo 36",
     "verse": {
-      "text": "Ore e leia o Salmo 36 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 36"
+      "text": "Pois em ti está a fonte da vida; graças à tua luz, vemos a luz.",
+      "ref": "Salmo 36.9"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "מָקוֹר",
+      "translit": "maqor",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "fonte, nascente",
+      "note": "Maqor é a nascente que brota da rocha, diferente da cisterna que apenas acumula água. Jeremias chamou Deus de “fonte de água viva” trocada por “cisternas rachadas” (Jr 2.13). Em Deus está a maqor da vida: ele não apenas a guarda, ele a faz jorrar."
     },
-    "context": "Este é o dia 36 da jornada pelo Saltério. Leia o Salmo 36 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo que combina sabedoria e louvor. Começa com um retrato do ímpio que se convenceu de que não precisa temer a Deus (v. 1–4) e salta, sem transição, para um hino ao amor de Deus que enche céus, montanhas e mares (v. 5–9). Termina com um pedido de proteção (v. 10–12). Paulo cita o versículo 1 em Romanos 3.18.",
     "passage": {
       "ref": "Salmo 36 · capítulo completo (NVI)",
       "verses": [
@@ -3514,16 +3514,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 36 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O ímpio do salmo “se acha tão importante que não percebe nem rejeita o seu pecado”. O autoengano é a raiz do mal descrito aqui. Antes de enganar os outros, ele engana a si mesmo. Ele planeja maldade até na cama — o lugar onde deveria descansar se torna oficina de intrigas.",
+      "A transição é abrupta, quase como alguém que desvia o olhar de uma cena feia para o céu. O amor de Deus chega aos céus, a fidelidade às nuvens, a justiça às montanhas, as decisões ao fundo do mar. É um mapa da criação inteira preenchido pela bondade de Deus. Nenhum lugar fica fora dela.",
+      "“Graças à tua luz, vemos a luz.” Não vemos a luz por esforço próprio, mas por meio dela. Assim é o conhecimento de Deus: só o conhecemos porque ele se revela. O ímpio se fecha em si e perde o discernimento; quem bebe da fonte de Deus enxerga com clareza."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há algum pecado que você deixou de “perceber” porque se acostumou a ele?",
+      "O que ocupa sua mente quando você se deita: intrigas e preocupações ou a lembrança do amor de Deus?",
+      "Onde você tem tentado viver de “cisternas” em vez da fonte?"
     ],
-    "application": "Contraste o retrato do ímpio (v. 1–4) com o amor de Deus (v. 5–9). Escolha hoje uma atitude que o aproxime da 'fonte da vida' e beba dela com tempo de silêncio.",
+    "application": "Ao beber água hoje, cada vez que encher o copo, lembre-se do versículo 9 e diga uma frase curta a Deus: “Em ti está a fonte da minha vida”.",
     "prayer": "Senhor, o teu amor chega até os céus e a tua fidelidade até as nuvens. Em ti está a fonte da vida; na tua luz vemos a luz. Abriga-me à sombra das tuas asas. Amém."
   },
   {
@@ -3802,20 +3802,20 @@ window.SALMOS = [
     "psalm": 38,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 38",
+    "theme": "Livro I · Confiança e lamento · Salmo 38 · O peso que só Deus pode tirar",
     "date": "Salmo 38",
     "verse": {
-      "text": "Ore e leia o Salmo 38 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 38"
+      "text": "Senhor, em ti espero; Tu me responderás, ó Senhor meu Deus!",
+      "ref": "Salmo 38.15"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "חַטָּאת",
+      "translit": "chatta't",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "pecado, desvio do alvo",
+      "note": "Chatta't vem de um verbo usado para o atirador que erra o alvo (Jz 20.16). O pecado é sair do propósito para o qual fomos feitos. No Salmo 38, ele tem peso físico: atravessa o corpo como flecha, apodrece como ferida e curva o salmista como um fardo."
     },
-    "context": "Este é o dia 38 da jornada pelo Saltério. Leia o Salmo 38 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Terceiro salmo penitencial, com o título “para memorial” (ou “para lembrar”). É um dos lamentos mais sombrios do Saltério: doença, culpa, abandono dos amigos e inimigos à espreita se misturam. Ao contrário de outros lamentos, não chega a uma resolução clara; termina com um grito: “Apressa-te a ajudar-me”.",
     "passage": {
       "ref": "Salmo 38 · capítulo completo (NVI)",
       "verses": [
@@ -3910,16 +3910,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 38 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmista não separa corpo e alma. A culpa se manifesta em febre, ossos fracos, feridas e coração acelerado. Isso não significa que toda doença seja castigo — Jó e Jesus desmentem essa ideia (Jo 9.3). Mas reconhece que o que carregamos por dentro pode adoecer o que somos por fora.",
+      "“Senhor, diante de ti estão todos os meus anseios; o meu suspiro não te é oculto.” No meio de tanto abandono — amigos que se afastam, vizinhos que ficam longe —, há um que vê até o suspiro. Quando ninguém mais entende, Deus escuta o que nem chegou a virar palavra.",
+      "Diante das acusações, o salmista se cala “como um surdo” e “como um mudo”. Ele não se defende, apenas espera: “em ti espero; tu me responderás”. Há momentos em que o silêncio diante dos acusadores não é fraqueza, mas entrega. Jesus fez o mesmo diante de Pilatos."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há algo que você carrega por dentro e que tem se manifestado no seu corpo, sono ou humor?",
+      "Que suspiro seu você precisa saber que Deus já ouviu?",
+      "Em que situação você está gastando energia para se defender quando poderia esperar em Deus?"
     ],
-    "application": "Se uma culpa tem pesado até no corpo (v. 3–8), diga isso a Deus sem rodeios e peça socorro. Considere também conversar com alguém de confiança sobre o que você carrega.",
+    "application": "Escreva três linhas: o que pesa na sua consciência, o que pesa no seu corpo e o que pesa nas suas relações. Leia-as diante de Deus e termine com o versículo 21. Se o peso for grande, procure ajuda pastoral ou profissional nesta semana.",
     "prayer": "Senhor, não me repreendas na tua ira. Minhas culpas me sobrecarregaram como fardo pesado. Todos os meus anseios estão diante de ti. Não me abandones; apressa-te a ajudar-me. Amém."
   },
   {
@@ -3927,20 +3927,20 @@ window.SALMOS = [
     "psalm": 39,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 39",
+    "theme": "Livro I · Confiança e lamento · Salmo 39 · Um palmo de vida",
     "date": "Salmo 39",
     "verse": {
-      "text": "Ore e leia o Salmo 39 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 39"
+      "text": "Mostra-me, Senhor, o fim da minha vida e o número dos meus dias, para que eu saiba quão frágil sou.",
+      "ref": "Salmo 39.4"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "הֶבֶל",
+      "translit": "hevel",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "sopro, vapor",
+      "note": "Hevel é o vapor que sai da boca num dia frio e desaparece. É a palavra-chave de Eclesiastes (“vaidade”) e o nome de Abel, cuja vida foi breve. O salmo a repete duas vezes: o ser humano “não passa de um sopro”. Não é desprezo pela vida, mas sobriedade sobre seu tamanho."
     },
-    "context": "Este é o dia 39 da jornada pelo Saltério. Leia o Salmo 39 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Um dos lamentos mais existenciais do Saltério, dedicado a Jedutum, um dos músicos de Davi. O salmista tenta se calar diante dos ímpios (v. 1–3), mas o fogo interno o obriga a falar. O que sai não é queixa contra os outros, mas uma meditação sobre a brevidade da vida (v. 4–6) e um pedido de perdão e alívio (v. 7–13). É um dos poucos salmos que terminam sem uma nota de esperança explícita.",
     "passage": {
       "ref": "Salmo 39 · capítulo completo (NVI)",
       "verses": [
@@ -3999,16 +3999,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 39 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmista tentou o silêncio “inutilmente”, e a angústia aumentou. Guardar tudo nem sempre é virtude. Há silêncios que fermentam. O fogo que arde no peito precisa de uma saída — e a melhor saída é a oração, não a explosão diante dos outros.",
+      "“Mostra-me, Senhor, o fim da minha vida.” É um pedido raro. Normalmente queremos esquecer que vamos morrer. Mas saber que a vida tem “o comprimento de um palmo” — a medida da mão aberta — reorganiza prioridades. A brevidade não é ameaça, é convite a viver com mais atenção.",
+      "No meio da sobriedade, surge uma frase de virada: “Mas agora, Senhor, que hei de esperar? Minha esperança está em ti”. Se a vida é sopro, a esperança não pode estar nela mesma. O salmista termina como “estrangeiro” diante de Deus — peregrino que sabe que ainda não chegou em casa."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há algo que você tem guardado em silêncio e que está “fermentando” por dentro?",
+      "Se você soubesse que a vida tem o tamanho de um palmo, o que mudaria nesta semana?",
+      "Você se vê mais como dono ou como estrangeiro e peregrino nesta terra?"
     ],
-    "application": "Calcule quantos dias você já viveu e ore o versículo 4: 'Mostra-me, Senhor, o fim da minha vida'. Escolha algo que você vem adiando e que realmente importa, e faça-o hoje.",
+    "application": "Abra a mão e olhe para ela por um momento: é o “palmo” do versículo 5. Escolha uma coisa importante que você vem adiando — uma ligação, um perdão, uma conversa — e faça-a hoje.",
     "prayer": "Senhor, a minha vida é um sopro diante de ti. Mostra-me quão passageira é a minha existência. E agora, Senhor, que hei de esperar? Minha esperança está em ti. Amém."
   },
   {
@@ -4016,20 +4016,20 @@ window.SALMOS = [
     "psalm": 40,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 40",
+    "theme": "Livro I · Confiança e lamento · Salmo 40 · Tirado do atoleiro",
     "date": "Salmo 40",
     "verse": {
-      "text": "Ore e leia o Salmo 40 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 40"
+      "text": "Coloquei toda minha esperança no Senhor; ele se inclinou para mim e ouviu o meu grito de socorro. Ele me tirou de um poço de destruição, de um atoleiro de lama; pôs os meus pés sobre uma rocha e firmou-me num local seguro.",
+      "ref": "Salmo 40.1–2"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "כָּרָה",
+      "translit": "karah",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "cavar, abrir",
+      "note": "No versículo 6, “abriste os meus ouvidos” diz literalmente “cavaste ouvidos para mim”. A imagem é de Deus escavando um canal para que sua palavra chegue até nós. Antes de pedir sacrifícios, Deus abre os ouvidos para a obediência."
     },
-    "context": "Este é o dia 40 da jornada pelo Saltério. Leia o Salmo 40 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O Salmo 40 começa como ação de graças (v. 1–10) e termina como lamento (v. 11–17), num movimento inverso ao de muitos salmos. Os versículos 13–17 reaparecem quase idênticos como Salmo 70. Hebreus 10.5–7 aplica os versículos 6–8 a Cristo, que veio fazer a vontade do Pai oferecendo seu próprio corpo.",
     "passage": {
       "ref": "Salmo 40 · capítulo completo (NVI)",
       "verses": [
@@ -4104,16 +4104,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 40 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Coloquei toda minha esperança no Senhor” traduz um hebraico que repete o verbo: “esperando, esperei”. Foi uma espera longa e insistente. Só depois Deus “se inclinou”. A imagem é de alguém se abaixando na beira de um poço para puxar quem está atolado. O resgate não foi rápido, mas foi pessoal.",
+      "Primeiro, os pés na rocha; depois, um cântico novo na boca. E então: “Muitos verão isso e temerão, e confiarão no Senhor”. O testemunho de um livramento não é só para quem foi livrado. A história que Deus escreve em você pode ser a ponte para alguém crer. Calar as obras de Deus é desperdiçar sementes.",
+      "O salmo não termina em festa. Depois do louvor, volta a angústia: problemas que “mais numerosos são que os cabelos da minha cabeça”. A vida de fé não é uma linha reta de vitórias. Hoje se canta sobre a rocha; amanhã se clama de novo. O mesmo Deus que tirou do poço ontem é invocado hoje: “não te demores!”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Qual foi o “atoleiro” de onde Deus já o tirou, e quem precisa ouvir essa história?",
+      "Você se sente confuso quando, depois de uma vitória, a angústia volta? Como o salmo ajuda nisso?",
+      "Seus ouvidos estão “cavados” para ouvir Deus, ou você tem oferecido sacrifícios sem escutar?"
     ],
-    "application": "Lembre-se de um 'poço' de onde Deus o tirou (v. 2) e conte essa história a alguém hoje — o salmo diz que muitos verão e confiarão no Senhor (v. 3).",
+    "application": "Grave um áudio ou escreva uma mensagem curta contando a um amigo como Deus o tirou de um “poço” no passado. Termine dizendo, como o versículo 17: “o Senhor preocupa-se comigo”.",
     "prayer": "Senhor, esperei com paciência, e tu te inclinaste e ouviste o meu clamor. Tiraste-me do poço da destruição e puseste meus pés sobre a rocha. Agrada-me fazer a tua vontade. Amém."
   },
   {
@@ -4121,20 +4121,20 @@ window.SALMOS = [
     "psalm": 41,
     "part": 1,
     "parts": 1,
-    "theme": "Livro I · Confiança e lamento · Salmo 41",
+    "theme": "Livro I · Confiança e lamento · Salmo 41 · Feliz quem cuida do fraco",
     "date": "Salmo 41",
     "verse": {
-      "text": "Ore e leia o Salmo 41 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 41"
+      "text": "Como é feliz aquele que se interessa pelo pobre! O Senhor o livra em tempos de adversidade.",
+      "ref": "Salmo 41.1"
     },
     "word": {
-      "original": "תְּהִלָּה",
-      "translit": "tehil·lâ",
+      "original": "דַּל",
+      "translit": "dal",
       "lang": "hebraico",
-      "meaning": "louvor",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como tehil·lâ ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "fraco, pobre, abatido",
+      "note": "Dal descreve alguém sem forças: o pobre, o doente, o que está “magro” de recursos. A bem-aventurança do versículo 1 é para quem “se interessa” pelo dal — o verbo hebraico sugere pensar com atenção, considerar com sabedoria. Cuidar do fraco é um ato de inteligência espiritual."
     },
-    "context": "Este é o dia 41 da jornada pelo Saltério. Leia o Salmo 41 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Último salmo do Livro I, encerrado pela doxologia do versículo 13 (“Amém e amém!”). O salmista está doente, consciente do próprio pecado, e cercado de visitas falsas que torcem por sua morte. A traição do amigo (v. 9) foi citada por Jesus ao falar de Judas (Jo 13.18).",
     "passage": {
       "ref": "Salmo 41 · capítulo completo (NVI)",
       "verses": [
@@ -4193,16 +4193,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 41 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com quem cuida do fraco e logo revela que o salmista é o fraco. Ele está de cama, cercado de gente que finge visitar mas vai embora espalhando boatos. A bem-aventurança inicial ganha peso: quem já esteve no leito sabe o valor de uma visita sincera.",
+      "“Até o meu melhor amigo, em quem eu confiava e que partilhava do meu pão, voltou-se contra mim.” A dor da traição é maior quando vem de quem comeu à mesa. Jesus conheceu essa dor e a nomeou com este versículo na noite em que foi traído. Ele entende quem foi ferido por alguém próximo.",
+      "O Livro I do Saltério termina com um “Amém e amém”. Depois de 41 salmos de confiança, lamento, perdão e louvor, a coleção se fecha bendizendo a Deus “de eternidade a eternidade”. Mesmo quando o último salmo é sobre doença e traição, a palavra final é bênção."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Quem está “de cama” — física ou emocionalmente — e precisa de uma visita sincera sua?",
+      "Há uma traição de alguém próximo que você ainda não levou a Jesus, que também foi traído?",
+      "Consegue terminar um dia difícil com um “amém” de confiança, mesmo sem tudo resolvido?"
     ],
-    "application": "Pense em alguém fraco ou doente que você conhece (v. 1) e faça hoje um gesto concreto de cuidado: uma visita, uma ligação ou uma refeição.",
+    "application": "Visite, ligue ou envie uma refeição hoje para alguém doente, sozinho ou fragilizado. Não leve conselhos nem explicações — apenas presença e cuidado.",
     "prayer": "Senhor, como é feliz quem se preocupa com o pobre. Sustenta-me no leito da enfermidade e cura-me. Mesmo quando o amigo íntimo me trai, tu me sustentas na minha integridade. Amém."
   },
   {
@@ -4210,20 +4210,20 @@ window.SALMOS = [
     "psalm": 42,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 42",
+    "theme": "Livro II · Sede e realeza · Salmo 42 · Sede do Deus vivo",
     "date": "Salmo 42",
     "verse": {
-      "text": "Ore e leia o Salmo 42 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 42"
+      "text": "Como a corça anseia por águas correntes, a minha alma anseia por ti, ó Deus.",
+      "ref": "Salmo 42.1"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "צָמֵא",
+      "translit": "tsame",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "sedento, ter sede",
+      "note": "Tsame é a sede física do deserto, a urgência de quem precisa de água para não morrer. A alma do salmista tem sede não de respostas ou bênçãos, mas “de Deus, do Deus vivo”. É a sede mais profunda, que nada além dele sacia."
     },
-    "context": "Este é o dia 42 da jornada pelo Saltério. Leia o Salmo 42 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Os Salmos 42 e 43 formam um único poema, unido pelo refrão “Por que você está assim tão triste, ó minha alma?” (42.5, 11; 43.5). É o primeiro salmo do Livro II e dos “filhos de Corá”, levitas cantores do templo. O salmista parece estar longe de Jerusalém, no norte, perto do monte Hermom e das nascentes do Jordão, impedido de ir ao templo.",
     "passage": {
       "ref": "Salmo 42 · capítulo completo (NVI)",
       "verses": [
@@ -4274,16 +4274,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 42 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "A corça que anseia por água é uma imagem de seca. No deserto, o animal sente o cheiro da água e corre. O salmista não está em crise de fé; está com saudade de Deus. Há uma diferença entre dúvida e sede: a dúvida pergunta se Deus existe; a sede sabe que existe e não suporta a distância.",
+      "O salmista fala consigo mesmo: “Por que você está assim tão triste, ó minha alma?”. Ele não apenas sente; ele interroga os sentimentos e os aconselha. Em vez de deixar a tristeza dizer o que é verdade, ele se dirige a ela e a lembra de esperar em Deus. Isso não nega a tristeza — o refrão volta três vezes —, mas não deixa que ela tenha a última palavra.",
+      "“Abismo chama abismo ao rugir das tuas cachoeiras.” O salmista está perto das cachoeiras do Hermom, e a água que deveria saciar se torna imagem de afogamento. Mas observe: são “tuas” cachoeiras, “tuas” ondas. Mesmo a dor que o cobre não está fora do domínio de Deus. E logo em seguida: “de noite esteja comigo a sua canção”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você sente mais dúvida ou mais sede de Deus nesta fase?",
+      "O que sua alma responderia se você perguntasse hoje: “Por que você está assim?”",
+      "Que “abismo” tem chamado outro abismo na sua vida, e como seria lembrar que essas ondas também são de Deus?"
     ],
-    "application": "Pergunte a si mesmo em voz alta, como o salmista: 'Por que você está assim tão triste, ó minha alma?' (v. 5). Nomeie o motivo e responda: 'Ponha a sua esperança em Deus'.",
+    "application": "Faça o exercício do salmista: escreva uma carta curta à sua própria alma, perguntando por que está triste, ouvindo a resposta com honestidade e terminando com o refrão: “Ponha a sua esperança em Deus”.",
     "prayer": "Senhor, como a corça anseia por águas correntes, a minha alma anseia por ti. As lágrimas têm sido meu alimento. De dia, envia o teu amor; de noite, esteja comigo a tua canção. Amém."
   },
   {
@@ -4291,20 +4291,20 @@ window.SALMOS = [
     "psalm": 43,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 43",
+    "theme": "Livro II · Sede e realeza · Salmo 43 · Luz e verdade para voltar",
     "date": "Salmo 43",
     "verse": {
-      "text": "Ore e leia o Salmo 43 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 43"
+      "text": "Envia a tua luz e a tua verdade; elas me guiarão e me levarão ao teu santo monte, ao lugar onde habitas.",
+      "ref": "Salmo 43.3"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "אֱמֶת",
+      "translit": "emet",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "verdade, fidelidade, firmeza",
+      "note": "Emet vem da mesma raiz de “amém”: algo firme, em que se pode apoiar. No versículo 3, luz e verdade são enviadas como dois guias pessoais, quase como anjos, para conduzir o salmista de volta ao santo monte. A verdade de Deus não é apenas uma informação correta; é alguém fiel que nos leva para casa."
     },
-    "context": "Este é o dia 43 da jornada pelo Saltério. Leia o Salmo 43 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Continuação do Salmo 42, compartilhando o mesmo refrão (v. 5). Se o Salmo 42 é dominado pela saudade e pelas lágrimas, o 43 traz um pedido concreto: justiça contra um povo infiel e direção de volta ao altar. É a parte final do poema, em que a esperança ganha um destino: “irei ao altar de Deus”.",
     "passage": {
       "ref": "Salmo 43 · capítulo completo (NVI)",
       "verses": [
@@ -4331,16 +4331,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 43 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmista pergunta: “Por que me rejeitaste?”. Ao mesmo tempo, chama Deus de “minha fortaleza”. A fé bíblica sustenta essa tensão: sentir-se rejeitado e ainda assim correr para o mesmo Deus. Não é contradição; é intimidade suficiente para reclamar com quem se confia.",
+      "O pedido do versículo 3 não é “leva-me embora daqui”, mas “envia a tua luz e a tua verdade; elas me guiarão”. O caminho de volta para Deus não se encontra no escuro; é Deus quem envia a luz. Quem está longe não precisa achar o caminho sozinho; precisa pedir guias.",
+      "O destino final é “Deus, a fonte da minha plena alegria” — no hebraico, “a alegria da minha exultação”. A tristeza do refrão não é negada, mas tem um horizonte. O salmista ainda não chegou, mas já sabe para onde vai e com que instrumento vai cantar: a harpa."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você consegue chamar Deus de “minha fortaleza” e, ao mesmo tempo, dizer a ele que se sente rejeitado?",
+      "De que lugar de adoração, comunhão ou intimidade você tem se afastado?",
+      "Que “luz e verdade” você precisa pedir para conseguir voltar?"
     ],
-    "application": "Ore o versículo 3 antes de começar o dia: 'Envia a tua luz e a tua verdade'. Peça a Deus que o guie de volta ao lugar de adoração do qual você tem se afastado.",
+    "application": "Se você tem se afastado da comunhão com outros cristãos, dê hoje um passo concreto de volta: mande mensagem a alguém da igreja, combine um encontro ou planeje estar no próximo culto.",
     "prayer": "Ó Deus, faz-me justiça e defende a minha causa. Envia a tua luz e a tua verdade; que elas me guiem ao teu santo monte, ao Deus da minha alegria. Amém."
   },
   {
@@ -4526,20 +4526,20 @@ window.SALMOS = [
     "psalm": 45,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 45",
+    "theme": "Livro II · Sede e realeza · Salmo 45 · Canção para o Rei e sua noiva",
     "date": "Salmo 45",
     "verse": {
-      "text": "Ore e leia o Salmo 45 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 45"
+      "text": "És dos homens o mais notável; derramou-se graça em teus lábios, visto que Deus te abençoou para sempre.",
+      "ref": "Salmo 45.2"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "חֵן",
+      "translit": "chen",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "graça, encanto, favor",
+      "note": "Chen é a beleza que atrai, o favor que encanta. No versículo 2, “derramou-se graça em teus lábios” descreve um rei cuja fala é graciosa. Lucas usa uma ideia parecida ao dizer que todos se admiravam das “palavras de graça” que saíam da boca de Jesus (Lc 4.22)."
     },
-    "context": "Este é o dia 45 da jornada pelo Saltério. Leia o Salmo 45 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O único cântico de casamento do Saltério, composto para as núpcias de um rei de Israel. Divide-se em louvor ao rei (v. 1–9), conselho à noiva (v. 10–12), descrição do cortejo (v. 13–15) e promessa de descendência (v. 16–17). Hebreus 1.8–9 aplica os versículos 6–7 a Cristo, e a tradição cristã lê o salmo como figura de Cristo e da igreja.",
     "passage": {
       "ref": "Salmo 45 · capítulo completo (NVI)",
       "verses": [
@@ -4614,16 +4614,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 45 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O poeta começa dizendo que seu coração está “vibrando de boas palavras” — o verbo descreve uma panela que ferve e transborda. Há louvores que não são planejados, mas transbordam de um coração cheio de admiração. Quando foi a última vez que você falou de Jesus porque não conseguiu se conter?",
+      "O rei cavalga “pela verdade, pela misericórdia e pela justiça”. Sua força não é tirânica; serve a valores. O versículo 6 dá um salto surpreendente: “O teu trono, ó Deus, subsiste para todo o sempre”. O rei humano é chamado de Deus. Só em Cristo, Deus e Rei verdadeiro, essa linguagem encontra seu sentido pleno.",
+      "À noiva é dito: “Esqueça o seu povo e a casa paterna”. Casamento implica nova lealdade. Para a igreja, noiva de Cristo, isso significa que pertencer a ele reorganiza todas as outras pertenças. Não é rejeitar a origem, mas reconhecer que a casa do Rei agora é o centro."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Quando foi a última vez que seu coração “transbordou” em admiração por Jesus?",
+      "Como você descreveria a beleza de Cristo para alguém que não o conhece?",
+      "Que antiga lealdade ainda compete com sua pertença ao Rei?"
     ],
-    "application": "Este cântico de casamento real aponta para Cristo e sua noiva. Escreva uma frase de admiração a Jesus como o Rei do versículo 2 — 'o mais belo dos homens'.",
+    "application": "Escreva três frases sobre a beleza de Jesus, como o poeta que escreve “como a pena de um hábil escritor”. Use detalhes dos evangelhos — palavras, gestos, olhares de Jesus — e leia-as em voz alta como louvor.",
     "prayer": "Senhor Jesus, o teu trono permanece para sempre e o cetro do teu reino é cetro de justiça. Faz que eu te deseje como a noiva deseja o seu Rei, e esqueça o que me prende ao passado. Amém."
   },
   {
@@ -4631,20 +4631,20 @@ window.SALMOS = [
     "psalm": 46,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 46",
+    "theme": "Livro II · Sede e realeza · Salmo 46 · Refúgio quando a terra treme",
     "date": "Salmo 46",
     "verse": {
-      "text": "Ore e leia o Salmo 46 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 46"
+      "text": "Deus é o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade.",
+      "ref": "Salmo 46.1"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "רָפָה",
+      "translit": "rafah",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "soltar, largar, afrouxar",
+      "note": "Rafah é deixar as mãos caírem, soltar o que se agarrava com força. O famoso “Parem de lutar!” do versículo 10 (tradicionalmente “Aquietai-vos”) é, literalmente, “soltem as mãos”. É uma ordem para quem está agarrado à luta, aos planos ou ao controle."
     },
-    "context": "Este é o dia 46 da jornada pelo Saltério. Leia o Salmo 46 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino de confiança dos filhos de Corá, celebrando Deus como refúgio de Jerusalém. Tem três estrofes marcadas por “Pausa”: o caos da natureza (v. 1–3), a cidade de Deus e seu rio (v. 4–7) e o fim das guerras (v. 8–11). O refrão (v. 7, 11) repete: “O Senhor dos Exércitos está conosco”. Lutero se inspirou nele para compor “Castelo forte”.",
     "passage": {
       "ref": "Salmo 46 · capítulo completo (NVI)",
       "verses": [
@@ -4695,16 +4695,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 46 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo imagina o pior cenário possível: a terra tremendo, montes caindo no mar, águas furiosas. É o retrato da criação desfazendo-se. E mesmo assim: “Por isso não temeremos”. A confiança não depende da estabilidade do chão, mas da presença de quem é refúgio quando o chão some.",
+      "Jerusalém não tinha rio. Mas o salmo fala de “um rio cujos canais alegram a cidade de Deus”. É uma imagem de presença: onde Deus habita, há vida que corre. Ezequiel e Apocalipse desenvolvem esse rio que sai do trono (Ez 47; Ap 22). No meio do caos, há uma fonte que não seca.",
+      "“Parem de lutar! Saibam que eu sou Deus!” não é um convite suave ao relaxamento, mas uma ordem às nações em guerra. Deus manda soltar as armas. Para nós, é também um chamado a largar o que agarramos com ansiedade. Saber que ele é Deus começa com admitir que nós não somos."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que “montanha” da sua vida parece estar afundando no mar?",
+      "Onde você percebe hoje um “rio” de Deus correndo, mesmo em meio ao caos?",
+      "O que você está agarrando com tanta força que precisa ouvir: “solte as mãos”?"
     ],
-    "application": "Separe cinco minutos de silêncio total, sem celular, e repita o versículo 10: 'Parem de lutar! Saibam que eu sou Deus'. Deixe que esse silêncio seja seu ato de confiança.",
+    "application": "Sente-se em silêncio por cinco minutos com as mãos abertas sobre os joelhos, como gesto de rafah. A cada vez que um pensamento ansioso surgir, diga: “Tu és Deus, e eu não sou”.",
     "prayer": "Senhor, tu és o nosso refúgio e a nossa fortaleza, auxílio sempre presente na adversidade. Ainda que a terra trema, não temeremos. Aquieta-me e faz-me saber que tu és Deus. Amém."
   },
   {
@@ -4712,20 +4712,20 @@ window.SALMOS = [
     "psalm": 47,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 47",
+    "theme": "Livro II · Sede e realeza · Salmo 47 · Palmas para o Rei de toda a terra",
     "date": "Salmo 47",
     "verse": {
-      "text": "Ore e leia o Salmo 47 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 47"
+      "text": "Batam palmas, vocês, todos os povos; aclamem a Deus com cantos de alegria.",
+      "ref": "Salmo 47.1"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "תְּרוּעָה",
+      "translit": "teru'ah",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "aclamação, grito de alegria, toque de trombeta",
+      "note": "Teru'ah era o grito de guerra, o som da trombeta e o brado de aclamação ao rei recém-coroado. Era também o som do Ano Novo judaico (Yom Teru'ah). No versículo 5, Deus “subiu em meio a gritos de alegria” — é a festa de entronização do Rei."
     },
-    "context": "Este é o dia 47 da jornada pelo Saltério. Leia o Salmo 47 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino de realeza que celebra Deus como Rei de toda a terra. Provavelmente usado em uma festa em que a arca subia ao templo, símbolo do trono de Deus. A igreja antiga o ligou à Ascensão de Cristo (v. 5). Termina com uma visão surpreendente: os governantes das nações reunidos ao “povo do Deus de Abraão”.",
     "passage": {
       "ref": "Salmo 47 · capítulo completo (NVI)",
       "verses": [
@@ -4768,16 +4768,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 47 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Batam palmas, vocês, todos os povos.” A convocação não é só para Israel; é para as nações. O louvor que o salmo pede é físico, barulhento, festivo. Há momentos em que a fé precisa ser silenciosa, e há momentos em que precisa bater palmas e gritar de alegria.",
+      "Deus “subiu” — como a arca subindo o monte Sião entre trombetas. Para a igreja, o versículo evoca Jesus ascendendo ao céu. O Rei que desceu para servir agora sobe para reinar. Sua coroação não é uma lembrança distante; é a realidade presente: “Deus está assentado em seu santo trono”.",
+      "O final é de uma ousadia profética: os soberanos das nações se juntam “ao povo do Deus de Abraão”. Lembra a promessa a Abraão de que nele todas as famílias da terra seriam abençoadas (Gn 12.3). O povo de Deus não é clube fechado; é a porta pela qual as nações entram no reino."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Sua forma de louvar tem espaço para alegria festiva, ou apenas para reverência silenciosa?",
+      "O que muda na sua semana saber que Jesus está entronizado agora?",
+      "Por qual nação ou povo distante você poderia orar hoje para que se junte “ao povo do Deus de Abraão”?"
     ],
-    "application": "Bata palmas ou cante em voz alta hoje, como o salmo convida (v. 1). Em seguida, ore pelas nações, lembrando que 'Deus reina sobre as nações' (v. 8).",
+    "application": "Escolha um país onde a fé cristã é minoria ou perseguida, pesquise brevemente sua situação e ore por ele hoje — depois termine batendo palmas ou cantando um louvor ao Rei de toda a terra.",
     "prayer": "Senhor Altíssimo, tu és o grande Rei sobre toda a terra. Cantamos louvores com entendimento, porque reinas sobre as nações e estás assentado no teu santo trono. Amém."
   },
   {
@@ -4785,20 +4785,20 @@ window.SALMOS = [
     "psalm": 48,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 48",
+    "theme": "Livro II · Sede e realeza · Salmo 48 · Contem as torres de Sião",
     "date": "Salmo 48",
     "verse": {
-      "text": "Ore e leia o Salmo 48 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 48"
+      "text": "Percorram Sião, contornando-a, contem as suas torres, observem bem as suas muralhas, examinem as suas cidadelas, para que vocês falem à próxima geração que este Deus é o nosso Deus para todo o sempre; ele será o nosso guia até o fim.",
+      "ref": "Salmo 48.12–14"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "דּוֹר",
+      "translit": "dor",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "geração",
+      "note": "Dor é o ciclo de uma geração, o círculo de vida que passa de pais para filhos. O salmo termina mandando os peregrinos observarem Sião “para que vocês falem à próxima geração”. A fé não é uma experiência só para consumo próprio; é herança para transmitir."
     },
-    "context": "Este é o dia 48 da jornada pelo Saltério. Leia o Salmo 48 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Cântico de Sião dos filhos de Corá, celebrando Jerusalém como cidade do grande Rei. Descreve reis inimigos que fogem aterrorizados ao vê-la (v. 4–7), o povo meditando no amor de Deus no templo (v. 9–11) e um convite a percorrer a cidade (v. 12–14). O ponto não é a arquitetura, mas o Deus que ela revela.",
     "passage": {
       "ref": "Salmo 48 · capítulo completo (NVI)",
       "verses": [
@@ -4861,16 +4861,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 48 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Grande é o Senhor” — e o salmo imediatamente aponta para a cidade. A grandeza de Deus se torna visível num lugar concreto. Para Israel, era Sião; para nós, é Cristo e o seu povo. A fé bíblica não é abstrata: Deus se revela em história, em lugares, em gente.",
+      "“Como já temos ouvido, agora também temos visto.” É a passagem da tradição para a experiência. Os peregrinos ouviram dos pais sobre a fidelidade de Deus e agora a viram com os próprios olhos. A fé herdada precisa se tornar fé vivida. Ouvir é o começo; ver confirma.",
+      "Contar torres e examinar muralhas parece turismo. Mas o objetivo é narrativo: “para que vocês falem à próxima geração que este Deus é o nosso Deus”. Observar com atenção as obras de Deus nos prepara para testemunhar. Quem não presta atenção não tem o que contar."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que parte da sua fé é apenas “ouvida” e que parte já foi “vista” na sua experiência?",
+      "Que “torres” — marcos da fidelidade de Deus — você poderia mostrar a alguém mais jovem?",
+      "Quem é a “próxima geração” na sua vida, e você tem falado com ela sobre Deus?"
     ],
-    "application": "Faça um 'passeio' pela sua história com Deus, como os peregrinos que contavam as torres de Sião (v. 12–13). Escreva três marcos da fidelidade dele para contar à próxima geração.",
+    "application": "Escolha uma criança, adolescente ou jovem da sua convivência e conte-lhe uma história real em que você viu a fidelidade de Deus. Seja breve e concreto, como quem mostra uma torre.",
     "prayer": "Senhor, grande és tu e digno de todo louvor na tua cidade. Meditamos no teu amor dentro do teu templo. Este Deus é o nosso Deus para sempre; ele nos guiará até o fim. Amém."
   },
   {
@@ -4878,20 +4878,20 @@ window.SALMOS = [
     "psalm": 49,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 49",
+    "theme": "Livro II · Sede e realeza · Salmo 49 · O que o dinheiro não compra",
     "date": "Salmo 49",
     "verse": {
-      "text": "Ore e leia o Salmo 49 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 49"
+      "text": "Mas Deus redimirá a minha vida da sepultura e me levará para si.",
+      "ref": "Salmo 49.15"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "פָּדָה",
+      "translit": "padah",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "resgatar, pagar o preço de libertação",
+      "note": "Padah é o verbo do resgate: pagar o preço para libertar alguém de escravidão ou morte. O versículo 7 diz que nenhum homem pode “redimir” o irmão; o versículo 15, que Deus “redimirá” a vida do salmista da sepultura. O que nenhuma fortuna paga, Deus paga."
     },
-    "context": "Este é o dia 49 da jornada pelo Saltério. Leia o Salmo 49 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de sabedoria dirigido a “todos os povos”, ricos e pobres. Funciona como um enigma musicado (v. 4) sobre a morte, a riqueza e a esperança. Tem dois refrãos quase iguais (v. 12, 20) e o versículo 15 como centro: a esperança de que Deus levará o justo para si, uma das passagens do Antigo Testamento que mais se aproximam da esperança da ressurreição.",
     "passage": {
       "ref": "Salmo 49 · capítulo completo (NVI)",
       "verses": [
@@ -4978,16 +4978,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 49 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo fala a ricos e pobres “igualmente”. A morte é o grande nivelador: sábios e tolos, importantes e anônimos terminam no mesmo lugar. Por isso a pergunta do versículo 5 faz sentido: por que temer os poderosos se eles também são mortais?",
+      "“O resgate de uma vida não tem preço.” Nenhum seguro, investimento ou herança compra mais um dia diante da morte. É uma frase que desmonta a confiança nas riquezas. Os ricos dão seus nomes a terras, mas o túmulo será sua casa “para sempre”. O esplendor não desce com eles.",
+      "O versículo 15 é uma luz no meio da sombra: “Mas Deus redimirá a minha vida da sepultura e me levará para si”. O verbo “levar” é o mesmo usado para Enoque (Gn 5.24). O que o dinheiro não compra, Deus oferece como dom. A esperança cristã vê aqui o eco do resgate pago por Cristo (Mc 10.45)."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que tipo de segurança você tem confiado como se ela pudesse comprar sua vida?",
+      "Você sente inveja quando alguém “aumenta o luxo de sua casa”? Como o salmo responde a isso?",
+      "Como a esperança de ser “levado para Deus” muda o modo como você usa seus bens hoje?"
     ],
-    "application": "Faça um inventário honesto: em que bens, conquistas ou seguranças você tem confiado? Lembre que 'ninguém pode redimir a vida do outro' (v. 7) e entregue isso a Deus.",
+    "application": "Revise seus gastos da última semana e identifique um que foi feito para buscar segurança ou status. Hoje, faça o contrário: dê algo com generosidade, sem retorno, como sinal de que sua vida não depende do que você acumula.",
     "prayer": "Senhor, o homem que vive em honra, mas sem entendimento, é como os animais que perecem. Mas tu redimirás a minha vida da sepultura e me levarás para junto de ti. Amém."
   },
   {
@@ -4995,20 +4995,20 @@ window.SALMOS = [
     "psalm": 50,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 50",
+    "theme": "Livro II · Sede e realeza · Salmo 50 · O tribunal em que Deus fala",
     "date": "Salmo 50",
     "verse": {
-      "text": "Ore e leia o Salmo 50 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 50"
+      "text": "Quem me oferece sua gratidão como sacrifício, honra-me, e eu mostrarei a salvação de Deus ao que anda nos meus caminhos. \"",
+      "ref": "Salmo 50.23"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "תּוֹדָה",
+      "translit": "todah",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "gratidão, oferta de ação de graças",
+      "note": "Todah era um tipo específico de sacrifício no templo, oferecido para agradecer um livramento, e incluía uma refeição compartilhada. No Salmo 50, Deus diz que não precisa de carne de touros; o sacrifício que ele quer é a todah — a gratidão que reconhece sua bondade."
     },
-    "context": "Este é o dia 50 da jornada pelo Saltério. Leia o Salmo 50 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo profético de Asafe, o primeiro de uma coleção atribuída a esse levita (50; 73–83). Encena um tribunal cósmico: Deus convoca céus e terra para julgar o seu próprio povo. Há duas acusações: contra o religioso que acha que Deus precisa de sacrifícios (v. 7–15) e contra o hipócrita que recita a lei mas vive na fraude (v. 16–21).",
     "passage": {
       "ref": "Salmo 50 · capítulo completo (NVI)",
       "verses": [
@@ -5107,16 +5107,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 50 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Deus chega com fogo e tempestade, e o réu é o seu próprio povo. Não os pagãos, mas os que fizeram aliança com ele. O juízo começa pela casa de Deus (1Pe 4.17). É um salmo para ler sem apontar o dedo para fora.",
+      "A primeira acusação é irônica: “Se eu tivesse fome, precisaria dizer a você?”. Deus é dono de todo animal da floresta. Ele não depende de nossas ofertas. O que ele quer é relação: gratidão, votos cumpridos e clamor na angústia. A religião que tenta “alimentar” Deus esquece que é ele quem nos alimenta.",
+      "A segunda acusação é mais dura: “Que direito você tem de recitar as minhas leis?”. O hipócrita conhece a Bíblia, mas calunia o irmão e se mistura com ladrões. O silêncio de Deus foi mal interpretado: “Você pensa que eu sou como você?”. Paciência divina não é aprovação."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há algo que você faz por Deus como se ele precisasse disso, em vez de oferecer gratidão?",
+      "Em que área sua religiosidade e sua conduta estão em conflito?",
+      "Você tem interpretado a paciência de Deus como se ele aprovasse algo que ele reprova?"
     ],
-    "application": "Ofereça hoje a Deus um 'sacrifício de gratidão' (v. 14): escreva uma lista de agradecimentos e, se tiver feito alguma promessa a Deus, cumpra-a.",
+    "application": "Faça uma “refeição de todah”: em uma refeição hoje, conte a quem estiver com você um motivo específico de gratidão a Deus. Se comer sozinho, escreva e envie esse motivo a alguém.",
     "prayer": "Senhor, todos os animais da floresta são teus; não precisas de nada que eu possa dar. Recebe o meu sacrifício de gratidão. Invoco-te no dia da angústia; livra-me, e eu te honrarei. Amém."
   },
   {
@@ -5124,20 +5124,20 @@ window.SALMOS = [
     "psalm": 51,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 51",
+    "theme": "Livro II · Sede e realeza · Salmo 51 · Cria em mim um coração puro",
     "date": "Salmo 51",
     "verse": {
-      "text": "Ore e leia o Salmo 51 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 51"
+      "text": "Cria em mim um coração puro, ó Deus, e renova dentro de mim um espírito estável.",
+      "ref": "Salmo 51.10"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "בָּרָא",
+      "translit": "bara",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "criar (do nada)",
+      "note": "Bara é o verbo de Gênesis 1.1 e, na Bíblia hebraica, só tem Deus como sujeito. Quando Davi pede “Cria em mim um coração puro”, ele não pede um reparo, mas uma nova criação. Ele sabe que não pode consertar o próprio coração; precisa que Deus faça algo novo."
     },
-    "context": "Este é o dia 51 da jornada pelo Saltério. Leia o Salmo 51 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O mais conhecido dos salmos penitenciais, ligado no título ao momento em que o profeta Natã confrontou Davi depois do adultério com Bate-Seba e do assassinato de Urias (2Sm 11–12). O salmo passa por súplica de perdão (v. 1–9), pedido de renovação (v. 10–12), promessa de testemunho (v. 13–17) e oração por Jerusalém (v. 18–19).",
     "passage": {
       "ref": "Salmo 51 · capítulo completo (NVI)",
       "verses": [
@@ -5220,16 +5220,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 51 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Davi usa três palavras para pecado — transgressão (rebelião), culpa (desvio) e pecado (errar o alvo) — e três para perdão: apagar, lavar e purificar. Ele não minimiza o que fez. A confissão verdadeira nomeia com precisão, sem eufemismo. Só assim a graça também pode ser recebida em toda a sua extensão.",
+      "“Contra ti, só contra ti, pequei.” Davi havia ferido Bate-Seba, Urias, a nação. Mas ele vê que, no fundo, todo pecado é contra Deus. Isso não diminui o dano ao próximo; revela a raiz. O pecado contra pessoas é sempre, antes, um desprezo pelo Deus que as criou.",
+      "O sacrifício que Deus aceita é “um coração quebrantado e contrito”. Não um coração autodepreciativo, mas um coração que parou de se defender. Note também o versículo 13: o perdoado se torna mestre de outros pecadores. A pessoa restaurada tem algo a ensinar que o orgulhoso nunca terá."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que pecado você tem chamado por um nome mais suave do que ele merece?",
+      "Como a consciência de que o pecado é “contra Deus” muda sua forma de pedir perdão a quem você feriu?",
+      "Seu coração está quebrantado diante de Deus ou apenas envergonhado diante das pessoas?"
     ],
-    "application": "Ore o versículo 10 — 'Cria em mim um coração puro, ó Deus' — sobre uma falha específica. Confesse-a sem desculpas e dê hoje um passo concreto de reparação.",
+    "application": "Escreva o versículo 10 numa folha. Embaixo, nomeie com honestidade uma falha específica. Ore pedindo uma “nova criação” nessa área e, se houver alguém a quem você deve um pedido de perdão, faça-o hoje.",
     "prayer": "Tem misericórdia de mim, ó Deus, segundo o teu amor. Lava-me da minha culpa e purifica-me do meu pecado. Cria em mim um coração puro e devolve-me a alegria da tua salvação. Amém."
   },
   {
@@ -5237,20 +5237,20 @@ window.SALMOS = [
     "psalm": 52,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 52",
+    "theme": "Livro II · Sede e realeza · Salmo 52 · Oliveira na casa de Deus",
     "date": "Salmo 52",
     "verse": {
-      "text": "Ore e leia o Salmo 52 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 52"
+      "text": "Mas eu sou como uma oliveira que floresce na casa de Deus; confio no amor de Deus para todo o sempre.",
+      "ref": "Salmo 52.8"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "זַיִת",
+      "translit": "zayit",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "oliveira",
+      "note": "A zayit é uma das árvores mais longevas do Oriente: vive centenas de anos, resiste à seca e produz azeite para alimento, luz e unção. Davi se compara a uma oliveira “que floresce na casa de Deus” — enraizado, fecundo e duradouro, em contraste com o poderoso que será arrancado."
     },
-    "context": "Este é o dia 52 da jornada pelo Saltério. Leia o Salmo 52 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título liga o salmo ao momento em que Doegue, o edomita, denunciou a Saul que Davi tinha sido ajudado pelos sacerdotes de Nobe, o que levou ao massacre de 85 sacerdotes (1Sm 21–22). O salmo é dirigido diretamente ao “homem poderoso” cuja língua causou destruição, e termina com a imagem serena do justo como oliveira.",
     "passage": {
       "ref": "Salmo 52 · capítulo completo (NVI)",
       "verses": [
@@ -5293,16 +5293,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 52 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa falando com o malfeitor, não com Deus. “Por que você se vangloria do mal?” Há momentos em que a oração precisa nomear o mal diante da comunidade. Doegue era poderoso, mas sua arma era a língua: “como navalha afiada, cheia de engano”. Palavras podem matar.",
+      "O versículo 7 descreve o homem “que rejeitou a Deus como refúgio” e confiou na riqueza. Todos buscam algum refúgio. A questão não é se você vai se refugiar, mas onde. Doegue escolheu o favor do rei e a própria malícia. Ambos se mostraram frágeis.",
+      "Enquanto o poderoso será arrancado da sua tenda e desarraigado “da terra dos vivos”, o justo floresce como oliveira. As imagens se opõem: uma árvore arrancada e uma árvore plantada. A estabilidade de Davi não vinha do poder, mas de estar “na casa de Deus”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você já viu (ou usou) a língua como “navalha afiada”? O que isso causou?",
+      "Onde você tem buscado refúgio quando se sente ameaçado: na sua capacidade, no favor de alguém ou em Deus?",
+      "Como você poderia “florescer na casa de Deus” nesta fase, como uma oliveira paciente?"
     ],
-    "application": "Observe suas palavras hoje: evite qualquer comentário que destrua alguém (v. 2–4). À noite, agradeça por estar 'como oliveira na casa de Deus' (v. 8).",
+    "application": "Se alguém usou palavras para ferir você ou outros, não responda com a mesma arma. Hoje, escolha usar suas palavras para abençoar alguém publicamente — um elogio sincero, um agradecimento, um reconhecimento.",
     "prayer": "Senhor, não quero confiar na riqueza nem ferir com a língua. Planta-me como oliveira verdejante na tua casa; confio no teu amor para todo o sempre. Amém."
   },
   {
@@ -5310,20 +5310,20 @@ window.SALMOS = [
     "psalm": 53,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 53",
+    "theme": "Livro II · Sede e realeza · Salmo 53 · Deus procura quem o busque",
     "date": "Salmo 53",
     "verse": {
-      "text": "Ore e leia o Salmo 53 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 53"
+      "text": "Deus olha lá dos céus para os filhos dos homens, para ver se há alguém que tenha entendimento, alguém que busque a Deus.",
+      "ref": "Salmo 53.2"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "אֱלֹהִים",
+      "translit": "Elohim",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "Deus",
+      "note": "O Salmo 53 é quase idêntico ao 14, mas troca o nome pessoal YHWH (“Senhor”) por Elohim (“Deus”), como faz boa parte do Livro II (Salmos 42–83, chamado “Saltério eloísta”). A repetição mostra que Israel cantava o mesmo diagnóstico em contextos diferentes: a tolice humana é universal, e Deus continua sendo juiz e salvador."
     },
-    "context": "Este é o dia 53 da jornada pelo Saltério. Leia o Salmo 53 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Versão do Salmo 14 adaptada para outro uso litúrgico. A principal diferença está no versículo 5, que fala de uma vitória concreta: Deus “espalhou os ossos” dos que atacaram o povo. O mesmo texto que no Salmo 14 consola os pobres, aqui celebra uma derrota dos inimigos. Paulo cita os versículos 1–3 em Romanos 3.10–12.",
     "passage": {
       "ref": "Salmo 53 · capítulo completo (NVI)",
       "verses": [
@@ -5354,16 +5354,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 53 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Por que repetir um salmo? Porque há verdades que precisamos ouvir mais de uma vez. O diagnóstico de que “não há ninguém que faça o bem” é tão contrário ao nosso instinto de autojustificação que a Escritura o repete. A segunda leitura é um convite a não pular o espelho.",
+      "Deus olha “lá dos céus” procurando quem tenha entendimento e quem o busque. A imagem não é de um Deus distante, mas de um Deus que procura. Ele quer ser buscado. A tragédia não é que Deus se esconde, mas que ninguém o procura.",
+      "O versículo 5 é diferente do Salmo 14: os inimigos ficaram tomados de pavor “quando não existe motivo algum para temer”. Quem vive sem Deus é assombrado por medos que não sabe nomear. Já o povo de Deus pode ver ossos espalhados de inimigos que pareciam invencíveis. O medo muda de lado."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que verdade sobre você mesmo você precisa ouvir “de novo” hoje?",
+      "Você percebe Deus como alguém que procura por você, ou como alguém de quem você precisa se esconder?",
+      "Há medos sem motivo aparente que tomam conta de você quando se afasta de Deus?"
     ],
-    "application": "Reconheça em oração as áreas em que você vive como se 'não houvesse Deus' (v. 1). Peça perdão e agradeça pela restauração que ele promete trazer ao seu povo (v. 6).",
+    "application": "Hoje, a cada vez que olhar para o céu — ao sair de casa, numa pausa, ao voltar — lembre-se de que Deus “olha lá dos céus” procurando quem o busque, e responda com uma frase curta: “Estou aqui, Senhor”.",
     "prayer": "Senhor, olhaste dos céus e não encontraste um justo sequer. Eu também preciso da tua salvação. Restaura o teu povo e alegra-nos com a tua presença. Amém."
   },
   {
@@ -5371,20 +5371,20 @@ window.SALMOS = [
     "psalm": 54,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 54",
+    "theme": "Livro II · Sede e realeza · Salmo 54 · Socorro quando os seus traem",
     "date": "Salmo 54",
     "verse": {
-      "text": "Ore e leia o Salmo 54 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 54"
+      "text": "Certamente Deus é o meu auxílio; é o Senhor que me sustém.",
+      "ref": "Salmo 54.4"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "עֹזֵר",
+      "translit": "ozer",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ajudador, auxílio",
+      "note": "Ozer é quem vem em socorro de alguém que não consegue sozinho. É a mesma raiz de ezer, usada para a mulher como “auxiliadora” em Gênesis 2.18 e frequentemente para o próprio Deus. Ser ajudado não é sinal de inferioridade; até Deus se apresenta como ajudador."
     },
-    "context": "Este é o dia 54 da jornada pelo Saltério. Leia o Salmo 54 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título liga o salmo ao momento em que os zifeus, da própria tribo de Judá, denunciaram a Saul o esconderijo de Davi (1Sm 23.19; 26.1). É um lamento curto e claro: pedido (v. 1–3), confiança (v. 4–5) e promessa de louvor (v. 6–7). No centro está a frase-chave: “Deus é o meu auxílio”.",
     "passage": {
       "ref": "Salmo 54 · capítulo completo (NVI)",
       "verses": [
@@ -5419,16 +5419,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 54 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Os zifeus eram da mesma tribo de Davi. A traição veio de dentro. Davi os chama de “estrangeiros” (v. 3) — não por origem, mas por atitude: comportaram-se como quem não pertence ao povo de Deus. Há uma dor particular quando quem deveria proteger entrega.",
+      "“Salva-me, ó Deus, pelo teu nome.” Davi não apela ao próprio mérito, mas ao caráter de Deus. O nome é a reputação divina. É como dizer: age de acordo com quem tu és. Orar pelo nome de Deus é ancorar a oração na fidelidade dele, não na nossa.",
+      "A promessa final é um “sacrifício voluntário” — uma oferta que não era obrigatória, nascida de pura gratidão. Davi não espera ver o desfecho para prometer louvor. Ele já sabe que Deus é bom. A gratidão antecipada é uma forma de fé."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Já foi traído por alguém “da sua tribo” — família, igreja, amigos próximos? Como isso afetou sua confiança?",
+      "O que significa para você orar “pelo nome” de Deus, e não pelo seu próprio mérito?",
+      "Que oferta voluntária de gratidão você poderia levar a Deus antes mesmo de ver a resposta?"
     ],
-    "application": "Escreva o nome de quem o tem perseguido ou prejudicado e, ao lado, o versículo 4: 'Deus é o meu ajudador'. Entregue a ele sua defesa e ofereça-lhe gratidão.",
+    "application": "Ofereça hoje um “sacrifício voluntário”: algo que ninguém lhe pediu — um tempo extra de oração, uma ajuda anônima, uma oferta —, feito apenas como gratidão pelo Deus que é seu auxílio.",
     "prayer": "Ó Deus, salva-me pelo teu nome e defende-me pelo teu poder. Estranhos se levantam contra mim, mas tu és o meu ajudador; o Senhor sustenta a minha vida. Amém."
   },
   {
@@ -5436,20 +5436,20 @@ window.SALMOS = [
     "psalm": 55,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 55",
+    "theme": "Livro II · Sede e realeza · Salmo 55 · Asas de pomba e um amigo traidor",
     "date": "Salmo 55",
     "verse": {
-      "text": "Ore e leia o Salmo 55 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 55"
+      "text": "Entregue suas preocupações ao Senhor, e ele o susterá; jamais permitirá que o justo venha a cair.",
+      "ref": "Salmo 55.22"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "יְהָב",
+      "translit": "yehav",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "fardo, encargo, o que foi dado",
+      "note": "Yehav aparece apenas aqui na Bíblia hebraica. Vem de um verbo que significa “dar”: é aquilo que foi colocado sobre você, a carga que lhe coube. O versículo 22 diz, literalmente, “lança sobre o Senhor o teu yehav”: é devolver a ele o que você não consegue carregar. Pedro ecoa esse versículo em 1Pedro 5.7."
     },
-    "context": "Este é o dia 55 da jornada pelo Saltério. Leia o Salmo 55 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento individual intenso, possivelmente da época da revolta de Absalão, quando Aitofel, conselheiro de confiança de Davi, o traiu (2Sm 15–17). Alterna entre pânico (v. 1–8), descrição da cidade violenta (v. 9–11), a dor da traição (v. 12–14, 20–21) e confiança (v. 16–19, 22–23).",
     "passage": {
       "ref": "Salmo 55 · capítulo completo (NVI)",
       "verses": [
@@ -5548,16 +5548,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 55 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Quem dera eu tivesse asas como a pomba!” Quem nunca quis fugir de tudo? O salmista não é repreendido por esse desejo. A Bíblia acolhe a vontade de escapar como parte honesta da oração. Mas o salmo não para aí: ele não voa para longe, ele clama a Deus.",
+      "Os versículos 12–14 são de uma dor que muitos conhecem: um inimigo eu suportaria, mas “logo você, meu colega, meu companheiro, meu amigo chegado”. Pior: alguém com quem se caminhava para a casa de Deus. A traição dentro da comunidade de fé fere duplamente. E a fala do traidor era “macia como manteiga” — mas escondia punhais.",
+      "“À tarde, pela manhã e ao meio-dia choro angustiado, e ele ouve a minha voz.” A oração aqui não é um momento, é um ritmo. Três vezes ao dia — como Daniel. A angústia é constante, e a oração também. E então o conselho: lance o fardo. Não há promessa de que a dor sumirá, mas de que Deus sustentará quem a carrega."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Para onde você gostaria de voar hoje, se tivesse asas de pomba?",
+      "Há alguma ferida de traição dentro da comunidade de fé que você ainda não levou a Deus?",
+      "Qual é o “fardo” específico que você precisa lançar sobre o Senhor hoje?"
     ],
-    "application": "Faça o que diz o versículo 22: escreva o 'fardo' que mais pesa hoje e, simbolicamente, entregue-o a Deus em oração. Se houver uma traição envolvida, nomeie-a também.",
+    "application": "Ore três vezes hoje — à tarde, pela manhã e ao meio-dia, como no versículo 17 —, mesmo que por um minuto. Em cada uma, entregue o mesmo fardo a Deus com as palavras do versículo 22.",
     "prayer": "Senhor, ouve a minha oração; meu coração está angustiado. Quem dera eu tivesse asas de pomba para voar! Lanço sobre ti o meu fardo; sustenta-me e não me deixes vacilar. Amém."
   },
   {
@@ -5565,20 +5565,20 @@ window.SALMOS = [
     "psalm": 56,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 56",
+    "theme": "Livro II · Sede e realeza · Salmo 56 · Lágrimas guardadas num odre",
     "date": "Salmo 56",
     "verse": {
-      "text": "Ore e leia o Salmo 56 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 56"
+      "text": "Mas eu, quando estiver com medo, confiarei em ti. Em Deus, cuja palavra eu louvo, em Deus eu confio, e não temerei. Que poderá fazer-me o simples mortal?",
+      "ref": "Salmo 56.3–4"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "נֹאד",
+      "translit": "nod",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "odre, recipiente de couro",
+      "note": "Nod era o recipiente de pele de animal usado para guardar água, leite ou vinho. No versículo 8, Davi pede que Deus recolha suas lágrimas em seu odre. É uma imagem de cuidado extremo: nenhuma lágrima é derramada em vão; Deus guarda cada uma como algo precioso."
     },
-    "context": "Este é o dia 56 da jornada pelo Saltério. Leia o Salmo 56 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título liga o salmo ao episódio em que Davi foi capturado pelos filisteus em Gate (1Sm 21.10–15), o mesmo pano de fundo do Salmo 34. É um lamento com refrão de confiança (v. 4 e 10–11): “Em Deus eu confio, e não temerei”. A estrutura alterna pressão dos inimigos e firmeza na palavra de Deus.",
     "passage": {
       "ref": "Salmo 56 · capítulo completo (NVI)",
       "verses": [
@@ -5637,16 +5637,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 56 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Mas eu, quando estiver com medo, confiarei em ti.” Davi não diz “eu nunca terei medo”. Ele admite que o medo virá. A fé não é ausência de medo, mas o que fazemos com ele. Quando o medo chega, a confiança tem para onde ir.",
+      "O refrão fala em confiar em Deus “cuja palavra eu louvo”. A confiança de Davi não é um sentimento vago; está ancorada no que Deus disse. Quando as circunstâncias gritam, a palavra prometida fala mais baixo, mas mais firme. Confiar é escolher ouvir a promessa acima do barulho.",
+      "“Registra, tu mesmo, o meu lamento; recolhe as minhas lágrimas em teu odre.” Deus não é indiferente ao choro. Ele conta as andanças, recolhe as lágrimas, anota no livro. Num mundo que pede que você “supere logo”, este versículo diz: sua dor importa tanto que Deus a guarda."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Qual medo tem voltado com frequência nesta fase, e para onde sua confiança vai quando ele chega?",
+      "Que promessa de Deus você pode “louvar” hoje como âncora contra o medo?",
+      "Como você se sente sabendo que Deus guarda cada uma das suas lágrimas?"
     ],
-    "application": "Escreva seu medo atual e, embaixo, o versículo 3: 'Mas eu, quando estiver com medo, confiarei em ti'. Repita-o sempre que esse medo voltar hoje.",
+    "application": "Escreva o seu medo atual no topo de uma folha. Embaixo, copie uma promessa bíblica que responda a ele. Leve a folha com você e, cada vez que o medo voltar, leia a promessa em voz baixa.",
     "prayer": "Senhor, quando eu tiver medo, confiarei em ti. Tu registras as minhas aflições e recolhes as minhas lágrimas no teu odre. Em Deus eu confio e não temerei. Amém."
   },
   {
@@ -5654,20 +5654,20 @@ window.SALMOS = [
     "psalm": 57,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 57",
+    "theme": "Livro II · Sede e realeza · Salmo 57 · Despertar a alvorada",
     "date": "Salmo 57",
     "verse": {
-      "text": "Ore e leia o Salmo 57 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 57"
+      "text": "Meu coração está firme, ó Deus, meu coração está firme; cantarei ao som de instrumentos!",
+      "ref": "Salmo 57.7"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "נָכוֹן",
+      "translit": "nakhon",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "firme, estabelecido, preparado",
+      "note": "Nakhon descreve algo fixado no lugar, como uma estaca firme no chão. No versículo 7, Davi repete duas vezes: “Meu coração está firme”. Escondido numa caverna, perseguido por Saul, ele não diz que a situação está firme, mas que o coração está."
     },
-    "context": "Este é o dia 57 da jornada pelo Saltério. Leia o Salmo 57 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título situa o salmo na fuga de Davi diante de Saul, quando se escondeu numa caverna (1Sm 22 ou 24). A estrutura tem dois blocos, cada um terminando com o mesmo refrão (v. 5 e 11): “Sê exaltado, ó Deus, acima dos céus!”. Os versículos 7–11 reaparecem no Salmo 108.",
     "passage": {
       "ref": "Salmo 57 · capítulo completo (NVI)",
       "verses": [
@@ -5718,16 +5718,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 57 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Eu me refugiarei à sombra das tuas asas, até que passe o perigo.” Davi está numa caverna real, escura e úmida. Mas ele se imagina debaixo de asas. A caverna é o lugar físico; as asas de Deus são o abrigo verdadeiro. A fé vê o refúgio invisível dentro do refúgio visível.",
+      "Em meio a leões, armadilhas e línguas como espadas, o refrão se ergue: “Sê exaltado, ó Deus, acima dos céus!”. Davi não pede apenas para ser salvo; pede que Deus seja glorificado. A oração mais madura é aquela em que a glória de Deus importa tanto quanto o nosso alívio.",
+      "“Vou despertar a alvorada!” Em geral, é o amanhecer que nos acorda. Davi inverte: ele quer acordar o sol com sua música. É uma imagem de louvor que antecede a luz. Quem canta antes do amanhecer declara que crê que a manhã virá."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Qual é a sua “caverna” atual, e você consegue ver as asas de Deus dentro dela?",
+      "Suas orações recentes têm mais espaço para o seu alívio ou para a glória de Deus?",
+      "Como seria começar o dia amanhã “despertando a alvorada” com louvor?"
     ],
-    "application": "Comece o dia com o versículo 8 — 'Acorda, harpa e lira! Vou despertar a alvorada!' — cantando ou dizendo um louvor antes de qualquer outra tarefa.",
+    "application": "Amanhã, antes de olhar o celular, levante-se e diga ou cante uma frase de louvor — mesmo que seja só “Meu coração está firme, ó Deus”. Faça disso o primeiro som do seu dia.",
     "prayer": "Tem misericórdia de mim, ó Deus, pois em ti a minha alma se refugia. Refugio-me à sombra das tuas asas até que passe o perigo. Firme está o meu coração; cantarei louvores. Amém."
   },
   {
@@ -5735,20 +5735,20 @@ window.SALMOS = [
     "psalm": 58,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 58",
+    "theme": "Livro II · Sede e realeza · Salmo 58 · Há um Deus que faz justiça",
     "date": "Salmo 58",
     "verse": {
-      "text": "Ore e leia o Salmo 58 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 58"
+      "text": "Então os homens comentarão: \"De fato os justos têm a sua recompensa; com certeza há um Deus que faz justiça na terra\".",
+      "ref": "Salmo 58.11"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "צֶדֶק",
+      "translit": "tsedeq",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "justiça, retidão",
+      "note": "Tsedeq é a justiça que endireita o que está torto. No Salmo 58, os juízes humanos fracassaram: falam de justiça, mas espalham violência. O salmo termina com uma confissão: “há um Deus que faz justiça” (literalmente, “que julga”) na terra. Quando os tribunais falham, o tsedeq de Deus permanece."
     },
-    "context": "Este é o dia 58 da jornada pelo Saltério. Leia o Salmo 58 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo imprecatório de Davi dirigido aos governantes injustos. As imagens são violentas — dentes quebrados, lesmas derretidas, pés banhados em sangue —, típicas da poesia de protesto do antigo Oriente. Como todo salmo imprecatório, deve ser lido como entrega da vingança a Deus, não como licença para a violência pessoal (Rm 12.19).",
     "passage": {
       "ref": "Salmo 58 · capítulo completo (NVI)",
       "verses": [
@@ -5799,16 +5799,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 58 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa interrogando os “poderosos” — talvez juízes ou governantes. A pergunta é afiada: vocês falam de justiça, mas praticam? O pior tipo de injustiça é a que se veste de legalidade. Quando quem deveria proteger os fracos se torna seu predador, a sociedade adoece.",
+      "As imprecações do salmo nos chocam. Mas note: o salmista não pega em armas; ele ora. As imagens violentas são linguagem de quem está indignado e impotente. A Bíblia permite que a raiva contra a injustiça seja levada a Deus, em vez de ser engolida ou descarregada nos outros.",
+      "O versículo 11 é a conclusão: “De fato os justos têm a sua recompensa; com certeza há um Deus que faz justiça”. O salmo não termina com o justo se vingando, mas com o mundo reconhecendo que Deus age. A oração imprecatória, no fim, é um ato de esperança: Deus não deixará o mal sem resposta."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que injustiça sistêmica — no trabalho, na cidade, no país — tem provocado indignação em você?",
+      "Você tende a engolir a raiva ou a descarregá-la? Como seria levá-la a Deus como o salmista?",
+      "O que muda em você ao crer que “há um Deus que faz justiça na terra”?"
     ],
-    "application": "Ore por uma estrutura injusta que você conhece — um sistema, empresa ou governo que oprime. Clame pela justiça de Deus (v. 11) e veja se há um passo responsável que você pode dar.",
+    "application": "Escreva uma oração honesta sobre uma injustiça que o indigna, sem suavizar a linguagem. Depois, pergunte a Deus se há um passo responsável e não violento que você pode dar — denunciar, apoiar uma vítima, votar com consciência.",
     "prayer": "Senhor, há juízes que decretam o mal e governantes que tramam violência. Levanta-te e faz justiça. Que todos digam: 'De fato, há um Deus que julga a terra'. Amém."
   },
   {
@@ -5816,20 +5816,20 @@ window.SALMOS = [
     "psalm": 59,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 59",
+    "theme": "Livro II · Sede e realeza · Salmo 59 · Cães à noite, cântico de manhã",
     "date": "Salmo 59",
     "verse": {
-      "text": "Ore e leia o Salmo 59 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 59"
+      "text": "Mas eu cantarei louvores à tua força, de manhã louvarei a tua fidelidade; pois tu és o meu alto refúgio, abrigo seguro nos tempos difíceis.",
+      "ref": "Salmo 59.16"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "חֶסֶד",
+      "translit": "hesed",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "amor leal, fidelidade de aliança",
+      "note": "O salmo termina chamando Deus de “o Deus que me ama” — literalmente, “o Deus do meu hesed”. Não é apenas um Deus que tem amor leal, mas o Deus cujo amor leal pertence ao salmista. O hesed é pessoal: Deus se vincula a mim com fidelidade."
     },
-    "context": "Este é o dia 59 da jornada pelo Saltério. Leia o Salmo 59 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título liga o salmo à noite em que Saul mandou vigiar a casa de Davi para matá-lo, e Mical o ajudou a fugir pela janela (1Sm 19.11–17). Tem dois refrãos: os inimigos que voltam à noite como cães (v. 6, 14) e a confiança em Deus como fortaleza (v. 9, 17).",
     "passage": {
       "ref": "Salmo 59 · capítulo completo (NVI)",
       "verses": [
@@ -5904,16 +5904,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 59 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Os inimigos “voltam ao cair da tarde, rosnando como cães”. A imagem é noturna: cães vadios rondando a cidade, famintos, uivando. Para quem vive sob ameaça — ou sob ansiedade —, a noite costuma ser a pior hora. Os medos voltam quando a luz se vai.",
+      "Um pedido surpreendente: “Mas não os mates, ó Senhor... se não, o meu povo o esquecerá”. Davi pede que Deus não destrua os inimigos de uma vez, mas que a derrota deles seja lenta e visível, para que o povo aprenda. Até o juízo tem um propósito pedagógico: que todos saibam que Deus governa.",
+      "O salmo se divide entre a noite dos cães e a manhã do cântico: “de manhã louvarei a tua fidelidade”. Os inimigos voltam toda noite, mas o louvor também volta toda manhã. A resposta à ameaça recorrente é a fidelidade recorrente de Deus."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que preocupação costuma voltar “ao cair da tarde” e rondar sua mente?",
+      "Você consegue ver propósito na lentidão com que Deus responde a certas situações?",
+      "Que ritmo de louvor matinal você poderia estabelecer para responder às ameaças noturnas?"
     ],
-    "application": "À noite, quando as preocupações 'voltarem como cães que rosnam' (v. 6), faça o que o salmo faz: declare em voz alta que Deus é sua fortaleza (v. 9) e cante pela manhã (v. 16).",
+    "application": "Esta noite, quando uma preocupação “rosnar”, responda em voz alta com o versículo 9. Amanhã cedo, antes de qualquer outra coisa, agradeça a Deus por ter guardado você durante a noite (v. 16).",
     "prayer": "Ó Deus, livra-me dos meus inimigos; protege-me dos que se levantam contra mim. Tu és a minha força; por ti vigio. De manhã cantarei o teu amor, pois tu és o meu alto refúgio. Amém."
   },
   {
@@ -5921,20 +5921,20 @@ window.SALMOS = [
     "psalm": 60,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 60",
+    "theme": "Livro II · Sede e realeza · Salmo 60 · Quando a derrota vem de Deus",
     "date": "Salmo 60",
     "verse": {
-      "text": "Ore e leia o Salmo 60 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 60"
+      "text": "Mas aos que te temem deste um sinal para que fugissem das flechas.",
+      "ref": "Salmo 60.4"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "נֵס",
+      "translit": "nes",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "estandarte, bandeira, sinal",
+      "note": "Nes era a bandeira erguida num lugar alto para reunir o exército ou sinalizar refúgio. No versículo 4, “deste um sinal” é literalmente “deste um estandarte”. Mesmo na derrota, Deus ergue uma bandeira para que os que o temem saibam para onde correr."
     },
-    "context": "Este é o dia 60 da jornada pelo Saltério. Leia o Salmo 60 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento comunitário depois de uma derrota militar, ligado no título às guerras de Davi contra arameus e edomitas (2Sm 8; 1Cr 18). Começa com uma acusação direta a Deus (v. 1–5), cita um oráculo divino de posse da terra (v. 6–8) e termina com um pedido de ajuda (v. 9–12). Os versículos 5–12 reaparecem no Salmo 108.",
     "passage": {
       "ref": "Salmo 60 · capítulo completo (NVI)",
       "verses": [
@@ -5989,16 +5989,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 60 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa sem rodeios: “Tu nos rejeitaste”. O povo interpreta a derrota como afastamento de Deus. Não tenta disfarçar nem culpar os generais. É uma oração de quem sabe que tudo passa pelas mãos de Deus, inclusive o que dói.",
+      "“Deste-nos um vinho estonteante.” A crise deixou o povo tonto, sem direção, como quem bebeu demais. Há fases em que a dor nos desorienta tanto que não conseguimos pensar com clareza. O salmo não pede explicação; pede restauração: “restaura-nos agora!”.",
+      "Em meio à derrota, Deus fala do seu santuário: as terras lhe pertencem, de Siquém a Edom. A promessa não muda porque o povo perdeu uma batalha. E o salmo termina reconhecendo: “inútil é o socorro do homem”. A vitória futura não virá de estratégia, mas de Deus."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há alguma derrota recente — sua ou da sua comunidade — que você ainda não teve coragem de levar a Deus com honestidade?",
+      "Em que área você se sente “tonto” e precisa pedir restauração mais do que explicação?",
+      "Que promessa de Deus continua de pé mesmo depois da sua derrota?"
     ],
-    "application": "Leve a Deus uma derrota recente — sua ou da sua comunidade — com a honestidade do versículo 1. Depois declare o versículo 12: 'Com Deus faremos proezas'.",
+    "application": "Pense em uma derrota que você tenta esquecer. Converse com Deus sobre ela usando o versículo 1 e termine com o versículo 12. Se ela envolver outras pessoas, ore também pela restauração delas.",
     "prayer": "Ó Deus, tu nos rejeitaste e nos fizeste ver dificuldades. Restaura-nos! Dá-nos ajuda contra o adversário, pois inútil é o socorro do homem. Com Deus faremos proezas. Amém."
   },
   {
@@ -6006,20 +6006,20 @@ window.SALMOS = [
     "psalm": 61,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 61",
+    "theme": "Livro II · Sede e realeza · Salmo 61 · A rocha mais alta do que eu",
     "date": "Salmo 61",
     "verse": {
-      "text": "Ore e leia o Salmo 61 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 61"
+      "text": "Desde os confins da terra eu clamo a ti, com o coração abatido; põe-me à salvo na rocha mais alta do que eu.",
+      "ref": "Salmo 61.2"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "צוּר",
+      "translit": "tsur",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "rocha, penhasco",
+      "note": "Tsur é o rochedo alto e firme, refúgio natural no deserto contra inimigos e enchentes. O salmista pede para ser posto “na rocha mais alta do que eu”: um lugar que ele não alcança sozinho. A segurança verdadeira está acima da nossa capacidade de subir."
     },
-    "context": "Este é o dia 61 da jornada pelo Saltério. Leia o Salmo 61 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Oração curta de Davi, talvez de um período longe de Jerusalém (“desde os confins da terra”). Começa com súplica pessoal (v. 1–4), passa para uma oração pelo rei (v. 6–7) e termina com voto de louvor (v. 8). A mistura de oração pessoal e oração pelo rei sugere que o próprio rei está orando por si.",
     "passage": {
       "ref": "Salmo 61 · capítulo completo (NVI)",
       "verses": [
@@ -6058,16 +6058,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 61 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Desde os confins da terra eu clamo a ti, com o coração abatido.” Estar longe — geograficamente ou espiritualmente — não impede a oração. O salmista sente que está no limite do mundo, mas sua voz alcança Deus. Não há lugar tão distante que a oração não chegue.",
+      "“Põe-me a salvo na rocha mais alta do que eu.” Ele não pede forças para escalar; pede que Deus o coloque lá. Há situações em que nossa própria altura não basta: nossa sabedoria, nossas forças, nossos recursos. Precisamos de uma rocha que esteja acima de nós.",
+      "O salmista anseia habitar na tenda de Deus “para sempre”. A tenda lembra o tabernáculo do deserto e também a hospitalidade beduína: quem entra na tenda está sob a proteção do anfitrião. Pertencer à tenda de Deus é estar sob sua responsabilidade."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que área você se sente nos “confins da terra”, longe de tudo?",
+      "Que problema é “mais alto do que você” e precisa de uma rocha acima da sua capacidade?",
+      "O que significaria, na prática, habitar na tenda de Deus nesta semana?"
     ],
-    "application": "Quando seu coração desfalecer hoje, ore o versículo 2: 'Leva-me para a rocha que é mais alta do que eu'. Identifique o que você precisa que Deus carregue por você.",
+    "application": "Escreva num papel uma situação que está acima da sua capacidade. Dobre-o e coloque-o num lugar alto — em cima de um armário ou estante — como gesto de entrega, orando o versículo 2.",
     "prayer": "Ó Deus, ouve o meu clamor. Desde os confins da terra eu clamo quando meu coração desfalece. Leva-me para a rocha mais alta do que eu. Quero habitar na tua tenda para sempre. Amém."
   },
   {
@@ -6075,20 +6075,20 @@ window.SALMOS = [
     "psalm": 62,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 62",
+    "theme": "Livro II · Sede e realeza · Salmo 62 · Somente em Deus",
     "date": "Salmo 62",
     "verse": {
-      "text": "Ore e leia o Salmo 62 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 62"
+      "text": "A minha alma descansa somente em Deus; dele vem a minha salvação. Somente ele é a rocha que me salva; ele é a minha torre segura! Jamais serei abalado!",
+      "ref": "Salmo 62.1–2"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "דּוּמִיָּה",
+      "translit": "dumiyyah",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "silêncio, quietude",
+      "note": "Dumiyyah é o silêncio de quem parou de se agitar. O versículo 1 diz literalmente: “Somente para Deus é silêncio a minha alma”. Não é vazio, mas quietude dirigida: a alma se cala diante de Deus como quem espera alguém que vai falar."
     },
-    "context": "Este é o dia 62 da jornada pelo Saltério. Leia o Salmo 62 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de confiança de Davi dedicado a Jedutum. A palavra hebraica ak (“somente”, “de fato”) aparece seis vezes, dando ritmo ao poema. Há três partes: a confiança pessoal (v. 1–4), a exortação à própria alma e ao povo (v. 5–8) e uma lição de sabedoria sobre a fragilidade humana e o poder de Deus (v. 9–12).",
     "passage": {
       "ref": "Salmo 62 · capítulo completo (NVI)",
       "verses": [
@@ -6143,16 +6143,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 62 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Somente” é a palavra-chave. Somente em Deus a alma descansa; somente ele é rocha; somente ele é salvação. Não é Deus mais alguma coisa, mas Deus como fundamento único. Muitas ansiedades vêm de apoiarmos o peso da vida em várias bases ao mesmo tempo.",
+      "O versículo 1 diz “a minha alma descansa”; o versículo 5, “Descanse somente em Deus, ó minha alma”. Primeiro uma declaração, depois uma ordem. O salmista sabe a verdade, mas precisa lembrá-la a si mesmo. A confiança não é um estado permanente; é uma escolha renovada. Há dias em que precisamos mandar a alma se aquietar.",
+      "Ricos e pobres, “pesados na balança, juntos não chegam ao peso de um sopro”. O salmo coloca toda a humanidade num prato da balança, e o outro prato fica no ar. A lição é sóbria: não confie em extorsão, nem em riquezas que crescem. Poder pertence a Deus — e com ele também está a fidelidade."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em quantas bases diferentes você tem apoiado o peso da sua vida? Qual delas é “somente Deus”?",
+      "O que você precisaria dizer à sua alma hoje para que ela se aquiete?",
+      "Que pessoa ou instituição você tem tratado como se tivesse mais peso do que “um sopro”?"
     ],
-    "application": "Separe dez minutos de silêncio e ore o versículo 1: 'Somente em Deus a minha alma encontra descanso'. Derrame seu coração diante dele (v. 8) sem pressa.",
+    "application": "Passe dez minutos em silêncio total diante de Deus, sem pedidos. Quando sua mente se agitar, diga apenas “somente em ti” e volte ao silêncio. Depois, derrame seu coração (v. 8) por escrito ou em voz alta.",
     "prayer": "Senhor, somente em ti a minha alma encontra descanso; de ti vem a minha esperança. Só tu és a minha rocha e a minha salvação. Derramo diante de ti o meu coração. Amém."
   },
   {
@@ -6160,20 +6160,20 @@ window.SALMOS = [
     "psalm": 63,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 63",
+    "theme": "Livro II · Sede e realeza · Salmo 63 · Amor melhor que a vida",
     "date": "Salmo 63",
     "verse": {
-      "text": "Ore e leia o Salmo 63 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 63"
+      "text": "O teu amor é melhor do que a vida! Por isso os meus lábios te exaltarão.",
+      "ref": "Salmo 63.3"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "דָּבַק",
+      "translit": "davaq",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "apegar-se, grudar",
+      "note": "Davaq é o verbo de Gênesis 2.24 (“o homem se unirá à sua mulher”) e de Rute, que “se apegou” a Noemi. No versículo 8, “a minha alma apega-se a ti” descreve uma união quase física. E logo vem o outro lado: “a tua mão direita me sustém”. Eu me agarro, e ele me segura."
     },
-    "context": "Este é o dia 63 da jornada pelo Saltério. Leia o Salmo 63 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título situa o salmo no deserto de Judá, provavelmente durante a fuga de Davi diante de Absalão (2Sm 15.23–28). Longe do santuário, Davi transforma a sede física do deserto em imagem de sua sede de Deus. Na igreja antiga, era o salmo cantado todas as manhãs. Tem três movimentos: sede (v. 1–2), satisfação (v. 3–8) e confiança diante dos inimigos (v. 9–11).",
     "passage": {
       "ref": "Salmo 63 · capítulo completo (NVI)",
       "verses": [
@@ -6224,16 +6224,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 63 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Ó Deus, tu és o meu Deus.” A primeira frase já é uma declaração de pertença. Antes de pedir água, Davi confessa a relação. O verbo “busco intensamente” vem da palavra hebraica para alvorada: é a busca de quem acorda cedo e procura antes de qualquer outra coisa.",
+      "“O teu amor é melhor do que a vida!” É uma frase extrema. Davi, fugindo para não morrer, diz que há algo mais precioso que viver: o hesed de Deus. Quem descobre isso ganha uma liberdade nova. Se o amor de Deus vale mais que a vida, então nem a ameaça de morte tem a última palavra.",
+      "“Quando me deito lembro-me de ti; penso em ti durante as vigílias da noite.” A noite, que para muitos é hora de ansiedade, se torna para Davi hora de memória. As insônias podem ser ocupadas por preocupações ou por meditação. A alma que se apega a Deus encontra, à sombra das asas, até um motivo para cantar."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "O que você costuma buscar primeiro quando acorda?",
+      "Você consegue dizer com honestidade que o amor de Deus é “melhor do que a vida”? O que ainda compete com ele?",
+      "Quando o sono não vem, para onde sua mente costuma ir?"
     ],
-    "application": "Busque a Deus antes de qualquer outra coisa amanhã cedo (v. 1). Se acordar de madrugada, medite nele em vez de pegar o celular (v. 6).",
+    "application": "Se acordar durante a noite nos próximos dias, em vez de pegar o celular, repita devagar o versículo 3 até voltar a dormir. De manhã, antes do café, diga a primeira frase do salmo: “Ó Deus, tu és o meu Deus”.",
     "prayer": "Ó Deus, tu és o meu Deus; eu te busco intensamente. A minha alma tem sede de ti numa terra seca e exausta. O teu amor é melhor do que a vida; por isso os meus lábios te exaltarão. Amém."
   },
   {
@@ -6241,20 +6241,20 @@ window.SALMOS = [
     "psalm": 64,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 64",
+    "theme": "Livro II · Sede e realeza · Salmo 64 · Flechas que voltam",
     "date": "Salmo 64",
     "verse": {
-      "text": "Ore e leia o Salmo 64 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 64"
+      "text": "Mas Deus atirará neles suas flechas; repentinamente serão atingidos. Pelas próprias palavras farão cair uns aos outros; menearão a cabeça e zombarão deles todos os que os virem.",
+      "ref": "Salmo 64.7–8"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "חֵץ",
+      "translit": "chets",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "flecha",
+      "note": "Chets aparece duas vezes no salmo com direções opostas: os ímpios apontam palavras envenenadas como flechas (v. 3), e Deus atira suas flechas neles (v. 7). A arma que usaram volta contra eles. O salmo mostra a justiça de Deus como uma inversão poética."
     },
-    "context": "Este é o dia 64 da jornada pelo Saltério. Leia o Salmo 64 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento de Davi contra conspiradores que atacam com palavras. Os versículos 1–6 descrevem a trama secreta; os versículos 7–10, a resposta repentina de Deus e o efeito sobre todos que a veem. O salmo é uma meditação sobre o poder destrutivo da língua e a confiança de que o mal tramado no escuro não fica escondido de Deus.",
     "passage": {
       "ref": "Salmo 64 · capítulo completo (NVI)",
       "verses": [
@@ -6301,16 +6301,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 64 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Os inimigos “afiam a língua como espada”. A imagem é de preparação: palavras planejadas para ferir. Há difamações que não são impulsivas, mas calculadas. O salmista não é ingênuo sobre o mal que as palavras podem causar.",
+      "“Quem as verá?” e “Fizemos um plano perfeito!” revelam a ilusão de quem trama: achar que ninguém está olhando. O ímpio confia na invisibilidade. Mas o salmo mostra que não há plano perfeito diante de um Deus que vê. A mente humana é profunda, mas não mais profunda que o olhar dele.",
+      "O desfecho é que os conspiradores “pelas próprias palavras farão cair uns aos outros”. A língua que atacava se volta contra quem a usava. E o resultado é público: todos temerão e refletirão no que Deus fez. A justiça de Deus não é só punição; é ensino para quem observa."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você já foi alvo de palavras “afiadas” e planejadas para ferir? Como lidou com isso?",
+      "Há algum “plano perfeito” seu que depende de ninguém estar vendo?",
+      "Como você pode confiar na justiça de Deus sem revidar com as mesmas armas?"
     ],
-    "application": "Pense em palavras ou planos ocultos que têm sido 'flechas' contra você (v. 3–4). Entregue a Deus essa situação e evite revidar com as mesmas armas.",
+    "application": "Se alguém falou mal de você, resista hoje à tentação de se defender falando mal da pessoa. Em vez disso, escreva o que aconteceu e ore o versículo 10 sobre isso, pedindo a Deus que você continue entre os “retos de coração”.",
     "prayer": "Ó Deus, ouve a minha queixa; protege a minha vida do terror do inimigo. Esconde-me da conspiração dos ímpios. Que o justo se alegre no Senhor e nele se refugie. Amém."
   },
   {
@@ -6318,20 +6318,20 @@ window.SALMOS = [
     "psalm": 65,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 65",
+    "theme": "Livro II · Sede e realeza · Salmo 65 · Deus coroa o ano",
     "date": "Salmo 65",
     "verse": {
-      "text": "Ore e leia o Salmo 65 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 65"
+      "text": "Cuidas da terra e a regas; fartamente a enriqueces. Os riachos de Deus transbordam para que nunca falte o trigo, pois assim ordenaste. Encharcas os seus sulcos e aplainas os seus torrões; tu a amoleces com chuvas e abençoas as suas colheitas. Coroas o ano com a tua bondade, e por onde passas emana fartura;",
+      "ref": "Salmo 65.9–11"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "כָּפַר",
+      "translit": "kafar",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "cobrir, fazer propiciação",
+      "note": "Kafar está na raiz de Yom Kippur, o Dia da Expiação. No versículo 3, Deus “fez propiciação” pelos pecados que pesavam sobre o povo. É significativo que um salmo de colheita comece pelo perdão: antes da chuva e do trigo, Deus cobre a culpa."
     },
-    "context": "Este é o dia 65 da jornada pelo Saltério. Leia o Salmo 65 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino de ação de graças, talvez cantado numa festa de colheita. Tem três círculos que se ampliam: Deus no templo, que ouve e perdoa (v. 1–4); Deus nas nações e no cosmos, que acalma mares e povos (v. 5–8); Deus no campo, que rega a terra e coroa o ano (v. 9–13). É um dos salmos mais belos sobre a criação no Saltério.",
     "passage": {
       "ref": "Salmo 65 · capítulo completo (NVI)",
       "verses": [
@@ -6390,16 +6390,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 65 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Ó tu que ouves a oração, a ti virão todos os homens.” O primeiro título de Deus no salmo é “o que ouve”. Antes de ser Criador ou Senhor da colheita, ele é aquele que escuta. A colheita, a chuva e os campos são respostas de alguém que ouviu.",
+      "O mesmo Deus que “acalmas o bramido dos mares”, diz o salmista, também acalma “o tumulto das nações”. Natureza e história estão na mesma mão. Quem viu Deus aquietar uma tempestade pode crer que ele também aquieta conflitos humanos. O poder sobre o caos é um só.",
+      "Os versículos finais são quase uma pintura: chuva amolecendo torrões, pastos transbordando, colinas vestidas de alegria, vales cobertos de trigo que “cantam”. A criação inteira louva. E a frase central — “coroas o ano com a tua bondade” — lembra que cada estação é presente, não automatismo."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você costuma ver a comida no seu prato como resposta de um Deus que ouve?",
+      "Que “tumulto” — nas notícias ou na sua vida — você precisa entregar ao Deus que acalma mares?",
+      "Olhando para este ano até aqui, onde você vê a “coroa” da bondade de Deus?"
     ],
-    "application": "Observe com atenção a natureza ao seu redor hoje — chuva, plantas, campos ou até uma árvore na rua — e agradeça a Deus que 'coroa o ano com a sua bondade' (v. 11).",
+    "application": "Antes de comer hoje, pense no caminho que o alimento fez — chuva, solo, plantio, colheita, trabalho de muitas mãos — e agradeça a Deus por cada etapa em voz alta. Depois, doe um alimento a quem precisa.",
     "prayer": "Ó Deus, o louvor te aguarda em Sião. Tu perdoas as nossas transgressões, cuidas da terra e a regas. Coroas o ano com a tua bondade, e por onde passas há fartura. Amém."
   },
   {
@@ -6407,20 +6407,20 @@ window.SALMOS = [
     "psalm": 66,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 66",
+    "theme": "Livro II · Sede e realeza · Salmo 66 · Pelo fogo e pela água",
     "date": "Salmo 66",
     "verse": {
-      "text": "Ore e leia o Salmo 66 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 66"
+      "text": "Pois tu, ó Deus, nos submeteste à prova e nos refinaste como a prata. Fizeste-nos cair numa armadilha e sobre nossas costas puseste fardos. Deixaste que os inimigos cavalgassem sobre a nossa cabeça; passamos pelo fogo e pela água, mas a um lugar de fartura nos trouxeste.",
+      "ref": "Salmo 66.10–12"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "צָרַף",
+      "translit": "tsaraf",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "refinar, purificar no fogo",
+      "note": "Tsaraf é o trabalho do ourives que aquece a prata até que as impurezas subam e possam ser retiradas. No versículo 10, o povo reconhece: “nos refinaste como a prata”. A provação não foi castigo sem sentido, mas fogo com propósito."
     },
-    "context": "Este é o dia 66 da jornada pelo Saltério. Leia o Salmo 66 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de ação de graças que começa como hino comunitário (v. 1–12) e termina como testemunho pessoal (v. 13–20). Lembra a travessia do mar Vermelho e do Jordão (v. 6), descreve um período de dura provação (v. 10–12) e culmina num convite: “Venham e ouçam... vou contar-lhes o que ele fez por mim” (v. 16).",
     "passage": {
       "ref": "Salmo 66 · capítulo completo (NVI)",
       "verses": [
@@ -6507,16 +6507,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 66 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo convida duas vezes: “Venham e vejam” (v. 5) e “Venham e ouçam” (v. 16). Primeiro, as obras de Deus na história do povo; depois, na história pessoal. A fé bíblica une o grande e o pequeno: o mar que se abriu para Israel e a oração que Deus ouviu para mim.",
+      "Os versículos 10–12 não escondem a dor: armadilha, fardos nas costas, inimigos cavalgando sobre a cabeça, fogo e água. E, no entanto, tudo é atribuído a Deus: “tu, ó Deus, nos submeteste à prova”. Isso não torna Deus autor do mal, mas mostra que nada escapa ao seu propósito. O fim da frase muda tudo: “a um lugar de fartura nos trouxeste”.",
+      "“Se eu acalentasse o pecado no coração, o Senhor não me ouviria.” O testemunho pessoal inclui um exame sério. Não é que Deus só ouça os perfeitos, mas que o pecado afagado — mantido com carinho — bloqueia a comunhão. O salmista não estava escondendo nada, e por isso pôde dizer: “mas Deus me ouviu”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que história pessoal de Deus você poderia contar se alguém lhe dissesse “venha e conte”?",
+      "Você consegue olhar para uma provação passada e ver nela o trabalho do ourives?",
+      "Há algum pecado que você tem “acalentado” no coração e que pode estar abafando suas orações?"
     ],
-    "application": "Siga o convite do versículo 16: 'Venham e ouçam... vou contar-lhes o que ele fez por mim'. Conte hoje a alguém, de forma concreta, uma prova pela qual Deus o fez passar.",
+    "application": "Escreva em cinco linhas a história de uma provação que Deus usou para refiná-lo: como começou, o que doeu, como Deus agiu e onde ela o levou. Compartilhe-a hoje com alguém dentre os “que temem a Deus” (v. 16).",
     "prayer": "Ó Deus, tu nos provaste e nos refinaste como a prata. Passamos pelo fogo e pela água, mas tu nos trouxeste a um lugar de fartura. Bendito sejas, pois não rejeitaste a minha oração. Amém."
   },
   {
@@ -6524,20 +6524,20 @@ window.SALMOS = [
     "psalm": 67,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 67",
+    "theme": "Livro II · Sede e realeza · Salmo 67 · Abençoados para abençoar",
     "date": "Salmo 67",
     "verse": {
-      "text": "Ore e leia o Salmo 67 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 67"
+      "text": "Que Deus tenha misericórdia de nós e nos abençoe, e faça resplandecer o seu rosto sobre nós, para que sejam conhecidos na terra os teus caminhos, a tua salvação entre todas as nações.",
+      "ref": "Salmo 67.1–2"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "בָּרַךְ",
+      "translit": "barakh",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "abençoar",
+      "note": "Barakh aparece no início e no fim do salmo, emoldurando-o. O versículo 1 ecoa a bênção sacerdotal de Números 6.24–26 (“faça resplandecer o seu rosto sobre ti”). Mas aqui a bênção não termina em Israel: o objetivo é que Deus seja conhecido em toda a terra."
     },
-    "context": "Este é o dia 67 da jornada pelo Saltério. Leia o Salmo 67 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Um dos salmos mais curtos e missionários do Saltério. Começa com a bênção de Arão, mas a direciona para fora: Israel pede para ser abençoado “para que” as nações conheçam a Deus. O refrão (v. 3, 5) convoca todos os povos ao louvor. Provavelmente era cantado em festas de colheita (v. 6).",
     "passage": {
       "ref": "Salmo 67 · capítulo completo (NVI)",
       "verses": [
@@ -6572,16 +6572,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 67 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com “nós”: “Que Deus tenha misericórdia de nós e nos abençoe”. Mas o versículo 2 explica o propósito: “para que sejam conhecidos na terra os teus caminhos”. A bênção tem destino. O povo de Deus é abençoado não para acumular, mas para ser vitrine da bondade de Deus.",
+      "O refrão é quase insistente: “Louvem-te os povos, ó Deus; louvem-te todos os povos”. O salmista não imagina um Deus local, de uma etnia só. Muito antes do Pentecostes, Israel já cantava um louvor que atravessa fronteiras.",
+      "As nações se alegram “pois governas os povos com justiça”. A missão não é impor uma cultura, mas anunciar um Rei justo. Num mundo de injustiças, a boa notícia de que Deus governa com retidão é motivo de festa — não de medo — para todos os povos."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que bênção recente na sua vida poderia ser compartilhada para que outros conheçam a Deus?",
+      "Você vê sua fé como algo para guardar ou como algo que tem destino?",
+      "Por qual povo ou grupo distante da fé você poderia orar hoje?"
     ],
-    "application": "Ore por um povo ou nação específica que ainda não conhece a Cristo, usando o versículo 2: 'para que sejam conhecidos na terra os teus caminhos'.",
+    "application": "Escolha um povo ou grupo pouco alcançado pelo evangelho, aprenda algo sobre ele em cinco minutos e ore o versículo 2 por ele. Pense também em uma bênção sua que pode ser usada para abençoar alguém fora do seu círculo.",
     "prayer": "Ó Deus, tem misericórdia de nós e abençoa-nos; faz resplandecer o teu rosto sobre nós, para que sejam conhecidos na terra os teus caminhos e entre todas as nações a tua salvação. Amém."
   },
   {
@@ -7058,20 +7058,20 @@ window.SALMOS = [
     "psalm": 70,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 70",
+    "theme": "Livro II · Sede e realeza · Salmo 70 · Uma oração com pressa",
     "date": "Salmo 70",
     "verse": {
-      "text": "Ore e leia o Salmo 70 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 70"
+      "text": "Quanto a mim, sou pobre e necessitado; apressa-te, ó Deus. Tu és o meu socorro e o meu libertador; Senhor, não te demores!",
+      "ref": "Salmo 70.5"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "חוּשׁ",
+      "translit": "chush",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "apressar-se",
+      "note": "Chush é correr, não se demorar. O salmo começa e termina com esse verbo: “Apressa-te, Senhor, a ajudar-me!” e “apressa-te, ó Deus”. É uma oração de urgência, sem preâmbulos, de quem não tem tempo para longos discursos."
     },
-    "context": "Este é o dia 70 da jornada pelo Saltério. Leia o Salmo 70 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O Salmo 70 é quase idêntico aos versículos finais do Salmo 40 (40.13–17). Separado como oração curta, talvez para ser usado em momentos de emergência. Na tradição monástica, o versículo 1 (“Ó Deus, vem em meu auxílio; Senhor, apressa-te a socorrer-me”) abre todas as horas de oração do dia.",
     "passage": {
       "ref": "Salmo 70 · capítulo completo (NVI)",
       "verses": [
@@ -7098,16 +7098,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 70 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Este salmo tem só cinco versículos, e isso é parte da sua beleza. Há dias em que não temos fôlego para orações longas. Deus não exige eloquência. “Livra-me! Apressa-te!” também é oração. Às vezes a oração mais verdadeira cabe num grito.",
+      "Mesmo na urgência, o salmista pensa nos outros: “regozijem-se e alegrem-se em ti todos os que te buscam”. A angústia pessoal não fecha o coração para a comunidade. Pedir socorro para si e alegria para os irmãos na mesma oração é sinal de um coração que não se encolheu.",
+      "“Quanto a mim, sou pobre e necessitado.” A identidade do orante é a pobreza. Não é falsa modéstia, é realismo. E é justamente essa pobreza que se torna argumento: tu és o meu socorro. Os monges repetiam este salmo várias vezes ao dia porque sabiam que a necessidade de Deus não é ocasional; é constante."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você se permite fazer orações curtas e urgentes, ou acha que precisa sempre de muitas palavras?",
+      "Mesmo em meio à sua necessidade, por quem você pode pedir alegria hoje?",
+      "Em que área você precisa assumir, sem vergonha, que é “pobre e necessitado”?"
     ],
-    "application": "Faça uma oração curta e urgente, como esta: 'Apressa-te, ó Deus, em me libertar!' (v. 1). Diga-a sempre que se sentir sobrecarregado hoje.",
+    "application": "Adote hoje a prática dos antigos monges: repita o versículo 1 antes de cada tarefa importante do dia — ao começar o trabalho, antes de uma conversa difícil, ao dirigir, ao deitar.",
     "prayer": "Apressa-te, ó Deus, em me libertar! Apressa-te, Senhor, em me socorrer! Sou pobre e necessitado; tu és o meu socorro e o meu libertador. Não te demores. Amém."
   },
   {
@@ -7115,20 +7115,20 @@ window.SALMOS = [
     "psalm": 71,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 71",
+    "theme": "Livro II · Sede e realeza · Salmo 71 · Fiel desde o ventre até os cabelos brancos",
     "date": "Salmo 71",
     "verse": {
-      "text": "Ore e leia o Salmo 71 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 71"
+      "text": "Desde a minha juventude, ó Deus, tens me ensinado, e até hoje eu anuncio as tuas maravilhas. Agora que estou velho, de cabelos brancos, não me abandones, ó Deus, para que eu possa falar da tua força aos nossos filhos, e do teu poder às futuras gerações.",
+      "ref": "Salmo 71.17–18"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "שֵׂיבָה",
+      "translit": "sevah",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "cabelos brancos, velhice",
+      "note": "Sevah é a cabeça grisalha, sinal de idade e, na cultura bíblica, de honra (Pv 16.31). O salmista não pede para voltar à juventude, mas que Deus não o abandone enquanto os cabelos embranquecem — para que ainda possa contar às novas gerações o que viu."
     },
-    "context": "Este é o dia 71 da jornada pelo Saltério. Leia o Salmo 71 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Oração de alguém idoso, sem título, que provavelmente continua o Salmo 70. O salmista percorre sua vida inteira — ventre materno, juventude, velhice — e encontra em cada fase a fidelidade de Deus. Inimigos dizem que Deus o abandonou (v. 11), mas ele responde com memória e esperança.",
     "passage": {
       "ref": "Salmo 71 · capítulo completo (NVI)",
       "verses": [
@@ -7231,16 +7231,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 71 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Desde o ventre materno dependo de ti.” A fé do salmista não começou numa conversão adulta; ele olha para trás e vê Deus sustentando-o antes mesmo de ter consciência. Há uma graça que nos precede. Antes de buscarmos Deus, ele já nos carregava.",
+      "“Não me rejeites na minha velhice; não me abandones quando se vão as minhas forças.” É o medo de muitos idosos: tornar-se inútil, esquecido, descartado. O salmista leva esse medo a Deus. E a resposta implícita do salmo é que a velhice não é fim de missão, mas tempo de testemunho.",
+      "O salmista quer viver “para que eu possa falar da tua força aos nossos filhos”. A velhice tem um propósito: transmitir. Quem acumulou décadas de experiência com Deus tem algo que nenhum jovem tem. Igrejas e famílias que não ouvem seus idosos perdem uma biblioteca viva."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Olhando para trás, em que fases da sua vida você percebe que Deus o sustentou antes que você notasse?",
+      "Que medo você tem sobre envelhecer, e já o levou a Deus?",
+      "Quem é o idoso de fé ao seu redor cuja história você ainda não ouviu com atenção?"
     ],
-    "application": "Escreva uma lembrança da fidelidade de Deus em cada fase da sua vida (infância, juventude, agora) e ore o versículo 18: 'Não me abandones na velhice'.",
+    "application": "Visite ou ligue para uma pessoa idosa de fé e peça que ela lhe conte uma história da fidelidade de Deus em sua vida. Ouça sem pressa. Se você for o idoso, conte sua história a alguém mais jovem.",
     "prayer": "Senhor, tu és a minha esperança desde a juventude. Não me rejeites na velhice nem me abandones quando as minhas forças se acabarem. Anunciarei o teu poder à próxima geração. Amém."
   },
   {
@@ -7248,20 +7248,20 @@ window.SALMOS = [
     "psalm": 72,
     "part": 1,
     "parts": 1,
-    "theme": "Livro II · Sede e realeza · Salmo 72",
+    "theme": "Livro II · Sede e realeza · Salmo 72 · O Rei que defende os pobres",
     "date": "Salmo 72",
     "verse": {
-      "text": "Ore e leia o Salmo 72 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 72"
+      "text": "Pois ele liberta os pobres que pedem socorro, os oprimidos que não têm quem os ajude. Ele se compadece dos fracos e dos pobres, e os salva da morte. Ele os resgata da opressão e da violência, pois aos seus olhos a vida deles é preciosa.",
+      "ref": "Salmo 72.12–14"
     },
     "word": {
-      "original": "נֶפֶשׁ",
-      "translit": "nefesh",
+      "original": "מִשְׁפָּט",
+      "translit": "mishpat",
       "lang": "hebraico",
-      "meaning": "vida, pessoa inteira",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como nefesh ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "juízo, direito, justiça",
+      "note": "Mishpat é a justiça que se faz no tribunal e na vida pública: o direito garantido a quem não tem força para exigi-lo. O salmo começa pedindo que Deus dê ao rei os seus mishpatim. Um governante só é justo se recebe de Deus o critério de justiça."
     },
-    "context": "Este é o dia 72 da jornada pelo Saltério. Leia o Salmo 72 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo real atribuído a Salomão e último do Livro II, encerrado pela doxologia dos versículos 18–19 e pela nota: “Encerram-se aqui as orações de Davi” (v. 20). É uma oração pelo rei ideal: justo, defensor dos pobres, de domínio universal. A tradição judaica e cristã viu nele a figura do Messias, e os magos que trazem presentes (Mt 2.11) ecoam os versículos 10–11.",
     "passage": {
       "ref": "Salmo 72 · capítulo completo (NVI)",
       "verses": [
@@ -7348,16 +7348,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 72 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "A primeira coisa que o salmo pede para o rei não é poder, riqueza ou vitória, mas justiça. E justiça com destino claro: “os teus que sofrem opressão”. O critério de um bom governo, para a Bíblia, é como ele trata os mais fracos.",
+      "O rei ideal é “como chuva sobre uma lavoura ceifada”. A imagem é delicada: depois da colheita, o campo fica raspado e seco; a chuva faz brotar de novo. Um bom líder não esgota o povo; ele o renova. Seu governo faz florescer os justos.",
+      "O versículo 14 é o coração do salmo: “aos seus olhos a vida deles é preciosa”. O rei não vê os pobres como números ou problemas, mas como vidas preciosas — literalmente, “o sangue deles é precioso”. Só Jesus encarnou plenamente esse Rei, que deu o próprio sangue por quem não tinha quem o ajudasse."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que critério você usa para avaliar os líderes: o que eles conquistam ou como tratam os mais fracos?",
+      "Se você exerce alguma liderança — em casa, no trabalho, na igreja —, tem sido “chuva” ou seca para quem está sob seus cuidados?",
+      "Quem, ao seu redor, está entre os que “não têm quem os ajude”, e como você pode tratá-lo como vida preciosa?"
     ],
-    "application": "Ore por governantes do seu país, cidade ou trabalho usando os versículos 1–4. Peça que defendam os pobres e façam justiça, e procure um modo de você mesmo apoiar os necessitados.",
+    "application": "Ore hoje pelo nome de um governante (prefeito, governador ou presidente) usando os versículos 1–4. Depois faça algo concreto por alguém que não tem quem o ajude: uma doação, uma visita, uma defesa.",
     "prayer": "Ó Deus, dá ao rei a tua justiça. Que ele defenda os oprimidos, socorra os necessitados e esmague o opressor. Que o seu nome permaneça para sempre e toda a terra se encha da tua glória. Amém."
   },
   {
@@ -7551,20 +7551,20 @@ window.SALMOS = [
     "psalm": 74,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 74",
+    "theme": "Livro III · Crise e memória · Salmo 74 · Ruínas no santuário",
     "date": "Salmo 74",
     "verse": {
-      "text": "Ore e leia o Salmo 74 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 74"
+      "text": "Mas tu, ó Deus, és o meu rei desde a antigüidade; trazes salvação sobre a terra.",
+      "ref": "Salmo 74.12"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "זָכַר",
+      "translit": "zakar",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "lembrar, recordar",
+      "note": "Zakhar não é apenas memória mental: lembrar, na Bíblia, é agir em favor de alguém. Quando o salmista pede “Lembra-te do povo que adquiriste” (v. 2), pede que Deus volte a agir. O salmo usa o verbo três vezes, como quem bate à porta da memória divina."
     },
-    "context": "Este é o dia 74 da jornada pelo Saltério. Leia o Salmo 74 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento comunitário de Asafe sobre a destruição do templo, provavelmente pelos babilônios em 586 a.C. Descreve com detalhes a profanação: machados quebrando a madeira esculpida, fogo no santuário, bandeiras inimigas hasteadas (v. 3–8). No centro, o povo recorda o poder de Deus na criação e no êxodo (v. 12–17) e termina pedindo que ele se levante.",
     "passage": {
       "ref": "Salmo 74 · capítulo completo (NVI)",
       "verses": [
@@ -7663,16 +7663,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 74 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "A descrição da destruição é quase cinematográfica: homens com machados como lenhadores numa floresta, golpeando a madeira trabalhada com arte. O que levou gerações para ser construído foi destruído em horas. Há perdas na vida da fé que parecem irreversíveis: igrejas divididas, ministérios quebrados, sonhos queimados.",
+      "“Já não vemos sinais miraculosos; não há mais profetas.” A dor maior não é o templo em ruínas, mas o silêncio de Deus. Ninguém sabe até quando. Há fases em que a igreja vive sem respostas claras. O salmo não oferece uma solução rápida; oferece linguagem para lamentar com fé.",
+      "Em meio às ruínas, o salmista se lembra: “Mas tu, ó Deus, és o meu rei desde a antiguidade”. Ele recorda o mar dividido, o Leviatã esmagado, o dia e a noite criados. Quando o presente está destruído, a memória das obras antigas de Deus se torna alicerce. O Deus que venceu o caos primordial pode vencer este também."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que “santuário” da sua vida ou da sua comunidade foi destruído e ainda dói?",
+      "Como você tem lidado com fases em que “não há mais profetas” — sem respostas claras de Deus?",
+      "Que obra antiga de Deus você pode recordar hoje como alicerce para o presente?"
     ],
-    "application": "Pense em algo de Deus que foi destruído ou profanado na sua comunidade ou na sua vida. Lamente diante dele e recorde, como nos versículos 12–17, as obras antigas do seu poder.",
+    "application": "Escreva duas listas: “o que foi destruído” e “o que Deus já fez”. Leia a primeira em voz alta como lamento e a segunda como confissão de fé. Termine com o versículo 12.",
     "prayer": "Ó Deus, por que nos rejeitaste para sempre? Lembra-te do teu povo, que redimiste. Tu és o meu Rei desde a antiguidade; levanta-te e defende a tua causa. Amém."
   },
   {
@@ -7680,20 +7680,20 @@ window.SALMOS = [
     "psalm": 75,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 75",
+    "theme": "Livro III · Crise e memória · Salmo 75 · Deus marca a hora",
     "date": "Salmo 75",
     "verse": {
-      "text": "Ore e leia o Salmo 75 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 75"
+      "text": "Não é do Oriente nem do Ocidente nem do deserto que vem a exaltação. É Deus quem julga: Humilha a um, a outro exalta.",
+      "ref": "Salmo 75.6–7"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "מוֹעֵד",
+      "translit": "mo'ed",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "tempo determinado, ocasião marcada",
+      "note": "Mo'ed é o tempo fixado, como as festas do calendário de Israel e o encontro marcado na “tenda do encontro”. No versículo 2, Deus diz: “Eu determino o tempo em que julgarei”. A justiça não depende da pressa humana; ela tem hora marcada por Deus."
     },
-    "context": "Este é o dia 75 da jornada pelo Saltério. Leia o Salmo 75 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de Asafe em forma de diálogo: começa com ação de graças da comunidade (v. 1), dá voz ao próprio Deus anunciando o juízo (v. 2–5), segue com uma reflexão sobre de onde vem a exaltação (v. 6–8) e termina com o voto de louvor do salmista (v. 9–10). É uma resposta à arrogância dos poderosos.",
     "passage": {
       "ref": "Salmo 75 · capítulo completo (NVI)",
       "verses": [
@@ -7740,16 +7740,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 75 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Perto está o teu nome.” O salmo começa com gratidão pela proximidade de Deus. O Deus que julga não está distante; seu nome — sua presença e seu caráter — está perto. Isso consola o oprimido e alerta o arrogante.",
+      "Deus diz: “Quando treme a terra com todos os seus habitantes, sou eu que mantenho firmes as suas colunas”. Mesmo quando tudo parece desabar — sociedades, instituições, certezas —, há alguém segurando as colunas. O mundo não está solto; está sustentado.",
+      "“Não é do Oriente nem do Ocidente nem do deserto que vem a exaltação.” Promoção, reconhecimento e posição não vêm de nenhuma direção humana. Deus “humilha a um, a outro exalta”. Isso liberta quem não tem contatos e alerta quem confia neles. O cálice do juízo está na mão do Senhor."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você tem esperado a justiça de Deus com paciência ou exigido que ela venha no seu tempo?",
+      "Que “coluna” da sua vida parece estar tremendo, e o que significa saber que Deus a segura?",
+      "De onde você tem esperado sua “exaltação”: de pessoas, contatos e estratégias, ou de Deus?"
     ],
-    "application": "Identifique uma área em que você tem se 'exaltado' ou confiado no próprio poder (v. 4–5). Humilhe-se diante de Deus, lembrando que ele é quem 'exalta um e humilha outro' (v. 7).",
+    "application": "Se você tem buscado reconhecimento ou posição, abra mão hoje de um esforço de autopromoção — um comentário, uma postagem, uma comparação — e entregue sua reputação a Deus, que humilha a um e a outro exalta.",
     "prayer": "Damos-te graças, ó Deus, porque o teu nome está perto. No tempo que determinares julgarás com justiça. Tu exaltas e humilhas; eu anunciarei isso para sempre. Amém."
   },
   {
@@ -7757,20 +7757,20 @@ window.SALMOS = [
     "psalm": 76,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 76",
+    "theme": "Livro III · Crise e memória · Salmo 76 · O Deus que quebra as armas",
     "date": "Salmo 76",
     "verse": {
-      "text": "Ore e leia o Salmo 76 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 76"
+      "text": "quando tu, ó Deus, te levantaste para julgar, para salvar todos os oprimidos da terra.",
+      "ref": "Salmo 76.9"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "שָׁלֵם",
+      "translit": "Shalem",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "Salém, lugar de paz",
+      "note": "Shalem é o nome antigo de Jerusalém, ligado a shalom (paz). Melquisedeque era rei de Salém (Gn 14.18). No versículo 2, a tenda de Deus está em Salém — e é ali que “quebrou ele as flechas reluzentes, os escudos e as espadas”. A cidade da paz é o lugar onde Deus desarma a guerra."
     },
-    "context": "Este é o dia 76 da jornada pelo Saltério. Leia o Salmo 76 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Cântico de Sião de Asafe que celebra uma vitória militar milagrosa, talvez a libertação de Jerusalém diante do exército assírio de Senaqueribe (2Rs 19.35). A Septuaginta acrescenta ao título “sobre o assírio”. O salmo descreve Deus como guerreiro que paralisa cavalos e carros e julga para “salvar todos os oprimidos da terra” (v. 9).",
     "passage": {
       "ref": "Salmo 76 · capítulo completo (NVI)",
       "verses": [
@@ -7825,16 +7825,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 76 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Em Sião, “quebrou ele as flechas reluzentes, os escudos e as espadas”. A vitória de Deus não é mostrada como multiplicação de armas, mas como destruição delas. É uma antecipação da profecia de Isaías: espadas transformadas em arados (Is 2.4). O fim da guerra é o objetivo do Deus guerreiro.",
+      "“Os homens valorosos jazem saqueados, dormem o sono final.” Os guerreiros mais fortes não conseguem erguer as mãos. Diante da repreensão de Deus, cavalo e carro param. Toda força humana tem um limite. O salmo nos convida a não temer exércitos — sejam militares, econômicos ou emocionais — que parecem invencíveis.",
+      "Deus se levanta “para salvar todos os oprimidos da terra”. O juízo divino não é arbitrário; tem um propósito de libertação. E o versículo 11 chama à resposta: “Façam votos ao Senhor... e não deixem de cumpri-los”. A gratidão por um Deus que liberta se expressa em compromissos concretos."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que “arma” — palavras, estratégias de defesa, rancor — você precisa que Deus quebre em você?",
+      "Que “exército” na sua vida parece invencível, e como seria vê-lo diante da repreensão de Deus?",
+      "Que compromisso concreto você poderia fazer e cumprir como resposta a Deus nesta semana?"
     ],
-    "application": "Faça um voto simples a Deus hoje — um compromisso pequeno e realizável — e cumpra-o, como o salmo pede no versículo 11.",
+    "application": "Identifique um conflito em que você tem mantido as “armas” levantadas — uma discussão, uma mágoa, uma disputa — e dê hoje um passo de desarmamento: um pedido de perdão, uma palavra de paz ou o silêncio em vez da réplica.",
     "prayer": "Ó Deus, tu és resplandecente, mais majestoso que os montes. Até a ira humana se transforma em louvor a ti. Recebe os meus votos e ensina-me a temer-te. Amém."
   },
   {
@@ -7842,20 +7842,20 @@ window.SALMOS = [
     "psalm": 77,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 77",
+    "theme": "Livro III · Crise e memória · Salmo 77 · Quando a memória é o caminho",
     "date": "Salmo 77",
     "verse": {
-      "text": "Ore e leia o Salmo 77 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 77"
+      "text": "Então pensei: a razão da minha dor é que a mão direita do Altíssimo não age mais. Recordarei os feitos do Senhor; recordarei os teus antigos milagres.",
+      "ref": "Salmo 77.10–11"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "יָמִין",
+      "translit": "yamin",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "mão direita",
+      "note": "Yamin é a mão direita, símbolo de força e ação. No versículo 10, o salmista chega ao fundo do poço: “a mão direita do Altíssimo não age mais”. Mas logo depois, ao recordar o êxodo, ele vê de novo esse braço forte (v. 15). A mesma mão que parecia parada estava trabalhando o tempo todo."
     },
-    "context": "Este é o dia 77 da jornada pelo Saltério. Leia o Salmo 77 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento de Asafe, dedicado a Jedutum, que se divide claramente em duas metades. Na primeira (v. 1–10), o salmista afunda em perguntas: Deus rejeitou para sempre? Esqueceu-se de ser misericordioso? Na segunda (v. 11–20), a decisão de recordar os feitos antigos muda o foco da oração, culminando na travessia do mar Vermelho.",
     "passage": {
       "ref": "Salmo 77 · capítulo completo (NVI)",
       "verses": [
@@ -7942,16 +7942,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 77 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "A primeira metade usa “eu” e “meu” mais de vinte vezes. A alma está “inconsolável”, os olhos não fecham, a voz falha. O salmista olha para dentro e afunda cada vez mais. Há momentos em que a introspecção, em vez de curar, aprofunda a ferida.",
+      "As seis perguntas dos versículos 7–9 são duras: rejeitar para sempre? O amor desapareceu? A promessa acabou? Deus se esqueceu de ser misericordioso? O salmista não as suaviza. Fazer essas perguntas não é falta de fé; é parte do caminho de quem ainda espera resposta.",
+      "A virada é uma decisão: “Recordarei os feitos do Senhor”. A partir daí, o “eu” dá lugar ao “tu”. O salmo termina no mar Vermelho: “a tua vereda passou pelo mar... e ninguém viu as tuas pegadas”. Deus age mesmo quando não deixa rastros visíveis. Sua presença não depende de nossa capacidade de enxergá-la."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você tem se fechado em perguntas sobre si mesmo, sem conseguir olhar para Deus?",
+      "Qual das perguntas dos versículos 7–9 mais se parece com a sua agora?",
+      "Em que situação Deus pode estar agindo “sem deixar pegadas” visíveis para você?"
     ],
-    "application": "Se a sua alma 'recusa ser consolada' (v. 2), escreva as perguntas que tem feito a Deus (v. 7–9). Depois, faça como o salmista: anote uma 'obra antiga' de Deus em sua vida (v. 11).",
+    "application": "Pegue um papel e escreva três obras de Deus na história bíblica e três na sua própria história. Leia em voz alta, como o salmista fez, e observe se o foco da sua oração muda do “eu” para o “tu”.",
     "prayer": "Senhor, clamo a ti e não encontro consolo. Mas me lembrarei das tuas obras, recordarei os teus milagres do passado. O teu caminho passou pelo mar, ainda que as tuas pegadas não fossem vistas. Amém."
   },
   {
@@ -8395,20 +8395,20 @@ window.SALMOS = [
     "psalm": 79,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 79",
+    "theme": "Livro III · Crise e memória · Salmo 79 · Até quando, pelo sangue derramado?",
     "date": "Salmo 79",
     "verse": {
-      "text": "Ore e leia o Salmo 79 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 79"
+      "text": "Ajuda-nos, ó Deus, nosso Salvador, para a glória do teu nome; livra-nos e perdoa os nossos pecados, por amor do teu nome.",
+      "ref": "Salmo 79.9"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "אָסִיר",
+      "translit": "asir",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "prisioneiro, cativo",
+      "note": "Asir é o preso, o que está acorrentado. No versículo 11, o povo pede que “os gemidos dos prisioneiros” cheguem à presença de Deus. Depois da destruição de Jerusalém, muitos foram levados cativos. O salmo dá voz a quem está preso e não pode falar por si."
     },
-    "context": "Este é o dia 79 da jornada pelo Saltério. Leia o Salmo 79 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento comunitário de Asafe, companheiro do Salmo 74, sobre a destruição de Jerusalém pelos babilônios. Começa com imagens terríveis — templo profanado, cadáveres sem sepultura, sangue como água (v. 1–4) —, passa à pergunta “Até quando?” e a um pedido de perdão (v. 5–9), e termina com súplica por justiça e voto de louvor (v. 10–13).",
     "passage": {
       "ref": "Salmo 79 · capítulo completo (NVI)",
       "verses": [
@@ -8467,16 +8467,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 79 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Os versículos 2–3 descrevem corpos insepultos e sangue derramado “como água”. Na cultura antiga, não ser sepultado era a máxima desonra. O salmo não esconde o horror. Ele permite que a igreja ore com quem vive guerra, perseguição e massacres hoje — pessoas para quem esses versos são literais.",
+      "No meio do lamento, há confissão: “livra-nos e perdoa os nossos pecados, por amor do teu nome”. O povo não se coloca como vítima inocente. Reconhece culpa, mas apela ao nome de Deus. A oração mais forte não diz “nós merecemos”, mas “tu és fiel ao teu nome”.",
+      "“Por que as nações haverão de dizer: ‘Onde está o Deus deles?’” O sofrimento do povo de Deus levanta uma pergunta sobre a reputação de Deus. A súplica por justiça não é apenas desejo de vingança, mas zelo pelo nome de Deus. E o fim é louvor “de geração em geração”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você já orou por irmãos que vivem guerra ou perseguição, para quem este salmo é literal?",
+      "Ao pedir ajuda a Deus, você apela mais ao seu mérito ou à fidelidade do nome dele?",
+      "Como o sofrimento do povo de Deus hoje tem levado o mundo a perguntar “onde está o Deus deles”?"
     ],
-    "application": "Ore pela igreja perseguida em algum lugar do mundo, usando os versículos 1–3. Pesquise um país específico e interceda por ele pelo nome.",
+    "application": "Pesquise um país onde cristãos são perseguidos ou vivem em guerra e ore por eles usando os versículos 8–11. Se possível, contribua com uma organização séria que apoia esses irmãos.",
     "prayer": "Ó Deus, as nações invadiram a tua herança. Não te lembres contra nós das culpas do passado; vem depressa ao nosso encontro com a tua misericórdia. Ajuda-nos, por amor do teu nome. Amém."
   },
   {
@@ -8484,20 +8484,20 @@ window.SALMOS = [
     "psalm": 80,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 80",
+    "theme": "Livro III · Crise e memória · Salmo 80 · Restaura-nos, ó Deus",
     "date": "Salmo 80",
     "verse": {
-      "text": "Ore e leia o Salmo 80 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 80"
+      "text": "Restaura-nos, ó Deus! Faze resplandecer sobre nós o teu rosto, para que sejamos salvos. Ó Senhor, Deus dos Exércitos, até quando arderá a tua ira contra as orações do teu povo? Tu o alimentaste com pão de lágrimas e o fizeste beber copos de lágrimas. Fizeste de nós um motivo de disputas entre as nações vizinhas, e os nossos inimigos caçoam de nós. Restaura-nos, ó Deus dos Exércitos; faze resplandecer sobre nós o teu rosto, para que sejamos salvos. Do Egito trouxeste uma videira; expulsaste as nações e a plantaste. Limpaste o terreno, ela lançou raízes e encheu a terra. Os montes foram cobertos pela sua sombra, e os mais altos cedros, pelos seus ramos. Seus ramos se estenderam até o Mar, e os seus brotos, até o Rio. Por que derrubaste as suas cercas, permitindo que todos os que passam apanhem as suas uvas? Javalis da floresta a devastam e as criaturas do campo dela se alimentam. Volta-te para nós, ó Deus dos Exércitos! Dos altos céus olha e vê! Toma conta desta videira, da raiz que a tua mão direita plantou, do filho que para ti fizeste crescer! Tua videira foi derrubada; como lixo, foi consumida pelo fogo. Pela tua repreensão perece o teu povo! Repouse a tua mão sobre aquele que puseste à tua mão direita, o filho do homem que para ti fizeste crescer. Então não nos desviaremos de ti; vivifica-nos, e invocaremos o teu nome. Restaura-nos, ó Senhor, Deus dos Exércitos; faze resplandecer sobre nós o teu rosto, para que sejamos salvos.",
+      "ref": "Salmo 80.3–19"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "שׁוּב",
+      "translit": "shuv",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "voltar, restaurar, converter",
+      "note": "Shuv é o verbo do arrependimento e da restauração. O refrão do salmo (v. 3, 7, 19) diz literalmente “faze-nos voltar”. É Deus quem precisa trazer o povo de volta. A conversão não começa com nosso esforço, mas com o pedido de que Deus nos faça voltar."
     },
-    "context": "Este é o dia 80 da jornada pelo Saltério. Leia o Salmo 80 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento comunitário de Asafe, provavelmente do reino do norte (menciona Efraim, Benjamim e Manassés), talvez depois da queda de Samaria em 722 a.C. Tem um refrão que cresce em intensidade: “ó Deus” (v. 3), “ó Deus dos Exércitos” (v. 7), “ó Senhor, Deus dos Exércitos” (v. 19). No centro está a parábola da videira trazida do Egito e depois devastada (v. 8–16).",
     "passage": {
       "ref": "Salmo 80 · capítulo completo (NVI)",
       "verses": [
@@ -8580,16 +8580,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 80 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Escuta-nos, Pastor de Israel.” O salmo começa com um título terno para Deus. O pastor que guiava José como um rebanho agora parece ausente. O povo come “pão de lágrimas” e bebe “copos de lágrimas”. Há uma ironia dolorosa: o Pastor alimenta seu povo com choro.",
+      "A videira é uma das imagens mais belas da Bíblia para o povo de Deus. Deus a trouxe do Egito, limpou o terreno, ela encheu a terra. E então a pergunta: “Por que derrubaste as suas cercas?”. A dor é maior porque o cuidado foi grande. Jesus retomará essa imagem: “Eu sou a videira verdadeira” (Jo 15.1).",
+      "O refrão cresce a cada repetição: o nome de Deus fica maior e o pedido, mais urgente. “Faze resplandecer sobre nós o teu rosto, para que sejamos salvos.” A salvação está no rosto de Deus voltado para nós. Quando ele olha com favor, tudo muda. A oração insiste até que esse rosto brilhe."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que área sua vida ou sua comunidade parece uma videira com as cercas derrubadas?",
+      "Você tem tentado “voltar” para Deus com esforço próprio ou pedido que ele o faça voltar?",
+      "O que significaria para você ver o rosto de Deus “resplandecer” sobre sua situação?"
     ],
-    "application": "Repita três vezes ao longo do dia o refrão do salmo (v. 3, 7, 19): 'Restaura-nos, ó Deus! Faze resplandecer sobre nós o teu rosto'. Pense numa área em que você precisa ser restaurado.",
+    "application": "Escolha uma área da sua vida que precisa de restauração e repita o refrão do salmo três vezes hoje — manhã, tarde e noite —, cada vez com o nome de Deus mais completo, como o salmista fez.",
     "prayer": "Ó Pastor de Israel, desperta o teu poder e vem salvar-nos. Tu trouxeste uma videira do Egito; olha dos céus e cuida dela. Restaura-nos, Senhor, e seremos salvos. Amém."
   },
   {
@@ -8597,20 +8597,20 @@ window.SALMOS = [
     "psalm": 81,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 81",
+    "theme": "Livro III · Crise e memória · Salmo 81 · Abra a boca, e eu a encherei",
     "date": "Salmo 81",
     "verse": {
-      "text": "Ore e leia o Salmo 81 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 81"
+      "text": "Eu sou o Senhor, o seu Deus, que o tirei da terra do Egito. Abra a sua boca, e eu o alimentarei.",
+      "ref": "Salmo 81.10"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "שָׁמַע",
+      "translit": "shamá‘",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ouvir, escutar, obedecer",
+      "note": "Shamá‘ é a palavra do Shemá (Dt 6.4): “Ouça, ó Israel”. Em hebraico, ouvir e obedecer são o mesmo verbo. No salmo, Deus suspira: “se tão-somente você me escutasse!”. O problema do povo não era falta de informação, mas surdez escolhida."
     },
-    "context": "Este é o dia 81 da jornada pelo Saltério. Leia o Salmo 81 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de Asafe para uma festa — provavelmente a festa das Trombetas ou dos Tabernáculos (v. 3). Começa com convocação alegre ao louvor (v. 1–5) e, de repente, Deus mesmo fala (v. 6–16), lembrando o êxodo, lamentando a desobediência do povo e prometendo fartura se ele ouvir. É uma festa que se torna sermão.",
     "passage": {
       "ref": "Salmo 81 · capítulo completo (NVI)",
       "verses": [
@@ -8681,16 +8681,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 81 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com tamborins, liras e trombetas. Mas no meio da festa, Deus toma a palavra. Há uma advertência implícita: a celebração religiosa pode ser animada e, ao mesmo tempo, surda. Louvar com barulho não substitui ouvir com obediência.",
+      "Deus lembra: “Tirei o peso dos seus ombros; suas mãos ficaram livres dos cestos de cargas”. A libertação do Egito foi física: costas aliviadas, mãos livres. Deus quer que seu povo se lembre de onde veio. A gratidão pela libertação passada é a base da obediência presente.",
+      "“Abra a sua boca, e eu o alimentarei.” A imagem é de um filhote de pássaro com o bico aberto, esperando o alimento. Deus quer encher. Mas o povo não quis ouvir, e Deus os “entregou ao seu coração obstinado”. O castigo mais triste não é um raio, mas ser deixado ao próprio caminho. E a promessa permanece: “mel da rocha”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Sua vida de fé tem mais celebração que escuta, ou o contrário?",
+      "Que “cesto de cargas” Deus já tirou dos seus ombros e você esqueceu?",
+      "Em que área Deus pode estar dizendo: “abra a boca, e eu a encherei”, e você tem preferido se alimentar de outra coisa?"
     ],
-    "application": "Identifique um 'deus estranho' (v. 9) — algo que compete com Deus pela sua atenção — e abra hoje a boca para que ele a encha (v. 10), dedicando-lhe tempo em vez disso.",
+    "application": "Hoje, antes de qualquer pedido em oração, passe três minutos apenas ouvindo: leia um trecho bíblico curto devagar e pergunte “o que o Senhor está me dizendo?”. Anote uma frase e obedeça a ela.",
     "prayer": "Senhor, tu me tiraste do Egito e disseste: 'Abra bem a boca, e eu a encherei'. Perdoa-me por não te ouvir. Quero andar nos teus caminhos e ser saciado por ti. Amém."
   },
   {
@@ -8698,20 +8698,20 @@ window.SALMOS = [
     "psalm": 82,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 82",
+    "theme": "Livro III · Crise e memória · Salmo 82 · O Juiz dos juízes",
     "date": "Salmo 82",
     "verse": {
-      "text": "Ore e leia o Salmo 82 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 82"
+      "text": "Garantam justiça para os fracos e para os órfãos; mantenham os direitos dos necessitados e dos oprimidos.",
+      "ref": "Salmo 82.3"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "יָתוֹם",
+      "translit": "yatom",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "órfão",
+      "note": "Yatom é a criança sem pai, um dos três grupos — com a viúva e o estrangeiro — que a lei de Israel mandava proteger. No versículo 3, Deus exige dos juízes que garantam justiça “para os fracos e para os órfãos”. O tratamento dado ao yatom era o termômetro da justiça de uma sociedade."
     },
-    "context": "Este é o dia 82 da jornada pelo Saltério. Leia o Salmo 82 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de Asafe que encena um tribunal no céu: Deus preside uma “assembleia divina” e acusa “deuses” que julgam injustamente. Há debate sobre quem são esses “deuses” — juízes humanos, poderes celestiais ou ambos. Jesus citou o versículo 6 em João 10.34–36. O salmo termina com um apelo: “Levanta-te, ó Deus, julga a terra”.",
     "passage": {
       "ref": "Salmo 82 · capítulo completo (NVI)",
       "verses": [
@@ -8750,16 +8750,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 82 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Até quando vocês vão absolver os culpados?” A pergunta que os oprimidos costumam fazer a Deus aqui é feita por Deus aos juízes. Ele também está indignado com a injustiça. Quem sofre com tribunais corruptos encontra no salmo um Deus que compartilha a sua revolta.",
+      "A exigência é concreta: justiça para fracos, órfãos, necessitados e oprimidos. Não é uma justiça abstrata, mas direcionada a quem não tem voz. E o diagnóstico é duro: os juízes “nada sabem, nada entendem; vagueiam pelas trevas”. Quando a justiça falha, “todos os fundamentos da terra estão abalados”.",
+      "“Vocês são deuses... mas vocês morrerão como simples homens.” Quem exerce autoridade participa, de alguma forma, do governo de Deus. Mas isso não o torna imortal nem impune. Todo poder humano é emprestado e tem prazo. O único que permanece é Deus, a quem todas as nações pertencem."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você já se indignou com uma injustiça e se sentiu sozinho? Como o salmo muda isso?",
+      "Se você exerce alguma autoridade — mesmo pequena —, como tem tratado quem não tem voz?",
+      "Que “juiz” ou autoridade você precisa entregar ao Deus que preside sobre todos?"
     ],
-    "application": "Ore pelos juízes, autoridades e líderes que você conhece, usando os versículos 3–4. Se você exerce alguma autoridade, examine se tem defendido o fraco e o órfão.",
+    "application": "Escolha uma causa concreta de justiça para órfãos ou crianças vulneráveis — adoção, acolhimento, proteção contra abuso — e informe-se sobre como apoiá-la. Ore por ela hoje pelo nome.",
     "prayer": "Ó Deus, levanta-te e julga a terra, pois todas as nações te pertencem. Defende o fraco e o órfão; faz justiça ao pobre e ao oprimido. Amém."
   },
   {
@@ -8767,20 +8767,20 @@ window.SALMOS = [
     "psalm": 83,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 83",
+    "theme": "Livro III · Crise e memória · Salmo 83 · Cercados por todos os lados",
     "date": "Salmo 83",
     "verse": {
-      "text": "Ore e leia o Salmo 83 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 83"
+      "text": "Saibam eles que tu, cujo nome é Senhor, somente tu, és o Altíssimo sobre toda a terra.",
+      "ref": "Salmo 83.18"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "עֶלְיוֹן",
+      "translit": "Elyon",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "Altíssimo",
+      "note": "Elyon é um título antigo de Deus, usado por Melquisedeque (Gn 14.19). Significa o que está acima de tudo. O salmo termina com esse nome: depois de uma lista de dez nações aliadas contra Israel, o povo declara que só o Senhor é Elyon “sobre toda a terra”. Nenhuma coalizão está acima dele."
     },
-    "context": "Este é o dia 83 da jornada pelo Saltério. Leia o Salmo 83 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Último dos salmos de Asafe e último lamento comunitário do Livro III. Descreve uma coalizão de dez povos contra Israel (v. 6–8) e pede que Deus os trate como tratou os inimigos no tempo dos juízes: Midiã, Sísera, Jabim, Orebe e Zeebe (v. 9–12). Termina com o desejo de que esses inimigos busquem o nome de Deus (v. 16).",
     "passage": {
       "ref": "Salmo 83 · capítulo completo (NVI)",
       "verses": [
@@ -8859,16 +8859,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 83 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Ó Deus, não te emudeças.” O salmo começa com o medo do silêncio de Deus diante de uma ameaça enorme. Dez nações reunidas, de todos os lados — leste, sul, oeste, norte. É a sensação de estar completamente cercado. Há fases em que as pressões vêm de todas as direções ao mesmo tempo.",
+      "O salmista recorre à história: “Trata-os como trataste Midiã”. Gideão venceu Midiã com 300 homens; Débora e Baraque venceram Sísera com a ajuda de uma tempestade. A memória de vitórias impossíveis alimenta a fé diante de ameaças impossíveis. Deus já fez isso antes.",
+      "O versículo 16 surpreende: “Cobre-lhes de vergonha o rosto até que busquem o teu nome”. O objetivo final não é a destruição dos inimigos, mas sua conversão. Mesmo um salmo de guerra termina apontando para o reconhecimento universal de Deus. A vergonha pode ser porta de entrada para a busca."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você se sente cercado por pressões vindas de todos os lados? Consegue nomeá-las uma a uma?",
+      "Que vitória “impossível” de Deus — bíblica ou pessoal — pode alimentar sua fé hoje?",
+      "Você consegue orar para que quem se opõe a você venha a buscar o nome de Deus?"
     ],
-    "application": "Leve a Deus uma situação em que você se sente cercado por muitas pressões ao mesmo tempo (v. 5–8). Peça que ele se levante, para que os homens saibam que só ele é o Altíssimo (v. 18).",
+    "application": "Desenhe um círculo e escreva ao redor dele as pressões que o cercam agora. No centro, escreva “Altíssimo sobre toda a terra” (v. 18). Ore por cada pressão e, se uma delas envolver uma pessoa, ore também pela conversão ou restauração dela.",
     "prayer": "Ó Deus, não te cales nem fiques inerte. Os teus inimigos se agitam. Que eles saibam que só tu, cujo nome é Senhor, és o Altíssimo sobre toda a terra. Amém."
   },
   {
@@ -8876,20 +8876,20 @@ window.SALMOS = [
     "psalm": 84,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 84",
+    "theme": "Livro III · Crise e memória · Salmo 84 · Um dia nos teus átrios",
     "date": "Salmo 84",
     "verse": {
-      "text": "Ore e leia o Salmo 84 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 84"
+      "text": "Melhor é um dia nos teus átrios do que mil noutro lugar; prefiro ficar à porta da casa do meu Deus a habitar nas tendas dos ímpios.",
+      "ref": "Salmo 84.10"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "מְסִלּוֹת",
+      "translit": "mesillot",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "estradas, caminhos aplainados",
+      "note": "No versículo 5, “peregrinos de coração” traduz literalmente “estradas no coração deles”. Mesillot são as estradas elevadas que levavam a Jerusalém. A pessoa feliz carrega dentro de si o caminho para Deus: sua vida inteira é orientada para a presença dele."
     },
-    "context": "Este é o dia 84 da jornada pelo Saltério. Leia o Salmo 84 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Cântico de peregrinação dos filhos de Corá, expressando saudade do templo. Tem três estrofes marcadas por “Pausa”: o desejo pela casa de Deus (v. 1–4), a jornada dos peregrinos (v. 5–8) e a oração pelo rei com a declaração final de preferência (v. 9–12). O vale de Baca (v. 6) pode significar “vale das lágrimas” ou “vale das árvores de bálsamo”.",
     "passage": {
       "ref": "Salmo 84 · capítulo completo (NVI)",
       "verses": [
@@ -8944,16 +8944,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 84 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Até o pardal achou um lar.” O salmista, longe do templo, sente inveja dos passarinhos que fazem ninho perto do altar. Pássaros comuns, sem valor, têm o que ele mais deseja: morar perto de Deus. É uma imagem que Jesus parece retomar ao dizer que nenhum pardal cai sem o Pai (Mt 10.29).",
+      "Os peregrinos passam pelo vale de Baca — talvez o vale das lágrimas — e “fazem dele um lugar de fontes”. Não é que o vale deixe de ser seco; é que quem caminha para Deus deixa fontes por onde passa. E seguem “de força em força”, não de cansaço em cansaço. A jornada fortalece quem tem o destino certo.",
+      "“Melhor é um dia nos teus átrios do que mil noutro lugar; prefiro ficar à porta.” O salmista prefere ser porteiro na casa de Deus a ser morador de luxo entre os ímpios. É uma escala de valores invertida: o menor lugar perto de Deus vale mais que o maior longe dele."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você sente saudade da presença de Deus, como o salmista sentia do templo?",
+      "Qual “vale de lágrimas” você está atravessando, e como seria deixar fontes nele para quem vem atrás?",
+      "Se você tivesse de escolher entre “um dia” com Deus e “mil” em outro lugar, sua agenda revelaria qual escolha?"
     ],
-    "application": "Separe hoje um tempo especial na presença de Deus — no templo ou em casa — e ore o versículo 10: 'Melhor é um dia nos teus átrios do que mil noutro lugar'.",
+    "application": "Reserve hoje uma hora — ou ao menos trinta minutos — como “um dia nos átrios”: sem celular, com a Bíblia, oração e silêncio. Depois anote o que esse tempo fez em você.",
     "prayer": "Senhor dos Exércitos, como é amável o lugar da tua habitação! A minha alma anela pelos teus átrios. Melhor é um dia contigo do que mil em outro lugar. Feliz é quem confia em ti. Amém."
   },
   {
@@ -8961,20 +8961,20 @@ window.SALMOS = [
     "psalm": 85,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 85",
+    "theme": "Livro III · Crise e memória · Salmo 85 · Justiça e paz se beijarão",
     "date": "Salmo 85",
     "verse": {
-      "text": "Ore e leia o Salmo 85 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 85"
+      "text": "O amor e a fidelidade se encontrarão; a justiça e a paz se beijarão.",
+      "ref": "Salmo 85.10"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "נָשַׁק",
+      "translit": "nashaq",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "beijar",
+      "note": "Nashaq é o beijo de encontro, de reconciliação, como o de Esaú e Jacó (Gn 33.4). No versículo 10, a justiça e a paz se beijam. Duas realidades que muitas vezes parecem rivais — fazer justiça e manter a paz — se abraçam quando Deus restaura seu povo."
     },
-    "context": "Este é o dia 85 da jornada pelo Saltério. Leia o Salmo 85 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo dos filhos de Corá, provavelmente da época do retorno do exílio. Começa lembrando restaurações passadas (v. 1–3), suplica por uma nova restauração (v. 4–7) e termina com uma profecia de paz (v. 8–13). A primeira parte está no passado (“foste favorável”), a segunda no presente (“restaura-nos”), a terceira no futuro (“brotará”).",
     "passage": {
       "ref": "Salmo 85 · capítulo completo (NVI)",
       "verses": [
@@ -9033,16 +9033,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 85 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com memória: “Perdoaste a culpa do teu povo e cobriste todos os seus pecados”. Mas a experiência presente é de ira. O povo voltou do exílio, mas a vida ainda é difícil. Há restaurações que acontecem em etapas. O salmo dá voz a quem já viu Deus agir e ainda precisa de mais.",
+      "“Acaso não nos renovarás a vida, a fim de que o teu povo se alegre em ti?” É um pedido de reavivamento. O objetivo não é conforto, mas alegria em Deus. A vida renovada se mede não pela prosperidade, mas pela alegria no Senhor.",
+      "O versículo 10 é uma das imagens mais belas das Escrituras: amor e fidelidade se encontram, justiça e paz se beijam. A fidelidade brota da terra e a justiça desce do céu. Céu e terra se encontram. Para a fé cristã, esse encontro tem nome: Jesus, em quem a justiça de Deus e a paz com Deus se uniram na cruz."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que área você já experimentou restauração de Deus, mas ainda precisa de mais?",
+      "Sua oração por renovação busca mais o conforto ou a alegria em Deus?",
+      "Em que relação ou situação você vê justiça e paz em conflito, precisando que Deus as reconcilie?"
     ],
-    "application": "Identifique uma área em que você ou sua comunidade precisam de reavivamento e ore o versículo 6: 'Não voltarás a dar-nos vida, para que o teu povo se alegre em ti?'.",
+    "application": "Pense em um conflito em que você tem escolhido entre ser justo e manter a paz. Busque hoje um caminho que honre as duas coisas: uma conversa franca e gentil, que diga a verdade sem romper a relação.",
     "prayer": "Senhor, foste favorável à tua terra. Restaura-nos, Deus da nossa salvação. Mostra-nos o teu amor; o amor e a fidelidade se encontrarão, a justiça e a paz se beijarão. Amém."
   },
   {
@@ -9050,20 +9050,20 @@ window.SALMOS = [
     "psalm": 86,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 86",
+    "theme": "Livro III · Crise e memória · Salmo 86 · Unifica o meu coração",
     "date": "Salmo 86",
     "verse": {
-      "text": "Ore e leia o Salmo 86 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 86"
+      "text": "Ensina-me o teu caminho, Senhor, para que eu ande na tua verdade; dá-me um coração inteiramente fiel, para que eu tema o teu nome.",
+      "ref": "Salmo 86.11"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "יַחֵד",
+      "translit": "yached",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "unir, unificar",
+      "note": "No versículo 11, “dá-me um coração inteiramente fiel” traduz o hebraico yached levavi: “unifica o meu coração”. O problema do salmista não é falta de amor, mas um coração dividido entre muitos desejos. Ele pede que Deus junte os pedaços num só propósito: temer o seu nome."
     },
-    "context": "Este é o dia 86 da jornada pelo Saltério. Leia o Salmo 86 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O único salmo atribuído a Davi no Livro III. É um mosaico de frases de outros salmos e de Êxodo 34.6, a famosa autorrevelação de Deus a Moisés (“compassivo e misericordioso, muito paciente, rico em amor e em fidelidade”), citada no versículo 15. Mistura súplicas pessoais com confissões sobre a incomparabilidade de Deus.",
     "passage": {
       "ref": "Salmo 86 · capítulo completo (NVI)",
       "verses": [
@@ -9138,16 +9138,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 86 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmista apresenta seus argumentos: “sou pobre e necessitado”, “sou fiel a ti”, “clamo a ti sem cessar”. Mas nenhum deles é mérito; são descrições de dependência. A oração bíblica não é transação, é relação. Lembramos a Deus quem somos para que ele aja conforme quem ele é.",
+      "No centro do salmo, o pedido mais profundo: “dá-me um coração inteiramente fiel”. Literalmente, “unifica o meu coração”. Muitos de nós amam a Deus, mas também amam o controle, a aprovação, o conforto. O coração dividido cansa. A integridade começa quando pedimos a Deus que reúna os pedaços.",
+      "O versículo 15 cita Êxodo 34.6: Deus é “compassivo e misericordioso, muito paciente, rico em amor e em fidelidade”. É o texto mais citado do Antigo Testamento sobre o caráter de Deus. O salmista ora com as palavras que Deus usou para se apresentar. Não há fundamento mais seguro para orar do que o próprio caráter dele."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que argumentos você costuma usar quando ora? São de mérito ou de dependência?",
+      "Entre quais desejos seu coração está dividido hoje?",
+      "Qual atributo de Êxodo 34.6 você mais precisa experimentar nesta semana?"
     ],
-    "application": "Faça sua a oração do versículo 11: 'Ensina-me o teu caminho, Senhor... dá-me um coração inteiramente fiel'. Identifique onde seu coração está dividido e entregue essa área a ele.",
+    "application": "Escreva os “pedaços” do seu coração — as coisas que disputam o primeiro lugar nele. Ore o versículo 11 sobre a lista e escolha uma dessas coisas para submeter a Deus de forma concreta hoje.",
     "prayer": "Senhor, inclina o teu ouvido e responde-me, pois sou pobre e necessitado. Ensina-me o teu caminho e dá-me um coração inteiramente fiel, para que eu tema o teu nome. Amém."
   },
   {
@@ -9155,20 +9155,20 @@ window.SALMOS = [
     "psalm": 87,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 87",
+    "theme": "Livro III · Crise e memória · Salmo 87 · Certidão de nascimento em Sião",
     "date": "Salmo 87",
     "verse": {
-      "text": "Ore e leia o Salmo 87 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 87"
+      "text": "De fato, acerca de Sião se dirá: \"Todos estes nasceram nela, e o próprio Altíssimo a estabelecerá\". O Senhor escreverá no registro dos povos: \"Este nasceu ali\".",
+      "ref": "Salmo 87.5–6"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "יָלַד",
+      "translit": "yalad",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "nascer, gerar",
+      "note": "Yalad aparece três vezes nos versículos 4–6: “como se tivessem nascido em Sião”, “todos estes nasceram nela”, “este nasceu ali”. Povos inimigos — Egito, Babilônia, Filístia — recebem cidadania como se tivessem nascido em Jerusalém. É uma adoção nacional."
     },
-    "context": "Este é o dia 87 da jornada pelo Saltério. Leia o Salmo 87 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo curto e enigmático dos filhos de Corá sobre Sião como mãe das nações. É talvez a visão mais universalista do Saltério: os antigos inimigos de Israel — Raabe (Egito), Babilônia, Filístia, Tiro e Etiópia — são registrados por Deus como cidadãos de Sião. Paulo ecoa essa ideia ao falar da “Jerusalém do alto, que é a nossa mãe” (Gl 4.26).",
     "passage": {
       "ref": "Salmo 87 · capítulo completo (NVI)",
       "verses": [
@@ -9203,16 +9203,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 87 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com o amor de Deus por Sião: ele “ama as portas de Sião mais do que qualquer outro lugar”. Mas logo se percebe que esse amor não é exclusivista. A cidade amada é amada para abrigar muitos. O amor de Deus por um lugar tem em vista todos os povos.",
+      "A lista de nações no versículo 4 é chocante: Egito, que escravizou Israel; Babilônia, que destruiria Jerusalém; Filístia, inimiga histórica. Todos esses serão contados “como se tivessem nascido em Sião”. A graça de Deus transforma inimigos em família. É o evangelho antes do evangelho.",
+      "O próprio Senhor escreve no registro: “Este nasceu ali”. A cidadania não é conquistada, é concedida. É Deus quem escreve o nome. E a resposta é festa: “Com danças e cânticos, dirão: ‘Em Sião estão as nossas origens!’”. Para quem foi adotado em Cristo, a identidade mais profunda não é a nacionalidade de origem, mas o novo nascimento."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que grupo de pessoas você tem dificuldade de imaginar “nascido em Sião”?",
+      "Como você se sente sabendo que é o próprio Deus quem escreve seu nome no registro?",
+      "Onde estão suas “origens” mais profundas: na sua história, família e nação, ou na nova identidade em Cristo?"
     ],
-    "application": "Ore por uma nação inimiga ou distante — como Egito e Babilônia no versículo 4 — e peça que, ali também, Deus registre muitos que 'nasceram em Sião'.",
+    "application": "Ore hoje por um povo ou nação que historicamente foi hostil ao seu país ou à sua fé, pedindo que Deus escreva muitos nomes deles no registro de Sião. Se conhecer alguém dessa origem, trate-o hoje como irmão.",
     "prayer": "Senhor, tu amas as portas de Sião. Registras os povos: 'Este nasceu ali'. Obrigado porque, em Cristo, pessoas de toda nação são filhas da tua cidade. Todas as minhas fontes estão em ti. Amém."
   },
   {
@@ -9220,20 +9220,20 @@ window.SALMOS = [
     "psalm": 88,
     "part": 1,
     "parts": 1,
-    "theme": "Livro III · Crise e memória · Salmo 88",
+    "theme": "Livro III · Crise e memória · Salmo 88 · As trevas como única companhia",
     "date": "Salmo 88",
     "verse": {
-      "text": "Ore e leia o Salmo 88 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 88"
+      "text": "Mas eu, Senhor, a ti clamo por socorro; já de manhã a minha oração chega à tua presença. Por que, Senhor, me rejeitas e escondes de mim o teu rosto?",
+      "ref": "Salmo 88.13–14"
     },
     "word": {
-      "original": "חֶסֶד",
-      "translit": "hesed",
+      "original": "מַחְשָׁךְ",
+      "translit": "machshakh",
       "lang": "hebraico",
-      "meaning": "amor leal",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como hesed ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "lugar escuro, trevas",
+      "note": "Machshakh é a última palavra do salmo no hebraico. Literalmente, o versículo 18 termina: “meus conhecidos — trevas”. Nenhum outro salmo termina assim. A escuridão não é só um ambiente; é a única companhia que restou. E mesmo isso foi dito a Deus."
     },
-    "context": "Este é o dia 88 da jornada pelo Saltério. Leia o Salmo 88 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O lamento mais sombrio do Saltério, atribuído a Hemã, o ezraíta, e aos filhos de Corá. Ao contrário de quase todos os lamentos, não tem nenhuma virada para a confiança ou o louvor. Descreve sofrimento desde a juventude (v. 15), isolamento total (v. 8, 18) e a sensação de estar entre os mortos (v. 3–6). Sua presença na Bíblia é, em si, uma mensagem: há espaço para orações sem final feliz.",
     "passage": {
       "ref": "Salmo 88 · capítulo completo (NVI)",
       "verses": [
@@ -9312,16 +9312,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 88 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Este salmo não termina bem, e é importante não forçá-lo a terminar. Ele está na Bíblia para quem vive escuridões prolongadas: depressão, luto, doença crônica, abandono. A Palavra de Deus não exige que a dor seja resolvida antes de ser orada.",
+      "E, no entanto, repare: o salmista continua orando. “A ti clamo dia e noite”, “a ti, Senhor, clamo cada dia”, “já de manhã a minha oração chega à tua presença”. Mesmo sem sentir nada, ele não para de se dirigir a Deus. Às vezes a fé não é sentir a presença; é continuar falando com quem parece ausente.",
+      "O primeiro versículo chama Deus de “Deus que me salva”. É a única nota de esperança do salmo, e está no começo, como base de tudo. Quem ora com este salmo pode não ver luz no fim, mas sabe a quem está falando. Para os cristãos, Jesus também conheceu essa escuridão na cruz — e por isso ela não é mais solidão absoluta."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você já teve um período em que orar parecia falar no escuro? Como sobreviveu a ele?",
+      "Você se permite orar sem forçar um final feliz?",
+      "Quem, ao seu redor, pode estar vivendo este salmo agora e precisa de alguém que fique ao lado sem dar respostas fáceis?"
     ],
-    "application": "Não force este salmo a terminar bem. Se você está na escuridão, diga isso a Deus com a franqueza dos versículos 13–18 — e procure hoje uma pessoa segura com quem possa conversar.",
+    "application": "Se você está numa fase de escuridão, procure hoje alguém de confiança — amigo, pastor ou profissional de saúde mental — e diga com honestidade como está. Se não estiver, procure alguém que esteja e apenas fique presente, sem conselhos.",
     "prayer": "Senhor, Deus que me salva, dia e noite clamo a ti. A minha alma está cheia de aflições. Mesmo quando a escuridão parece ser minha única companheira, eu continuo clamando a ti. Amém."
   },
   {
@@ -9648,20 +9648,20 @@ window.SALMOS = [
     "psalm": 90,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 90",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 90 · Ensina-nos a contar os dias",
     "date": "Salmo 90",
     "verse": {
-      "text": "Ore e leia o Salmo 90 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 90"
+      "text": "Ensina-nos a contar os nossos dias para que o nosso coração alcance sabedoria.",
+      "ref": "Salmo 90.12"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "מָנָה",
+      "translit": "manah",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "contar, numerar",
+      "note": "Manah é contar com atenção, como quem enumera um tesouro. No versículo 12, Moisés pede: “Ensina-nos a contar os nossos dias”. Não se trata de calcular a expectativa de vida, mas de aprender a dar valor a cada dia, como se fosse contado um a um."
     },
-    "context": "Este é o dia 90 da jornada pelo Saltério. Leia o Salmo 90 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O único salmo atribuído a Moisés e o mais antigo do Saltério segundo a tradição. Abre o Livro IV, que responde à crise do Livro III (o exílio e a aparente falência da promessa davídica) voltando para antes de Davi: a Moisés e ao Deus que foi refúgio “de geração em geração”. Contrasta a eternidade de Deus com a brevidade humana e termina pedindo que Deus consolide o trabalho das nossas mãos.",
     "passage": {
       "ref": "Salmo 90 · capítulo completo (NVI)",
       "verses": [
@@ -9736,16 +9736,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 90 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Antes de nascerem os montes... de eternidade a eternidade tu és Deus.” O salmo começa com a eternidade. Montes parecem permanentes para nós, mas Deus é mais antigo que eles. Diante disso, mil anos são como “o dia de ontem”. A perspectiva de Deus desmonta nossa pressa e nossa ansiedade.",
+      "A vida humana é como “relva que brota ao amanhecer” e “à tarde, murcha e seca”. Setenta anos, oitenta para os fortes — e passam como um murmúrio. Moisés, que viveu 120 anos, sabia que mesmo uma vida longa é curta. O realismo do salmo não é pessimismo; é o ponto de partida da sabedoria.",
+      "O salmo termina com um pedido duplo: “Consolida, para nós, a obra de nossas mãos; consolida a obra de nossas mãos!”. Se a vida é breve, nosso trabalho também parece frágil. Mas Deus pode dar permanência ao que fazemos. O que é feito diante dele não se perde, mesmo que pareça pequeno."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que preocupação sua parece menor quando vista à luz da eternidade de Deus?",
+      "Se você “contasse seus dias” com atenção, que hábito mudaria nesta semana?",
+      "Que “obra das suas mãos” você precisa pedir que Deus consolide?"
     ],
-    "application": "Faça o exercício do versículo 12: 'Ensina-nos a contar os nossos dias'. Calcule quantos fins de semana você provavelmente ainda tem e escolha um uso sábio para o próximo.",
+    "application": "Escreva o número aproximado de dias que você já viveu (anos × 365). Ore o versículo 12 e escolha uma coisa que realmente importa para fazer hoje — e uma que não importa, para deixar de fazer.",
     "prayer": "Senhor, tu tens sido o nosso refúgio de geração em geração. Ensina-nos a contar os nossos dias para que alcancemos coração sábio. Firma a obra das nossas mãos. Amém."
   },
   {
@@ -9753,20 +9753,20 @@ window.SALMOS = [
     "psalm": 91,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 91",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 91 · À sombra do Todo-poderoso",
     "date": "Salmo 91",
     "verse": {
-      "text": "Ore e leia o Salmo 91 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 91"
+      "text": "Aquele que habita no abrigo do Altíssimo e descansa à sombra do Todo-poderoso pode dizer ao Senhor: Tu és o meu refúgio e a minha fortaleza, o meu Deus, em quem confio.",
+      "ref": "Salmo 91.1–2"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "סֵתֶר",
+      "translit": "seter",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "esconderijo, abrigo secreto",
+      "note": "Seter é o lugar escondido, protegido, fora da vista do perigo. No versículo 1, “o abrigo do Altíssimo” é literalmente “o esconderijo do Altíssimo”. Quem habita ali não está apenas protegido; está oculto em Deus, como Paulo diz: “a sua vida está escondida com Cristo em Deus” (Cl 3.3)."
     },
-    "context": "Este é o dia 91 da jornada pelo Saltério. Leia o Salmo 91 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de confiança sem título, com quatro nomes de Deus nos dois primeiros versículos: Altíssimo, Todo-poderoso, Senhor e Deus. Promete proteção contra perigos noturnos e diurnos (v. 5–6) e termina com o próprio Deus falando (v. 14–16). Satanás citou os versículos 11–12 para tentar Jesus no deserto (Mt 4.6), e Jesus respondeu que não se deve tentar a Deus.",
     "passage": {
       "ref": "Salmo 91 · capítulo completo (NVI)",
       "verses": [
@@ -9837,16 +9837,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 91 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com quem “habita” e “descansa”. Não é sobre visitas ocasionais ao abrigo, mas sobre morar nele. As promessas que seguem não são para quem corre a Deus só na emergência, mas para quem fez dele sua casa. Proteção é fruto de permanência.",
+      "As promessas são grandiosas: mil cairão ao seu lado e nada o atingirá. Mas o próprio Jesus mostrou que não devemos usar este salmo como fórmula para testar Deus. Quando o diabo citou os versículos 11–12, Jesus recusou pular do templo. A proteção de Deus é real, mas não é uma garantia de que nunca sofreremos. Muitos santos morreram jovens. O salmo fala de algo mais profundo: nada nos separa de Deus.",
+      "No fim, Deus fala: “Porque ele me ama, eu o resgatarei... pois conhece o meu nome”. A base da proteção não é técnica espiritual, mas relação. “Na adversidade estarei com ele” — a promessa não é ausência de adversidade, mas presença nela. É o Emanuel antes do Emanuel."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Deus tem sido seu “endereço” ou apenas seu abrigo de emergência?",
+      "Você já usou promessas bíblicas como fórmula para exigir algo de Deus?",
+      "O que significa para você a promessa de que Deus estará com você na adversidade, e não necessariamente fora dela?"
     ],
-    "application": "Escolha um medo concreto (doença, violência, noite, futuro) e confronte-o com uma promessa específica do salmo. Repita-a antes de dormir hoje.",
+    "application": "Escolha um medo concreto que o acompanha — da noite, de uma doença, do futuro — e escreva-o ao lado do versículo 15. Antes de dormir, leia os dois e entregue o medo a Deus, que promete estar com você na adversidade.",
     "prayer": "Senhor, tu és o meu refúgio e a minha fortaleza, o meu Deus em quem confio. Cobre-me com as tuas penas, guarda-me sob as tuas asas. Responde quando eu clamar e mostra-me a tua salvação. Amém."
   },
   {
@@ -9854,20 +9854,20 @@ window.SALMOS = [
     "psalm": 92,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 92",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 92 · Fruto na velhice",
     "date": "Salmo 92",
     "verse": {
-      "text": "Ore e leia o Salmo 92 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 92"
+      "text": "Os justos florescerão como a palmeira, crescerão como o cedro do Líbano; plantados na casa do Senhor, florescerão nos átrios do nosso Deus. Mesmo na velhice darão fruto, permanecerão viçosos e verdejantes,",
+      "ref": "Salmo 92.12–14"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "תָּמָר",
+      "translit": "tamar",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "palmeira",
+      "note": "Tamar é a tamareira, árvore do oásis que cresce reta, vive muito e dá frutos doces por décadas. Suas raízes buscam água profunda e ela suporta o calor do deserto. Os justos “florescerão como a palmeira”: não por ausência de deserto, mas por raízes que alcançam a fonte."
     },
-    "context": "Este é o dia 92 da jornada pelo Saltério. Leia o Salmo 92 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O título diz que é “um cântico para o dia de sábado”, o único salmo com essa indicação. Celebra a alegria de louvar (v. 1–4), contrasta o florescimento passageiro dos ímpios com o florescimento duradouro dos justos (v. 5–11) e termina com a imagem das árvores plantadas no templo que dão fruto até a velhice (v. 12–15).",
     "passage": {
       "ref": "Salmo 92 · capítulo completo (NVI)",
       "verses": [
@@ -9934,16 +9934,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 92 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Anunciar de manhã o teu amor leal e de noite a tua fidelidade.” O dia é emoldurado por duas palavras: hesed ao amanhecer, fidelidade ao anoitecer. De manhã, recebemos o amor como presente novo; à noite, olhamos para trás e vemos que Deus foi fiel. É um ritmo de sábado que pode marcar todos os dias.",
+      "Os ímpios “brotem como a erva”, diz o versículo 7. A erva cresce depressa e parece vigorosa, mas seca logo. O insensato não entende isso: confunde crescimento rápido com permanência. O salmo convida a não invejar o sucesso imediato, mas a observar o que dura.",
+      "“Mesmo na velhice darão fruto, permanecerão viçosos e verdejantes.” O mundo costuma ver a velhice como declínio. O salmo vê como estação de fruto. Quem está entre os “plantados na casa do Senhor” não seca com os anos; amadurece. Há frutos que só a idade produz: paciência, sabedoria, testemunho."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Seu dia tem começado com o amor de Deus e terminado com a memória da fidelidade dele?",
+      "Que sucesso “de erva” você tem invejado em alguém?",
+      "Que fruto você espera — ou já vê — em sua vida à medida que envelhece?"
     ],
-    "application": "Faça o que o versículo 2 propõe: anuncie o amor de Deus pela manhã e a sua fidelidade à noite. Ao acordar e ao deitar hoje, diga em voz alta uma bondade dele.",
+    "application": "Adote hoje o ritmo do versículo 2: ao acordar, diga em voz alta uma expressão do amor de Deus que você espera; antes de dormir, diga uma fidelidade dele que você viu durante o dia.",
     "prayer": "Senhor, como é bom render-te graças e cantar louvores ao teu nome! De manhã anuncio o teu amor e de noite a tua fidelidade. Planta-me na tua casa para que eu dê fruto até na velhice. Amém."
   },
   {
@@ -9951,20 +9951,20 @@ window.SALMOS = [
     "psalm": 93,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 93",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 93 · Mais forte que o mar",
     "date": "Salmo 93",
     "verse": {
-      "text": "Ore e leia o Salmo 93 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 93"
+      "text": "Mais poderoso do que o estrondo das águas impetuosas, mais poderoso do que as ondas do mar é o Senhor nas alturas.",
+      "ref": "Salmo 93.4"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "גָּאָה",
+      "translit": "ga'ah",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "elevar-se, ser majestoso",
+      "note": "Ga'ah significa subir, erguer-se, ser exaltado. No versículo 1, o Senhor “vestiu-se de majestade” (ge'ut). As águas também “se levantaram”, mas a majestade de Deus está acima delas. Toda elevação do caos encontra um teto: o trono."
     },
-    "context": "Este é o dia 93 da jornada pelo Saltério. Leia o Salmo 93 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Primeiro dos “salmos de entronização” (93; 95–99), que celebram: “O Senhor reina!”. Em apenas cinco versículos, contrapõe o trono firme de Deus às águas que se levantam — símbolo antigo do caos e das forças hostis. Termina com uma nota surpreendente: além do poder, a santidade e os mandamentos fiéis.",
     "passage": {
       "ref": "Salmo 93 · capítulo completo (NVI)",
       "verses": [
@@ -9991,16 +9991,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 93 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“O Senhor reina!” não é desejo, é declaração. O salmo começa com o fato e só depois fala do problema. A ordem importa. Quando olhamos primeiro para as águas, o trono parece pequeno. Quando olhamos primeiro para o trono, as águas ganham o tamanho certo.",
+      "As águas “levantaram a voz”, “levantaram seu bramido”. A repetição imita o som das ondas batendo uma atrás da outra. Os problemas também costumam vir em ondas, uma depois da outra, cada vez mais alto. O salmo não nega o barulho. Afirma que há uma voz mais poderosa.",
+      "O salmo poderia terminar no poder, mas termina nos mandamentos e na santidade. O Deus que domina o mar também fala com fidelidade e habita com santidade. Seu reinado não é apenas força bruta, mas palavra confiável. Diante do caos, ele nos oferece não só proteção, mas direção."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você costuma olhar primeiro para as “águas” ou para o trono?",
+      "Que problemas têm vindo em ondas sucessivas na sua vida?",
+      "Como os mandamentos “firmes e fiéis” de Deus podem ser âncora quando tudo parece instável?"
     ],
-    "application": "Diante de algo que parece um 'mar bravio' (v. 3–4) na sua vida, declare: 'Mais poderoso do que o estrondo das águas é o Senhor'. Escreva essa frase onde você a verá.",
+    "application": "Ouça hoje, por alguns minutos, o som de água — uma torneira, chuva, uma gravação do mar. Enquanto ouve, repita o versículo 4 e nomeie diante de Deus cada “onda” que o preocupa.",
     "prayer": "Senhor, tu reinas, vestido de majestade. O teu trono está firme desde a antiguidade. Mais poderoso que o estrondo das águas és tu. Teus testemunhos são fidedignos. Amém."
   },
   {
@@ -10008,20 +10008,20 @@ window.SALMOS = [
     "psalm": 94,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 94",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 94 · Quando a ansiedade se multiplica",
     "date": "Salmo 94",
     "verse": {
-      "text": "Ore e leia o Salmo 94 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 94"
+      "text": "Quando eu disse: \"Os meus pés escorregaram\", o teu amor leal, Senhor, me amparou! Quando a ansiedade já me dominava no íntimo, o teu consolo trouxe alívio à minha alma.",
+      "ref": "Salmo 94.18–19"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "שַׂרְעַפִּים",
+      "translit": "sar'appim",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "pensamentos inquietos, ansiedades",
+      "note": "Sar'appim são os pensamentos que se ramificam como galhos, multiplicando-se e enroscando-se. No versículo 19, “quando a ansiedade já me dominava no íntimo” é literalmente “na multidão dos meus pensamentos inquietos dentro de mim”. A ansiedade é uma floresta mental; o consolo de Deus é clareira."
     },
-    "context": "Este é o dia 94 da jornada pelo Saltério. Leia o Salmo 94 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de lamento e sabedoria que pede a intervenção do “Deus vingador”. Descreve opressores que matam viúvas, estrangeiros e órfãos crendo que Deus não vê (v. 1–7), responde com ironia aos “insensatos” (v. 8–11) e termina com testemunho pessoal de amparo (v. 16–23). Vingança, aqui, é justiça pública restaurada, não ressentimento pessoal.",
     "passage": {
       "ref": "Salmo 94 · capítulo completo (NVI)",
       "verses": [
@@ -10120,16 +10120,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 94 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Ó Senhor, Deus vingador!” assusta leitores modernos. Mas no hebraico a palavra fala de restaurar a justiça pública, como um juiz que intervém. Quem pede vingança a Deus está, na verdade, abrindo mão de fazê-la com as próprias mãos. É um ato de entrega, não de ódio.",
+      "A lógica do versículo 9 é desconcertante: “Será que quem fez o ouvido não ouve? Será que quem formou o olho não vê?”. O criador dos sentidos não é surdo nem cego. Os opressores acham que Deus não percebe; o salmo diz que isso é tolice. Se você foi ignorado por todos, não foi por ele.",
+      "Os versículos 18–19 são um dos testemunhos mais humanos do Saltério. “Os meus pés escorregaram” — e o hesed amparou. “A ansiedade já me dominava” — e o consolo trouxe alívio. Não é uma vida sem tropeços nem sem ansiedade, mas uma vida em que Deus chega no momento da queda."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há uma injustiça que você tem tentado resolver com as próprias mãos e precisa entregar ao Juiz?",
+      "Você já se sentiu ignorado a ponto de pensar que nem Deus via? O que o versículo 9 diz a isso?",
+      "Qual é o pensamento ansioso que tem se multiplicado em você, e como pedir o consolo de Deus para ele?"
     ],
-    "application": "Quando a ansiedade se multiplicar dentro de você hoje (v. 19), pare e peça que as consolações de Deus alegrem sua alma. Escreva também uma injustiça que você entrega a ele.",
+    "application": "Quando a ansiedade se ramificar hoje, pare, respire fundo e escreva os pensamentos que estão girando. Depois leia o versículo 19 em voz alta e entregue a lista a Deus, item por item.",
     "prayer": "Senhor, Deus da vingança, resplandece. Quando a ansiedade se multiplica dentro de mim, as tuas consolações alegram a minha alma. Tu és a minha torre alta e a rocha em que me refugio. Amém."
   },
   {
@@ -10137,20 +10137,20 @@ window.SALMOS = [
     "psalm": 95,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 95",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 95 · Hoje, se ouvirem a sua voz",
     "date": "Salmo 95",
     "verse": {
-      "text": "Ore e leia o Salmo 95 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 95"
+      "text": "Venham! Adoremos prostrados e ajoelhemos diante do Senhor, o nosso Criador; pois ele é o nosso Deus, e nós somos o povo do seu pastoreio, o rebanho que ele conduz. Hoje, se vocês ouvirem a sua voz,",
+      "ref": "Salmo 95.6–7"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "הַיּוֹם",
+      "translit": "hayyom",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "hoje",
+      "note": "Hayyom significa “hoje”, “neste dia”. No versículo 7, a advertência não é para amanhã: “Hoje, se vocês ouvirem a sua voz”. Hebreus 3–4 retoma essa palavra para mostrar que o convite de Deus é sempre presente, e que o descanso prometido ainda está disponível."
     },
-    "context": "Este é o dia 95 da jornada pelo Saltério. Leia o Salmo 95 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de entronização em duas partes: um convite alegre à adoração (v. 1–7a) e uma advertência profética baseada na rebeldia de Israel no deserto, em Meribá e Massá (v. 7b–11; Êx 17.1–7). Na tradição judaica e cristã, é usado como abertura da oração da manhã. Hebreus 3.7–4.11 faz uma longa meditação sobre ele.",
     "passage": {
       "ref": "Salmo 95 · capítulo completo (NVI)",
       "verses": [
@@ -10201,16 +10201,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 95 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo tem dois convites: “Venham! Cantemos” (v. 1) e “Venham! Adoremos prostrados” (v. 6). O primeiro é alegre e barulhento; o segundo, humilde e silencioso. A adoração completa precisa das duas posturas: a voz que aclama e o corpo que se curva.",
+      "“Nas suas mãos estão as profundezas da terra, os cumes dos montes.” Do mais baixo ao mais alto, do mar à terra seca, tudo foi formado pelas mãos de Deus. E então: “nós somos o povo do seu pastoreio”. As mesmas mãos que moldaram montanhas conduzem ovelhas. O Criador e o Pastor são o mesmo.",
+      "De repente, a festa se interrompe: “não endureçam o coração”. Os israelitas viram o mar se abrir e, ainda assim, reclamaram de sede em Massá. Coração endurecido não é falta de experiências com Deus; é ingratidão apesar delas. O perigo é que a adoração vire costume enquanto o coração fica de pedra."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Sua adoração tem espaço tanto para alegria barulhenta quanto para prostração silenciosa?",
+      "Como seria confiar no Pastor sabendo que ele também é o Criador das montanhas?",
+      "Em que área você tem visto as obras de Deus, mas ainda assim reclamado e duvidado?"
     ],
-    "application": "Antes de qualquer outra atividade hoje, ajoelhe-se (v. 6) e adore a Deus por alguns minutos. Pergunte-se também onde seu coração está 'endurecido' (v. 8).",
+    "application": "Comece o dia de amanhã com os dois convites do salmo: cante ou diga em voz alta os versículos 1–2 e depois ajoelhe-se por um minuto em silêncio. Pergunte a Deus: “Em que área meu coração está endurecendo?”.",
     "prayer": "Senhor, tu és o grande Deus e o grande Rei acima de todos os deuses. Ajoelhamo-nos diante de ti, nosso Criador. Hoje, se ouvirmos a tua voz, não endureceremos o coração. Amém."
   },
   {
@@ -10218,20 +10218,20 @@ window.SALMOS = [
     "psalm": 96,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 96",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 96 · Até as árvores vão cantar",
     "date": "Salmo 96",
     "verse": {
-      "text": "Ore e leia o Salmo 96 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 96"
+      "text": "Digam entre as nações: \"O Senhor reina! \" Por isso firme está o mundo, e não se abalará, e ele julgará os povos com justiça.",
+      "ref": "Salmo 96.10"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "שִׁיר חָדָשׁ",
+      "translit": "shir chadash",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "cântico novo",
+      "note": "Shir chadash aparece seis vezes nos Salmos e duas no Apocalipse (Ap 5.9; 14.3). Não é apenas uma melodia inédita, mas a canção de uma nova etapa na história da salvação. Cada vez que Deus age de modo novo, nasce um cântico novo."
     },
-    "context": "Este é o dia 96 da jornada pelo Saltério. Leia o Salmo 96 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino de entronização que convoca toda a terra a cantar. Uma versão dele aparece em 1Crônicas 16.23–33, cantada quando Davi trouxe a arca a Jerusalém. Tem três movimentos: louvor universal (v. 1–6), convite às nações (v. 7–10) e celebração cósmica, com céus, mar, campos e árvores cantando diante do Senhor que vem julgar (v. 11–13).",
     "passage": {
       "ref": "Salmo 96 · capítulo completo (NVI)",
       "verses": [
@@ -10290,16 +10290,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 96 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Cada dia proclamem a sua salvação.” O cântico novo não é para um dia de festa só; é diário. A salvação de Deus é suficiente para ser anunciada todos os dias, sem esgotar o assunto. Cada manhã traz um novo motivo para cantar.",
+      "“Todos os deuses das nações não passam de ídolos, mas o Senhor fez os céus.” A palavra hebraica para ídolos (elilim) soa como “nadinhas”. O contraste é enorme: os outros deuses são “nada”; o Senhor fez o céu. A adoração ao Deus verdadeiro desmascara tudo o que se apresenta como divino sem ser.",
+      "O final é de uma alegria contagiante: céus, terra, mar, campos e até as árvores da floresta cantam. Por quê? “Porque ele vem, vem julgar a terra.” Para a criação, o juízo de Deus não é ameaça, mas alívio. Finalmente as coisas serão endireitadas. A criação inteira geme esperando esse dia (Rm 8.19–22)."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que motivo novo você tem hoje para proclamar a salvação de Deus?",
+      "Que “nadinha” tem ocupado o lugar de Deus em sua atenção ou afeto?",
+      "Você vê a vinda de Deus para julgar a terra como algo a temer ou a celebrar?"
     ],
-    "application": "Cante hoje um 'cântico novo' (v. 1) e conte a alguém uma obra de Deus. Depois, olhe para a criação e imagine 'as árvores da floresta' cantando diante dele (v. 12).",
+    "application": "Faça hoje uma caminhada curta, de preferência perto de árvores ou de um jardim. Leia em voz baixa os versículos 11–13 e imagine a criação cantando. Depois conte a alguém uma obra de Deus que você presenciou recentemente.",
     "prayer": "Senhor, cantem ao Senhor um cântico novo, toda a terra! Anunciem entre as nações a sua glória. Tu vens julgar a terra com justiça e os povos com a tua verdade. Amém."
   },
   {
@@ -10307,20 +10307,20 @@ window.SALMOS = [
     "psalm": 97,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 97",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 97 · Luz semeada para o justo",
     "date": "Salmo 97",
     "verse": {
-      "text": "Ore e leia o Salmo 97 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 97"
+      "text": "A luz nasce sobre o justo e a alegria sobre os retos de coração.",
+      "ref": "Salmo 97.11"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "עֲרָפֶל",
+      "translit": "arafel",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "nuvem escura, escuridão densa",
+      "note": "Arafel é a nuvem espessa que envolveu o Sinai quando Deus desceu (Êx 20.21). No versículo 2, “nuvens escuras e espessas o cercam”. Deus reina, mas não é totalmente visível. Há mistério em seu governo. Ainda assim, sob a nuvem, a base do trono é clara: retidão e justiça."
     },
-    "context": "Este é o dia 97 da jornada pelo Saltério. Leia o Salmo 97 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de entronização que descreve uma teofania — manifestação de Deus — com imagens do Sinai: nuvem, fogo, relâmpagos, montes derretendo (v. 1–6). Em seguida, mostra a vergonha dos idólatras e a alegria de Sião (v. 7–9) e termina com uma exortação ética aos fiéis (v. 10–12).",
     "passage": {
       "ref": "Salmo 97 · capítulo completo (NVI)",
       "verses": [
@@ -10375,16 +10375,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 97 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O Deus que reina está cercado de nuvens escuras. Nem sempre entendemos seus caminhos. Mas a base do trono é “retidão e justiça”. Isso significa que, mesmo quando não vemos claramente, podemos confiar no caráter dele. A escuridão está ao redor, não no fundamento.",
+      "“Os montes se derretem como cera.” Os montes eram, na mente antiga, o que havia de mais firme. Diante de Deus, derretem como vela. Tudo o que nos parece sólido — instituições, fortunas, ideologias — se torna mole diante da presença dele. E “ficam decepcionados todos os que adoram imagens”.",
+      "O versículo 11 diz literalmente: “a luz é semeada para o justo”. A luz não aparece de uma vez; é como semente que germina. Há fases em que o justo vive no escuro, mas a luz já foi plantada. Ela vai brotar. O versículo anterior mostra o caminho: amar a Deus inclui odiar o mal."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que aspecto do governo de Deus está “envolto em nuvens” para você agora?",
+      "O que, na sua vida, parece firme como um monte, mas derreteria diante de Deus?",
+      "Que “semente de luz” você acredita que Deus plantou em você e ainda não brotou?"
     ],
-    "application": "Pratique o versículo 10: 'Odeiem o mal, vocês que amam o Senhor'. Identifique hoje um mal que você tolera e dê um passo para se afastar dele.",
+    "application": "Acenda uma vela hoje e, enquanto ela queima, ore o versículo 5 sobre algo que parece sólido e ameaçador na sua vida. Depois ore o versículo 11, pedindo que a luz semeada em você comece a brotar.",
     "prayer": "Senhor, tu reinas! Nuvens e densas trevas te cercam; justiça e retidão são a base do teu trono. A luz se derrama sobre o justo e a alegria sobre os retos de coração. Amém."
   },
   {
@@ -10392,20 +10392,20 @@ window.SALMOS = [
     "psalm": 98,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 98",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 98 · Os rios batem palmas",
     "date": "Salmo 98",
     "verse": {
-      "text": "Ore e leia o Salmo 98 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 98"
+      "text": "Batam palmas os rios, e juntos, cantem de alegria os montes; cantem diante do Senhor, porque ele vem, vem julgar a terra; julgará o mundo com justiça e os povos, com retidão.",
+      "ref": "Salmo 98.8–9"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "יְשׁוּעָה",
+      "translit": "yeshu'ah",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "salvação, vitória",
+      "note": "Yeshu'ah (e a forma relacionada usada no salmo) aparece três vezes nos versículos 1–3, traduzida como “vitória”. É da mesma raiz do nome Yeshua, Jesus: “o Senhor salva”. A vitória que o salmo celebra recebe na fé cristã um rosto e um nome."
     },
-    "context": "Este é o dia 98 da jornada pelo Saltério. Leia o Salmo 98 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino de entronização muito parecido com o Salmo 96, mas com foco na vitória já realizada (v. 1–3). Convoca a terra (v. 4–6) e a natureza (v. 7–9) a celebrar. Maria parece ecoá-lo no Magnificat (Lc 1.54), e Isaac Watts o usou como base do hino “Joy to the World”, cantado no Natal.",
     "passage": {
       "ref": "Salmo 98 · capítulo completo (NVI)",
       "verses": [
@@ -10448,16 +10448,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 98 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“A sua mão direita e o seu braço santo lhe deram a vitória!” Deus não precisou de aliados. A vitória foi dele, por sua própria força. Isso alivia um peso: nossa salvação não depende do nosso braço. Somos chamados a celebrar uma vitória que não conquistamos.",
+      "“Ele se lembrou do seu amor leal e da sua fidelidade para com a casa de Israel.” A salvação é fruto da memória de Deus. Ele não esqueceu sua promessa. E o resultado ultrapassa Israel: “todos os confins da terra viram a vitória”. A fidelidade a um povo se torna bênção para todos.",
+      "Rios batendo palmas, montes cantando juntos — a natureza é convidada a uma festa. É linguagem poética, mas aponta para uma verdade: a criação foi feita para louvar. Quando nós nos calamos, ela continua. Quando nos unimos a ela, a festa fica completa."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você tem celebrado a salvação como vitória de Deus ou como conquista sua?",
+      "Que promessa de Deus você precisa lembrar que ele não esqueceu?",
+      "O que acontece em você quando percebe que a criação inteira está louvando junto?"
     ],
-    "application": "Celebre hoje a vitória de Deus com algo alegre: música, palmas ou um grito de louvor (v. 4–6). Escolha um feito concreto dele para celebrar.",
+    "application": "Escolha uma música de louvor alegre e cante-a hoje em voz alta — no carro, no banho, em casa. Antes, nomeie em uma frase qual vitória de Deus você está celebrando.",
     "prayer": "Senhor, tua mão direita e teu braço santo te deram a vitória. Tu te lembraste do teu amor e da tua fidelidade. Que os rios batam palmas e os montes cantem juntos diante de ti. Amém."
   },
   {
@@ -10465,20 +10465,20 @@ window.SALMOS = [
     "psalm": 99,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 99",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 99 · Santo, santo, santo",
     "date": "Salmo 99",
     "verse": {
-      "text": "Ore e leia o Salmo 99 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 99"
+      "text": "Exaltem o Senhor, o nosso Deus, prostrem-se diante do estrado dos seus pés. Ele é santo! Moisés e Arão estavam entre os seus sacerdotes, Samuel, entre os que invocavam o seu nome; eles clamavam pelo Senhor, e ele lhes respondia.",
+      "ref": "Salmo 99.5–6"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "קָדוֹשׁ",
+      "translit": "qadosh",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "santo, separado",
+      "note": "Qadosh descreve o que é separado, totalmente outro, diferente de tudo o que existe. O salmo repete três vezes “ele é santo” (v. 3, 5, 9), como os serafins de Isaías 6.3. A santidade de Deus não é só pureza moral; é sua alteridade gloriosa, que nos atrai e nos faz tremer."
     },
-    "context": "Este é o dia 99 da jornada pelo Saltério. Leia o Salmo 99 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Último dos salmos de entronização do Livro IV, estruturado em três estrofes, cada uma terminando com um refrão sobre a santidade de Deus (v. 3, 5, 9). Celebra o Rei sobre os querubins (v. 1–3), o Rei amigo da justiça (v. 4–5) e o Deus que respondeu a Moisés, Arão e Samuel (v. 6–9).",
     "passage": {
       "ref": "Salmo 99 · capítulo completo (NVI)",
       "verses": [
@@ -10521,16 +10521,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 99 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“O seu trono está sobre os querubins.” A imagem remete à arca da aliança, cuja tampa tinha dois querubins de ouro. Ali era o “estrado dos seus pés” (v. 5). O Rei do universo escolheu um lugar concreto para encontrar seu povo. A santidade não é distância absoluta; é presença que precisa ser recebida com reverência.",
+      "“Rei poderoso, amigo da justiça!” A santidade de Deus não é abstrata. Ela se expressa em equidade, direito e justiça. Um Deus santo não é indiferente à opressão. Quanto mais conhecemos sua santidade, mais nos importamos com a justiça.",
+      "Moisés, Arão e Samuel “clamavam pelo Senhor, e ele lhes respondia”. O Deus santo conversa. E o versículo 8 traz uma combinação rara: “tu eras um Deus perdoador, embora os tenhas castigado por suas rebeliões”. Perdão e disciplina andam juntos. A santidade que corrige é a mesma que perdoa."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Sua visão de Deus tem espaço para reverência e temor, ou ele se tornou apenas um amigo confortável?",
+      "Como a santidade de Deus o move a se importar mais com a justiça?",
+      "Você consegue ver a disciplina de Deus e o perdão dele como expressões do mesmo amor?"
     ],
-    "application": "Exalte hoje a santidade de Deus, como faz o refrão do salmo (v. 3, 5, 9). Lembre-se de que ele respondeu a Moisés, Arão e Samuel — e ore como eles, por seu povo.",
+    "application": "Ore hoje como Moisés, Arão e Samuel: interceda por alguém, pedindo ao Deus santo que responda. Antes de pedir, passe um minuto em silêncio reverente, apenas reconhecendo: “Tu és santo”.",
     "prayer": "Senhor, tu reinas; tremam os povos. Tu és santo! Respondeste aos que te invocaram e lhes perdoaste. Exaltamos o Senhor nosso Deus e o adoramos, pois ele é santo. Amém."
   },
   {
@@ -10538,20 +10538,20 @@ window.SALMOS = [
     "psalm": 100,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 100",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 100 · Ele nos fez, e somos dele",
     "date": "Salmo 100",
     "verse": {
-      "text": "Ore e leia o Salmo 100 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 100"
+      "text": "Reconheçam que ele é o nosso Deus. Ele nos fez e somos dele: somos o seu povo, e rebanho do seu pastoreio.",
+      "ref": "Salmo 100.3"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "תּוֹדָה",
+      "translit": "todah",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ação de graças",
+      "note": "O título deste salmo é “Salmo para ação de graças” (letodah). Todah era também a oferta de agradecimento no templo. O versículo 4 manda entrar pelas portas “com ações de graças”: a gratidão é o bilhete de entrada na presença de Deus."
     },
-    "context": "Este é o dia 100 da jornada pelo Saltério. Leia o Salmo 100 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Breve hino de louvor que encerra a série de salmos de realeza (93–100). Tem duas estrofes paralelas, cada uma com convites e uma razão: servir com alegria porque ele nos fez (v. 1–3), entrar com gratidão porque ele é bom (v. 4–5). Na tradição protestante, ficou conhecido como “Old Hundredth”, base de um dos hinos mais cantados da história.",
     "passage": {
       "ref": "Salmo 100 · capítulo completo (NVI)",
       "verses": [
@@ -10578,16 +10578,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 100 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Prestem culto ao Senhor com alegria.” O verbo hebraico para culto é o mesmo de servir (avad). Adoração e serviço são uma coisa só. E ambos devem ser feitos “com alegria”. Servir a Deus por obrigação cansa; servir com alegria nasce de conhecer quem ele é.",
+      "“Ele nos fez e somos dele.” Há uma variante no hebraico que diz “e não nós mesmos”. As duas leituras se completam: não nos fizemos, e por isso não nos pertencemos. Num mundo que diz “você é quem você constrói”, o salmo diz: você é de quem o fez. Isso não é perda de liberdade; é descanso.",
+      "A razão final é simples e profunda: “o Senhor é bom e o seu amor leal é eterno”. Bondade, amor leal e fidelidade por todas as gerações. Não precisamos de motivos complicados para agradecer. Basta lembrar quem ele é."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Seu serviço a Deus tem sido feito com alegria ou por obrigação?",
+      "O que muda em você ao lembrar que “não se fez” e, por isso, pertence a outro?",
+      "Que portas você poderia atravessar hoje “com ações de graças” — de casa, do trabalho, da igreja?"
     ],
-    "application": "Entre hoje na presença de Deus 'com ações de graças' (v. 4): antes de qualquer pedido, agradeça por cinco coisas concretas.",
+    "application": "Hoje, a cada porta que atravessar — de casa, do carro, do trabalho —, diga mentalmente um motivo de gratidão diferente. No fim do dia, veja quantas portas e quantos motivos você contou.",
     "prayer": "Senhor, aclamamos a ti com alegria e te servimos com júbilo. Tu nos fizeste e nós te pertencemos; somos o teu povo, ovelhas do teu pasto. Tu és bom e o teu amor dura para sempre. Amém."
   },
   {
@@ -10595,20 +10595,20 @@ window.SALMOS = [
     "psalm": 101,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 101",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 101 · Uma casa íntegra",
     "date": "Salmo 101",
     "verse": {
-      "text": "Ore e leia o Salmo 101 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 101"
+      "text": "Seguirei o caminho da integridade; quando virás ao meu encontro? Em minha casa viverei de coração íntegro.",
+      "ref": "Salmo 101.2"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "תָּמִים",
+      "translit": "tamim",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "íntegro, completo",
+      "note": "Tamim aparece três vezes no salmo (v. 2, 6). Davi quer seguir o “caminho da integridade” e viver “de coração íntegro” dentro de casa. A integridade começa onde ninguém aplaude: no lugar mais íntimo, entre os que melhor nos conhecem."
     },
-    "context": "Este é o dia 101 da jornada pelo Saltério. Leia o Salmo 101 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo real de Davi, chamado às vezes de “espelho dos príncipes”. É uma declaração de compromisso de um governante: integridade pessoal (v. 1–4), critério para escolher conselheiros e servos (v. 5–7) e compromisso de justiça pública (v. 8). Tem uma pergunta enigmática no versículo 2: “quando virás ao meu encontro?”.",
     "passage": {
       "ref": "Salmo 101 · capítulo completo (NVI)",
       "verses": [
@@ -10647,16 +10647,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 101 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Em minha casa viverei de coração íntegro.” Davi começa pela casa antes de falar do reino. É fácil ser íntegro em público, diante de quem nos observa. O verdadeiro teste é a cozinha, o quarto, a mesa da família. Quem governa a si mesmo em casa tem credibilidade para governar fora.",
+      "“Repudiarei todo mal” é literalmente “não porei diante dos meus olhos coisa vil”. Davi decide o que vai olhar. Os olhos são portas, e o que entra por eles forma o coração. Num tempo de telas infinitas, esse compromisso é mais atual do que nunca.",
+      "Davi pergunta: “quando virás ao meu encontro?”. Em meio a compromissos de integridade, um anseio pela presença. A integridade não é fim em si; é preparação para receber Deus. Infelizmente, a história de Davi mostra que ele falhou justamente em casa e com os olhos (2Sm 11). O salmo é um ideal que só o Filho de Davi cumpriu plenamente."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Como é a sua integridade dentro de casa, onde ninguém aplaude?",
+      "O que você tem colocado “diante dos seus olhos” que tem formado seu coração de modo negativo?",
+      "Como a falha de Davi nesse exato ponto o ajuda a depender mais de Cristo do que de sua própria força?"
     ],
-    "application": "Revise o que você coloca diante dos olhos (v. 3) — redes sociais, filmes, conversas. Escolha hoje algo a remover e alguma prática íntegra a acrescentar em casa (v. 2).",
+    "application": "Faça um “jejum dos olhos” hoje: escolha uma tela, conta ou tipo de conteúdo que não edifica e fique sem ele por 24 horas. Use esse tempo para algo que fortaleça a integridade da sua casa — uma conversa, uma refeição juntos, uma oração.",
     "prayer": "Senhor, cantarei o amor e a justiça. Quero andar com integridade dentro da minha casa. Não porei coisa vil diante dos meus olhos. Ajuda-me a viver de forma íntegra. Amém."
   },
   {
@@ -10850,20 +10850,20 @@ window.SALMOS = [
     "psalm": 103,
     "part": 1,
     "parts": 1,
-    "theme": "Livro IV · Refúgio e reinado · Salmo 103",
+    "theme": "Livro IV · Refúgio e reinado · Salmo 103 · Não esqueça nenhum benefício",
     "date": "Salmo 103",
     "verse": {
-      "text": "Ore e leia o Salmo 103 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 103"
+      "text": "Bendiga ao Senhor a minha alma! Não esqueça de nenhuma de suas bênçãos! É ele que perdoa todos os seus pecados e cura todas as suas doenças,",
+      "ref": "Salmo 103.2–3"
     },
     "word": {
-      "original": "בָּטַח",
-      "translit": "batach",
+      "original": "גְּמוּל",
+      "translit": "gemul",
       "lang": "hebraico",
-      "meaning": "confiar, apoiar-se em Deus",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como batach ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "benefício, o que foi feito em favor",
+      "note": "Gemul é o tratamento que alguém recebe, o bem que lhe foi feito. No versículo 2, “não esqueça de nenhuma de suas bênçãos” usa essa palavra: Davi manda sua alma lembrar de cada ato concreto de bondade de Deus. A gratidão bíblica é inventário, não sentimento vago."
     },
-    "context": "Este é o dia 103 da jornada pelo Saltério. Leia o Salmo 103 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Um dos hinos mais amados do Saltério, emoldurado pela mesma frase: “Bendiga ao Senhor a minha alma!” (v. 1, 22). Começa com louvor pessoal pelos benefícios de Deus (v. 1–5), amplia-se para a história de Israel e o caráter de Deus revelado a Moisés (v. 6–14), contrasta a fragilidade humana com o amor eterno (v. 15–18) e termina convocando anjos e toda a criação (v. 19–22).",
     "passage": {
       "ref": "Salmo 103 · capítulo completo (NVI)",
       "verses": [
@@ -10958,16 +10958,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 103 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Davi fala consigo mesmo: “Bendiga ao Senhor a minha alma!”. Não espera sentir vontade de louvar; ele dá uma ordem a si mesmo. Às vezes a gratidão precisa ser convocada. A alma esquece com facilidade, e por isso precisa ser lembrada.",
+      "A lista começa pelo perdão: “É ele que perdoa todos os seus pecados”. Antes da cura, do resgate e da juventude renovada, o perdão. É o benefício mais profundo. E o versículo 12 dá a medida: “como o Oriente está longe do Ocidente”. Não é uma distância que se possa percorrer; é infinita.",
+      "“Ele sabe do que somos formados; lembra-se de que somos pó.” Deus não espera de nós o que não somos. Ele conhece nossa fragilidade como um pai conhece a do filho. Sua compaixão não é condescendência; é ternura de quem sabe que somos relva e, ainda assim, nos ama com amor eterno."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Quando foi a última vez que você mandou sua própria alma bendizer a Deus?",
+      "Você vive como alguém cujos pecados estão tão longe quanto o Oriente do Ocidente?",
+      "Como a compaixão de Deus por sua fragilidade muda a forma como você trata as próprias falhas?"
     ],
-    "application": "Faça o que o versículo 2 manda: 'Não esqueça nenhuma de suas bênçãos'. Escreva cinco benefícios de Deus da sua vida, começando pelo perdão (v. 3).",
+    "application": "Faça um inventário de gemul: escreva os cinco benefícios dos versículos 3–5 (perdão, cura, resgate, coroa de bondade, renovação) e, ao lado de cada um, um exemplo concreto da sua vida. Leia a lista em voz alta como louvor.",
     "prayer": "Bendiga o Senhor a minha alma! Tu perdoas todos os meus pecados, curas as minhas doenças, resgatas a minha vida da cova e me coroas de amor e compaixão. Como um pai, te compadeces de mim. Amém."
   },
   {
@@ -12066,20 +12066,20 @@ window.SALMOS = [
     "psalm": 108,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 108",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 108 · Coração firme ao amanhecer",
     "date": "Salmo 108",
     "verse": {
-      "text": "Ore e leia o Salmo 108 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 108"
+      "text": "Meu coração está firme, ó Deus! Cantarei e louvarei, ó Glória minha! Acordem, harpa e lira! Despertarei a alvorada.",
+      "ref": "Salmo 108.1–2"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "כָּבוֹד",
+      "translit": "kavod",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "glória, honra",
+      "note": "No versículo 1, “ó Glória minha” traduz kevodi — literalmente “minha glória”, que pode significar também “minha alma”, o que há de mais honrado em mim. Davi convoca sua glória interior a acordar e cantar. O que temos de mais nobre foi feito para louvar."
     },
-    "context": "Este é o dia 108 da jornada pelo Saltério. Leia o Salmo 108 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O Salmo 108 é uma composição feita a partir de dois salmos anteriores: os versículos 1–5 vêm do Salmo 57.7–11, e os versículos 6–13 vêm do Salmo 60.5–12. Combina o louvor confiante de Davi na caverna com a súplica do povo depois da derrota. O resultado é um salmo que começa em louvor e termina em pedido de vitória.",
     "passage": {
       "ref": "Salmo 108 · capítulo completo (NVI)",
       "verses": [
@@ -12138,16 +12138,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 108 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Por que repetir trechos de outros salmos? Porque a fé de Israel reaproveitava orações antigas para novas situações. O louvor que Davi cantou na caverna serviu, gerações depois, para outra crise. As Escrituras nos ensinam que as orações de ontem podem ser as nossas de hoje.",
+      "“Meu coração está firme.” O salmo começa com estabilidade interior antes de qualquer problema ser mencionado. É uma ordem diferente do Salmo 60, que começava com derrota. Aqui, a confiança vem primeiro. Começar pelo louvor muda a forma de enxergar a dificuldade.",
+      "O salmo termina com a frase que vale para todas as batalhas: “inútil é o socorro do homem. Com Deus conquistaremos a vitória”. O louvor da manhã e a súplica da batalha estão no mesmo salmo. A fé que canta ao amanhecer é a mesma que luta à tarde."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que oração antiga — de um salmo, de um hino, de alguém — você poderia usar como sua hoje?",
+      "Você costuma começar seus dias pela preocupação ou pelo louvor?",
+      "Em que batalha você tem confiado mais no socorro humano do que no de Deus?"
     ],
-    "application": "Comece o dia com o versículo 2: 'Acorde, harpa e lira! Despertarei a alvorada'. Antes de olhar notícias ou mensagens, louve a Deus por alguns minutos.",
+    "application": "Escolha um salmo que já tenha sido significativo para você numa fase anterior e ore-o hoje aplicando-o à sua situação atual, como fizeram os compiladores do Salmo 108.",
     "prayer": "Ó Deus, o meu coração está firme; cantarei louvores. O teu amor é maior que os céus. Dá-nos ajuda contra o adversário, pois inútil é o socorro do homem. Com Deus faremos proezas. Amém."
   },
   {
@@ -12353,20 +12353,20 @@ window.SALMOS = [
     "psalm": 110,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 110",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 110 · Rei e sacerdote para sempre",
     "date": "Salmo 110",
     "verse": {
-      "text": "Ore e leia o Salmo 110 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 110"
+      "text": "O Senhor disse ao meu Senhor: \"Senta-te à minha direita até que eu faça dos teus inimigos um estrado para os teus pés\". O Senhor estenderá o cetro de teu poder desde Sião, e dominarás sobre os teus inimigos! Quando convocares as tuas tropas, o teu povo se apresentará voluntariamente. Trajando vestes santas, desde o romper da alvorada os teus jovens virão como o orvalho. O Senhor jurou e não se arrependerá: \"Tu és sacerdote para sempre, segundo a ordem de Melquisedeque\".",
+      "ref": "Salmo 110.1–4"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "מַלְכִּי־צֶדֶק",
+      "translit": "Malki-tsedeq",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "Melquisedeque, “rei de justiça”",
+      "note": "Malki-tsedeq significa “meu rei é justiça”. Era rei de Salém e sacerdote do Deus Altíssimo, que abençoou Abraão (Gn 14.18–20). No Salmo 110, o Messias é sacerdote “segundo a ordem de Melquisedeque”: um sacerdócio anterior a Arão, unido à realeza e eterno."
     },
-    "context": "Este é o dia 110 da jornada pelo Saltério. Leia o Salmo 110 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O salmo mais citado e aludido no Novo Testamento. Jesus usou o versículo 1 para mostrar que o Messias é maior que Davi (Mt 22.41–46); Pedro o citou no Pentecostes (At 2.34–35); Hebreus o usa para explicar o sacerdócio de Cristo (Hb 5–7). É um salmo real em que Davi ouve Deus falar ao seu Senhor, prometendo domínio (v. 1–3) e sacerdócio eterno (v. 4–7).",
     "passage": {
       "ref": "Salmo 110 · capítulo completo (NVI)",
       "verses": [
@@ -12401,16 +12401,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 110 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“O Senhor disse ao meu Senhor.” Davi, o maior rei de Israel, chama alguém de “meu Senhor”. Quem pode ser maior que Davi? Jesus fez essa pergunta aos fariseus, e eles ficaram em silêncio. O salmo aponta para um Rei que é descendente de Davi e, ao mesmo tempo, seu Senhor.",
+      "“O teu povo se apresentará voluntariamente.” As tropas desse Rei não são recrutadas à força. Vêm como orvalho ao amanhecer: silenciosas, numerosas, frescas. O reino de Cristo avança com gente que se entrega livremente. Ninguém é obrigado a servir a esse Rei; todos são convidados.",
+      "“Tu és sacerdote para sempre.” Em Israel, rei e sacerdote eram funções separadas. Melquisedeque era as duas coisas. O Messias também: governa com autoridade e intercede com compaixão. Hebreus dirá que ele “vive sempre para interceder” por nós (Hb 7.25). O Rei que vence é o mesmo Sacerdote que ora por você."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Como você responderia à pergunta de Jesus: “Como Davi pode chamar seu descendente de Senhor?”",
+      "Você serve a Cristo “voluntariamente”, como orvalho, ou por pressão e obrigação?",
+      "O que significa para você hoje que Jesus está, agora mesmo, intercedendo por você?"
     ],
-    "application": "Este salmo é o mais citado no Novo Testamento sobre Jesus. Leia Hebreus 7.17 ou Atos 2.34–36 e adore a Cristo como Rei e Sacerdote eterno.",
+    "application": "Leia Hebreus 7.23–25 depois deste salmo. Escreva uma área da sua vida em que você precisa saber que Jesus está intercedendo por você e agradeça a ele como Rei e Sacerdote.",
     "prayer": "Senhor Jesus, estás assentado à direita do Pai até que todos os teus inimigos sejam postos como estrado dos teus pés. Tu és sacerdote para sempre. Reina em mim e intercede por mim. Amém."
   },
   {
@@ -12418,20 +12418,20 @@ window.SALMOS = [
     "psalm": 111,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 111",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 111 · Obras que merecem estudo",
     "date": "Salmo 111",
     "verse": {
-      "text": "Ore e leia o Salmo 111 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 111"
+      "text": "O temor do Senhor é o princípio da sabedoria; todos os que cumprem os seus preceitos revelam bom senso. Ele será louvado para sempre!",
+      "ref": "Salmo 111.10"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "דָּרַשׁ",
+      "translit": "darash",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "buscar, investigar, estudar",
+      "note": "No versículo 2, “nelas meditam todos os que as apreciam” usa darash: investigar com cuidado, pesquisar. Da mesma raiz vem midrash, o estudo interpretativo da Escritura. As obras de Deus não são para olhar de passagem; são para estudar com prazer."
     },
-    "context": "Este é o dia 111 da jornada pelo Saltério. Leia o Salmo 111 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo acróstico de louvor (cada meia linha começa com uma letra do alfabeto hebraico) e gêmeo do Salmo 112. O Salmo 111 descreve as obras e o caráter de Deus; o 112 descreve o caráter do homem que teme a Deus. Ambos começam com “Aleluia!”. O 111 termina com a famosa frase: “O temor do Senhor é o princípio da sabedoria” (v. 10; Pv 9.10).",
     "passage": {
       "ref": "Salmo 111 · capítulo completo (NVI)",
       "verses": [
@@ -12478,16 +12478,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 111 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Grandes são as obras do Senhor; nelas meditam todos os que as apreciam.” Há uma relação entre prazer e estudo. Quem ama algo quer conhecê-lo melhor. A pergunta não é se temos tempo para estudar as obras de Deus, mas se as apreciamos o suficiente.",
+      "As obras de Deus são descritas como “fiéis e justas”, “firmes para sempre”. Ele deu alimento, mostrou poder, trouxe redenção. É um resumo da história de Israel: maná, conquista, êxodo. E a razão de tudo é que ele “sempre se lembra de sua aliança”. A memória de Deus é a base da nossa história.",
+      "“O temor do Senhor é o princípio da sabedoria.” Temor não é pavor, mas reverência amorosa: saber quem Deus é e viver de acordo. É o ponto de partida, não de chegada. Toda sabedoria verdadeira começa por reconhecer que Deus é Deus e nós não somos."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você aprecia as obras de Deus o suficiente para querer estudá-las?",
+      "Que obra de Deus na sua história mostra que ele “sempre se lembra da sua aliança”?",
+      "Como o temor do Senhor tem sido — ou não — o ponto de partida das suas decisões?"
     ],
-    "application": "Escolha uma 'obra do Senhor' (v. 2) — na criação, na história ou na sua vida — e dedique tempo a estudá-la e meditá-la hoje. Lembre: o temor do Senhor é o princípio da sabedoria (v. 10).",
+    "application": "Escolha uma obra de Deus — na criação (uma planta, o corpo humano, o céu) ou na história bíblica — e “investigue-a” por quinze minutos hoje: leia sobre ela, observe-a, faça perguntas. Termine agradecendo.",
     "prayer": "Senhor, de todo o coração te darei graças. Grandes são as tuas obras e o teu amor é eterno. Tu enviaste redenção ao teu povo. Dá-me o temor que é o princípio da sabedoria. Amém."
   },
   {
@@ -12495,20 +12495,20 @@ window.SALMOS = [
     "psalm": 112,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 112",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 112 · Sem medo de más notícias",
     "date": "Salmo 112",
     "verse": {
-      "text": "Ore e leia o Salmo 112 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 112"
+      "text": "Não temerá más notícias; seu coração está firme, confiante no Senhor.",
+      "ref": "Salmo 112.7"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חַנּוּן",
+      "translit": "channun",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "misericordioso, compassivo",
+      "note": "Channun descreve quem se inclina com favor para o necessitado. No Salmo 111.4, o Senhor é channun; no Salmo 112.4, o justo também é channun. O homem que teme a Deus acaba se parecendo com ele: a misericórdia divina se reflete na misericórdia humana."
     },
-    "context": "Este é o dia 112 da jornada pelo Saltério. Leia o Salmo 112 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Acróstico gêmeo do Salmo 111. Se aquele celebrava as obras de Deus, este celebra a vida de quem teme a Deus. Muitas expressões são repetidas de propósito: “a sua justiça dura para sempre” aparece nos dois salmos (111.3; 112.3, 9). Paulo cita o versículo 9 em 2Coríntios 9.9 ao falar de generosidade.",
     "passage": {
       "ref": "Salmo 112 · capítulo completo (NVI)",
       "verses": [
@@ -12555,16 +12555,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 112 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo descreve o justo com traços que ecoam o próprio Deus: misericordioso, compassivo, justo, generoso. Quem passa tempo contemplando as obras de Deus (Salmo 111) começa a se parecer com ele (Salmo 112). Tornamo-nos semelhantes àquilo que admiramos.",
+      "“Não temerá más notícias; seu coração está firme, confiante no Senhor.” Não diz que o justo não receberá más notícias, mas que não será governado pelo medo delas. A firmeza não vem da previsibilidade da vida, mas da confiança em quem a governa. É possível ouvir o telefone tocar sem pânico.",
+      "“Reparte generosamente com os pobres.” A riqueza mencionada no versículo 3 não é para acúmulo, mas para distribuição. Paulo usa este verso para incentivar a oferta aos pobres de Jerusalém. A prosperidade bíblica não é fórmula de enriquecimento; é capacidade de abençoar. E o salmo termina com o ímpio frustrado: “range os dentes e definha”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Ao olhar para sua vida, em que traços você vê o caráter de Deus sendo refletido?",
+      "Como você reage a más notícias? O que mudaria se seu coração estivesse “firme, confiante no Senhor”?",
+      "Sua generosidade tem acompanhado o que Deus lhe confiou?"
     ],
-    "application": "Pratique hoje uma das marcas do justo deste salmo: generosidade com os pobres (v. 9), empréstimo honesto (v. 5) ou coração firme diante de más notícias (v. 7).",
+    "application": "Separe hoje um valor, um bem ou um tempo e reparta “generosamente com os pobres”, de forma concreta e discreta. Antes, ore pedindo que Deus faça de você alguém channun como ele.",
     "prayer": "Senhor, feliz é quem te teme e tem grande prazer nos teus mandamentos. Que eu não tema más notícias, mas tenha o coração firme, confiante em ti. Faz-me generoso com os pobres. Amém."
   },
   {
@@ -12572,20 +12572,20 @@ window.SALMOS = [
     "psalm": 113,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 113",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 113 · O Deus que se inclina",
     "date": "Salmo 113",
     "verse": {
-      "text": "Ore e leia o Salmo 113 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 113"
+      "text": "Quem é como o Senhor, o nosso Deus, que reina em seu trono nas alturas, mas se inclina para contemplar o que acontece nos céus e na terra? Ele levanta do pó o necessitado e ergue do lixo o pobre,",
+      "ref": "Salmo 113.5–7"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "שָׁפֵל",
+      "translit": "shafel",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "inclinar-se, rebaixar-se",
+      "note": "No versículo 6, “se inclina para contemplar” vem de uma raiz que significa abaixar, descer ao nível mais baixo. O Deus que reina “nas alturas” é o mesmo que se abaixa. É a lógica da encarnação antes da encarnação: grandeza que se curva."
     },
-    "context": "Este é o dia 113 da jornada pelo Saltério. Leia o Salmo 113 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Primeiro dos salmos do “Hallel egípcio” (113–118), cantados nas grandes festas de Israel, especialmente na Páscoa. Os Salmos 113–114 eram cantados antes da refeição pascal e os 115–118 depois — provavelmente o “hino” que Jesus e os discípulos cantaram depois da Ceia (Mt 26.30). Ana (1Sm 2.8) e Maria (Lc 1.52) ecoam seus versículos.",
     "passage": {
       "ref": "Salmo 113 · capítulo completo (NVI)",
       "verses": [
@@ -12628,16 +12628,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 113 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O louvor do salmo não tem limites de tempo (“desde agora e para sempre”) nem de espaço (“do nascente ao poente”). O nome do Senhor deve ser bendito em todo momento e em todo lugar. Não há hora ou geografia em que Deus deixe de merecer louvor.",
+      "“Quem é como o Senhor?” A resposta é surpreendente. Não é apenas o mais alto; é o único que, sendo o mais alto, se abaixa. Ele “se inclina para contemplar o que acontece nos céus e na terra”. Até os céus estão abaixo dele, e mesmo assim ele olha para a terra com atenção.",
+      "E o que ele faz quando se inclina? “Levanta do pó o necessitado e ergue do lixo o pobre.” A palavra para lixo é o monte de cinzas e detritos fora da cidade, onde ficavam os mendigos e leprosos. Deus vai até lá e os coloca para sentar “com príncipes”. A grandeza de Deus se mede pelo quanto ele desce."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que momento e lugar você tem esquecido de bendizer o nome do Senhor?",
+      "Você já experimentou Deus “se inclinando” para você num momento de pó ou de lixo?",
+      "Quem está no “monte de cinzas” da sua cidade, e como você pode imitar o Deus que levanta?"
     ],
-    "application": "Pense em alguém 'humilde' ou 'necessitado' (v. 7) ao seu redor e faça hoje um gesto que levante essa pessoa, imitando o Deus que se inclina.",
+    "application": "Faça hoje um gesto de inclinação: sente-se ao lado de alguém socialmente invisível — uma pessoa em situação de rua, um funcionário de limpeza, alguém solitário — e trate-o com a dignidade de quem se senta “com príncipes”.",
     "prayer": "Senhor, do nascente ao poente seja louvado o teu nome. Tu estás entronizado nas alturas, mas te inclinas para olhar a terra. Levantas do pó o necessitado e dás um lar à estéril. Amém."
   },
   {
@@ -12645,20 +12645,20 @@ window.SALMOS = [
     "psalm": 114,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 114",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 114 · O mar olhou e fugiu",
     "date": "Salmo 114",
     "verse": {
-      "text": "Ore e leia o Salmo 114 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 114"
+      "text": "O mar olhou e fugiu, o Jordão retrocedeu; os montes saltaram como carneiros, as colinas, como cordeiros.",
+      "ref": "Salmo 114.3–4"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חוּל",
+      "translit": "chul",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "tremer, contorcer-se",
+      "note": "Chul descreve tremor intenso, como o de uma mulher em trabalho de parto. No versículo 7, a terra é convocada a “estremecer” diante do Senhor. A criação não é cenário neutro; ela reage à presença do seu Criador com tremor e alegria."
     },
-    "context": "Este é o dia 114 da jornada pelo Saltério. Leia o Salmo 114 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Segundo salmo do Hallel, cantado na Páscoa. É um poema curto e cheio de humor poético sobre o êxodo. O mar Vermelho e o Jordão são personificados: o mar “olhou e fugiu”, o Jordão “retrocedeu”, montes “saltaram como carneiros”. O poeta pergunta aos elementos o que aconteceu (v. 5–6) e responde: a presença do Deus de Jacó (v. 7–8).",
     "passage": {
       "ref": "Salmo 114 · capítulo completo (NVI)",
       "verses": [
@@ -12697,16 +12697,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 114 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo nem menciona o nome de Deus até o versículo 7. Primeiro mostra os efeitos: mar fugindo, rio voltando, montes pulando. É uma técnica de suspense: o que poderia causar tudo isso? Só no fim aparece a resposta: “o Soberano”. Às vezes reconhecemos Deus primeiro pelos efeitos de sua presença.",
+      "Há humor nas perguntas: “Por que fugir, ó mar? [...] Por que vocês saltaram como carneiros, ó montes?”. O poeta brinca com a natureza assustada. O que parecia invencível — o mar, as montanhas — se comporta como animais assustados diante de Deus. Os obstáculos que nos paralisam se tornam ridículos diante dele.",
+      "O último versículo vira a imagem do avesso: o Deus que faz o mar fugir também “fez da rocha um açude, do rochedo uma fonte”. O mesmo poder que remove águas também as faz brotar. Deus tanto remove o que bloqueia quanto cria o que falta. Ele abre caminho e dá de beber."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Onde você tem visto os “efeitos” da presença de Deus antes mesmo de reconhecê-lo?",
+      "Que “mar” ou “montanha” na sua vida precisa ser visto com o humor deste salmo, diante do tamanho de Deus?",
+      "Você precisa mais que Deus remova um obstáculo ou que faça brotar água da rocha?"
     ],
-    "application": "Recorde um 'mar que fugiu' na sua vida (v. 3) — um obstáculo que Deus removeu — e conte isso a alguém hoje.",
+    "application": "Escreva a sua própria versão dos versículos 5–6, perguntando com bom humor a um obstáculo seu: “Por que você fugiu?”. Imagine-o recuando diante de Deus. Depois ore o versículo 8 sobre uma área seca da sua vida.",
     "prayer": "Senhor, diante de ti o mar fugiu, o Jordão retrocedeu e os montes saltaram como carneiros. Treme, ó terra, diante do Deus que transforma a rocha em fonte de água. Amém."
   },
   {
@@ -12714,20 +12714,20 @@ window.SALMOS = [
     "psalm": 115,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 115",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 115 · Não a nós",
     "date": "Salmo 115",
     "verse": {
-      "text": "Ore e leia o Salmo 115 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 115"
+      "text": "Não a nós, Senhor, nenhuma glória para nós, mas sim ao teu nome, por teu amor e por tua fidelidade!",
+      "ref": "Salmo 115.1"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "עֲצַבִּים",
+      "translit": "atsabbim",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ídolos, imagens moldadas",
+      "note": "Atsabbim vem de uma raiz que significa moldar, mas também causar dor. Os ídolos são objetos fabricados que acabam trazendo sofrimento. O versículo 8 adverte: quem os faz e confia neles acaba se tornando como eles. A pessoa se molda à imagem do que adora."
     },
-    "context": "Este é o dia 115 da jornada pelo Saltério. Leia o Salmo 115 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo do Hallel cantado depois da refeição pascal. Começa com a negação da glória própria (v. 1), passa por uma sátira dos ídolos (v. 2–8), um chamado tríplice à confiança (v. 9–11), uma tríplice bênção (v. 12–15) e um voto de louvor perpétuo (v. 16–18). Responde à zombaria das nações: “Onde está o Deus deles?”.",
     "passage": {
       "ref": "Salmo 115 · capítulo completo (NVI)",
       "verses": [
@@ -12806,16 +12806,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 115 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Não a nós, Senhor, nenhuma glória para nós.” A repetição é enfática. O povo de Deus é tentado a buscar glória para si mesmo, até em nome de Deus. O salmo nos ensina a desviar os holofotes. A glória pertence ao nome dele, “por teu amor e por tua fidelidade”.",
+      "A sátira dos ídolos é afiada: têm boca, mas não falam; olhos, mas não veem; pés, mas não andam. São réplicas sem vida. Hoje nossos ídolos não são de prata, mas de pixels, números e reputações. Prometem muito e não respondem nada. E o pior: “Tornem-se como eles aqueles que os fazem” — quem adora o que é mudo acaba ficando surdo para Deus.",
+      "Três grupos são chamados a confiar: Israel, sacerdotes e os que temem ao Senhor. E três vezes vem a resposta: “Ele é o seu socorro e o seu escudo”. Depois, três vezes a bênção, “do menor ao maior”. Ninguém é pequeno demais para ser lembrado. O Deus vivo, ao contrário dos ídolos, ouve, vê e abençoa."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que área você tem buscado glória para si, mesmo fazendo coisas para Deus?",
+      "Qual é o seu ídolo “com boca mas sem voz” — algo que promete muito e não responde nada?",
+      "Você se sente entre os “menores” que Deus também abençoa?"
     ],
-    "application": "Identifique um 'ídolo' moderno na sua vida — algo que tem boca mas não fala (v. 5) — e reconheça diante de Deus que ele não pode salvar. Dê hoje glória somente ao nome dele (v. 1).",
+    "application": "Antes de postar, falar ou fazer algo hoje que possa atrair atenção para você, pare e ore o versículo 1. Escolha também fazer um bem anônimo, cuja glória fique só para Deus.",
     "prayer": "Não a nós, Senhor, nenhuma glória para nós, mas sim ao teu nome, por causa do teu amor e da tua fidelidade. Tu és o nosso socorro e o nosso escudo. Abençoa os que te temem. Amém."
   },
   {
@@ -12823,20 +12823,20 @@ window.SALMOS = [
     "psalm": 116,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 116",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 116 · Como retribuir?",
     "date": "Salmo 116",
     "verse": {
-      "text": "Ore e leia o Salmo 116 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 116"
+      "text": "Como posso retribuir ao Senhor toda a sua bondade para comigo? Erguerei o cálice da salvação e invocarei o nome do Senhor.",
+      "ref": "Salmo 116.12–13"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "כּוֹס יְשׁוּעוֹת",
+      "translit": "kos yeshu'ot",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "cálice da salvação",
+      "note": "Kos yeshu'ot, literalmente “cálice das salvações”, era provavelmente o cálice de vinho erguido na refeição de ação de graças no templo. Na Páscoa judaica, havia quatro cálices; este salmo era cantado junto a eles. Jesus ergueu um cálice na Ceia que dava novo sentido a essa palavra."
     },
-    "context": "Este é o dia 116 da jornada pelo Saltério. Leia o Salmo 116 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo de ação de graças individual, parte do Hallel pascal. O salmista esteve à beira da morte (v. 3), clamou e foi ouvido (v. 4–6). Responde com amor (v. 1), descanso (v. 7), testemunho (v. 10–11) e votos cumpridos publicamente (v. 12–19). Sendo cantado após a Ceia, foi provavelmente um dos salmos que Jesus orou antes de ir ao Getsêmani.",
     "passage": {
       "ref": "Salmo 116 · capítulo completo (NVI)",
       "verses": [
@@ -12919,16 +12919,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 116 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Eu amo o Senhor, porque ele me ouviu.” A primeira frase é uma declaração de amor com motivo claro. O amor do salmista não é abstrato; nasceu de uma experiência concreta de ser ouvido. Deus se inclinou e escutou. E a consequência é um compromisso de vida: “eu o invocarei toda a minha vida”.",
+      "“Retorne ao seu descanso, ó minha alma.” O salmista fala consigo mesmo depois da tempestade. A alma, acostumada ao alarme, precisa ser convidada a voltar ao repouso. Há um descanso que pode ser perdido na crise e precisa ser retomado conscientemente depois dela.",
+      "“O Senhor vê com pesar a morte de seus fiéis.” A palavra traduzida como “com pesar” significa precioso, de alto valor. A morte dos santos não é indiferente a Deus; ela lhe custa. Imagine Jesus cantando este verso horas antes da cruz. E a pergunta “como posso retribuir?” encontra resposta no cálice: receber a salvação e invocar o nome do Senhor."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Seu amor por Deus está ligado a experiências concretas de ser ouvido por ele?",
+      "Sua alma voltou ao descanso depois da última crise, ou continua em alerta?",
+      "O que significa para você que a morte dos fiéis é “preciosa” aos olhos de Deus?"
     ],
-    "application": "Escreva uma oração que Deus respondeu e cumpra hoje o versículo 12: pergunte 'Como posso retribuir ao Senhor?' e faça algo concreto de gratidão.",
+    "application": "Responda hoje à pergunta do versículo 12 de forma concreta: escolha um voto ou compromisso que fez a Deus em tempo de aflição e que ainda não cumpriu. Dê um passo para cumpri-lo hoje, “na presença de todo o seu povo”, contando a alguém.",
     "prayer": "Senhor, eu te amo, pois ouviste a minha voz. Tu livraste a minha alma da morte, os meus olhos das lágrimas e os meus pés de tropeçar. Como posso retribuir? Erguerei o cálice da salvação. Amém."
   },
   {
@@ -12936,20 +12936,20 @@ window.SALMOS = [
     "psalm": 117,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 117",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 117 · Dois versículos para o mundo inteiro",
     "date": "Salmo 117",
     "verse": {
-      "text": "Ore e leia o Salmo 117 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 117"
+      "text": "Louvem o Senhor, todas as nações; exaltem-no, todos os povos! Porque imenso é o seu amor leal por nós, e a fidelidade do Senhor dura para sempre. Aleluia!",
+      "ref": "Salmo 117.1–2"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "גָּבַר",
+      "translit": "gavar",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ser forte, prevalecer",
+      "note": "No versículo 2, “imenso é o seu amor leal por nós” usa gavar: o amor de Deus “prevaleceu”, “foi mais forte” sobre nós. É o verbo de um guerreiro que vence. O hesed de Deus não é apenas grande; ele vence nossas resistências."
     },
-    "context": "Este é o dia 117 da jornada pelo Saltério. Leia o Salmo 117 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "O menor salmo e o capítulo mais curto da Bíblia, com apenas dois versículos. Também é aproximadamente o capítulo central da Bíblia. Faz parte do Hallel pascal. Paulo o cita em Romanos 15.11 para mostrar que a inclusão dos gentios sempre fez parte do plano de Deus.",
     "passage": {
       "ref": "Salmo 117 · capítulo completo (NVI)",
       "verses": [
@@ -12964,16 +12964,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 117 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O menor salmo tem o maior alcance: “todas as nações”, “todos os povos”. Não há tamanho mínimo para uma verdade grandiosa. Dois versículos bastam para dizer que o louvor a Deus não tem fronteiras. Às vezes, a mensagem mais importante é a mais curta.",
+      "O motivo do louvor universal é curioso: “imenso é o seu amor leal por nós”. As nações devem louvar a Deus pelo que ele fez por Israel. A bênção de um povo se torna motivo de alegria para todos. É a promessa a Abraão de novo: em você serão abençoadas todas as famílias da terra.",
+      "Paulo citou este salmo para dizer que os gentios também glorificam a Deus por sua misericórdia. Para quem não nasceu em Israel, este salmo é um convite antigo que esperava por nós. Fomos incluídos num louvor que já estava sendo cantado."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que verdade grandiosa você poderia dizer a alguém em apenas duas frases?",
+      "Você consegue se alegrar quando Deus abençoa outras pessoas ou outros povos?",
+      "Como você se sente sabendo que foi incluído num louvor que começou muito antes de você?"
     ],
-    "application": "Este é o menor salmo da Bíblia, mas o mais amplo: convida todas as nações. Ore hoje por três povos diferentes do seu, pedindo que conheçam o amor de Deus.",
+    "application": "Envie hoje uma mensagem a alguém de outra cultura, país ou origem — um colega, um vizinho, um amigo — com uma palavra de bênção. Ore por três povos diferentes do seu usando o versículo 1.",
     "prayer": "Louvem o Senhor, todas as nações; exaltem-no, todos os povos! Porque imenso é o teu amor por nós e a tua fidelidade dura para sempre. Aleluia! Amém."
   },
   {
@@ -14171,20 +14171,20 @@ window.SALMOS = [
     "psalm": 120,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 120",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 120 · Morando entre os que odeiam a paz",
     "date": "Salmo 120",
     "verse": {
-      "text": "Ore e leia o Salmo 120 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 120"
+      "text": "Tenho vivido tempo demais entre os que odeiam a paz. Sou um homem de paz; mas, ainda que eu fale de paz, eles só falam de guerra.",
+      "ref": "Salmo 120.6–7"
     },
     "word": {
       "original": "שָׁלוֹם",
       "translit": "shalom",
       "lang": "hebraico",
       "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "note": "Shalom é muito mais que ausência de guerra: é a vida inteira em ordem, relações reconciliadas, bem-estar pleno. O salmista diz “sou um homem de paz” — literalmente, “eu sou paz”. Mas os vizinhos só falam de guerra. Ele mora num lugar onde shalom é estrangeira."
     },
-    "context": "Este é o dia 120 da jornada pelo Saltério. Leia o Salmo 120 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Primeiro dos quinze “cânticos de peregrinação” (Salmos 120–134), cantados pelos peregrinos que subiam a Jerusalém para as festas. O caminho começa longe: Meseque ficava no extremo norte (perto do mar Negro) e Quedar no deserto árabe. São nomes que simbolizam estar entre estranhos hostis. A peregrinação começa com a consciência de estar no lugar errado.",
     "passage": {
       "ref": "Salmo 120 · capítulo completo (NVI)",
       "verses": [
@@ -14219,16 +14219,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 120 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Toda peregrinação começa com um desconforto. O salmista não sai de casa por turismo, mas porque não aguenta mais as mentiras ao seu redor. Às vezes o primeiro passo em direção a Deus é perceber que o ambiente em que vivemos está nos adoecendo.",
+      "“O que ele lhe dará? Como lhe retribuirá, ó língua enganadora?” A língua mentirosa receberá “flechas afiadas de guerreiro” e “brasas incandescentes de sândalo” — madeira que queima por muito tempo. As consequências do engano não são rápidas; queimam devagar. O salmista entrega a língua traiçoeira ao juízo de Deus.",
+      "“Sou um homem de paz; mas, ainda que eu fale de paz, eles só falam de guerra.” Há ambientes em que buscar a paz não é suficiente; a outra parte não quer. O salmo não culpa o pacificador por isso. Apenas reconhece a dor de quem é “estrangeiro” onde vive. E é essa dor que o põe no caminho de Jerusalém."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que ambiente — no trabalho, na família, nas redes — tem sido “Meseque” para você?",
+      "Você tem sofrido com línguas enganadoras? Já entregou isso ao juízo de Deus?",
+      "Em que relação você tem buscado a paz e encontrado só guerra? Como isso o move em direção a Deus?"
     ],
-    "application": "Este é o primeiro 'cântico de peregrinação'. Identifique um ambiente de 'línguas enganadoras' (v. 2) do qual você precisa se afastar e dê hoje o primeiro passo em direção a Deus.",
+    "application": "Identifique uma fonte de “línguas enganadoras” que você consome — um grupo, um perfil, um tipo de conversa — e dê hoje um passo concreto de afastamento. Use o tempo liberado para dar o primeiro passo da sua “peregrinação”: oração ou leitura.",
     "prayer": "Senhor, na minha angústia clamo a ti, e tu me respondes. Livra-me dos lábios mentirosos e da língua enganadora. Eu sou pela paz; guarda o meu coração em meio às contendas. Amém."
   },
   {
@@ -14236,20 +14236,20 @@ window.SALMOS = [
     "psalm": 121,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 121",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 121 · Para os montes levanto os olhos",
     "date": "Salmo 121",
     "verse": {
-      "text": "Ore e leia o Salmo 121 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 121"
+      "text": "Levanto os meus olhos para os montes e pergunto: De onde me vem o socorro? O meu socorro vem do Senhor, que fez os céus e a terra.",
+      "ref": "Salmo 121.1–2"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "שָׁמַר",
+      "translit": "shamar",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "guardar, vigiar, proteger",
+      "note": "Shamar aparece seis vezes em oito versículos, traduzido como “protetor” e “protegerá”. É o verbo do vigia noturno e do pastor que guarda o rebanho. O salmo martela essa palavra para que o peregrino não esqueça: alguém está guardando você o tempo todo."
     },
-    "context": "Este é o dia 121 da jornada pelo Saltério. Leia o Salmo 121 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Segundo cântico de peregrinação, talvez uma oração de despedida antes da viagem a Jerusalém. Os montes podiam ser perigosos (ladrões, animais) ou lugares de culto pagão. O peregrino pergunta de onde vem o socorro e responde: não dos montes, mas do Criador deles. A partir do versículo 3, uma segunda voz — talvez um sacerdote ou um familiar — o abençoa.",
     "passage": {
       "ref": "Salmo 121 · capítulo completo (NVI)",
       "verses": [
@@ -14288,16 +14288,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 121 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Levanto os meus olhos para os montes e pergunto: De onde me vem o socorro?” Os montes não são a resposta; são o lugar da pergunta. Nos montes havia santuários pagãos que prometiam proteção. O peregrino olha para eles e decide: meu socorro vem de quem fez os montes, não dos montes.",
+      "“O protetor de Israel não dormirá.” Os deuses pagãos, dizia-se, dormiam; Elias zombou dos profetas de Baal sugerindo que seu deus estivesse cochilando (1Rs 18.27). O Deus de Israel não cochila. Isso significa que você pode dormir. A vigilância dele é a permissão para o seu descanso.",
+      "“O Senhor protegerá a sua saída e a sua chegada.” É uma bênção para a viagem, mas também para cada porta atravessada todos os dias. Sair de casa, chegar ao trabalho, voltar à noite. Toda a vida é peregrinação, e cada passo é guardado. Desde agora e para sempre."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que “montes” — recursos, pessoas, estratégias — você tem olhado como fonte de socorro?",
+      "Você consegue dormir sabendo que Deus não dorme? O que o impede?",
+      "Que “saída” ou “chegada” da sua vida hoje precisa ser entregue ao Guardião?"
     ],
-    "application": "Escreva o versículo 8 — 'O Senhor protegerá a sua saída e a sua chegada' — e ore-o cada vez que sair ou chegar em casa hoje.",
+    "application": "Escreva o versículo 8 num cartão e coloque-o perto da porta de casa. Hoje, cada vez que sair ou chegar, toque no cartão ou repita o versículo como bênção sobre sua jornada.",
     "prayer": "Senhor, levanto os olhos para os montes: de onde me vem o socorro? O meu socorro vem de ti, que fizeste os céus e a terra. Tu não dormes; guarda a minha vida, agora e para sempre. Amém."
   },
   {
@@ -14305,20 +14305,20 @@ window.SALMOS = [
     "psalm": 122,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 122",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 122 · Orem pela paz de Jerusalém",
     "date": "Salmo 122",
     "verse": {
-      "text": "Ore e leia o Salmo 122 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 122"
+      "text": "Orem pela paz de Jerusalém: \"Vivam em segurança aqueles que te amam! Haja paz dentro dos teus muros e segurança nas tuas cidadelas! \"",
+      "ref": "Salmo 122.6–7"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "שָׁאַל",
+      "translit": "sha'al",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "pedir, perguntar",
+      "note": "No versículo 6, “orem pela paz de Jerusalém” é literalmente “perguntem pelo shalom de Jerusalém”. Há um jogo de sons: sha'alu shalom Yerushalayim. Orar pela paz é perguntar por ela, interessar-se, buscar saber como está. Intercessão começa com interesse."
     },
-    "context": "Este é o dia 122 da jornada pelo Saltério. Leia o Salmo 122 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Terceiro cântico de peregrinação, atribuído a Davi. O peregrino chega a Jerusalém e celebra: “nossos pés já se encontram dentro de suas portas”. Descreve a cidade como lugar de culto (v. 4) e justiça (v. 5) e termina com uma oração pela paz da cidade, motivada pelo amor aos irmãos e à casa de Deus (v. 6–9).",
     "passage": {
       "ref": "Salmo 122 · capítulo completo (NVI)",
       "verses": [
@@ -14361,16 +14361,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 122 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Alegrei-me com os que me disseram: ‘Vamos à casa do Senhor!’” A alegria começa com um convite de outras pessoas. Ninguém peregrina sozinho. A comunidade nos chama, e nós respondemos com alegria. Há uma bênção especial em ter amigos que nos convidam para perto de Deus.",
+      "Jerusalém é descrita como cidade “firmemente estabelecida” — o hebraico sugere “bem unida”, com casas coladas umas às outras. A cidade de Deus é imagem de comunhão. E é ali que estão os tribunais de justiça. Adoração e justiça moram no mesmo lugar.",
+      "A oração pela paz tem duas razões: “em favor de meus irmãos e amigos” e “em favor da casa do Senhor”. Pedimos paz por amor às pessoas e por amor a Deus. E a oração termina em ação: “buscarei o seu bem”. Quem ora pela paz da cidade se compromete a trabalhar por ela."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Quem foram as pessoas que o convidaram para “ir à casa do Senhor”? Você já agradeceu a elas?",
+      "Sua comunidade de fé é “bem unida” como Jerusalém? Qual é o seu papel nisso?",
+      "Pela paz de qual cidade, igreja ou comunidade você poderia “perguntar” hoje?"
     ],
-    "application": "Ore pela paz da sua igreja e da sua cidade (v. 6–8), mencionando pessoas e situações específicas. Procure também um modo concreto de buscar o bem delas (v. 9).",
+    "application": "Ligue ou mande mensagem hoje para alguém da sua igreja perguntando, de verdade, como ela está — “perguntando pelo seu shalom”. Ore por ela depois e veja se há algo concreto em que você possa “buscar o seu bem”.",
     "prayer": "Senhor, alegrei-me quando me disseram: 'Vamos à casa do Senhor!'. Que haja paz dentro dos teus muros. Por amor dos meus irmãos e amigos, buscarei o bem da tua casa. Amém."
   },
   {
@@ -14378,20 +14378,20 @@ window.SALMOS = [
     "psalm": 123,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 123",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 123 · Olhos atentos à mão",
     "date": "Salmo 123",
     "verse": {
-      "text": "Ore e leia o Salmo 123 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 123"
+      "text": "Assim como os olhos dos servos estão atentos à mão de seu senhor, e como os olhos das servas estão atentos à mão de sua senhora, também os nossos olhos estão atentos ao Senhor, ao nosso Deus, esperando que ele tenha misericórdia de nós.",
+      "ref": "Salmo 123.2"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "עַיִן",
+      "translit": "ayin",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "olho",
+      "note": "Ayin aparece quatro vezes em dois versículos. O salmo inteiro é sobre para onde olhamos. O servo observa a mão do senhor para saber quando servir, quando receber, quando ser dispensado. O olhar fixo em Deus é a postura de quem espera misericórdia."
     },
-    "context": "Este é o dia 123 da jornada pelo Saltério. Leia o Salmo 123 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Quarto cântico de peregrinação, curto e intenso. Começa com o olhar individual (“levanto os meus olhos”), passa para o coletivo (“os nossos olhos”) e termina num pedido de misericórdia diante do desprezo dos arrogantes. Provavelmente reflete um período de humilhação do povo, talvez após o exílio.",
     "passage": {
       "ref": "Salmo 123 · capítulo completo (NVI)",
       "verses": [
@@ -14414,16 +14414,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 123 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Para ti levanto os meus olhos, a ti, que ocupas o teu trono nos céus.” O Salmo 121 levantava os olhos para os montes; este os levanta mais alto, para o trono. Na peregrinação, o olhar vai subindo. Aprendemos aos poucos a olhar além dos recursos visíveis.",
+      "A imagem do versículo 2 é de uma casa antiga: servos e servas atentos à mão do senhor, que dava ordens com gestos. É um olhar de dependência total. O servo não sabe o que virá, mas sabe de quem virá. A espera do povo de Deus não é ansiosa, mas atenta: os olhos estão fixos até que ele tenha misericórdia.",
+      "“Já estamos cansados de tanto desprezo.” A repetição — cansados, cansados — mostra exaustão. O desprezo dos arrogantes pesa. O salmo não oferece uma estratégia para responder à zombaria; oferece um lugar para levá-la: os olhos voltados para a mão de Deus."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Para onde seus olhos têm se voltado nos momentos de necessidade?",
+      "Como seria viver hoje atento à “mão” de Deus, como um servo que espera um sinal?",
+      "Há algum desprezo ou zombaria que o tem cansado? Você já o levou a Deus?"
     ],
-    "application": "Passe alguns minutos em silêncio com os olhos voltados para Deus, como 'os olhos dos servos voltados para a mão do seu senhor' (v. 2), esperando por sua misericórdia.",
+    "application": "Separe cinco minutos hoje para ficar em silêncio com as mãos abertas e os olhos erguidos, sem pedir nada específico, apenas esperando a misericórdia de Deus. Depois, siga o dia atento a sinais da “mão” dele.",
     "prayer": "A ti levanto os meus olhos, a ti que reinas nos céus. Como os olhos do servo para a mão do seu senhor, assim os meus olhos estão em ti até que tenhas misericórdia de mim. Amém."
   },
   {
@@ -14431,20 +14431,20 @@ window.SALMOS = [
     "psalm": 124,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 124",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 124 · Se não fosse o Senhor",
     "date": "Salmo 124",
     "verse": {
-      "text": "Ore e leia o Salmo 124 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 124"
+      "text": "Se o Senhor não estivesse do nosso lado; que Israel o repita: Se o Senhor não estivesse do nosso lado quando os inimigos nos atacaram,",
+      "ref": "Salmo 124.1–2"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "לוּלֵי",
+      "translit": "lulei",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "se não fosse, não fosse por",
+      "note": "Lulei é uma conjunção condicional rara: “se não fosse”. O salmo começa com ela duas vezes: “Se o Senhor não estivesse do nosso lado”. É uma forma de olhar para trás e imaginar o que teria acontecido sem Deus — e descobrir que a resposta é o desastre."
     },
-    "context": "Este é o dia 124 da jornada pelo Saltério. Leia o Salmo 124 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Quinto cântico de peregrinação, atribuído a Davi. É uma ação de graças coletiva por um livramento. O líder convida o povo a repetir (“que Israel o repita”), descreve o perigo com imagens de monstros que engolem e águas que afogam (v. 3–5), celebra a fuga como de um pássaro da armadilha (v. 6–7) e termina com uma confissão: “O nosso socorro está no nome do Senhor” (v. 8).",
     "passage": {
       "ref": "Salmo 124 · capítulo completo (NVI)",
       "verses": [
@@ -14483,16 +14483,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 124 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Que Israel o repita.” A gratidão precisa ser repetida em voz alta, em comunidade. Há testemunhos que só se tornam reais quando são ditos. O povo aprende a contar a própria história com Deus no centro.",
+      "O salmo usa imagens de pesadelo: ser engolido vivo, arrastado por torrentes, dilacerado por dentes. É a linguagem de quem esteve perto demais do fim. Olhar para trás com honestidade às vezes assusta. Mas é exatamente esse olhar que revela o tamanho do livramento.",
+      "“Como um pássaro escapamos da armadilha do caçador; a armadilha foi quebrada.” O pássaro não escapa por esforço próprio. A armadilha foi quebrada por outro. Muitos livramentos que vivemos não foram conquistas, mas intervenções. O último verso resume: “O nosso socorro está no nome do Senhor, que fez os céus e a terra”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que situação da sua vida você pode dizer: “se não fosse o Senhor...”?",
+      "Você já contou esse livramento em voz alta para outros?",
+      "Que “armadilha” Deus quebrou por você sem que você tivesse feito nada?"
     ],
-    "application": "Pense em uma situação em que, 'se não fosse o Senhor' (v. 1), você teria afundado. Escreva essa história e agradeça a Deus por ter quebrado o laço (v. 7).",
+    "application": "Complete por escrito a frase “Se não fosse o Senhor, eu...” com três situações reais da sua vida. Leia em voz alta com alguém da sua casa ou envie a um amigo, como fez Israel ao “repetir”.",
     "prayer": "Senhor, se não fosses tu ao nosso lado, as águas nos teriam arrastado. Bendito seja o Senhor, que não nos entregou. O nosso socorro está no teu nome, Criador dos céus e da terra. Amém."
   },
   {
@@ -14500,20 +14500,20 @@ window.SALMOS = [
     "psalm": 125,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 125",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 125 · Firmes como o monte Sião",
     "date": "Salmo 125",
     "verse": {
-      "text": "Ore e leia o Salmo 125 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 125"
+      "text": "Os que confiam no Senhor são como o monte Sião, que não se pode abalar, mas permanece para sempre. Como os montes cercam Jerusalém, assim o Senhor protege o seu povo, desde agora e para sempre.",
+      "ref": "Salmo 125.1–2"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "סָבִיב",
+      "translit": "saviv",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ao redor, em volta",
+      "note": "Saviv descreve o que está por todos os lados. Jerusalém fica num monte cercado por outros montes mais altos. O versículo 2 usa a imagem: assim como os montes estão saviv à cidade, o Senhor está ao redor do seu povo. A proteção não vem só de cima, mas de todos os lados."
     },
-    "context": "Este é o dia 125 da jornada pelo Saltério. Leia o Salmo 125 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Sexto cântico de peregrinação. O peregrino, ao se aproximar de Jerusalém, vê a cidade no alto de um monte e cercada por outros montes. A paisagem se torna teologia: quem confia no Senhor é estável como Sião, e o Senhor envolve seu povo como as montanhas envolvem a cidade. Termina com uma bênção: “Haja paz em Israel!”.",
     "passage": {
       "ref": "Salmo 125 · capítulo completo (NVI)",
       "verses": [
@@ -14540,16 +14540,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 125 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Os que confiam no Senhor são como o monte Sião, que não se pode abalar.” A estabilidade não vem de circunstâncias sem tremor, mas da confiança. Monte é algo que não se move com vento, chuva ou tempestade. Quem confia em Deus pode ter emoções agitadas, mas um fundamento imóvel.",
+      "O versículo 3 traz um realismo interessante: o domínio dos ímpios não prevalecerá, “se assim fosse, até os justos praticariam a injustiça”. Deus limita a opressão porque sabe que, se ela durar demais, até os bons se corrompem. A paciência humana tem limite, e Deus conhece esse limite.",
+      "O salmo termina pedindo bondade “aos que têm coração íntegro” e juízo aos que se desviam “por caminhos tortuosos”. A imagem é de estradas: retas ou sinuosas. O peregrino que sobe a Jerusalém precisa escolher o caminho reto. E a bênção final é a paz — o shalom que o peregrino do Salmo 120 não encontrava em Meseque."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Suas emoções têm sido confundidas com seu fundamento? O que é instável e o que é firme em você?",
+      "Há alguma opressão prolongada que você teme que o esteja tornando amargo ou injusto?",
+      "Que “caminho tortuoso” você precisa abandonar para seguir a estrada reta?"
     ],
-    "application": "Identifique uma área instável da sua vida e declare o versículo 1: 'Os que confiam no Senhor são como o monte Sião, que não se abala'. Ore também pela sua família, que Deus cerca como montes (v. 2).",
+    "application": "Olhe hoje para algo firme e alto — um prédio, uma montanha, uma árvore antiga — e ore o versículo 1. Depois, desenhe um círculo representando sua família ou casa e escreva ao redor dele: “O Senhor protege o seu povo, desde agora e para sempre” (v. 2).",
     "prayer": "Senhor, como os montes cercam Jerusalém, tu cercas o teu povo, desde agora e para sempre. Faz-me firme como o monte Sião e guarda-me de estender a mão à injustiça. Amém."
   },
   {
@@ -14557,20 +14557,20 @@ window.SALMOS = [
     "psalm": 126,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 126",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 126 · Semear com lágrimas",
     "date": "Salmo 126",
     "verse": {
-      "text": "Ore e leia o Salmo 126 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 126"
+      "text": "Aqueles que semeiam com lágrimas, com cantos de alegria colherão. Aquele que sai chorando enquanto lança a semente, voltará com cantos de alegria, trazendo os seus feixes.",
+      "ref": "Salmo 126.5–6"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "רִנָּה",
+      "translit": "rinnah",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "grito de alegria, canto jubiloso",
+      "note": "Rinnah é a alegria que explode em som: o grito do vencedor, o canto da colheita. Aparece três vezes neste salmo (v. 2, 5, 6). O povo que voltou do exílio teve a boca cheia de riso e de rinnah. E a promessa é que quem semeia em lágrimas também colherá com rinnah."
     },
-    "context": "Este é o dia 126 da jornada pelo Saltério. Leia o Salmo 126 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Sétimo cântico de peregrinação, provavelmente composto depois do retorno do exílio babilônico. Tem duas partes: memória da restauração passada, que pareceu um sonho (v. 1–3), e oração por uma nova restauração (v. 4–6). Os “ribeiros no deserto” (v. 4) são os leitos secos do Neguebe, que se enchem de repente com as chuvas de inverno.",
     "passage": {
       "ref": "Salmo 126 · capítulo completo (NVI)",
       "verses": [
@@ -14601,16 +14601,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 126 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Foi como um sonho.” A restauração foi tão grande que parecia irreal. Há livramentos que demoramos a acreditar. E o riso veio — não um sorriso discreto, mas a boca que “encheu-se de riso”. Até os outros povos perceberam. Quando Deus age, a alegria do seu povo vira testemunho.",
+      "O versículo 4 é um novo pedido: “restaura-nos”. A primeira restauração já aconteceu, mas a vida ainda tem áreas secas. Os leitos do Neguebe ficam secos o ano inteiro, e então, numa chuva, se tornam rios. O povo pede que Deus faça isso de novo: transformar o seco em fluxo, de repente.",
+      "“Aquele que sai chorando enquanto lança a semente.” Semear em tempo de fome era doloroso: a semente lançada era comida que não se comia. O agricultor chorava enquanto plantava. Mas a promessa é segura: “voltará com cantos de alegria, trazendo os seus feixes”. As lágrimas não são desperdício; são parte da semeadura."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que restauração passada de Deus na sua vida pareceu “um sonho”?",
+      "Que área seca da sua vida precisa da chuva repentina que enche os ribeiros do deserto?",
+      "O que você está “semeando com lágrimas” agora — uma oração, um filho, um ministério, um recomeço?"
     ],
-    "application": "Se você está 'semeando com lágrimas' (v. 5), escreva qual é essa semente — um filho, um ministério, um sonho — e entregue-a a Deus na esperança de colher com alegria.",
+    "application": "Plante algo hoje — uma semente num vaso, uma muda, ou mesmo um grão de feijão num algodão. Enquanto planta, entregue a Deus aquilo que você está semeando com lágrimas. Acompanhe o crescimento como sinal de esperança.",
     "prayer": "Senhor, quando trouxeste de volta os cativos, éramos como os que sonham. Restaura-nos como as torrentes no deserto. Os que semeiam com lágrimas colherão com cânticos de alegria. Amém."
   },
   {
@@ -14618,20 +14618,20 @@ window.SALMOS = [
     "psalm": 127,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 127",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 127 · Se o Senhor não construir",
     "date": "Salmo 127",
     "verse": {
-      "text": "Ore e leia o Salmo 127 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 127"
+      "text": "Se não for o Senhor o construtor da casa, será inútil trabalhar na construção. Se não é o Senhor que vigia a cidade, será inútil a sentinela montar guarda. Será inútil levantar cedo e dormir tarde, trabalhando arduamente por alimento. O Senhor concede o sono àqueles a quem ama.",
+      "ref": "Salmo 127.1–2"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "שָׁוְא",
+      "translit": "shav",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "inútil, vão, vazio",
+      "note": "Shav aparece três vezes nos versículos 1–2: inútil construir, inútil vigiar, inútil levantar cedo. É a palavra usada no mandamento “não tomarás o nome do Senhor em vão”. O trabalho sem Deus é como um nome sem conteúdo: muito esforço, nenhum peso."
     },
-    "context": "Este é o dia 127 da jornada pelo Saltério. Leia o Salmo 127 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Oitavo cântico de peregrinação, o único atribuído a Salomão, o grande construtor do templo e de palácios. Tem duas partes: a futilidade do esforço sem Deus (v. 1–2) e os filhos como herança do Senhor (v. 3–5). A palavra “casa” une as duas: casa como edifício e casa como família.",
     "passage": {
       "ref": "Salmo 127 · capítulo completo (NVI)",
       "verses": [
@@ -14658,16 +14658,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 127 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Se não for o Senhor o construtor da casa.” Vindo de Salomão, que construiu o templo mais glorioso de Israel, isso é uma confissão. Ele sabia que o melhor projeto arquitetônico não bastava. O mesmo vale para carreiras, ministérios, famílias: o esforço humano é necessário, mas não suficiente.",
+      "“O Senhor concede o sono àqueles a quem ama.” Numa cultura de produtividade, este versículo é revolucionário. O sono não é perda de tempo; é dom de Deus. Quem trabalha sem parar, levantando cedo e dormindo tarde, pode estar dizendo que não confia que Deus trabalha enquanto ele descansa.",
+      "Os filhos são “herança” e “recompensa” do Senhor, “como flechas nas mãos do guerreiro”. Flechas não são para ficar guardadas, mas para serem lançadas. Filhos são dons que preparamos para lançar ao mundo, não posses para guardar. E isso também se aplica a discípulos e a pessoas que formamos na fé."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que “casa” você está construindo nesta fase — carreira, família, projeto — e Deus é o construtor ou apenas convidado?",
+      "Como está seu sono? Ele revela confiança ou ansiedade?",
+      "Quem são as “flechas” que Deus colocou nas suas mãos para preparar e lançar?"
     ],
-    "application": "Identifique uma área em que você está 'edificando a casa' na sua própria força (v. 1–2) e entregue-a a Deus. Hoje, permita-se descansar sem culpa — ele dá o sono aos seus amados.",
+    "application": "Hoje à noite, vá dormir em um horário razoável, sem trabalho e sem telas na última meia hora. Antes de deitar, ore o versículo 2 e entregue a Deus o que ficou por fazer, confiando que ele trabalha enquanto você descansa.",
     "prayer": "Senhor, se tu não edificares a casa, em vão trabalham os que a constroem. Livra-me da ansiedade de quem acorda cedo e dorme tarde em vão. Tu dás o sono aos teus amados. Amém."
   },
   {
@@ -14675,20 +14675,20 @@ window.SALMOS = [
     "psalm": 128,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 128",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 128 · Ao redor da mesa",
     "date": "Salmo 128",
     "verse": {
-      "text": "Ore e leia o Salmo 128 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 128"
+      "text": "Como é feliz quem teme ao Senhor, quem anda em seus caminhos! Você comerá do fruto do seu trabalho, e será feliz e próspero. Sua mulher será como videira frutífera em sua casa; seus filhos serão como brotos de oliveira ao redor da sua mesa.",
+      "ref": "Salmo 128.1–3"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "שְׁתִלִים",
+      "translit": "shetilim",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "brotos, mudas transplantadas",
+      "note": "Shetilim são mudas novas, brotos que nascem ao redor do tronco da oliveira. A oliveira velha lança brotos em volta de si, que crescem e garantem a continuidade da árvore. O versículo 3 vê os filhos ao redor da mesa assim: brotos jovens de uma vida que continua."
     },
-    "context": "Este é o dia 128 da jornada pelo Saltério. Leia o Salmo 128 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Nono cântico de peregrinação, uma bênção para a família de quem teme ao Senhor. Tem duas partes: a bênção doméstica — trabalho, esposa, filhos, mesa (v. 1–4) — e a bênção que vem de Sião para a vida toda e para as gerações (v. 5–6). Tradicionalmente era cantado em casamentos judaicos.",
     "passage": {
       "ref": "Salmo 128 · capítulo completo (NVI)",
       "verses": [
@@ -14719,16 +14719,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 128 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Você comerá do fruto do seu trabalho.” Parece uma promessa simples, mas em tempos de guerra, impostos pesados e colheitas roubadas, comer o que se plantou era uma bênção rara. O salmo valoriza o trabalho digno e a satisfação de usufruir dele. Fé não é desprezo pelo cotidiano, mas bênção sobre ele.",
+      "A mesa é o centro da cena: a esposa como videira frutífera dentro da casa, os filhos como brotos de oliveira ao redor da mesa. É uma imagem de vida, crescimento e comunhão. A mesa de casa é um dos lugares mais teológicos que existem. Ali se forma uma família — e ali Jesus partiu o pão.",
+      "A bênção não fica restrita à casa: “desde Sião”, “a prosperidade de Jerusalém”, “os filhos dos seus filhos”, “paz em Israel”. O lar abençoado faz parte de algo maior: a comunidade, a cidade, as gerações. Ninguém é abençoado sozinho. Cada mesa familiar é parte da grande mesa do povo de Deus."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você tem conseguido desfrutar do fruto do seu trabalho com gratidão, ou o trabalho só gera cansaço?",
+      "Como está a “mesa” da sua casa? Ela tem sido lugar de comunhão ou de pressa e telas?",
+      "Como sua família pode ser bênção para a comunidade maior ao redor?"
     ],
-    "application": "Ore por cada pessoa da sua casa pelo nome, usando as imagens do salmo: videira frutífera e brotos de oliveira ao redor da mesa (v. 3). Faça uma refeição em família com gratidão.",
+    "application": "Organize hoje — ou nesta semana — uma refeição sem telas com as pessoas da sua casa (ou com amigos, se você mora sozinho). Antes de comer, abençoe cada pessoa pelo nome usando as imagens do versículo 3.",
     "prayer": "Senhor, feliz é quem te teme e anda nos teus caminhos. Abençoa a minha casa, faz frutífera a minha família e dá-me ver a prosperidade de Jerusalém todos os dias da minha vida. Amém."
   },
   {
@@ -14736,20 +14736,20 @@ window.SALMOS = [
     "psalm": 129,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 129",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 129 · Sulcos nas costas",
     "date": "Salmo 129",
     "verse": {
-      "text": "Ore e leia o Salmo 129 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 129"
+      "text": "muitas vezes me oprimiram desde a minha juventude, mas jamais conseguiram vencer-me. Passaram o arado em minhas costas e fizeram longos sulcos. O Senhor é justo! Ele libertou-me das algemas dos ímpios.",
+      "ref": "Salmo 129.2–4"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חָרַשׁ",
+      "translit": "charash",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "arar, sulcar",
+      "note": "Charash é o trabalho do lavrador que rasga a terra com o arado. No versículo 3, os inimigos “passaram o arado em minhas costas e fizeram longos sulcos”. A imagem é brutal: as costas de Israel tratadas como campo a ser rasgado — talvez uma alusão a açoites e escravidão."
     },
-    "context": "Este é o dia 129 da jornada pelo Saltério. Leia o Salmo 129 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Décimo cântico de peregrinação, uma lembrança coletiva de opressões sofridas “desde a minha juventude” — desde o Egito. Tem duas partes: a resistência de Israel (v. 1–4) e uma imprecação contra os que odeiam Sião (v. 5–8). O versículo final faz referência a uma saudação comum entre ceifeiros (Rt 2.4), que os inimigos não receberão.",
     "passage": {
       "ref": "Salmo 129 · capítulo completo (NVI)",
       "verses": [
@@ -14788,16 +14788,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 129 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Muitas vezes me oprimiram desde a minha juventude... mas jamais conseguiram vencer-me.” É o testemunho de sobrevivência de um povo. Egito, Filístia, Assíria, Babilônia — muitos tentaram e nenhum venceu. A história do povo de Deus é marcada por cicatrizes, mas não por derrota final.",
+      "A imagem do arado nas costas é terrível e lembra os açoites que Jesus recebeu. Há sofrimentos que deixam marcas profundas e longas, como sulcos na terra. O salmo não minimiza isso. Mas logo depois afirma: “O Senhor é justo! Ele libertou-me das algemas dos ímpios”. As cordas do arado foram cortadas.",
+      "O capim que cresce nos telhados de terra seca antes de crescer: não tem raiz, não enche a mão do ceifeiro. É assim o destino do ódio a Sião: muito barulho, nenhuma colheita. E falta-lhe até a bênção comum que os vizinhos trocam na colheita. O mal pode crescer depressa, mas não produz fruto."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que opressões você já atravessou “desde a juventude” e que não conseguiram vencê-lo?",
+      "Há cicatrizes em você — sulcos nas costas — que precisam ser levadas ao Deus justo que corta cordas?",
+      "Você tem visto o mal como algo forte e permanente, ou como capim de telhado?"
     ],
-    "application": "Lembre-se de uma época em que 'aradores araram sobre suas costas' (v. 3) e, ainda assim, você não foi vencido (v. 2). Agradeça a Deus por ter cortado as cordas dos ímpios.",
+    "application": "Escreva uma pequena “linha do tempo” das opressões ou dificuldades que você já viveu. Ao final dela, escreva o versículo 2: “mas jamais conseguiram vencer-me”. Agradeça a Deus por cada vez que ele cortou as cordas.",
     "prayer": "Senhor, muitas vezes me oprimiram desde a minha juventude, mas não prevaleceram contra mim. Tu és justo; cortaste as cordas dos ímpios. Obrigado porque continuo de pé. Amém."
   },
   {
@@ -14805,20 +14805,20 @@ window.SALMOS = [
     "psalm": 130,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 130",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 130 · Das profundezas",
     "date": "Salmo 130",
     "verse": {
-      "text": "Ore e leia o Salmo 130 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 130"
+      "text": "Se tu, Soberano Senhor, registrasses os pecados, quem escaparia? Mas contigo está o perdão para que sejas temido.",
+      "ref": "Salmo 130.3–4"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "מַעֲמַקִּים",
+      "translit": "ma'amaqqim",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "profundezas, águas profundas",
+      "note": "Ma'amaqqim são as águas mais fundas, o abismo onde a luz não chega. O salmo começa ali: “Das profundezas clamo a ti”. Não é o lugar para onde Deus nos manda orar quando estivermos melhores; é exatamente de onde a oração mais verdadeira sobe."
     },
-    "context": "Este é o dia 130 da jornada pelo Saltério. Leia o Salmo 130 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Décimo primeiro cântico de peregrinação e sexto salmo penitencial. É conhecido na tradição latina como De profundis. Sobe gradualmente: das profundezas (v. 1–2), para a confissão e o perdão (v. 3–4), para a espera (v. 5–6) e, finalmente, para a esperança coletiva (v. 7–8). Lutero o considerava um dos “salmos paulinos”, por sua ênfase na graça.",
     "passage": {
       "ref": "Salmo 130 · capítulo completo (NVI)",
       "verses": [
@@ -14857,16 +14857,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 130 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Se tu, Soberano Senhor, registrasses os pecados, quem escaparia?” É uma pergunta que só tem uma resposta: ninguém. Se Deus guardasse um caderno de dívidas, todos estariam condenados. O salmo não começa pela autodefesa, mas pela rendição.",
+      "“Mas contigo está o perdão para que sejas temido.” A lógica é surpreendente: o perdão produz temor. Esperaríamos que o castigo produzisse medo, e o perdão produzisse relaxamento. Mas quem foi perdoado de verdade passa a reverenciar a Deus com amor. O perdão não banaliza o pecado; engrandece quem perdoa.",
+      "“Espero pelo Senhor mais do que as sentinelas pela manhã.” A sentinela da noite sabe que a manhã vem, mas não pode apressá-la. Espera atenta, cansada, certa. A repetição do verso transmite a ansiedade da espera e a certeza do amanhecer. E a conclusão é coletiva: no Senhor há “plena redenção” — literalmente, redenção abundante."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "De que “profundeza” você precisa clamar a Deus hoje?",
+      "Como o perdão que você recebeu tem produzido reverência, e não descuido, em sua vida?",
+      "O que você está esperando de Deus “como a sentinela espera pela manhã”?"
     ],
-    "application": "Confesse a Deus algo específico 'das profundezas' (v. 1) e depois espere em silêncio por alguns minutos, como 'a sentinela espera pela manhã' (v. 6).",
+    "application": "Se possível, acorde amanhã antes do nascer do sol e espere o amanhecer orando o versículo 6. Se não for possível, esta noite, olhe pela janela no escuro e entregue a Deus aquilo que você espera, confiando que a manhã virá.",
     "prayer": "Das profundezas clamo a ti, Senhor. Se tu tomasses nota das iniquidades, quem subsistiria? Mas contigo está o perdão. Espero no Senhor mais do que as sentinelas esperam pela manhã. Amém."
   },
   {
@@ -14874,20 +14874,20 @@ window.SALMOS = [
     "psalm": 131,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 131",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 131 · Como criança desmamada",
     "date": "Salmo 131",
     "verse": {
-      "text": "Ore e leia o Salmo 131 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 131"
+      "text": "De fato, acalmei e tranqüilizei a minha alma. Sou como uma criança recém-amamentada por sua mãe; a minha alma é como essa criança.",
+      "ref": "Salmo 131.2"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "גָּמֻל",
+      "translit": "gamul",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "desmamado",
+      "note": "Gamul descreve a criança que já foi desmamada. A NVI traduz por “recém-amamentada”, mas o sentido é de uma criança que já não chora pelo peito: está no colo da mãe não para mamar, mas porque confia. É a passagem da fé que exige para a fé que descansa."
     },
-    "context": "Este é o dia 131 da jornada pelo Saltério. Leia o Salmo 131 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Décimo segundo cântico de peregrinação, atribuído a Davi, com apenas três versículos. É uma declaração de humildade e contentamento. O salmista renuncia à ambição desmedida (v. 1), descreve a quietude de sua alma (v. 2) e exorta todo Israel a esperar no Senhor (v. 3). É um dos poucos textos bíblicos que usam imagem materna para a relação com Deus.",
     "passage": {
       "ref": "Salmo 131 · capítulo completo (NVI)",
       "verses": [
@@ -14906,16 +14906,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 131 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“O meu coração não é orgulhoso e os meus olhos não são arrogantes.” Davi, que se tornou rei, fala de não se envolver com coisas grandes demais. Não é falta de ambição, mas aceitação dos próprios limites. Há assuntos que não nos cabe resolver, mistérios que não nos cabe desvendar. Há descanso em reconhecer isso.",
+      "“Acalmei e tranquilizei a minha alma.” Não aconteceu sozinho; foi uma ação. Davi aquietou a alma como uma mãe aquieta o filho. Há um trabalho interior em tirar a alma da agitação. Não é passividade, é disciplina de entrega.",
+      "A criança desmamada no colo da mãe não está ali para conseguir algo. Ela apenas está. Muitas vezes nos aproximamos de Deus como bebês famintos, buscando o que ele pode nos dar. Este salmo nos convida a outro nível: estar com Deus porque ele é Deus, contentes em sua presença."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Há alguma “coisa grandiosa demais” com a qual você tem se ocupado e que não lhe cabe?",
+      "O que você precisaria fazer, concretamente, para aquietar sua alma hoje?",
+      "Sua relação com Deus tem sido mais de “bebê faminto” ou de “criança desmamada”?"
     ],
-    "application": "Escolha uma preocupação 'grande demais' para você (v. 1) e entregue-a a Deus. Depois, fique alguns minutos quieto, como uma criança desmamada no colo da mãe (v. 2).",
+    "application": "Fique cinco minutos em silêncio, sentado confortavelmente, sem pedir nada. Imagine-se como criança no colo de Deus. Quando surgir uma preocupação “grande demais”, entregue-a e volte ao silêncio.",
     "prayer": "Senhor, o meu coração não é orgulhoso, nem os meus olhos arrogantes. Não me ocupo de coisas grandes demais para mim. Acalmei e aquietei a minha alma, como criança no colo de sua mãe. Amém."
   },
   {
@@ -14923,20 +14923,20 @@ window.SALMOS = [
     "psalm": 132,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 132",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 132 · Um lugar de descanso para Deus",
     "date": "Salmo 132",
     "verse": {
-      "text": "Ore e leia o Salmo 132 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 132"
+      "text": "O Senhor escolheu Sião, com o desejo de fazê-la sua habitação: \"Este será o meu lugar de descanso para sempre; aqui firmarei o meu trono, pois esse é o meu desejo.",
+      "ref": "Salmo 132.13–14"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "מְנוּחָה",
+      "translit": "menuchah",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "lugar de descanso, repouso",
+      "note": "Menuchah é o lugar onde se repousa depois da jornada. No versículo 8, o povo pede que Deus venha “para o teu lugar de descanso”; no versículo 14, Deus mesmo diz: “Este será o meu lugar de descanso para sempre”. Davi não descansou até dar descanso a Deus; Deus responde escolhendo morar com o seu povo."
     },
-    "context": "Este é o dia 132 da jornada pelo Saltério. Leia o Salmo 132 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Décimo terceiro cântico de peregrinação e o mais longo deles. Celebra a transferência da arca para Jerusalém (2Sm 6) e a aliança de Deus com Davi (2Sm 7). Tem duas metades paralelas: o juramento de Davi a Deus (v. 1–10) e o juramento de Deus a Davi (v. 11–18). Salomão citou os versículos 8–10 na dedicação do templo (2Cr 6.41–42).",
     "passage": {
       "ref": "Salmo 132 · capítulo completo (NVI)",
       "verses": [
@@ -15015,16 +15015,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 132 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Davi jurou não dormir “enquanto não encontrar um lugar para o Senhor”. É um zelo intenso: Davi não suportava morar num palácio enquanto a arca estava abandonada. A pergunta é desconfortável: Deus tem um lugar central na nossa vida, ou o deixamos num canto enquanto cuidamos da nossa casa?",
+      "O mais bonito do salmo é a resposta de Deus. Davi faz um juramento; Deus faz um juramento maior. Davi quer dar uma casa a Deus; Deus promete uma dinastia a Davi. Sempre que oferecemos algo a Deus, descobrimos que ele já tinha preparado algo maior para nós. Ninguém vence Deus em generosidade.",
+      "A promessa final aponta para um descendente: “Ali farei renascer o poder de Davi e farei brilhar a luz do meu ungido”. A palavra “poder” é literalmente “chifre”, símbolo de força. Zacarias, pai de João Batista, celebrou o nascimento desse “chifre de salvação” na casa de Davi (Lc 1.69). A promessa se cumpriu em Jesus."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que lugar Deus tem ocupado na “casa” da sua vida — o centro ou um canto?",
+      "Quando você ofereceu algo a Deus e descobriu que ele já tinha preparado algo maior?",
+      "Como a promessa a Davi, cumprida em Jesus, fortalece sua confiança nas promessas que ainda esperam cumprimento?"
     ],
-    "application": "Davi não descansou até encontrar um lugar para Deus (v. 3–5). Pense em como você pode 'abrir espaço' para Deus na sua agenda desta semana e marque esse tempo.",
+    "application": "Organize um “lugar de descanso para Deus” na sua casa: um canto com a Bíblia, um caderno e uma cadeira, onde você se encontrará com ele diariamente. Use-o hoje pela primeira vez.",
     "prayer": "Senhor, lembra-te de Davi e de todas as suas aflições. Entra no teu lugar de descanso. Cumpre a tua promessa ao filho de Davi e veste de salvação os teus sacerdotes. Amém."
   },
   {
@@ -15032,20 +15032,20 @@ window.SALMOS = [
     "psalm": 133,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 133",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 133 · Como é bom viver em união",
     "date": "Salmo 133",
     "verse": {
-      "text": "Ore e leia o Salmo 133 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 133"
+      "text": "Como é bom e agradável quando os irmãos convivem em união!",
+      "ref": "Salmo 133.1"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "יַחַד",
+      "translit": "yachad",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "juntos, em unidade",
+      "note": "Yachad significa juntos, como um só. No versículo 1, “quando os irmãos convivem em união” é literalmente “irmãos habitando também juntos”. Não é uniformidade, mas presença compartilhada. A mesma raiz de yached, “unificar”, que aparece no Salmo 86.11."
     },
-    "context": "Este é o dia 133 da jornada pelo Saltério. Leia o Salmo 133 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Décimo quarto cântico de peregrinação, atribuído a Davi. Muito curto e muito rico, celebra a unidade do povo de Deus com duas imagens: o óleo da consagração derramado sobre Arão, o sumo sacerdote (v. 2), e o orvalho do monte Hermom descendo sobre Sião (v. 3). Para os peregrinos reunidos em Jerusalém de todas as tribos, era um retrato da alegria da festa.",
     "passage": {
       "ref": "Salmo 133 · capítulo completo (NVI)",
       "verses": [
@@ -15064,16 +15064,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 133 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Como é bom e agradável.” Duas palavras: tov (bom) e na'im (agradável, belo). A unidade não é só correta, é bonita. Há algo de estético na comunhão verdadeira. Quando irmãos convivem bem, o mundo vê um reflexo da beleza de Deus.",
+      "O óleo desce da cabeça de Arão, pela barba, até a gola das vestes. O verbo “descer” aparece três vezes no salmo. A bênção vem de cima e escorre. A unidade não nasce de baixo, de nossos esforços de acordo, mas de Deus que derrama. E o óleo consagrava o sacerdote: a unidade torna o povo apto a servir a Deus.",
+      "O orvalho do Hermom, montanha alta ao norte, é abundante e refrescante. Mas ele não desce de verdade sobre Sião, no sul. A imagem é quase impossível: uma bênção do norte caindo no sul. Talvez seja exatamente esse o ponto: a unidade entre tribos distantes é milagre. “Ali o Senhor concede a bênção da vida para sempre.” A vida é dada onde há unidade."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Sua comunidade de fé reflete a beleza da unidade? Qual é sua contribuição para isso?",
+      "Você tem tentado construir unidade só com esforço próprio, sem pedir que Deus a derrame?",
+      "Com quem, distante de você em opinião ou origem, Deus pode estar querendo criar uma unidade “impossível”?"
     ],
-    "application": "Procure hoje reconciliar-se com um irmão ou irmã com quem você tem uma tensão (v. 1). Se não for possível, ore pela pessoa pelo nome e peça a Deus a bênção da união.",
+    "application": "Procure hoje alguém da sua família ou igreja com quem existe uma tensão. Dê um passo de aproximação: uma mensagem gentil, um convite para um café ou um pedido de perdão. Se não for possível agora, ore por ela pelo nome.",
     "prayer": "Senhor, como é bom e agradável quando os irmãos convivem em união! Derrama sobre nós o óleo da unidade e o orvalho da tua bênção, a vida para sempre. Amém."
   },
   {
@@ -15081,20 +15081,20 @@ window.SALMOS = [
     "psalm": 134,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 134",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 134 · Servos da noite",
     "date": "Salmo 134",
     "verse": {
-      "text": "Ore e leia o Salmo 134 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 134"
+      "text": "Venham! Bendigam ao Senhor todos vocês, servos do Senhor, vocês, que servem de noite na casa do Senhor. Levantem as mãos na direção do santuário e bendigam ao Senhor!",
+      "ref": "Salmo 134.1–2"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "לַיְלָה",
+      "translit": "laylah",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "noite",
+      "note": "Laylah é a noite, tempo de escuridão e descanso. Mas no templo havia levitas que serviam “de noite na casa do Senhor”, mantendo a vigília e o louvor (1Cr 9.33). O salmo os honra: há um culto que acontece quando ninguém está olhando."
     },
-    "context": "Este é o dia 134 da jornada pelo Saltério. Leia o Salmo 134 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Último dos quinze cânticos de peregrinação, com apenas três versículos. É uma liturgia de despedida: os peregrinos, prestes a voltar para casa, abençoam os levitas que ficam servindo no templo durante a noite (v. 1–2), e estes respondem abençoando os peregrinos (v. 3). A jornada que começou em Meseque (Salmo 120) termina em bênção mútua.",
     "passage": {
       "ref": "Salmo 134 · capítulo completo (NVI)",
       "verses": [
@@ -15113,16 +15113,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 134 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Vocês, que servem de noite na casa do Senhor.” Enquanto todos dormem, alguns continuam servindo. O salmo dá dignidade ao serviço invisível: quem trabalha de madrugada, quem cuida de doentes à noite, quem ora quando ninguém vê. Deus vê o turno da noite.",
+      "“Levantem as mãos na direção do santuário e bendigam ao Senhor!” Erguer as mãos é gesto de oração, rendição e oferta. O salmo convida até os cansados do turno noturno a bendizer. O louvor não é privilégio de quem está descansado; é possível mesmo no cansaço.",
+      "A resposta vem: “De Sião os abençoe o Senhor, que fez os céus e a terra!”. Quem abençoa é abençoado. A peregrinação termina num intercâmbio: os peregrinos bendizem os servos, os servos bendizem os peregrinos, e o Criador abençoa todos. A vida comunitária de fé é uma troca constante de bênçãos."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Quem são os “servos da noite” ao seu redor — pessoas que servem sem serem vistas?",
+      "Você consegue bendizer a Deus mesmo quando está cansado?",
+      "A quem você poderia oferecer uma bênção hoje, para receber de volta a alegria de abençoar?"
     ],
-    "application": "Antes de dormir, levante as mãos (v. 2) e bendiga a Deus por algo do dia. Peça também a bênção dele sobre alguém que trabalha à noite.",
+    "application": "Escreva e envie hoje uma mensagem de bênção a alguém que trabalha à noite ou serve de forma invisível — um enfermeiro, um vigia, um intercessor, um pai ou mãe de recém-nascido. Antes de dormir, levante as mãos e bendiga a Deus por algo do seu dia.",
     "prayer": "Bendigam o Senhor, todos vocês, servos do Senhor, que ministram de noite na casa do Senhor. Levanto as mãos para o teu santuário e te bendigo. Que de Sião me abençoes. Amém."
   },
   {
@@ -15130,20 +15130,20 @@ window.SALMOS = [
     "psalm": 135,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 135",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 135 · O Deus que faz tudo o que lhe agrada",
     "date": "Salmo 135",
     "verse": {
-      "text": "Ore e leia o Salmo 135 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 135"
+      "text": "Na verdade, sei que o Senhor é grande, que o nosso Soberano é maior do que todos os deuses. O Senhor faz tudo o que lhe agrada, nos céus e na terra, nos mares e em todas as suas profundezas.",
+      "ref": "Salmo 135.5–6"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "סְגֻלָּה",
+      "translit": "segullah",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "tesouro pessoal, propriedade particular",
+      "note": "Segullah era a reserva particular de um rei, o tesouro que ele guardava para si, separado do erário público. No versículo 4, Deus escolheu Israel “como seu tesouro pessoal”, ecoando Êxodo 19.5. Pedro aplica a imagem à igreja: “povo exclusivo de Deus” (1Pe 2.9)."
     },
-    "context": "Este é o dia 135 da jornada pelo Saltério. Leia o Salmo 135 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino de louvor que costura citações de vários textos bíblicos: Êxodo, Deuteronômio, Jeremias e o Salmo 115 (os versículos 15–18 repetem 115.4–8). Começa convocando os servos do templo (v. 1–4), celebra Deus como Senhor da criação (v. 5–7) e da história (v. 8–14), satiriza os ídolos (v. 15–18) e termina com uma bênção em quatro grupos (v. 19–21).",
     "passage": {
       "ref": "Salmo 135 · capítulo completo (NVI)",
       "verses": [
@@ -15234,16 +15234,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 135 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa com uma razão simples para louvar: “o Senhor é bom” e “é nome amável”. Antes dos grandes feitos, a bondade. Louvamos a Deus não só pelo que ele faz, mas por quem ele é. Seu nome é agradável de pronunciar.",
+      "“O Senhor faz tudo o que lhe agrada, nos céus e na terra.” Ele traz as nuvens, envia relâmpagos, tira o vento “dos seus depósitos”. É uma imagem quase doméstica: Deus tem armazéns de vento. A criação não é caótica nem acidental; é governada por alguém que age com liberdade e prazer.",
+      "Os ídolos aparecem de novo, como no Salmo 115. A repetição não é descuido; é ênfase. Num mundo cheio de deuses fabricados, Israel precisava ouvir muitas vezes que eles não falam, não veem e não respiram. E os que neles confiam se tornam como eles. O contraste final é belo: o Deus vivo “habita em Jerusalém” — perto do seu povo."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você louva a Deus mais pelo que ele faz ou por quem ele é?",
+      "Como a imagem de Deus governando os “depósitos do vento” afeta sua visão das circunstâncias que você não controla?",
+      "Que ídolo moderno precisa ser denunciado “muitas vezes” na sua vida até perder o poder?"
     ],
-    "application": "Compare o Deus vivo com os ídolos que 'têm boca mas não falam' (v. 15–17). Identifique um ídolo seu e diga a Deus: 'Tu és maior que todos os deuses' (v. 5).",
+    "application": "Na próxima vez em que sentir vento hoje, pare e lembre-se do versículo 7: Deus tira o vento dos seus depósitos. Agradeça por alguma circunstância que você não controla, mas que está nas mãos dele.",
     "prayer": "Senhor, tu és bom; cantamos louvores ao teu nome. Sei que és grande, maior que todos os deuses. Fazes tudo o que te agrada nos céus e na terra. O teu nome permanece para sempre. Amém."
   },
   {
@@ -15429,20 +15429,20 @@ window.SALMOS = [
     "psalm": 137,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 137",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 137 · Harpas penduradas nos salgueiros",
     "date": "Salmo 137",
     "verse": {
-      "text": "Ore e leia o Salmo 137 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 137"
+      "text": "Junto aos rios da Babilônia nós nos sentamos e choramos com saudade de Sião. Ali, nos salgueiros penduramos as nossas harpas; ali os nossos captores pediam-nos canções, os nossos opressores exigiam canções alegres, dizendo: \"Cantem para nós uma das canções de Sião! \" Como poderíamos cantar as canções do Senhor numa terra estrangeira?",
+      "ref": "Salmo 137.1–4"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "זָכַר",
+      "translit": "zakar",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "lembrar, não esquecer",
+      "note": "O verbo zakar atravessa o salmo: os exilados choram ao lembrar de Sião (v. 1), juram não esquecer Jerusalém (v. 5–6) e pedem que Deus se lembre do que os edomitas fizeram (v. 7). No exílio, a memória é resistência: lembrar é recusar que o opressor defina quem você é."
     },
-    "context": "Este é o dia 137 da jornada pelo Saltério. Leia o Salmo 137 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento comunitário composto durante ou logo depois do exílio babilônico (586–538 a.C.). Tem três partes: a tristeza junto aos rios da Babilônia (v. 1–4), um juramento de fidelidade a Jerusalém (v. 5–6) e uma imprecação terrível contra Edom e Babilônia (v. 7–9). Os últimos versículos são dos mais difíceis da Bíblia e precisam ser lidos como grito de vítimas de massacre, entregue a Deus, e não como modelo de ação (Rm 12.19–21).",
     "passage": {
       "ref": "Salmo 137 · capítulo completo (NVI)",
       "verses": [
@@ -15485,16 +15485,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 137 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Junto aos rios da Babilônia nós nos sentamos e choramos.” Os rios eram belos e férteis, mas não eram casa. Há lugares onde a vida é confortável e, mesmo assim, a alma se sente exilada. Os cativos não fingem alegria; sentam-se e choram. O salmo dá permissão para a saudade.",
+      "Os opressores exigem “canções alegres”, canções de Sião, como entretenimento. A pergunta do versículo 4 é profunda: “Como poderíamos cantar as canções do Senhor numa terra estrangeira?”. Há momentos em que nos pedem uma alegria que não temos, ou que transformemos nossa fé em espetáculo. Pendurar as harpas também pode ser um ato de fidelidade.",
+      "Os versículos 8–9 chocam qualquer leitor. São palavras de quem viu seus filhos massacrados exatamente assim (2Rs 8.12; Os 13.16). O salmo não pede que repitamos esse desejo, mas mostra que até a raiva mais escura pode ser levada a Deus, em vez de executada. Em Cristo, aprendemos a orar pelos inimigos — mas só depois de deixar a dor real ser dita diante dele."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que lugar da sua vida você se sente “junto aos rios da Babilônia” — confortável por fora, exilado por dentro?",
+      "Alguém já exigiu de você uma alegria que você não tinha? Como reagiu?",
+      "Há uma raiva antiga, por algo terrível que lhe fizeram, que você ainda não teve coragem de dizer a Deus?"
     ],
-    "application": "Se há uma dor ou violência do passado que ainda o revolta, escreva sobre ela e entregue a raiva a Deus, como o salmista faz. Não transforme essa dor em ação contra pessoas.",
+    "application": "Se há uma dor ou violência do passado que ainda o revolta, escreva sobre ela sem suavizar e leia diante de Deus. Depois, peça a ele que guarde a justiça — e procure ajuda pastoral ou terapêutica se essa ferida ainda governa suas reações.",
     "prayer": "Senhor, junto aos rios da Babilônia nos assentamos e choramos. Como cantar o teu cântico em terra estranha? Recebe a minha dor, cura o que a violência deixou em mim e faz justiça. Amém."
   },
   {
@@ -15502,20 +15502,20 @@ window.SALMOS = [
     "psalm": 138,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 138",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 138 · Ele completará o que começou",
     "date": "Salmo 138",
     "verse": {
-      "text": "Ore e leia o Salmo 138 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 138"
+      "text": "Ainda que eu passe por angústias, tu me preservas a vida da ira dos meus inimigos; estendes a tua mão direita e me livras. O Senhor cumprirá o seu propósito para comigo! Teu amor, Senhor, permanece para sempre; não abandones as obras das tuas mãos!",
+      "ref": "Salmo 138.7–8"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "גָּמַר",
+      "translit": "gamar",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "completar, levar a termo",
+      "note": "No versículo 8, “O Senhor cumprirá o seu propósito para comigo” usa gamar: terminar, concluir, levar até o fim. Deus não abandona projetos pela metade. Paulo diz o mesmo: “aquele que começou boa obra em vocês vai completá-la” (Fp 1.6)."
     },
-    "context": "Este é o dia 138 da jornada pelo Saltério. Leia o Salmo 138 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Primeiro de uma última coleção de oito salmos de Davi (138–145). É uma ação de graças pessoal que se amplia: começa com o louvor individual “diante dos deuses” (v. 1–3), passa para os reis da terra que ouvirão as promessas de Deus (v. 4–6) e termina com a confiança de que Deus completará o que começou (v. 7–8).",
     "passage": {
       "ref": "Salmo 138 · capítulo completo (NVI)",
       "verses": [
@@ -15554,16 +15554,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 138 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Diante dos deuses cantarei louvores a ti.” Davi louva o Senhor na frente de quaisquer outros poderes que pretendam ser divinos. É um louvor corajoso, público, quase provocativo. Quando cantamos a Deus num ambiente que adora outras coisas, nosso louvor também é testemunho.",
+      "“Quando clamei, tu me respondeste; deste-me força e coragem.” A resposta de Deus nem sempre muda a situação; às vezes muda quem está nela. Davi recebeu força interior — literalmente, “tornaste-me ousado na minha alma”. Há orações atendidas que se manifestam como coragem nova.",
+      "“Não abandones as obras das tuas mãos!” Davi sabe que é obra de Deus — e uma obra inacabada. Ele pede que o Artista não largue a escultura no meio. É uma oração para quem se sente incompleto, em processo, com áreas ainda por fazer. Deus não desiste do que começou."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Em que ambiente você precisa louvar a Deus “diante dos deuses” — onde outras coisas são adoradas?",
+      "Que oração sua foi atendida com coragem, e não com mudança de circunstância?",
+      "Que área da sua vida parece uma “obra inacabada” que você precisa confiar a Deus?"
     ],
-    "application": "Entregue a Deus um projeto inacabado da sua vida e ore o versículo 8: 'O Senhor cumprirá o seu propósito para comigo'.",
+    "application": "Escreva o nome de um projeto inacabado da sua vida — um sonho, uma restauração, um processo de cura ou santificação — e coloque ao lado o versículo 8. Ore hoje pedindo que Deus não abandone as obras das suas mãos.",
     "prayer": "Senhor, eu te louvarei de todo o coração. Quando clamei, tu me respondeste e fortaleceste a minha alma. Ainda que eu passe por angústias, tu preservas a minha vida. Cumpre o teu propósito para comigo. Amém."
   },
   {
@@ -15571,20 +15571,20 @@ window.SALMOS = [
     "psalm": 139,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 139",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 139 · Conhecido por inteiro",
     "date": "Salmo 139",
     "verse": {
-      "text": "Ore e leia o Salmo 139 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 139"
+      "text": "Tu criaste o íntimo do meu ser e me teceste no ventre de minha mãe. Eu te louvo porque me fizeste de modo especial e admirável. Tuas obras são maravilhosas! Disso tenho plena certeza.",
+      "ref": "Salmo 139.13–14"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חָקַר",
+      "translit": "chaqar",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "sondar, investigar a fundo",
+      "note": "Chaqar é o verbo de quem cava em busca de minério, explorando o que está oculto. O salmo começa e termina com ele: “tu me sondas” (v. 1) e “Sonda-me” (v. 23). Entre uma frase e outra, o salmista descobre que ser investigado por Deus não é ameaça, mas o conhecimento mais amoroso que existe."
     },
-    "context": "Este é o dia 139 da jornada pelo Saltério. Leia o Salmo 139 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Um dos salmos mais pessoais e profundos de Davi. Tem quatro estrofes: Deus conhece tudo (v. 1–6), Deus está em todo lugar (v. 7–12), Deus formou o salmista no ventre (v. 13–18) e, por fim, o desejo de justiça e o pedido de exame (v. 19–24). Os versículos 13–16 são uma das mais belas meditações bíblicas sobre a vida antes do nascimento.",
     "passage": {
       "ref": "Salmo 139 · capítulo completo (NVI)",
       "verses": [
@@ -15687,16 +15687,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 139 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Deus sabe quando nos sentamos e levantamos, conhece nossos pensamentos de longe, sabe a palavra antes que ela chegue à língua. Para alguns, isso dá medo de vigilância. Para Davi, é “maravilhoso demais”. Ser totalmente conhecido e, ainda assim, não rejeitado — é isso que o coração humano mais deseja.",
+      "“Para onde poderia fugir da tua presença?” Céus, sepultura, extremo do mar, trevas — nenhum lugar fica fora do alcance de Deus. Para quem está fugindo, isso pode parecer perseguição. Para quem está perdido, é consolo: até no lugar mais escuro, “a tua mão direita me guiará”. Para ele, “as trevas são luz”.",
+      "“Tu criaste o íntimo do meu ser e me teceste no ventre de minha mãe.” A imagem é de tecelagem: Deus trançou cada fibra. Antes de qualquer conquista ou fracasso, você foi feito “de modo especial e admirável”. Seu valor não começou no que você fez, mas no que Deus fez em você. E todos os seus dias foram escritos antes de existir o primeiro."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Ser totalmente conhecido por Deus lhe dá mais medo ou mais alívio? Por quê?",
+      "Há algum lugar — físico ou emocional — em que você achou que Deus não estaria?",
+      "Você consegue olhar para si mesmo e dizer, com o salmista, “me fizeste de modo especial e admirável”?"
     ],
-    "application": "Ore os versículos 23–24 — 'Sonda-me, ó Deus, e conhece o meu coração' — e anote o que ele mostrar. Agradeça também por ter sido 'feito de modo especial e admirável' (v. 14).",
+    "application": "Olhe-se no espelho hoje e leia o versículo 14 em voz alta, devagar. Depois ore os versículos 23–24 e anote uma coisa que Deus trouxer à sua mente para ser corrigida — e uma coisa em você pela qual agradecer.",
     "prayer": "Senhor, tu me sondas e me conheces. Não há lugar para onde eu possa fugir da tua presença. Eu te louvo porque me fizeste de modo especial e admirável. Sonda-me e guia-me pelo caminho eterno. Amém."
   },
   {
@@ -15704,20 +15704,20 @@ window.SALMOS = [
     "psalm": 140,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 140",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 140 · Veneno de víbora nos lábios",
     "date": "Salmo 140",
     "verse": {
-      "text": "Ore e leia o Salmo 140 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 140"
+      "text": "Sei que o Senhor defenderá a causa do necessitado e fará justiça aos pobres. Com certeza os justos darão graças ao teu nome, e os homens íntegros viverão na tua presença.",
+      "ref": "Salmo 140.12–13"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חָמָס",
+      "translit": "chamas",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "violência, injustiça brutal",
+      "note": "Chamas é a violência que destrói a vida e a ordem, a mesma palavra que descreve a terra antes do dilúvio (Gn 6.11). O salmo pede livramento do “homem de chamas” (v. 1, 4, 11). A violência começa “no coração” (v. 2) e se espalha pela língua (v. 3) e pelas mãos (v. 4)."
     },
-    "context": "Este é o dia 140 da jornada pelo Saltério. Leia o Salmo 140 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Lamento individual de Davi, com estrutura marcada por “Pausa”. Descreve inimigos violentos e caluniadores (v. 1–5), declara confiança em Deus como protetor “no dia da batalha” (v. 6–8), pede que o mal recaia sobre quem o planejou (v. 9–11) e termina com uma certeza sobre a justiça de Deus para os pobres (v. 12–13). Paulo cita o versículo 3 em Romanos 3.13.",
     "passage": {
       "ref": "Salmo 140 · capítulo completo (NVI)",
       "verses": [
@@ -15776,16 +15776,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 140 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“No coração tramam planos perversos.” O salmo localiza a origem da violência: o coração. Antes de ferir com as mãos ou com a língua, a pessoa fere com o pensamento. Jesus disse algo parecido: é do coração que procedem os maus pensamentos (Mt 15.19). Cuidar do coração é a primeira defesa contra a violência.",
+      "“Tu me proteges a cabeça no dia da batalha.” Davi, o guerreiro, sabe a importância do capacete. Deus é descrito como aquele que cobre a cabeça. Paulo falará do “capacete da salvação” (Ef 6.17). Em meio a ataques de palavras e armadilhas, a mente precisa estar protegida pela certeza de quem Deus é.",
+      "“Sei que o Senhor defenderá a causa do necessitado.” Davi não termina com emoção, mas com conhecimento: “sei”. É uma certeza teológica, não um sentimento. Pode não parecer agora, mas Deus está do lado do pobre. E a promessa final é presença: “os homens íntegros viverão na tua presença”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que planos ou ressentimentos têm sido tramados no seu próprio coração e precisam ser desfeitos?",
+      "Que “dia de batalha” você está enfrentando, e sua mente está protegida?",
+      "O que você “sabe” sobre Deus que pode sustentá-lo mesmo quando não sente?"
     ],
-    "application": "Leve a Deus uma situação em que palavras ou planos têm sido 'veneno' contra você (v. 3). Entregue a causa ao Senhor, que 'defende a causa do necessitado' (v. 12).",
+    "application": "Se alguém tem usado palavras venenosas contra você, não responda com o mesmo veneno. Escreva uma oração entregando a situação a Deus e termine copiando o versículo 12. Se você for o que tem usado palavras venenosas, peça perdão hoje.",
     "prayer": "Senhor, livra-me dos maus e protege-me dos violentos. Tu és o meu Deus; ouve o meu clamor. Sei que defendes a causa do necessitado e fazes justiça aos pobres. Amém."
   },
   {
@@ -15793,20 +15793,20 @@ window.SALMOS = [
     "psalm": 141,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 141",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 141 · Oração como incenso",
     "date": "Salmo 141",
     "verse": {
-      "text": "Ore e leia o Salmo 141 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 141"
+      "text": "Seja a minha oração como incenso diante de ti, e o levantar das minhas mãos, como a oferta da tarde. Coloca, Senhor, uma guarda à minha boca; vigia a porta de meus lábios.",
+      "ref": "Salmo 141.2–3"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "קְטֹרֶת",
+      "translit": "qetoret",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "incenso",
+      "note": "Qetoret era o incenso queimado no altar de ouro, diante do véu do Santo dos Santos, de manhã e à tarde (Êx 30.7–8). Sua fumaça subindo simbolizava oração. Davi, longe do templo, pede que sua oração substitua o incenso. Apocalipse 8.3–4 retoma a imagem: as orações dos santos sobem como incenso diante de Deus."
     },
-    "context": "Este é o dia 141 da jornada pelo Saltério. Leia o Salmo 141 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Oração da tarde de Davi, provavelmente de um tempo de exílio ou perseguição. Ele pede que sua oração seja aceita como incenso (v. 1–2), que Deus guarde sua boca e seu coração (v. 3–4), que ele aceite a correção do justo (v. 5) e que seja protegido das armadilhas dos ímpios (v. 6–10). Na igreja antiga, era cantado nas vésperas.",
     "passage": {
       "ref": "Salmo 141 · capítulo completo (NVI)",
       "verses": [
@@ -15853,16 +15853,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 141 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Seja a minha oração como incenso.” Davi não tem templo nem sacerdote, mas tem oração. Ele pede que o simples ato de levantar as mãos seja recebido como sacrifício. Não importa onde você esteja: sua oração pode subir a Deus como a fumaça perfumada do altar.",
+      "“Coloca, Senhor, uma guarda à minha boca.” O primeiro pedido de proteção não é contra os inimigos, mas contra si mesmo. Davi sabe que sua própria boca pode ser perigosa. Quando estamos sob pressão, a língua tende a sair do controle. Ele pede um vigia à porta dos lábios.",
+      "“Fira-me o justo com amor leal e me repreenda.” É uma das frases mais maduras do Saltério. Davi prefere a correção dolorosa de um amigo justo ao elogio perfumado de um ímpio. Receber repreensão é sinal de sabedoria (Pv 27.6). Quem ora assim está pronto para crescer."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você acredita que sua oração, onde quer que você esteja, sobe a Deus como incenso?",
+      "Em que situações sua boca mais precisa de uma “guarda”?",
+      "Há alguém justo que o corrige com amor? Você tem recebido essa correção como presente ou como ofensa?"
     ],
-    "application": "Ore o versículo 3 antes de cada conversa difícil hoje: 'Coloca, Senhor, uma guarda à minha boca'. Esteja aberto também a receber correção de alguém justo (v. 5).",
+    "application": "Ao final da tarde de hoje, acenda um incenso, uma vela ou apenas levante as mãos e ore o versículo 2. Antes de qualquer conversa difícil, repita em silêncio o versículo 3.",
     "prayer": "Senhor, que a minha oração suba como incenso e o levantar das minhas mãos como oferta da tarde. Põe uma guarda à minha boca e não deixes o meu coração inclinar-se para o mal. Amém."
   },
   {
@@ -15870,20 +15870,20 @@ window.SALMOS = [
     "psalm": 142,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 142",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 142 · Ninguém se importa comigo",
     "date": "Salmo 142",
     "verse": {
-      "text": "Ore e leia o Salmo 142 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 142"
+      "text": "Olha para a minha direita e vê; ninguém se preocupa comigo. Não tenho abrigo seguro; ninguém se importa com a minha vida. Clamo a ti, Senhor, e digo: \"Tu és o meu refúgio; és tudo o que tenho que na terra dos viventes.",
+      "ref": "Salmo 142.4–5"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "שִׂיחַ",
+      "translit": "siach",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "queixa, lamento, meditação em voz alta",
+      "note": "Siach é a fala que se derrama: queixa, desabafo, meditação expressa em palavras. No versículo 2, Davi “derrama” diante de Deus o seu siach. É a mesma palavra do título do Salmo 102. Deus não pede que filtremos o desabafo; pede que o derramemos diante dele."
     },
-    "context": "Este é o dia 142 da jornada pelo Saltério. Leia o Salmo 142 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Oração de Davi “quando estava na caverna” — provavelmente a de Adulão (1Sm 22.1) ou de En-Gedi (1Sm 24). É um maskil, um salmo de instrução. Davi está acuado, sem abrigo, sozinho. O salmo vai do clamor (v. 1–2) à solidão (v. 3–4), à confissão de que Deus é sua porção (v. 5) e ao pedido de libertação “da prisão” (v. 6–7).",
     "passage": {
       "ref": "Salmo 142 · capítulo completo (NVI)",
       "verses": [
@@ -15918,16 +15918,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 142 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Derramo diante dele o meu lamento.” O verbo é de água saindo de um recipiente. Davi não arruma palavras; despeja. Há momentos em que a oração mais honesta é um desabafo desordenado. Deus prefere nosso derramamento sincero a nossa compostura religiosa.",
+      "“Olha para a minha direita e vê; ninguém se preocupa comigo.” A direita era o lugar do defensor no tribunal. Davi olha e não há ninguém. A solidão é real: sem abrigo, sem amigos, sem advogado. O salmo não suaviza essa experiência. E então vem a virada: “Tu és o meu refúgio; és tudo o que tenho”. Quando todos se afastam, Deus continua sendo porção.",
+      "“Liberta-me da prisão.” A caverna era literalmente uma prisão de pedra. E o pedido termina com uma promessa: “os justos se reunirão à minha volta”. Davi passou de sozinho a cercado de gente — de fato, na caverna de Adulão, 400 homens se juntaram a ele. A solidão não foi o fim da história."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você se permite derramar sua queixa diante de Deus, ou tenta organizá-la antes?",
+      "Há momentos em que você sente que “ninguém se importa”? Como esse salmo fala com você?",
+      "Que “caverna” atual Deus pode estar transformando em lugar de reunião e comunhão?"
     ],
-    "application": "Se você se sente sem ninguém que se importe (v. 4), derrame sua queixa diante de Deus (v. 2) em voz alta ou por escrito. Depois procure uma pessoa de confiança e compartilhe seu fardo.",
+    "application": "Escreva sem filtro, por dez minutos, tudo o que você sente agora — um siach derramado diante de Deus. Depois leia o versículo 5 em voz alta. Se a solidão for forte, procure hoje uma pessoa de confiança e compartilhe um pouco do que escreveu.",
     "prayer": "Senhor, clamo a ti e digo: tu és o meu refúgio, a minha porção na terra dos viventes. Ouve o meu clamor, pois estou muito abatido. Liberta-me da prisão, e os justos se reunirão ao meu redor. Amém."
   },
   {
@@ -15935,20 +15935,20 @@ window.SALMOS = [
     "psalm": 143,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 143",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 143 · Terra árida, sede de Deus",
     "date": "Salmo 143",
     "verse": {
-      "text": "Ore e leia o Salmo 143 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 143"
+      "text": "Estendo as minhas mãos para ti; como a terra árida, tenho sede de ti. Apressa-te em responder-me, Senhor! O meu espírito se abate. Não escondas de mim o teu rosto, ou serei como os que descem à cova. Faze-me ouvir do teu amor leal pela manhã, pois em ti confio. Mostra-me o caminho que devo seguir, pois a ti elevo a minha alma.",
+      "ref": "Salmo 143.6–8"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "עָיֵף",
+      "translit": "ayef",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "cansado, árido, sedento",
+      "note": "Ayef descreve a terra exausta pela seca e o viajante esgotado no deserto. No versículo 6, “como a terra árida, tenho sede de ti” — a alma de Davi está rachada como solo sem chuva. Mas é justamente a terra seca que mais absorve a água quando ela vem."
     },
-    "context": "Este é o dia 143 da jornada pelo Saltério. Leia o Salmo 143 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Último dos sete salmos penitenciais e oração de Davi em meio à perseguição. Não confessa um pecado específico, mas reconhece que “ninguém é justo diante de ti” (v. 2) — frase que Paulo ecoa em Romanos 3.20 e Gálatas 2.16. Move-se da angústia (v. 1–4) para a memória e a sede (v. 5–6) e, então, para pedidos de manhã, direção e ensino (v. 7–12).",
     "passage": {
       "ref": "Salmo 143 · capítulo completo (NVI)",
       "verses": [
@@ -16003,16 +16003,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 143 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Não leves o teu servo a julgamento, pois ninguém é justo diante de ti.” Davi pede justiça contra os inimigos, mas sabe que ele mesmo não resistiria a um julgamento rigoroso. É a postura de quem pede socorro sem se apresentar como inocente. A graça começa quando paramos de argumentar com nossos méritos.",
+      "“Eu me recordo dos tempos antigos... Estendo as minhas mãos para ti.” A memória das obras de Deus leva Davi a estender as mãos como terra seca que espera chuva. Quanto mais lembramos do que Deus fez, mais sede temos dele. A memória não sacia; desperta o desejo.",
+      "“Faze-me ouvir do teu amor leal pela manhã.” Depois da noite de trevas (v. 3), Davi quer ouvir o hesed ao amanhecer. E pede três coisas: “mostra-me o caminho”, “ensina-me a fazer a tua vontade”, “que o teu bondoso Espírito me conduza por terreno plano”. Não pede só alívio, mas formação. Quer sair da crise mais parecido com Deus."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Ao orar, você tende a se apresentar como inocente ou como alguém que depende da graça?",
+      "Que lembrança das obras de Deus desperta mais sede dele em você?",
+      "Em sua crise atual, você tem pedido apenas alívio ou também que Deus o ensine e forme?"
     ],
-    "application": "Quando sua alma estiver 'como terra árida' (v. 6), estenda as mãos a Deus em oração. Peça pela manhã que ele 'mostre o caminho por onde devo andar' (v. 8).",
+    "application": "Amanhã pela manhã, antes de qualquer outra coisa, ore o versículo 8. Durante o dia, observe uma decisão em que você precise de direção e peça ao Espírito “terreno plano”, ou seja, um caminho claro.",
     "prayer": "Senhor, ouve a minha oração. Não entres em juízo com o teu servo, pois ninguém é justo diante de ti. De manhã faze-me ouvir do teu amor; mostra-me o caminho que devo seguir. Amém."
   },
   {
@@ -16020,20 +16020,20 @@ window.SALMOS = [
     "psalm": 144,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 144",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 144 · Um sopro que Deus treina",
     "date": "Salmo 144",
     "verse": {
-      "text": "Ore e leia o Salmo 144 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 144"
+      "text": "Senhor, que é o homem para que te importes com ele, ou o filho do homem para que por ele te interesses? O homem é como um sopro; seus dias são como uma sombra passageira.",
+      "ref": "Salmo 144.3–4"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חֶסֶד",
+      "translit": "hesed",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "amor leal, aliado fiel",
+      "note": "No versículo 2, “Ele é o meu aliado fiel” traduz literalmente “meu hesed”. Davi chama o próprio Deus de “meu amor leal”. A primeira palavra da lista de títulos não é força nem fortaleza, mas fidelidade amorosa. Antes de ser escudo, Deus é amor que não desiste."
     },
-    "context": "Este é o dia 144 da jornada pelo Saltério. Leia o Salmo 144 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Salmo real de Davi que reaproveita trechos do Salmo 18 e do Salmo 8. Começa com louvor ao Deus que treina para a batalha (v. 1–2), passa pela fragilidade humana (v. 3–4), pede uma intervenção divina contra estrangeiros mentirosos (v. 5–11) e termina com a visão de uma nação próspera e em paz (v. 12–15).",
     "passage": {
       "ref": "Salmo 144 · capítulo completo (NVI)",
       "verses": [
@@ -16100,16 +16100,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 144 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Bendito seja o Senhor... que treina as minhas mãos para a guerra.” Deus não só luta por Davi; ele o capacita para lutar. Há batalhas que Deus vence sem nós e outras para as quais ele nos prepara. O treinamento faz parte do cuidado. As dificuldades de hoje podem ser o campo de treino de amanhã.",
+      "“Que é o homem para que te importes com ele?” A mesma pergunta do Salmo 8 reaparece, mas aqui com outro tom: “O homem é como um sopro; seus dias são como uma sombra passageira”. O rei guerreiro sabe que é frágil. A força que Deus lhe dá não o faz esquecer que é pó. Humildade e coragem andam juntas.",
+      "O final é uma imagem de bem-estar comunitário: filhos como plantas viçosas, filhas como colunas de palácio, celeiros cheios, ruas sem gritos de aflição. A vitória não é para glória do rei, mas para a paz do povo. E a última frase resume: “Como é feliz o povo cujo Deus é o Senhor!”."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que dificuldade atual pode ser um “treino” que Deus está usando para prepará-lo?",
+      "Você consegue ser corajoso sem esquecer que é “um sopro”?",
+      "Que bênção você deseja para a próxima geração da sua família ou igreja?"
     ],
-    "application": "Ore pelos jovens da sua família ou igreja usando o versículo 12: 'que os nossos filhos sejam como plantas viçosas'. Reconheça também a brevidade da vida (v. 4) ao fazer seus planos.",
+    "application": "Ore hoje pelos jovens da sua família ou igreja pelo nome, usando o versículo 12. Se possível, envie a um deles uma mensagem de encorajamento dizendo que você orou por ele.",
     "prayer": "Bendito seja o Senhor, a minha rocha, que treina as minhas mãos para a batalha. Que é o homem para que te importes com ele? Feliz o povo cujo Deus é o Senhor. Amém."
   },
   {
@@ -16117,20 +16117,20 @@ window.SALMOS = [
     "psalm": 145,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 145",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 145 · Bondoso para com todos",
     "date": "Salmo 145",
     "verse": {
-      "text": "Ore e leia o Salmo 145 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 145"
+      "text": "O Senhor é misericordioso e compassivo, paciente e transbordante de amor. O Senhor é bom para todos; a sua compaixão alcança todas as suas criaturas.",
+      "ref": "Salmo 145.8–9"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "מַלְכוּת",
+      "translit": "malkhut",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "reino, reinado",
+      "note": "Malkhut aparece quatro vezes nos versículos 11–13: o reino de Deus é glorioso, esplendoroso, eterno. Este salmo é a última oração de Davi no Saltério, e o rei termina falando do reino de outro. Davi chama Deus de “meu rei” no primeiro versículo: até o maior rei de Israel tinha um Rei."
     },
-    "context": "Este é o dia 145 da jornada pelo Saltério. Leia o Salmo 145 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Último salmo de Davi no Saltério e o último acróstico, cada versículo começando com uma letra do alfabeto hebraico (falta a letra nun no texto massorético, mas ela aparece em um manuscrito do Mar Morto e na Septuaginta). O Talmude diz que quem o recita três vezes ao dia tem parte no mundo vindouro. Prepara o grande final de louvor dos Salmos 146–150.",
     "passage": {
       "ref": "Salmo 145 · capítulo completo (NVI)",
       "verses": [
@@ -16221,16 +16221,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 145 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Todos os dias te bendirei.” O louvor não é para dias especiais, mas diários. E a palavra “todos” domina o salmo: todos os dias, todas as criaturas, todos os que caem, todos os que o invocam, todo ser vivo. A bondade de Deus é universal; o louvor também deve ser.",
+      "O versículo 8 cita de novo Êxodo 34.6: “misericordioso e compassivo, paciente e transbordante de amor”. E o versículo 9 amplia: “bom para todos; a sua compaixão alcança todas as suas criaturas”. Não há criatura fora da compaixão de Deus. Isso inclui quem você considera difícil de amar.",
+      "“O Senhor ampara todos os que caem e levanta todos os que estão prostrados.” O Rei eterno se ocupa com os caídos. “Os olhos de todos estão voltados para ti, e tu lhes dás o alimento no devido tempo.” É uma imagem de uma família à mesa, todos olhando para o pai que serve. O reino de Deus é grandioso e, ao mesmo tempo, doméstico."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você louva a Deus “todos os dias”, ou só quando algo extraordinário acontece?",
+      "Quem você tem dificuldade de ver como alcançado pela compaixão de Deus?",
+      "Em que área você caiu e precisa ser levantado pelo Rei?"
     ],
-    "application": "Siga o versículo 4: conte a uma geração mais jovem uma obra de Deus. Depois, louve-o especificamente por ser 'bondoso para com todos' (v. 9).",
+    "application": "Siga o costume antigo de recitar este salmo três vezes hoje — manhã, tarde e noite —, ou ao menos os versículos 8–9 e 14–16. Em cada vez, nomeie alguém que precisa da compaixão de Deus.",
     "prayer": "Eu te exaltarei, meu Deus e meu Rei; bendirei o teu nome para todo o sempre. Tu és misericordioso e compassivo, paciente e cheio de amor. Estás perto de todos os que te invocam. Amém."
   },
   {
@@ -16238,20 +16238,20 @@ window.SALMOS = [
     "psalm": 146,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 146",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 146 · Não confiem em príncipes",
     "date": "Salmo 146",
     "verse": {
-      "text": "Ore e leia o Salmo 146 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 146"
+      "text": "Não confiem em príncipes, em meros mortais, incapazes de salvar. Quando o espírito deles se vai, voltam ao pó; naquele mesmo dia acabam-se os seus planos. Como é feliz aquele cujo auxílio é o Deus de Jacó, cuja esperança está no Senhor, no seu Deus,",
+      "ref": "Salmo 146.3–5"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "אָדָם",
+      "translit": "adam",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "ser humano, filho da terra",
+      "note": "No versículo 3, “meros mortais” traduz ben-adam, “filho de Adão”. Adam está ligado a adamah, “terra, solo”. O versículo 4 completa o jogo de palavras: quando o espírito se vai, os seres humanos “voltam ao pó” (adamah). Príncipes também são feitos de terra."
     },
-    "context": "Este é o dia 146 da jornada pelo Saltério. Leia o Salmo 146 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Primeiro dos cinco salmos de “Aleluia” que encerram o Saltério (146–150), todos começando e terminando com essa palavra. O salmista se compromete a louvar enquanto viver (v. 1–2), adverte contra a confiança em líderes humanos (v. 3–4) e descreve o Deus que cuida dos vulneráveis com uma lista de nove ações (v. 5–10). Jesus cita parte dessas ações para descrever seu ministério (Lc 4.18; 7.22).",
     "passage": {
       "ref": "Salmo 146 · capítulo completo (NVI)",
       "verses": [
@@ -16298,16 +16298,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 146 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Louve, ó minha alma ao Senhor.” Assim como no Salmo 103, o salmista convoca a própria alma. E se compromete: “por toda a minha vida”, “enquanto eu viver”. O louvor não é um evento, é uma vocação vitalícia. Não há aposentadoria da adoração.",
+      "“Não confiem em príncipes.” Num tempo de idolatria de líderes políticos, celebridades e influenciadores, este verso é urgente. Por mais competentes que sejam, são “meros mortais”. “Naquele mesmo dia acabam-se os seus planos.” Respeitar líderes é bíblico; depositar neles a esperança de salvação é idolatria.",
+      "A lista de ações de Deus é concreta: defende oprimidos, alimenta famintos, liberta presos, dá vista a cegos, levanta abatidos, protege estrangeiros, sustenta órfãos e viúvas. São exatamente os que os príncipes costumam ignorar. Quando Jesus abriu olhos de cegos e libertou cativos, estava mostrando que esse Deus tinha chegado."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você se comprometeria a louvar a Deus “enquanto viver”, em qualquer circunstância?",
+      "Em que líder, partido ou figura pública você tem depositado uma esperança que só Deus pode sustentar?",
+      "Qual das ações de Deus nos versículos 7–9 você poderia imitar concretamente esta semana?"
     ],
-    "application": "Identifique em quem você tem depositado confiança excessiva — líderes, chefes, sistemas (v. 3). Transfira essa confiança para Deus e faça hoje algo por um estrangeiro, órfão ou viúva (v. 9).",
+    "application": "Escolha uma das ações dos versículos 7–9 — alimentar um faminto, visitar um preso, apoiar um estrangeiro, cuidar de um órfão ou viúva — e faça algo concreto nessa direção hoje ou planeje para esta semana.",
     "prayer": "Aleluia! Louvarei o Senhor por toda a minha vida. Não confio em príncipes, mas no Deus que faz justiça aos oprimidos, dá pão aos famintos e liberta os presos. Amém."
   },
   {
@@ -16315,20 +16315,20 @@ window.SALMOS = [
     "psalm": 147,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 147",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 147 · Quem conta as estrelas cura corações",
     "date": "Salmo 147",
     "verse": {
-      "text": "Ore e leia o Salmo 147 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 147"
+      "text": "Só ele cura os de coração quebrantado e cuida das suas feridas. Ele determina o número de estrelas e chama cada uma pelo nome.",
+      "ref": "Salmo 147.3–4"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "חָבַשׁ",
+      "translit": "chavash",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "atar, enfaixar feridas",
+      "note": "Chavash é o gesto de quem envolve uma ferida com faixas, como um médico ou um pai cuidadoso. No versículo 3, Deus “cuida das suas feridas” — literalmente, enfaixa-as. Isaías usa o mesmo verbo para o Messias que veio “cuidar dos que estão com o coração quebrantado” (Is 61.1)."
     },
-    "context": "Este é o dia 147 da jornada pelo Saltério. Leia o Salmo 147 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino de louvor do grupo final de Aleluias, provavelmente composto depois do retorno do exílio, quando Jerusalém estava sendo reconstruída (v. 2, 13). Tem três estrofes, cada uma iniciada com um convite ao louvor (v. 1, 7, 12): Deus que reconstrói e cura, Deus que sustenta a criação, Deus que envia sua palavra.",
     "passage": {
       "ref": "Salmo 147 · capítulo completo (NVI)",
       "verses": [
@@ -16415,16 +16415,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 147 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "Os versículos 3 e 4 estão lado a lado de propósito: “Só ele cura os de coração quebrantado” e “Ele determina o número de estrelas e chama cada uma pelo nome”. O Deus que nomeia bilhões de estrelas não está ocupado demais para enfaixar seu coração. A grandeza e a ternura moram juntas.",
+      "“Não é a força do cavalo que lhe dá satisfação, nem é a agilidade do homem.” Deus não se impressiona com desempenho. Em uma cultura que mede valor por força, velocidade e produtividade, o salmo diz: Deus se agrada “dos que o temem, dos que colocam a esperança no seu amor leal”. O que lhe agrada não é sua performance, mas sua confiança.",
+      "Neve como lã, geada como cinza, gelo como pedra — e então “ele envia a sua palavra, e o gelo derrete”. A mesma palavra que congela também derrete. Há corações congelados por dor, decepção ou pecado. A palavra de Deus tem poder para fazer as águas voltarem a correr. O degelo começa quando ele fala."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Você acredita que o Deus que conta estrelas tem tempo para enfaixar o seu coração?",
+      "Você tem tentado impressionar Deus com sua “força” ou descansado em seu amor leal?",
+      "Que área “congelada” da sua vida precisa da palavra que derrete o gelo?"
     ],
-    "application": "Se você está de coração quebrantado, leia o versículo 3 como promessa pessoal. Depois, olhe as estrelas à noite e lembre que o mesmo Deus que as chama pelo nome conhece você (v. 4).",
+    "application": "Esta noite, olhe o céu e tente contar algumas estrelas. Lembre-se de que Deus conhece o nome de cada uma. Depois, nomeie diante dele uma ferida do seu coração e peça que ele a “enfaixe” (v. 3).",
     "prayer": "Senhor, tu curas os de coração quebrantado e tratas as suas feridas. Contas as estrelas e chamas cada uma pelo nome. Grande és tu; o teu entendimento não tem limite. Amém."
   },
   {
@@ -16432,20 +16432,20 @@ window.SALMOS = [
     "psalm": 148,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 148",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 148 · Coro de toda a criação",
     "date": "Salmo 148",
     "verse": {
-      "text": "Ore e leia o Salmo 148 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 148"
+      "text": "moços e moças, velhos e crianças. Louvem todos o nome do Senhor, pois somente o seu nome é exaltado; a sua majestade está acima da terra e dos céus.",
+      "ref": "Salmo 148.12–13"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "הַלְלוּ",
+      "translit": "hallelu",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "louvem!",
+      "note": "Hallelu é o imperativo plural de “louvar”, de onde vem “Aleluia” (hallelu-Yah, “louvem o Senhor”). Neste salmo, a palavra aparece repetidamente, dirigida a anjos, astros, mares, montes, animais, reis e crianças. Ninguém e nada está dispensado do convite."
     },
-    "context": "Este é o dia 148 da jornada pelo Saltério. Leia o Salmo 148 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Hino cósmico de louvor que convoca toda a criação em duas grandes partes: os céus (v. 1–6), com anjos, sol, lua, estrelas e águas superiores; e a terra (v. 7–14), com monstros marinhos, fenômenos do clima, montanhas, árvores, animais e todas as classes de seres humanos. É a inspiração do “Cântico do Irmão Sol”, de Francisco de Assis.",
     "passage": {
       "ref": "Salmo 148 · capítulo completo (NVI)",
       "verses": [
@@ -16508,16 +16508,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 148 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O salmo começa “desde os céus” e desce até “as profundezas”. É um movimento vertical que cobre tudo. Não há lugar no universo que não deva louvar. Até “serpentes marinhas” e “vendavais” entram no coro. O que parece assustador ou caótico também está sob o domínio de Deus e serve à sua glória.",
+      "Os seres humanos aparecem por último e em todas as categorias: reis e povos, governantes e juízes, moços e moças, velhos e crianças. Nenhuma posição social, idade ou gênero fica de fora. O louvor nivela: diante de Deus, o rei e a criança cantam a mesma canção.",
+      "“Somente o seu nome é exaltado.” No fim, toda a criação aponta para um só nome. Sol e lua não são deuses, são coristas. Montanhas não são sagradas por si; louvam. A criação não é para ser adorada, mas para nos ensinar a adorar. Quando nos juntamos a ela, encontramos nosso lugar no universo."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que parte da criação mais o convida ao louvor?",
+      "Há algo que parece caótico ou assustador na sua vida que também pode estar, de algum modo, servindo à glória de Deus?",
+      "Você se vê como parte do grande coro da criação, ao lado de crianças, velhos e reis?"
     ],
-    "application": "Saia ao ar livre hoje e observe sol, céu, árvores e animais. Junte-se a eles, como o salmo convida, e louve a Deus em voz alta com tudo o que existe.",
+    "application": "Saia ao ar livre hoje e, para cada elemento da criação que você observar — céu, árvore, pássaro, vento —, diga em voz baixa: “Louvem o Senhor!”. Termine com o versículo 13.",
     "prayer": "Aleluia! Louvem o Senhor desde os céus! Sol, lua, estrelas, mares, montes, árvores, animais, reis e crianças: que tudo louve o teu nome, pois só o teu nome é exaltado. Amém."
   },
   {
@@ -16525,20 +16525,20 @@ window.SALMOS = [
     "psalm": 149,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 149",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 149 · Deus se agrada do seu povo",
     "date": "Salmo 149",
     "verse": {
-      "text": "Ore e leia o Salmo 149 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 149"
+      "text": "O Senhor agrada-se do seu povo; ele coroa de vitória os oprimidos.",
+      "ref": "Salmo 149.4"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "רָצָה",
+      "translit": "ratsah",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "agradar-se, ter prazer, aceitar",
+      "note": "Ratsah é o prazer de quem aceita com alegria uma oferta ou uma pessoa. No versículo 4, “O Senhor agrada-se do seu povo” usa essa palavra. Deus não apenas tolera o seu povo; tem prazer nele. Isso inverte a pergunta: não é só se nós gostamos de Deus, mas se acreditamos que ele gosta de nós."
     },
-    "context": "Este é o dia 149 da jornada pelo Saltério. Leia o Salmo 149 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Penúltimo salmo de Aleluia. Convida Israel a louvar com cântico novo, danças e instrumentos (v. 1–5) e então faz uma passagem abrupta para a imagem do povo com louvores nos lábios e espada nas mãos (v. 6–9). Esse trecho, usado historicamente para justificar violência religiosa, deve ser lido à luz de Cristo: a “espada de dois gumes” é a Palavra de Deus (Hb 4.12; Ef 6.17), e o juízo final pertence a Deus.",
     "passage": {
       "ref": "Salmo 149 · capítulo completo (NVI)",
       "verses": [
@@ -16581,16 +16581,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 149 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "“Cantem ao Senhor uma nova canção.” O cântico novo é para uma nova etapa da história de Deus com seu povo. Depois de 149 salmos, ainda há algo novo para cantar. A fé madura não fica presa à nostalgia; espera e celebra o que Deus está fazendo agora.",
+      "“O Senhor agrada-se do seu povo; ele coroa de vitória os oprimidos.” Talvez seja o verso mais surpreendente para muitos cristãos. Acostumados a pensar que Deus está sempre decepcionado conosco, ouvimos que ele tem prazer em nós. E a coroa não vai para os fortes, mas para os humildes, os oprimidos. Deus gosta de você.",
+      "“Altos louvores estejam em seus lábios e uma espada de dois gumes em suas mãos.” Louvor e luta, adoração e justiça. Na nova aliança, a espada é a Palavra de Deus, e nossa luta “não é contra seres humanos” (Ef 6.12). O louvor da igreja não é fuga do mundo; é a declaração de que Deus vai julgar e corrigir toda injustiça."
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Que “cântico novo” Deus tem colocado na sua vida nesta fase?",
+      "Você acredita, de verdade, que Deus se agrada de você? O que dificulta essa crença?",
+      "Como seu louvor pode estar ligado a um compromisso com a justiça no mundo?"
     ],
-    "application": "Cante hoje uma música de louvor — se possível, nova para você (v. 1). Lembre-se de que 'o Senhor se agrada do seu povo' (v. 4) e receba isso como verdade sobre você.",
+    "application": "Leia o versículo 4 em voz alta, colocando seu nome no lugar de “seu povo”: “O Senhor se agrada de [seu nome]”. Repita até que deixe de parecer estranho. Depois cante ou ouça uma canção de louvor nova para você.",
     "prayer": "Aleluia! Cantem ao Senhor um cântico novo. Tu te agradas do teu povo e coroas os humildes com a salvação. Que eu me alegre em ti, meu Criador e meu Rei. Amém."
   },
   {
@@ -16598,20 +16598,20 @@ window.SALMOS = [
     "psalm": 150,
     "part": 1,
     "parts": 1,
-    "theme": "Livro V · Peregrinação e louvor · Salmo 150",
+    "theme": "Livro V · Peregrinação e louvor · Salmo 150 · Tudo o que tem fôlego",
     "date": "Salmo 150",
     "verse": {
-      "text": "Ore e leia o Salmo 150 inteiro, permitindo que suas palavras deem linguagem à sua vida diante de Deus.",
-      "ref": "Salmo 150"
+      "text": "Tudo o que tem vida louve o Senhor! Aleluia!",
+      "ref": "Salmo 150.6"
     },
     "word": {
-      "original": "שָׁלוֹם",
-      "translit": "shalom",
+      "original": "נְשָׁמָה",
+      "translit": "neshamah",
       "lang": "hebraico",
-      "meaning": "paz, inteireza",
-      "note": "Neste trecho, a linguagem do Saltério convida a voltar-se a Deus com verdade. Leia o salmo inteiro na NVI e observe como shalom ganha forma em suas imagens, pedidos e louvor."
+      "meaning": "fôlego, sopro de vida",
+      "note": "Neshamah é o sopro que Deus soprou nas narinas de Adão em Gênesis 2.7, tornando-o ser vivo. O Saltério termina com essa palavra: “Tudo o que tem neshamah louve o Senhor”. O fôlego que recebemos de Deus volta para ele como louvor. Cada respiração é um convite."
     },
-    "context": "Este é o dia 150 da jornada pelo Saltério. Leia o Salmo 150 integralmente na NVI antes de seguir a meditação e perceba seu movimento: de que situação o salmista parte, o que pede e como se volta para Deus.",
+    "context": "Doxologia final do Saltério, encerrando tanto o Livro V quanto toda a coleção de 150 salmos. Em seis versículos, responde às perguntas onde (no santuário e no firmamento), por quê (pelos feitos e pela grandeza), como (com todos os instrumentos e danças) e quem (tudo o que tem fôlego) deve louvar. O verbo hebraico halal (“louvar”) aparece treze vezes. Depois de lamento, súplica, confissão e espera, o livro termina em puro louvor.",
     "passage": {
       "ref": "Salmo 150 · capítulo completo (NVI)",
       "verses": [
@@ -16642,16 +16642,16 @@ window.SALMOS = [
       ]
     },
     "meditation": [
-      "O Salmo 150 não exige que você chegue a Deus com sentimentos prontos. Ele oferece palavras para nomear a realidade diante daquele que escuta.",
-      "Observe qual verdade humana aparece no texto: louvor, medo, culpa, injustiça, gratidão ou espera. Nada disso precisa ser escondido de Deus.",
-      "Transforme a leitura em oração. Em vez de apenas analisar o salmo, responda ao Senhor com honestidade e dê hoje um pequeno passo de confiança."
+      "O Saltério começou com um homem meditando na lei (Salmo 1) e termina com o universo inteiro louvando. No meio, houve lágrimas, gritos, perguntas sem resposta, traições, exílios e silêncios. O louvor final não ignora essa jornada; é o seu destino. Quem atravessou os 150 salmos sabe que a última palavra pertence ao louvor.",
+      "Trombeta, lira, harpa, tamborins, danças, cordas, flautas, címbalos. Todos os instrumentos conhecidos são convocados, do mais solene ao mais festivo. O louvor não tem um único estilo. Barulhento e silencioso, antigo e novo, com corpo e com voz — tudo cabe quando o objetivo é Deus.",
+      "“Tudo o que tem vida louve o Senhor!” O último verso não exige instrumentos nem talento. Exige apenas fôlego. Se você está respirando, você está qualificado para louvar. Na doença, na velhice, no cansaço, enquanto houver ar nos pulmões, há motivo e capacidade de bendizer o Senhor. Aleluia!"
     ],
     "questions": [
-      "Que palavra ou imagem deste salmo mais descreve seu momento atual?",
-      "O que o texto revela sobre Deus que você precisa recordar?",
-      "Como este salmo pode se tornar sua oração concreta hoje?"
+      "Olhando para trás nesta jornada pelos Salmos, que oração mais o marcou?",
+      "Qual “instrumento” de louvor — sua voz, seu corpo, seu trabalho, seu silêncio — você mais tem oferecido a Deus?",
+      "Como seria viver cada respiração como oportunidade de louvor?"
     ],
-    "application": "Termine sua jornada pelos Salmos louvando a Deus com tudo o que tem fôlego (v. 6): cante, toque, dance ou apenas respire devagar, agradecendo pela vida.",
+    "application": "Termine esta jornada com um exercício de neshamah: respire fundo e devagar dez vezes. A cada expiração, diga um motivo de louvor a Deus, lembrando um salmo que o acompanhou. Encerre com um “Aleluia!” em voz alta.",
     "prayer": "Aleluia! Louvem a Deus no seu santuário e no firmamento do seu poder. Louvem-no pelos seus feitos poderosos e pela sua grandeza. Tudo o que tem vida louve o Senhor! Amém."
   }
 ];
