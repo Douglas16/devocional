@@ -32,8 +32,16 @@
   // Aceita o arquivo deste app; rejeita qualquer outra coisa.
   var parseBackup = function (text) {
     var obj;
-    try { obj = JSON.parse(String(text || '').trim().replace(/^﻿/, '')); }
-    catch (e) { throw new Error('O conteúdo não é um backup válido (não foi possível ler o arquivo).'); }
+    var raw = String(text || '').replace(/^﻿/, '');
+    // tolera texto em volta (mensagem de WhatsApp/e-mail) e quebras de linha
+    // inseridas por apps de e-mail — JSON válido nunca tem quebra crua dentro de strings
+    var start = raw.indexOf('{'), end = raw.lastIndexOf('}');
+    if (start >= 0 && end > start) raw = raw.slice(start, end + 1);
+    try { obj = JSON.parse(raw); }
+    catch (e) {
+      try { obj = JSON.parse(raw.replace(/[\r\n]+/g, '')); }
+      catch (e2) { throw new Error('O conteúdo não é um backup válido. Confira se o código foi copiado inteiro.'); }
+    }
     if (!obj || obj.format !== FORMAT || typeof obj.data !== 'object' || !obj.data) {
       throw new Error('Este arquivo não é um backup do Lectio.');
     }
@@ -106,13 +114,17 @@
   var fileName = function () {
     var d = new Date();
     var pad = function (n) { return (n < 10 ? '0' : '') + n; };
-    return 'lectio-backup-' + d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()) + '.json';
+    // .txt (e não .json): o Chrome do Android só compartilha alguns tipos de
+    // arquivo, e .json não está entre eles — o WhatsApp/e-mail nunca abria.
+    // Texto puro abre e compartilha em qualquer sistema; o conteúdo continua JSON.
+    return 'lectio-backup-' + d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()) + '.txt';
   };
+  var MIME = 'text/plain';
 
   var backupText = function () { return JSON.stringify(makeBackup()); };
 
-  var download = function () {
-    var blob = new Blob([backupText()], { type: 'application/json' });
+  var download = function (text) {
+    var blob = new Blob([text], { type: MIME });
     var url = URL.createObjectURL(blob);
     var a = document.createElement('a');
     a.href = url;
@@ -120,19 +132,42 @@
     a.rel = 'noopener';
     document.body.appendChild(a);
     a.click();
-    setTimeout(function () { URL.revokeObjectURL(url); a.remove(); }, 1500);
+    setTimeout(function () { URL.revokeObjectURL(url); a.remove(); }, 4000);
   };
 
-  var shareFile = function () {
-    var file = new File([backupText()], fileName(), { type: 'application/json' });
-    return navigator.share({ files: [file], title: 'Backup Lectio', text: 'Backup do meu histórico no Lectio' });
+  var backupFile = function (text) {
+    try { return new File([text], fileName(), { type: MIME }); } catch (e) { return null; }
   };
 
-  var canShareFile = function () {
-    try {
-      if (!navigator.canShare || !window.File) return false;
-      return navigator.canShare({ files: [new File(['{}'], 'teste.json', { type: 'application/json' })] });
-    } catch (e) { return false; }
+  var canShareFile = function (file) {
+    try { return !!(file && navigator.canShare && navigator.canShare({ files: [file] })); }
+    catch (e) { return false; }
+  };
+
+  // Abre a folha de compartilhar do sistema. Tem de ser chamada direto no toque
+  // do botão (sem await antes), senão o navegador bloqueia.
+  var share = function (text) {
+    var file = backupFile(text);
+    if (canShareFile(file)) return navigator.share({ files: [file], title: 'Backup Lectio' });
+    return navigator.share({ title: 'Backup Lectio', text: text });
+  };
+
+  // Links diretos. URLs muito longas são cortadas por WhatsApp e apps de e-mail,
+  // então só o código curto vai no link; o longo vai pela área de transferência
+  // (WhatsApp) ou como anexo baixado (e-mail).
+  var LINK_LIMIT = 1800;
+  var whatsappUrl = function (msg) { return 'https://wa.me/?text=' + encodeURIComponent(msg); };
+  var mailUrl = function (body) {
+    return 'mailto:?subject=' + encodeURIComponent('Backup Lectio') + '&body=' + encodeURIComponent(body);
+  };
+  var openExternal = function (url) {
+    var a = document.createElement('a');
+    a.href = url;
+    a.target = url.indexOf('mailto:') === 0 ? '_self' : '_blank';
+    a.rel = 'noopener';
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
   };
 
   var copyText = function (text, textarea) {
@@ -216,37 +251,80 @@
   var renderExport = function () {
     var data = collect();
     var text = backupText();
-    var share = canShareFile();
+    var short = text.length <= LINK_LIMIT;
+    var hasShare = typeof navigator.share === 'function';
     body.innerHTML =
       '<h2 class="reset-modal-title" id="backupTitle">Fazer backup</h2>' +
       '<p class="reset-modal-sub">Este é o histórico que será salvo:</p>' +
       summaryHtml(data) +
-      '<div class="backup-section">1. Salvar como arquivo</div>' +
-      '<div class="backup-actions">' +
-        (share ? '<button type="button" class="reset-btn reset-btn-danger" id="backupShare">Enviar arquivo (WhatsApp, e-mail, Drive…)</button>' : '') +
-        '<button type="button" class="reset-btn' + (share ? '' : ' reset-btn-danger') + '" id="backupDownload">Baixar arquivo de backup</button>' +
-      '</div>' +
       '<p class="backup-msg" id="backupMsg" hidden></p>' +
-      '<div class="backup-section">2. Ou copiar o código</div>' +
-      '<p class="reset-modal-sub">Copie e cole o código em uma mensagem para você mesmo. No outro aparelho, use “Restaurar backup” e cole.</p>' +
+      '<div class="backup-section">Enviar para outro aparelho</div>' +
+      '<div class="backup-actions">' +
+        (hasShare ? '<button type="button" class="reset-btn reset-btn-danger" id="backupShare">Compartilhar (WhatsApp, e-mail, Drive…)</button>' : '') +
+        '<button type="button" class="reset-btn' + (hasShare ? '' : ' reset-btn-danger') + '" id="backupWhats">Enviar pelo WhatsApp</button>' +
+        '<button type="button" class="reset-btn" id="backupMail">Enviar por e-mail</button>' +
+        '<button type="button" class="reset-btn" id="backupDownload">Baixar arquivo de backup</button>' +
+      '</div>' +
+      '<div class="backup-section">Ou copiar o código</div>' +
+      '<p class="reset-modal-sub">Funciona em qualquer aparelho: copie, cole numa mensagem para você mesmo e, no outro aparelho, use “Restaurar backup” e cole.</p>' +
       '<textarea class="backup-code" id="backupCode" readonly spellcheck="false"></textarea>' +
       '<div class="backup-actions"><button type="button" class="reset-btn" id="backupCopy">Copiar código</button></div>' +
+      '<p class="reset-modal-sub">Se nada acontecer ao tocar nos botões, abra o site direto no Chrome ou no Safari (não pelo navegador interno do WhatsApp/Instagram) ou use “Copiar código”.</p>' +
       '<div class="reset-modal-actions"><button type="button" class="reset-btn" id="backupBack">Voltar</button></div>';
     var code = $('#backupCode');
     code.value = text;
-    $('#backupDownload').addEventListener('click', function () {
-      try { download(); showMsg('Arquivo salvo. Procure “' + fileName() + '” na pasta de downloads.'); }
-      catch (e) { showMsg('Não foi possível baixar. Use “Copiar código”.', true); }
+
+    // Qualquer erro vira mensagem na tela — nunca mais "não aconteceu nada".
+    var on = function (sel, fn) {
+      var el = $(sel);
+      if (el) el.addEventListener('click', function () {
+        try { fn(el); } catch (e) { showMsg('Não deu certo neste navegador. Use “Copiar código”.', true); }
+      });
+    };
+    var copy = function () { return copyText(text, code); };
+
+    on('#backupShare', function () {
+      share(text).then(function () { showMsg('Backup enviado. No outro aparelho, abra o arquivo ou cole o código em “Restaurar backup”.'); },
+        function (e) {
+          if (e && e.name === 'AbortError') return;
+          showMsg('O compartilhamento foi bloqueado. Use “Enviar pelo WhatsApp”, “Enviar por e-mail” ou “Copiar código”.', true);
+        });
     });
-    if (share) $('#backupShare').addEventListener('click', function () {
-      shareFile().then(function () { showMsg('Backup enviado.'); }, function (e) {
-        if (e && e.name === 'AbortError') return;
-        showMsg('Não foi possível compartilhar. Tente “Baixar arquivo de backup”.', true);
+
+    // Código curto vai inteiro no link. Longo: 1º toque copia, 2º abre o WhatsApp para colar.
+    var whatsReady = false;
+    on('#backupWhats', function (btn) {
+      if (short) { openExternal(whatsappUrl(text)); return; }
+      if (whatsReady) { openExternal(whatsappUrl('Backup Lectio — cole o código abaixo:')); return; }
+      copy().then(function () {
+        whatsReady = true;
+        btn.textContent = 'Código copiado ✓ — toque para abrir o WhatsApp';
+        showMsg('Código copiado. Abra o WhatsApp, escolha a conversa (pode ser com você mesmo) e cole.');
+      }, function () {
+        code.focus(); code.select();
+        showMsg('Não foi possível copiar sozinho. Selecione o código abaixo, copie e cole no WhatsApp.', true);
       });
     });
-    $('#backupCopy').addEventListener('click', function () {
-      copyText(text, code).then(function () { $('#backupCopy').textContent = 'Código copiado ✓'; },
-        function () { code.focus(); code.select(); $('#backupCopy').textContent = 'Selecione o texto e copie manualmente'; });
+
+    // E-mail: links mailto não aguentam textos longos, então o backup é baixado
+    // como arquivo para anexar, e o código também fica copiado.
+    on('#backupMail', function () {
+      if (short) { openExternal(mailUrl(text)); return; }
+      download(text);
+      copy().catch(function () {});
+      openExternal(mailUrl('Backup do Lectio.\n\nAnexe o arquivo “' + fileName() + '” que acabou de ser baixado (pasta Downloads) ' +
+        'ou cole aqui o código do backup — ele já está copiado.'));
+      showMsg('Arquivo “' + fileName() + '” baixado e código copiado. No e-mail, anexe o arquivo ou cole o código.');
+    });
+
+    on('#backupDownload', function () {
+      download(text);
+      showMsg('Arquivo salvo. Procure “' + fileName() + '” na pasta Downloads (ou em Arquivos, no iPhone).');
+    });
+
+    on('#backupCopy', function (btn) {
+      copy().then(function () { btn.textContent = 'Código copiado ✓'; },
+        function () { code.focus(); code.select(); btn.textContent = 'Selecione o texto e copie manualmente'; });
     });
     $('#backupBack').addEventListener('click', renderHome);
   };
@@ -254,7 +332,7 @@
   var renderImport = function () {
     body.innerHTML =
       '<h2 class="reset-modal-title" id="backupTitle">Restaurar backup</h2>' +
-      '<p class="reset-modal-sub">Escolha o arquivo de backup (.json) ou cole o código copiado no outro aparelho.</p>' +
+      '<p class="reset-modal-sub">Escolha o arquivo de backup (.txt ou .json) ou cole o código recebido por WhatsApp, e-mail ou mensagem.</p>' +
       '<div class="backup-section">1. Abrir arquivo</div>' +
       '<div class="backup-actions">' +
         '<input type="file" class="backup-file" id="backupFile">' +
